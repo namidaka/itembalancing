@@ -1410,7 +1410,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_polearm_2_t5_blade" name="{=qSV6C2tp}Swordstaff Head" tier="5" piece_type="Blade" mesh="spear_blade_18" length="70" weight="0.6">
+ <CraftingPiece id="crpg_empire_polearm_2_t5_blade" name="{=qSV6C2tp}Swordstaff Head" tier="5" piece_type="Blade" mesh="spear_blade_18" length="70" weight="0.6">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="1" />
       <Swing damage_type="Cut" damage_factor="1.9" />
@@ -1423,7 +1423,7 @@
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="0.91" />
-      <Swing damage_type="Cut" damage_factor="1.6" />
+      <Swing damage_type="Cut" damage_factor="1.229638" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -5101,7 +5101,7 @@
   <CraftingPiece id="crpg_falchion_sword_t2_blade" name="{=i7d3En7L}Hooked Falchion Blade" tier="2" piece_type="Blade" mesh="vlandian_blade_9" length="62.59" weight="1.3">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="vlandian_blade_9_scabbard_9">
       <Thrust damage_type="Pierce" damage_factor="0.63" />
-      <Swing damage_type="Cut" damage_factor="6" />
+      <Swing damage_type="Cut" damage_factor="1.085" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
