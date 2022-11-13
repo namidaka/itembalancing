@@ -80,7 +80,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_mace_5_t5_handle" name="{=4VIUHmbP}Decorated Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_5" length="61" weight="0.747" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+  <CraftingPiece id="crpg_empire_mace_5_t5_handle" name="{=4VIUHmbP}Decorated Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_5" length="61" weight="10.747" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
     <BuildData piece_offset="23" />
     <Materials>
       <Material id="Iron4" count="3" />
