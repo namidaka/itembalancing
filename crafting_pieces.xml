@@ -881,7 +881,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_polearm_1_t5_handle" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="0.9" CraftingCost="110">
+  <CraftingPiece id="crpg_vlandia_polearm_1_t5_handle" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="222" weight="1.15" CraftingCost="110">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -1339,10 +1339,10 @@
       <Material id="Iron5" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_polearm_1_t4_blade" name="{=dXRt8jY4}Menavlion Head" tier="4" piece_type="Blade" mesh="spear_blade_7" length="52.924" weight="0.445">
+  <CraftingPiece id="crpg_empire_polearm_1_t4_blade" name="{=dXRt8jY4}Menavlion Head" tier="4" piece_type="Blade" mesh="spear_blade_7" length="52.924" weight="0.505">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1.06" />
-      <Swing damage_type="Cut" damage_factor="1.93" />
+      <Thrust damage_type="Pierce" damage_factor="1.8" />
+      <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
@@ -1401,10 +1401,10 @@
       <Material id="Iron5" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_khuzait_polearm_1_t4_blade" name="{=OBeOZ27b}Glaive Head" tier="4" piece_type="Blade" mesh="spear_blade_19" length="37.4" weight="0.24244">
+  <CraftingPiece id="crpg_khuzait_polearm_1_t4_blade" name="{=OBeOZ27b}Glaive Head" tier="4" piece_type="Blade" mesh="spear_blade_19" length="42" weight="0.39">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.7" />
-      <Swing damage_type="Cut" damage_factor="1.8" />
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
@@ -1419,15 +1419,14 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_polearm_1_t5_blade" name="{=LNDbMUK0}Voulge Head" tier="4" piece_type="Blade" mesh="axe_craft_10_head" distance_to_next_piece="23" distance_to_previous_piece="4" weight="0.49">
+  <CraftingPiece id="crpg_vlandia_polearm_1_t5_blade" name="{=LNDbMUK0}Voulge Head" tier="4" piece_type="Blade" mesh="axe_craft_10_head" distance_to_next_piece="23" distance_to_previous_piece="4" weight="0.484">
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="0.91" />
-      <Swing damage_type="Cut" damage_factor="2.38" />
+      <Thrust damage_type="Pierce" damage_factor="1.4" />
+      <Swing damage_type="Cut" damage_factor="4.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="BonusAgainstShield" />
     </Flags>
     <Materials>
       <Material id="Iron5" count="2" />
