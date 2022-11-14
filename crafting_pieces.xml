@@ -791,13 +791,13 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_khuzait_polearm_1_t4_handle" name="{=NQb8boHt}Hardened Ash Shaft" tier="4" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.6">
+  <CraftingPiece id="crpg_khuzait_polearm_1_t4_handle" name="{=NQb8boHt}Hardened Ash Shaft" tier="4" piece_type="Handle" mesh="spear_handle_15" length="161" weight="1.5">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_polearm_1_t4_handle" name="{=NQb8boHt}Hardened Ash Shaft" tier="4" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.6">
+  <CraftingPiece id="crpg_empire_polearm_1_t4_handle" name="{=NQb8boHt}Hardened Ash Shaft" tier="4" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.2">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -1339,10 +1339,10 @@
       <Material id="Iron5" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_polearm_1_t4_blade" name="{=dXRt8jY4}Menavlion Head" tier="4" piece_type="Blade" mesh="spear_blade_7" length="52.924" weight="0.47528">
+  <CraftingPiece id="crpg_empire_polearm_1_t4_blade" name="{=dXRt8jY4}Menavlion Head" tier="4" piece_type="Blade" mesh="spear_blade_7" length="52.924" weight="0.445">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.98" />
-      <Swing damage_type="Cut" damage_factor="1.1025" />
+      <Thrust damage_type="Pierce" damage_factor="1.06" />
+      <Swing damage_type="Cut" damage_factor="1.93" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
@@ -1403,8 +1403,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_khuzait_polearm_1_t4_blade" name="{=OBeOZ27b}Glaive Head" tier="4" piece_type="Blade" mesh="spear_blade_19" length="37.4" weight="0.24244">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.595" />
-      <Swing damage_type="Cut" damage_factor="1.0241" />
+      <Thrust damage_type="Pierce" damage_factor="0.7" />
+      <Swing damage_type="Cut" damage_factor="1.8" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
@@ -1423,10 +1423,11 @@
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="0.91" />
-      <Swing damage_type="Cut" damage_factor="1.229638" />
+      <Swing damage_type="Cut" damage_factor="2.38" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <Materials>
       <Material id="Iron5" count="2" />
