@@ -674,7 +674,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_peasant_polearm_1_t1_handle" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="1.2" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
+  <CraftingPiece id="crpg_peasant_polearm_1_t1_handle" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="155" weight="0.9" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
     <BuildData piece_offset="14.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -1274,7 +1274,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_peasant_polearm_1_t1_blade" name="{=iMbT3L4I}Scythe Blade" tier="1" piece_type="Blade" mesh="spear_blade_31" length="7" weight="1.125" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Pierce" damage_factor="0.6825" />
+      <Swing damage_type="Pierce" damage_factor="3" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />

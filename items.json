@@ -21147,9 +21147,9 @@
     "name": "Scythe",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 93,
-    "weight": 2.33,
-    "tier": 0.134657323,
+    "price": 3332,
+    "weight": 2.03,
+    "tier": 3.97789764,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21161,7 +21161,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 96,
+        "length": 99,
         "balance": 0.48,
         "handling": 70,
         "bodyArmor": 0,
@@ -21174,8 +21174,8 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
-        "swingDamage": 6,
+        "thrustSpeed": 92,
+        "swingDamage": 30,
         "swingDamageType": "Pierce",
         "swingSpeed": 84
       }
