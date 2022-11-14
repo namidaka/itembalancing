@@ -18486,9 +18486,9 @@
     "name": "Nomad Bow",
     "culture": "Aserai",
     "type": "Bow",
-    "price": 6437,
-    "weight": 0.5,
-    "tier": 6.94860268,
+    "price": 12112,
+    "weight": 0.7,
+    "tier": 9.931192,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -18496,13 +18496,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "long_bow",
-        "accuracy": 91,
-        "missileSpeed": 91,
+        "itemUsage": "bow",
+        "accuracy": 110,
+        "missileSpeed": 86,
         "stackAmount": 1,
         "length": 114,
         "balance": 0.0,
-        "handling": 87,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -18513,12 +18513,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 88
+        "swingSpeed": 80
       }
     ]
   },
