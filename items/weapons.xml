@@ -1522,8 +1522,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_mace_1_t2" name="{=7jH0kuof}Spiked Mace" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_vlandia_mace_1_t2_blade" Type="Blade" scale_factor="165" />
-      <Piece id="crpg_vlandia_mace_1_t2_handle" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_vlandia_mace_1_t2_blade" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_vlandia_mace_1_t2_handle" Type="Handle" scale_factor="125" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_empire_mace_1_t2" name="{=HaK3y9yi}Spiked Club" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
