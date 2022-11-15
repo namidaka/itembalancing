@@ -27442,9 +27442,9 @@
     "name": "Tribesman Bow",
     "culture": "Aserai",
     "type": "Bow",
-    "price": 5335,
-    "weight": 0.5,
-    "tier": 6.231212,
+    "price": 8665,
+    "weight": 0.6,
+    "tier": 8.232961,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -27452,13 +27452,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "long_bow",
-        "accuracy": 94,
-        "missileSpeed": 92,
+        "itemUsage": "bow",
+        "accuracy": 120,
+        "missileSpeed": 85,
         "stackAmount": 1,
         "length": 115,
         "balance": 0.0,
-        "handling": 85,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -27469,12 +27469,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 88
+        "swingSpeed": 81
       }
     ]
   },
