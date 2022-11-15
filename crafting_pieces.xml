@@ -287,8 +287,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_battania_mace_2_t2_blade" name="{=0SpLcthg}Highland Spiked Club" tier="2" piece_type="Blade" mesh="mace_head_5" length="25.5" weight="1.0" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="0.35" />
-      <Swing damage_type="Pierce" damage_factor="0.7945" />
+      <Thrust damage_type="Pierce" damage_factor="0.8" />
+      <Swing damage_type="Pierce" damage_factor="2.1" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />

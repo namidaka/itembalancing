@@ -4429,9 +4429,9 @@
     "name": "Highland Spiked Club",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 107,
-    "weight": 1.42,
-    "tier": 0.355965823,
+    "price": 949,
+    "weight": 1.46,
+    "tier": 2.86432219,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -4441,19 +4441,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 69,
-        "balance": 0.82,
-        "handling": 97,
+        "length": 73,
+        "balance": 0.71,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 3,
+        "thrustDamage": 8,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
-        "swingDamage": 7,
+        "swingDamage": 21,
         "swingDamageType": "Pierce",
-        "swingSpeed": 94
+        "swingSpeed": 91
       }
     ]
   },
