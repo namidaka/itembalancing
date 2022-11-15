@@ -410,8 +410,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_mace_1_t2_blade" name="{=L3vLdPJT}Improved Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_23" distance_to_next_piece="15.4" distance_to_previous_piece="8.2" weight="0.702" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="0.35" />
-      <Swing damage_type="Pierce" damage_factor="0.7244999" />
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Pierce" damage_factor="1.9" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
