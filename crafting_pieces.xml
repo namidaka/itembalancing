@@ -5453,10 +5453,10 @@
       <Material id="Iron5" count="5" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_sword_1_t2_blade" name="{=Qw9HWSY7}Iron Flyssa Blade" tier="2" piece_type="Blade" mesh="aserai_blade_4" culture="Culture.aserai" length="104" weight="1.07">
+  <CraftingPiece id="crpg_aserai_sword_1_t2_blade" name="{=Qw9HWSY7}Iron Flyssa Blade" tier="2" piece_type="Blade" mesh="aserai_blade_4" culture="Culture.aserai" length="100" weight="1.02">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_4_scabbard_4">
-      <Thrust damage_type="Pierce" damage_factor="0.735" />
-      <Swing damage_type="Cut" damage_factor="1.085" />
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
