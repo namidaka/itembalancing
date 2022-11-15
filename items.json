@@ -1898,9 +1898,9 @@
     "name": "Slightly Ridged Flyssa",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 237,
+    "price": 3549,
     "weight": 1.45,
-    "tier": 0.9470924,
+    "tier": 6.533865,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1910,19 +1910,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 115,
-        "balance": 0.53,
-        "handling": 87,
+        "length": 110,
+        "balance": 0.6,
+        "handling": 89,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 91,
-        "swingDamage": 12,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 87
       }
     ]
   },
@@ -2030,9 +2030,9 @@
     "name": "Thamaskene Steel Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 287,
-    "weight": 1.43,
-    "tier": 1.1327678,
+    "price": 3580,
+    "weight": 1.41,
+    "tier": 6.56694841,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2042,19 +2042,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 110,
-        "balance": 0.54,
-        "handling": 86,
+        "length": 105,
+        "balance": 0.6,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
-        "swingDamage": 14,
+        "thrustSpeed": 92,
+        "swingDamage": 27,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 87
       }
     ]
   },
