@@ -10393,9 +10393,9 @@
     "name": "Thamaskene Steel Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 417,
-    "weight": 1.49,
-    "tier": 1.56209826,
+    "price": 7204,
+    "weight": 1.38,
+    "tier": 9.778958,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10406,18 +10406,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 110,
-        "balance": 0.62,
-        "handling": 89,
+        "balance": 0.71,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 13,
+        "thrustSpeed": 92,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 91
       }
     ]
   },
