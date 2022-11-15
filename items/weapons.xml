@@ -1637,8 +1637,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_shishpar_mace_t4" name="{=9EWN9SiT}Light Shishpar Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_shishpar_mace_t4_blade" Type="Blade" />
-      <Piece id="crpg_shishpar_mace_t4_handle" Type="Handle" />
+      <Piece id="crpg_shishpar_mace_t4_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_shishpar_mace_t4_handle" Type="Handle" scale_factor="140"/>
       <Piece id="crpg_shishpar_mace_t4_pommel" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
