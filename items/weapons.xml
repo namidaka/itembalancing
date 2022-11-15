@@ -810,7 +810,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_aserai_sword_1_t2" name="{=fHj6NbWy}Iron Flyssa" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_aserai_sword_1_t2_blade" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_aserai_sword_1_t2_blade" Type="Blade" scale_factor="90" />
       <Piece id="crpg_aserai_sword_1_t2_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_aserai_sword_1_t2_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_aserai_sword_1_t2_pommel" Type="Pommel" scale_factor="100" />
