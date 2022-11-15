@@ -1863,9 +1863,9 @@
     "name": "Iron Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 210,
-    "weight": 1.38,
-    "tier": 0.8391736,
+    "price": 5373,
+    "weight": 1.1,
+    "tier": 8.293194,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1873,23 +1873,23 @@
     "weapons": [
       {
         "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "itemUsage": "onehanded_block_shield_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 103,
-        "balance": 0.74,
-        "handling": 92,
+        "length": 96,
+        "balance": 1.0,
+        "handling": 98,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 7,
+        "thrustDamage": 0,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 11,
+        "thrustSpeed": 95,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 100
       }
     ]
   },
