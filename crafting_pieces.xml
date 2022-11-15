@@ -208,9 +208,9 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_morningstar_mace_t3_blade" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight=".8" full_scale="true">
+  <CraftingPiece id="crpg_morningstar_mace_t3_blade" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.8" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="1.0" />
+      <Thrust damage_type="Pierce" damage_factor="1.4" />
       <Swing damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Materials>
@@ -285,10 +285,10 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_mace_2_t2_blade" name="{=0SpLcthg}Highland Spiked Club" tier="2" piece_type="Blade" mesh="mace_head_5" length="25.5" weight="1.0" full_scale="true">
+  <CraftingPiece id="crpg_battania_mace_2_t2_blade" name="{=0SpLcthg}Highland Spiked Club" tier="2" piece_type="Blade" mesh="mace_head_5" length="25.5" weight=".8" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="0.8" />
-      <Swing damage_type="Pierce" damage_factor="2.1" />
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Pierce" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
@@ -408,10 +408,10 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_mace_1_t2_blade" name="{=L3vLdPJT}Improved Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_23" distance_to_next_piece="15.4" distance_to_previous_piece="8.2" weight="0.702" full_scale="true">
+  <CraftingPiece id="crpg_empire_mace_1_t2_blade" name="{=L3vLdPJT}Improved Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_23" distance_to_next_piece="15.4" distance_to_previous_piece="8.2" weight="0.65" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="1.2" />
-      <Swing damage_type="Pierce" damage_factor="1.9" />
+      <Thrust damage_type="Pierce" damage_factor="1.5" />
+      <Swing damage_type="Pierce" damage_factor="2.3" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
