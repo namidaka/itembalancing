@@ -14019,9 +14019,9 @@
     "name": "Iron Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 168,
-    "weight": 1.69,
-    "tier": 0.655700147,
+    "price": 3644,
+    "weight": 1.34,
+    "tier": 6.634665,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -14034,18 +14034,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 93,
-        "balance": 0.62,
-        "handling": 89,
+        "balance": 0.87,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 10,
+        "thrustSpeed": 93,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 96
       }
     ]
   },
