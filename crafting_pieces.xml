@@ -208,10 +208,10 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_morningstar_mace_t3_blade" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight=".95" full_scale="true">
+  <CraftingPiece id="crpg_morningstar_mace_t3_blade" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight=".8" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="1.0" />
-      <Swing damage_type="Pierce" damage_factor="2.8" />
+      <Swing damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
