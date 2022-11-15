@@ -1964,31 +1964,31 @@
     "name": "Long Fine Steel Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 203,
-    "weight": 1.7,
-    "tier": 0.8081093,
+    "price": 6272,
+    "weight": 1.21,
+    "tier": 9.049867,
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "itemUsage": "onehanded_block_shield_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 126,
-        "balance": 0.3,
-        "handling": 81,
+        "length": 101,
+        "balance": 0.89,
+        "handling": 93,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 0,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 13,
+        "thrustSpeed": 94,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 96
       }
     ]
   },
