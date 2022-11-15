@@ -4686,7 +4686,7 @@
       <Material id="Iron6" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_3_t5_blade" name="{=xYgJN0Ja}Decorated Scimitar Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_4" culture="Culture.aserai" length="87.4" weight=".75">
+  <CraftingPiece id="crpg_aserai_noble_sword_3_t5_blade" name="{=xYgJN0Ja}Decorated Scimitar Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_4" culture="Culture.aserai" length="87.4" weight="0.75">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_noble_blade_4_scabbard_4">
       <Thrust damage_type="Pierce" damage_factor="1.6" />
       <Swing damage_type="Cut" damage_factor="3.5" />
