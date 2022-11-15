@@ -1026,7 +1026,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_empire_sword_4_t4" name="{=AMIdBVZb}Fine Steel Spatha" crafting_template="crpg_OneHandedSword" culture="Culture.empire" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_empire_sword_4_t4_blade" Type="Blade" scale_factor="105" />
+      <Piece id="crpg_empire_sword_4_t4_blade" Type="Blade" scale_factor="104" />
       <Piece id="crpg_empire_sword_4_t4_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_empire_sword_4_t4_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_empire_sword_4_t4_pommel" Type="Pommel" scale_factor="100" />

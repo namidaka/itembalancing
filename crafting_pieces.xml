@@ -5550,10 +5550,10 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_sword_4_t4_blade" name="{=kIbtwQRF}Fine Steel Spatha Blade" tier="4" piece_type="Blade" mesh="empire_blade_6" culture="Culture.empire" length="92.4" weight="0.93">
+  <CraftingPiece id="crpg_empire_sword_4_t4_blade" name="{=kIbtwQRF}Fine Steel Spatha Blade" tier="4" piece_type="Blade" mesh="empire_blade_6" culture="Culture.empire" length="92.4" weight="0.82">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_6_scabbard_6">
-      <Thrust damage_type="Pierce" damage_factor="1.155" />
-      <Swing damage_type="Cut" damage_factor="1.26" />
+      <Thrust damage_type="Pierce" damage_factor="2.0" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
