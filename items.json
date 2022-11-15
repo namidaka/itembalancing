@@ -17489,9 +17489,9 @@
     "name": "Morningstar",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 91,
-    "weight": 2.16,
-    "tier": 0.263717324,
+    "price": 2253,
+    "weight": 1.7,
+    "tier": 4.98438358,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -17502,18 +17502,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 66,
-        "balance": 0.43,
-        "handling": 89,
+        "balance": 0.75,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 6,
+        "thrustDamage": 10,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 8,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "thrustSpeed": 89,
+        "swingDamage": 28,
+        "swingDamageType": "Pierce",
+        "swingSpeed": 92
       }
     ]
   },
