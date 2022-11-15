@@ -16896,9 +16896,9 @@
     "name": "Lowland Longbow",
     "culture": "Vlandia",
     "type": "Bow",
-    "price": 4388,
+    "price": 5907,
     "weight": 0.5,
-    "tier": 5.554347,
+    "tier": 6.61180973,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -16906,13 +16906,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "long_bow",
-        "accuracy": 94,
-        "missileSpeed": 92,
+        "itemUsage": "bow",
+        "accuracy": 130,
+        "missileSpeed": 86,
         "stackAmount": 1,
         "length": 120,
         "balance": 0.0,
-        "handling": 86,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -16923,12 +16923,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 11,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 89
+        "swingSpeed": 82
       }
     ]
   },
