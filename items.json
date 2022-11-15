@@ -10668,9 +10668,9 @@
     "name": "Fine Steel Paramerion",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 326,
-    "weight": 1.5,
-    "tier": 1.26974916,
+    "price": 5047,
+    "weight": 1.45,
+    "tier": 8.003637,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10680,19 +10680,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.48,
-        "handling": 84,
+        "length": 109,
+        "balance": 0.6,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 12,
+        "thrustSpeed": 91,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 87
       }
     ]
   },
@@ -10701,9 +10701,9 @@
     "name": "Thamaskene Steel Spathion",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 436,
-    "weight": 1.37,
-    "tier": 1.61905813,
+    "price": 6869,
+    "weight": 1.43,
+    "tier": 9.522055,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10713,19 +10713,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 114,
-        "balance": 0.59,
-        "handling": 87,
+        "length": 95,
+        "balance": 0.75,
+        "handling": 93,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
-        "swingDamage": 13,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 92
       }
     ]
   },
@@ -13900,9 +13900,9 @@
     "name": "Iron Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 168,
-    "weight": 1.69,
-    "tier": 0.655700147,
+    "price": 2854,
+    "weight": 1.42,
+    "tier": 5.745963,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -13914,19 +13914,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.62,
-        "handling": 89,
+        "length": 95,
+        "balance": 0.8,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 10,
+        "thrustSpeed": 92,
+        "swingDamage": 27,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 93
       }
     ]
   },
