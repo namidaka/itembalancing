@@ -1684,7 +1684,7 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_mountain_hunting_bow" name="{=YGQ6UXCo}Mountain Hunting Bow" body_name="bo_composite_shotbow_h" mesh="shortbow_i" culture="Culture.battania" weight="0.1" difficulty="0" appearance="1" Type="Bow" item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
+  <Item id="crpg_mountain_hunting_bow" name="{=YGQ6UXCo}Mountain Hunting Bow" body_name="bo_composite_shotbow_h" mesh="shortbow_i" culture="Culture.battania" weight="0.25" difficulty="0" appearance="1" Type="Bow" item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
     <ItemComponent>
       <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="107" speed_rating="125" missile_speed="79" weapon_length="108" accuracy="98" thrust_damage="9" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.1,0,-0.15" modifier_group="bow">
         <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
@@ -1732,7 +1732,7 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_steppe_heavy_bow" name="{=E7miRMw1}Heavy Recurve Bow" body_name="bo_composite_shotbow_b" mesh="shortbow_b" culture="Culture.khuzait" weight="0.2" difficulty="30" appearance="0.4" Type="Bow" item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
+  <Item id="crpg_steppe_heavy_bow" name="{=E7miRMw1}Heavy Recurve Bow" body_name="bo_composite_shotbow_b" mesh="shortbow_b" culture="Culture.khuzait" weight="0.3" difficulty="30" appearance="0.4" Type="Bow" item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
     <ItemComponent>
       <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="106" speed_rating="120" missile_speed="81" weapon_length="106" accuracy="95" thrust_damage="10" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.0,0,-0.1" modifier_group="bow">
         <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
