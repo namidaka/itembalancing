@@ -4930,9 +4930,8 @@
       <Material id="Iron6" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_2_t5_blade" name="{=T1xFTaOf}Decorated Long Scimitar Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_1" culture="Culture.aserai" length="90" weight=".75" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_aserai_noble_sword_2_t5_blade" name="{=T1xFTaOf}Decorated Long Scimitar Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_1" culture="Culture.aserai" length="90" weight="0.75" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_noble_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="0" />
       <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
     <Flags>
@@ -5453,7 +5452,6 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_aserai_sword_5_t4_blade" name="{=PQ8rR13R}Long Fine Steel Scimitar Blade" tier="4" piece_type="Blade" mesh="aserai_blade_8" culture="Culture.aserai" length="104.5" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_8_scabbard_8">
-      <Thrust damage_type="Pierce" damage_factor="0" />
       <Swing damage_type="Cut" damage_factor="3.3" />
     </BladeData>
     <Materials>
@@ -5483,7 +5481,6 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_aserai_sword_2_t2_blade" name="{=WNch6azL}Iron Scimitar Blade" tier="2" piece_type="Blade" mesh="aserai_blade_3" culture="Culture.aserai" length="93.2" weight="0.74" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_3_scabbard_3">
-      <Thrust damage_type="Pierce" damage_factor="0" />
       <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
