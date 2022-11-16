@@ -11800,9 +11800,9 @@
     "name": "Longbow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 3641,
-    "weight": 0.4,
-    "tier": 4.967237,
+    "price": 5347,
+    "weight": 0.45,
+    "tier": 6.239974,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -11811,12 +11811,12 @@
       {
         "class": "Bow",
         "itemUsage": "long_bow",
-        "accuracy": 88,
-        "missileSpeed": 91,
+        "accuracy": 110,
+        "missileSpeed": 93,
         "stackAmount": 1,
         "length": 111,
         "balance": 0.0,
-        "handling": 84,
+        "handling": 102,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -11827,12 +11827,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 102,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 88
+        "swingSpeed": 97
       }
     ]
   },
@@ -16976,9 +16976,9 @@
     "name": "Yew Bow",
     "culture": "Vlandia",
     "type": "Bow",
-    "price": 6157,
-    "weight": 0.5,
-    "tier": 6.77266741,
+    "price": 8703,
+    "weight": 0.55,
+    "tier": 8.25381,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -16987,12 +16987,12 @@
       {
         "class": "Bow",
         "itemUsage": "long_bow",
-        "accuracy": 94,
-        "missileSpeed": 91,
+        "accuracy": 109,
+        "missileSpeed": 94,
         "stackAmount": 1,
         "length": 117,
         "balance": 0.0,
-        "handling": 84,
+        "handling": 100,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -17003,12 +17003,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 100,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 96
       }
     ]
   },
@@ -18734,9 +18734,9 @@
     "name": "Nordic Shortbow",
     "culture": "Sturgia",
     "type": "Bow",
-    "price": 4174,
-    "weight": 0.3,
-    "tier": 5.391411,
+    "price": 3944,
+    "weight": 0.35,
+    "tier": 5.211713,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -18745,12 +18745,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 95,
-        "missileSpeed": 84,
+        "accuracy": 120,
+        "missileSpeed": 89,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 88,
+        "handling": 81,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -18761,12 +18761,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 10,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 99
+        "swingSpeed": 94
       }
     ]
   },
@@ -30862,9 +30862,9 @@
     "name": "Woodland Yew Bow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 8956,
-    "weight": 0.5,
-    "tier": 8.388393,
+    "price": 11809,
+    "weight": 0.65,
+    "tier": 9.792536,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -30873,12 +30873,12 @@
       {
         "class": "Bow",
         "itemUsage": "long_bow",
-        "accuracy": 92,
-        "missileSpeed": 92,
+        "accuracy": 100,
+        "missileSpeed": 95,
         "stackAmount": 1,
         "length": 115,
         "balance": 0.0,
-        "handling": 89,
+        "handling": 99,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -30889,12 +30889,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 99,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 90
+        "swingSpeed": 95
       }
     ]
   },
