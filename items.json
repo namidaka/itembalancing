@@ -7647,9 +7647,9 @@
     "name": "Bound Crossbow",
     "culture": "Vlandia",
     "type": "Crossbow",
-    "price": 17952,
-    "weight": 5.5,
-    "tier": 9.985339,
+    "price": 17970,
+    "weight": 5.2,
+    "tier": 9.990774,
     "requirement": 17,
     "flags": [],
     "weapons": [
@@ -7657,11 +7657,11 @@
         "class": "Crossbow",
         "itemUsage": "crossbow",
         "accuracy": 100,
-        "missileSpeed": 130,
+        "missileSpeed": 132,
         "stackAmount": 1,
         "length": 100,
         "balance": 0.0,
-        "handling": 82,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -7672,12 +7672,12 @@
           "CantReloadOnHorseback",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 63,
+        "thrustDamage": 64,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
+        "thrustSpeed": 84,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 53
+        "swingSpeed": 50
       }
     ]
   },
@@ -7723,9 +7723,9 @@
     "name": "Squire's Light Crossbow",
     "culture": "Vlandia",
     "type": "Crossbow",
-    "price": 9092,
+    "price": 9898,
     "weight": 2.8,
-    "tier": 6.801566,
+    "tier": 7.14164352,
     "requirement": 12,
     "flags": [],
     "weapons": [
@@ -7733,7 +7733,7 @@
         "class": "Crossbow",
         "itemUsage": "crossbow_light",
         "accuracy": 98,
-        "missileSpeed": 100,
+        "missileSpeed": 105,
         "stackAmount": 1,
         "length": 95,
         "balance": 0.0,
