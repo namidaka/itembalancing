@@ -5718,7 +5718,7 @@
   },
   {
     "id": "crpg_bodkin_arrows_a",
-    "name": "Stacked Bodkin Arrows",
+    "name": "Bodkin Arrows",
     "culture": "Neutral",
     "type": "Arrows",
     "price": 4121,
@@ -5751,12 +5751,12 @@
   },
   {
     "id": "crpg_bodkin_arrows_b",
-    "name": "Bodkin Arrows",
+    "name": "Broad Head Arrows",
     "culture": "Neutral",
     "type": "Arrows",
-    "price": 3537,
-    "weight": 0.048,
-    "tier": 8.733389,
+    "price": 695,
+    "weight": 0.098,
+    "tier": 3.22210383,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -5765,16 +5765,17 @@
         "itemUsage": "arrow_right",
         "accuracy": 100,
         "missileSpeed": 10,
-        "stackAmount": 24,
+        "stackAmount": 22,
         "length": 97,
         "balance": 0.0,
         "handling": 0,
         "bodyArmor": 0,
         "flags": [
-          "Consumable"
+          "Consumable",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 3,
-        "thrustDamageType": "Pierce",
+        "thrustDamage": 4,
+        "thrustDamageType": "Cut",
         "thrustSpeed": 0,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
@@ -5784,12 +5785,12 @@
   },
   {
     "id": "crpg_bodkin_arrows_c",
-    "name": "Light Bodkin Arrows",
+    "name": "Light Broad Head Arrows",
     "culture": "Neutral",
     "type": "Arrows",
-    "price": 3296,
-    "weight": 0.048,
-    "tier": 8.39045,
+    "price": 451,
+    "weight": 0.078,
+    "tier": 2.36726,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -5798,16 +5799,17 @@
         "itemUsage": "arrow_right",
         "accuracy": 100,
         "missileSpeed": 10,
-        "stackAmount": 21,
+        "stackAmount": 22,
         "length": 97,
         "balance": 0.0,
         "handling": 0,
         "bodyArmor": 0,
         "flags": [
-          "Consumable"
+          "Consumable",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 3,
-        "thrustDamageType": "Pierce",
+        "thrustDamage": 2,
+        "thrustDamageType": "Cut",
         "thrustSpeed": 0,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
@@ -22361,9 +22363,9 @@
     "name": "Ridged Great Saber",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 1340,
-    "weight": 1.68,
-    "tier": 2.407456,
+    "price": 1265,
+    "weight": 1.7,
+    "tier": 2.312621,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -22373,9 +22375,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.5,
-        "handling": 85,
+        "length": 111,
+        "balance": 0.54,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
@@ -22385,7 +22387,7 @@
         "thrustSpeed": 89,
         "swingDamage": 13,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 86
       },
       {
         "class": "TwoHandedSword",
@@ -22393,7 +22395,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
+        "length": 111,
         "balance": 1.0,
         "handling": 90,
         "bodyArmor": 4,
@@ -22406,7 +22408,7 @@
         "thrustSpeed": 96,
         "swingDamage": 13,
         "swingDamageType": "Cut",
-        "swingSpeed": 100
+        "swingSpeed": 101
       },
       {
         "class": "OneHandedSword",
@@ -22414,9 +22416,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.5,
-        "handling": 85,
+        "length": 111,
+        "balance": 0.54,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
@@ -22426,7 +22428,7 @@
         "thrustSpeed": 89,
         "swingDamage": 13,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 86
       }
     ]
   },

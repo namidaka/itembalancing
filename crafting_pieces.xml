@@ -3146,7 +3146,7 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_ridged_2hsword_t4_pommel" name="{=lv9oJyKJ}Eastern Flat Pommel" tier="3" piece_type="Pommel" mesh="khuzait_pommel_4" culture="Culture.khuzait" length="1.508" weight="0.18">
+  <CraftingPiece id="crpg_ridged_2hsword_t4_pommel" name="{=lv9oJyKJ}Eastern Flat Pommel" tier="3" piece_type="Pommel" mesh="khuzait_pommel_4" culture="Culture.khuzait" length="1.508" weight="0.20">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
@@ -3521,7 +3521,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_ridged_2hsword_t4_handle" name="{=MJRzaazz}Steel Bound Plated Two Handed Grip" tier="4" piece_type="Handle" mesh="khuzait_grip_17" culture="Culture.khuzait" length="25" weight="0.230">
+  <CraftingPiece id="crpg_ridged_2hsword_t4_handle" name="{=MJRzaazz}Steel Bound Plated Two Handed Grip" tier="4" piece_type="Handle" mesh="khuzait_grip_17" culture="Culture.khuzait" length="25" weight="0.220">
     <BuildData piece_offset="-5" previous_piece_offset="0.35" next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="3" />
@@ -4415,7 +4415,7 @@
       <Material id="Iron1" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_ridged_2hsword_t4_guard" name="{=1auabxxv}Rounded Flat Guard" tier="4" piece_type="Guard" mesh="khuzait_guard_9" culture="Culture.khuzait" length="0.459" weight="0.24">
+  <CraftingPiece id="crpg_ridged_2hsword_t4_guard" name="{=1auabxxv}Rounded Flat Guard" tier="4" piece_type="Guard" mesh="khuzait_guard_9" culture="Culture.khuzait" length="0.459" weight="0.25">
     <BuildData next_piece_offset="0.2" />
     <StatContributions armor_bonus="4" />
     <Materials>
@@ -5012,7 +5012,7 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_ridged_2hsword_t4_blade" name="{=19a3jJ1s}Ridged Great Saber Blade" tier="4" piece_type="Blade" mesh="khuzait_blade_8" culture="Culture.khuzait" length="99" weight="0.9350001">
+  <CraftingPiece id="crpg_ridged_2hsword_t4_blade" name="{=19a3jJ1s}Ridged Great Saber Blade" tier="4" piece_type="Blade" mesh="khuzait_blade_8" culture="Culture.khuzait" length="94" weight="0.9350001">
     <BuildData previous_piece_offset="-0.25" />
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="khuzait_blade_8_scabbard_8">
       <Thrust damage_type="Pierce" damage_factor="0.9625" />
