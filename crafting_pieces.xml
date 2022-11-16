@@ -791,7 +791,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_khuzait_polearm_1_t4_handle" name="{=NQb8boHt}Hardened Ash Shaft" tier="4" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1">
+  <CraftingPiece id="crpg_khuzait_polearm_1_t4_handle" name="{=NQb8boHt}Hardened Ash Shaft" tier="4" piece_type="Handle" mesh="spear_handle_15" length="170" weight="0.92">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
