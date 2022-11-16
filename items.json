@@ -4639,9 +4639,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 203,
-        "balance": 0.43,
-        "handling": 71,
+        "length": 184,
+        "balance": 0.33,
+        "handling": 69,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -4652,10 +4652,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 100,
-        "swingDamage": 48,
+        "thrustSpeed": 98,
+        "swingDamage": 45,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 79
       }
     ]
   },
@@ -5579,9 +5579,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 138,
-        "balance": 0.81,
-        "handling": 77,
+        "length": 141,
+        "balance": 0.48,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -5592,10 +5592,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 99,
-        "swingDamage": 45,
+        "thrustSpeed": 94,
+        "swingDamage": 48,
         "swingDamageType": "Cut",
-        "swingSpeed": 94
+        "swingSpeed": 84
       }
     ]
   },
@@ -10605,20 +10605,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 208,
+        "length": 201,
         "balance": 0.0,
-        "handling": 68,
+        "handling": 65,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 88,
         "swingDamage": 45,
         "swingDamageType": "Cut",
-        "swingSpeed": 34
+        "swingSpeed": 25
       },
       {
         "class": "TwoHandedPolearm",
@@ -10626,9 +10626,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 208,
-        "balance": 0.21,
-        "handling": 66,
+        "length": 201,
+        "balance": 0.06,
+        "handling": 62,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -10636,12 +10636,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
+        "thrustSpeed": 96,
         "swingDamage": 45,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 71
       }
     ]
   },
@@ -21868,9 +21868,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
+        "length": 143,
         "balance": 0.0,
-        "handling": 77,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -21879,10 +21879,10 @@
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 87,
+        "thrustSpeed": 85,
         "swingDamage": 30,
         "swingDamageType": "Blunt",
-        "swingSpeed": 54
+        "swingSpeed": 48
       },
       {
         "class": "TwoHandedPolearm",
@@ -21890,9 +21890,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.71,
-        "handling": 75,
+        "length": 143,
+        "balance": 0.56,
+        "handling": 73,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -21903,10 +21903,10 @@
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 94,
+        "thrustSpeed": 93,
         "swingDamage": 30,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 86
       }
     ]
   },
@@ -26482,9 +26482,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 164,
-        "balance": 0.49,
-        "handling": 69,
+        "length": 178,
+        "balance": 0.25,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -26494,10 +26494,10 @@
         ],
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
+        "thrustSpeed": 98,
         "swingDamage": 50,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 77
       },
       {
         "class": "TwoHandedPolearm",
@@ -26505,9 +26505,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 164,
-        "balance": 0.49,
-        "handling": 69,
+        "length": 178,
+        "balance": 0.25,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -26517,10 +26517,10 @@
         ],
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
+        "thrustSpeed": 98,
         "swingDamage": 50,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 77
       }
     ]
   },
