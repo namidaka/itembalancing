@@ -881,7 +881,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_polearm_1_t5_handle" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="0.9" CraftingCost="110">
+  <CraftingPiece id="crpg_vlandia_polearm_1_t5_handle" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.1" CraftingCost="110">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -1428,7 +1428,7 @@
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="1.5" />
-      <Swing damage_type="Cut" damage_factor="4.8" />
+      <Swing damage_type="Cut" damage_factor="5.2" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
