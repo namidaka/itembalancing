@@ -1530,9 +1530,9 @@
     "name": "Decorated Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 661,
-    "weight": 1.73,
-    "tier": 2.22330117,
+    "price": 22183,
+    "weight": 1.43,
+    "tier": 18.0108166,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1545,18 +1545,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.58,
-        "handling": 87,
+        "balance": 0.81,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 14,
+        "thrustSpeed": 92,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 94
       }
     ]
   },
@@ -1565,9 +1565,9 @@
     "name": "Decorated Long Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 646,
-    "weight": 1.78,
-    "tier": 2.18652368,
+    "price": 25453,
+    "weight": 1.46,
+    "tier": 19.3739834,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1575,23 +1575,23 @@
     "weapons": [
       {
         "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "itemUsage": "onehanded_block_shield_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 100,
-        "balance": 0.59,
-        "handling": 88,
+        "length": 98,
+        "balance": 0.82,
+        "handling": 92,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 15,
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 91,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 94
       }
     ]
   },
@@ -1600,9 +1600,9 @@
     "name": "Decorated Scimitar with Wide Grip",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 738,
-    "weight": 1.73,
-    "tier": 2.40501046,
+    "price": 24648,
+    "weight": 1.55,
+    "tier": 19.0470047,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1614,19 +1614,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 96,
-        "balance": 0.69,
-        "handling": 90,
+        "length": 104,
+        "balance": 0.74,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 7,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 15,
+        "thrustSpeed": 90,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 92
       }
     ]
   },
@@ -1635,9 +1635,9 @@
     "name": "Engraved Angular Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 1103,
-    "weight": 1.81,
-    "tier": 3.1687088,
+    "price": 27190,
+    "weight": 1.52,
+    "tier": 20.0621319,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1650,18 +1650,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 84,
-        "balance": 0.75,
-        "handling": 94,
+        "balance": 0.95,
+        "handling": 97,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 16,
+        "thrustSpeed": 90,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 98
       }
     ]
   },
@@ -1828,9 +1828,9 @@
     "name": "Iron Flyssa",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 291,
-    "weight": 1.53,
-    "tier": 1.14998293,
+    "price": 9223,
+    "weight": 1.38,
+    "tier": 11.2115746,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1842,19 +1842,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.48,
-        "handling": 85,
+        "length": 107,
+        "balance": 0.67,
+        "handling": 89,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 7,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 10,
+        "thrustSpeed": 92,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 90
       }
     ]
   },
@@ -1863,9 +1863,9 @@
     "name": "Iron Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 439,
-    "weight": 1.38,
-    "tier": 1.62878275,
+    "price": 19783,
+    "weight": 1.1,
+    "tier": 16.945343,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1873,23 +1873,23 @@
     "weapons": [
       {
         "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "itemUsage": "onehanded_block_shield_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 103,
-        "balance": 0.74,
-        "handling": 92,
+        "length": 96,
+        "balance": 1.0,
+        "handling": 98,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 7,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 11,
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 95,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 100
       }
     ]
   },
@@ -1898,9 +1898,9 @@
     "name": "Slightly Ridged Flyssa",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 492,
-    "weight": 1.45,
-    "tier": 1.78183544,
+    "price": 16579,
+    "weight": 1.31,
+    "tier": 15.4164333,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1910,19 +1910,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 115,
-        "balance": 0.53,
-        "handling": 87,
+        "length": 107,
+        "balance": 0.71,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
-        "swingDamage": 12,
+        "thrustSpeed": 93,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 91
       }
     ]
   },
@@ -1931,9 +1931,9 @@
     "name": "Fine Steel Long Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 372,
-    "weight": 1.84,
-    "tier": 1.42152214,
+    "price": 17278,
+    "weight": 1.46,
+    "tier": 15.7619534,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1943,19 +1943,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.32,
-        "handling": 83,
+        "length": 109,
+        "balance": 0.67,
+        "handling": 89,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 13,
+        "thrustSpeed": 91,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 90
       }
     ]
   },
@@ -1964,31 +1964,31 @@
     "name": "Long Fine Steel Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 390,
-    "weight": 1.7,
-    "tier": 1.48014438,
+    "price": 22443,
+    "weight": 1.21,
+    "tier": 18.12288,
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "itemUsage": "onehanded_block_shield_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 126,
-        "balance": 0.3,
-        "handling": 81,
+        "length": 101,
+        "balance": 0.89,
+        "handling": 93,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 13,
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 96
       }
     ]
   },
@@ -1997,9 +1997,9 @@
     "name": "Narrow Fine Steel Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 547,
-    "weight": 1.6,
-    "tier": 1.93238032,
+    "price": 17734,
+    "weight": 1.45,
+    "tier": 15.9832449,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2009,19 +2009,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.5,
-        "handling": 86,
+        "length": 109,
+        "balance": 0.67,
+        "handling": 89,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 13,
+        "thrustSpeed": 91,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 90
       }
     ]
   },
@@ -2030,9 +2030,9 @@
     "name": "Thamaskene Steel Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 645,
-    "weight": 1.43,
-    "tier": 2.183734,
+    "price": 20301,
+    "weight": 1.39,
+    "tier": 17.1805077,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2042,19 +2042,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 110,
-        "balance": 0.54,
-        "handling": 86,
+        "length": 105,
+        "balance": 0.6,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
-        "swingDamage": 14,
+        "thrustSpeed": 92,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 87
       }
     ]
   },
@@ -4429,9 +4429,9 @@
     "name": "Highland Spiked Club",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 224,
-    "weight": 1.42,
-    "tier": 0.8967478,
+    "price": 19507,
+    "weight": 0.91,
+    "tier": 16.8189,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -4441,17 +4441,17 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 69,
-        "balance": 0.82,
-        "handling": 97,
+        "length": 93,
+        "balance": 0.81,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 3,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 7,
+        "thrustSpeed": 97,
+        "swingDamage": 27,
         "swingDamageType": "Pierce",
         "swingSpeed": 94
       }
@@ -6014,7 +6014,7 @@
         "accuracy": 100,
         "missileSpeed": 10,
         "stackAmount": 5,
-        "length": 47,
+        "length": 37,
         "balance": 0.0,
         "handling": 0,
         "bodyArmor": 0,
@@ -10229,9 +10229,9 @@
     "name": "Spiked Club",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 264,
-    "weight": 1.14,
-    "tier": 1.05140722,
+    "price": 12662,
+    "weight": 1.15,
+    "tier": 13.3304148,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10241,19 +10241,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 67,
-        "balance": 1.0,
-        "handling": 102,
+        "length": 78,
+        "balance": 0.95,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 3,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
-        "swingDamage": 7,
+        "swingDamage": 23,
         "swingDamageType": "Pierce",
-        "swingSpeed": 102
+        "swingSpeed": 98
       }
     ]
   },
@@ -10531,33 +10531,12 @@
     "name": "Menavlion",
     "culture": "Empire",
     "type": "Polearm",
-    "price": 530,
-    "weight": 1.92,
-    "tier": 1.07801962,
+    "price": 17871,
+    "weight": 1.58,
+    "tier": 10.5666885,
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 163,
-        "balance": 0.0,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 9,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 11,
-        "swingDamageType": "Cut",
-        "swingSpeed": 40
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
@@ -10565,8 +10544,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 163,
-        "balance": 0.38,
-        "handling": 70,
+        "balance": 0.55,
+        "handling": 74,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -10574,12 +10553,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 11,
+        "thrustSpeed": 96,
+        "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 81
+        "swingSpeed": 86
       }
     ]
   },
@@ -15436,42 +15415,21 @@
     "name": "Glaive",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 240,
-    "weight": 1.84,
-    "tier": 0.5127273,
+    "price": 16297,
+    "weight": 1.28,
+    "tier": 10.0419121,
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 149,
-        "balance": 0.0,
-        "handling": 76,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 6,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 10,
-        "swingDamageType": "Cut",
-        "swingSpeed": 50
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 149,
-        "balance": 0.61,
-        "handling": 75,
+        "length": 147,
+        "balance": 0.64,
+        "handling": 76,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -15479,12 +15437,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 6,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
-        "swingDamage": 10,
+        "thrustSpeed": 98,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
@@ -15493,42 +15451,21 @@
     "name": "Long Glaive",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 423,
-    "weight": 1.38,
-    "tier": 0.886227548,
+    "price": 22561,
+    "weight": 1.13,
+    "tier": 12.0067549,
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 206,
-        "balance": 0.0,
-        "handling": 64,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 13,
-        "swingDamageType": "Cut",
-        "swingSpeed": 25
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 206,
-        "balance": 0.05,
-        "handling": 61,
+        "length": 200,
+        "balance": 0.36,
+        "handling": 69,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -15536,12 +15473,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 95,
-        "swingDamage": 13,
+        "thrustSpeed": 99,
+        "swingDamage": 49,
         "swingDamageType": "Cut",
-        "swingSpeed": 71
+        "swingSpeed": 80
       }
     ]
   },
@@ -17523,9 +17460,9 @@
     "name": "Morningstar",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 157,
-    "weight": 2.16,
-    "tier": 0.604437768,
+    "price": 33593,
+    "weight": 1.11,
+    "tier": 22.4271774,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -17535,19 +17472,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 66,
-        "balance": 0.43,
-        "handling": 89,
+        "length": 89,
+        "balance": 0.87,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 6,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 8,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "thrustSpeed": 94,
+        "swingDamage": 30,
+        "swingDamageType": "Pierce",
+        "swingSpeed": 96
       }
     ]
   },
@@ -18060,9 +17997,9 @@
     "name": "Mountain Hunting Bow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 2171,
-    "weight": 0.3,
-    "tier": 3.60671234,
+    "price": 4153,
+    "weight": 0.25,
+    "tier": 5.375617,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -18071,12 +18008,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 82,
-        "missileSpeed": 84,
+        "accuracy": 98,
+        "missileSpeed": 79,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 86,
+        "handling": 107,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -18087,12 +18024,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 9,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 107,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 95
+        "swingSpeed": 125
       }
     ]
   },
@@ -18519,9 +18456,9 @@
     "name": "Noble Bow",
     "culture": "Neutral",
     "type": "Bow",
-    "price": 12345,
-    "weight": 0.8,
-    "tier": 10.036891,
+    "price": 12133,
+    "weight": 0.4,
+    "tier": 9.940793,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -18530,12 +18467,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 100,
+        "accuracy": 95,
         "missileSpeed": 85,
         "stackAmount": 1,
         "length": 116,
         "balance": 0.0,
-        "handling": 94,
+        "handling": 100,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -18548,10 +18485,10 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 100,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 100
+        "swingSpeed": 98
       }
     ]
   },
@@ -21369,9 +21306,9 @@
     "name": "Scythe",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 108,
-    "weight": 2.33,
-    "tier": 0.176826209,
+    "price": 3162,
+    "weight": 2.76,
+    "tier": 3.85031319,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21383,9 +21320,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 96,
-        "balance": 0.48,
-        "handling": 70,
+        "length": 98,
+        "balance": 0.38,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -21396,10 +21333,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
-        "swingDamage": 6,
+        "thrustSpeed": 87,
+        "swingDamage": 29,
         "swingDamageType": "Pierce",
-        "swingSpeed": 84
+        "swingSpeed": 81
       }
     ]
   },
@@ -25048,9 +24985,9 @@
     "name": "Heavy Recurve Bow",
     "culture": "Khuzait",
     "type": "Bow",
-    "price": 5622,
+    "price": 5396,
     "weight": 0.3,
-    "tier": 6.42483044,
+    "tier": 6.273242,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -25059,12 +24996,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 91,
-        "missileSpeed": 85,
+        "accuracy": 95,
+        "missileSpeed": 81,
         "stackAmount": 1,
         "length": 106,
         "balance": 0.0,
-        "handling": 90,
+        "handling": 106,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -25075,12 +25012,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 12,
+        "thrustDamage": 10,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 106,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 100
+        "swingSpeed": 120
       }
     ]
   },
@@ -25191,9 +25128,9 @@
     "name": "Steppe War Bow",
     "culture": "Khuzait",
     "type": "Bow",
-    "price": 8697,
-    "weight": 0.3,
-    "tier": 8.250273,
+    "price": 8309,
+    "weight": 0.35,
+    "tier": 8.039934,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -25202,12 +25139,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 95,
-        "missileSpeed": 87,
+        "accuracy": 98,
+        "missileSpeed": 83,
         "stackAmount": 1,
         "length": 107,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 102,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -25218,12 +25155,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 102,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 96
+        "swingSpeed": 105
       }
     ]
   },
@@ -27548,9 +27485,9 @@
     "name": "Practice Bow",
     "culture": "Neutral",
     "type": "Bow",
-    "price": 537,
-    "weight": 0.3,
-    "tier": 1.34032714,
+    "price": 3398,
+    "weight": 0.15,
+    "tier": 4.764211,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -27559,12 +27496,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 99,
-        "missileSpeed": 89,
+        "accuracy": 131,
+        "missileSpeed": 95,
         "stackAmount": 1,
         "length": 106,
         "balance": 0.0,
-        "handling": 94,
+        "handling": 115,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -27575,12 +27512,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 5,
+        "thrustDamage": 7,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 115,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 101
+        "swingSpeed": 106
       }
     ]
   },
@@ -29065,9 +29002,9 @@
     "name": "Spiked Mace",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 916,
-    "weight": 1.53,
-    "tier": 2.796572,
+    "price": 13215,
+    "weight": 1.3,
+    "tier": 13.642312,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29077,19 +29014,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 67,
-        "balance": 0.75,
+        "length": 73,
+        "balance": 0.84,
         "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 5,
+        "thrustDamage": 9,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 13,
+        "thrustSpeed": 93,
+        "swingDamage": 26,
         "swingDamageType": "Pierce",
-        "swingSpeed": 92
+        "swingSpeed": 95
       }
     ]
   },
@@ -29363,57 +29300,37 @@
     "name": "Voulge",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 383,
-    "weight": 1.3,
-    "tier": 0.8115005,
+    "price": 15695,
+    "weight": 1.27,
+    "tier": 9.834564,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
     ],
     "weapons": [
       {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 143,
-        "balance": 0.0,
-        "handling": 70,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 9,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 12,
-        "swingDamageType": "Cut",
-        "swingSpeed": 42
-      },
-      {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 143,
-        "balance": 0.42,
-        "handling": 67,
+        "length": 142,
+        "balance": 0.46,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
           "WideGrip",
+          "BonusAgainstShield",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 97,
-        "swingDamage": 12,
+        "thrustSpeed": 98,
+        "swingDamage": 48,
         "swingDamageType": "Cut",
-        "swingSpeed": 82
+        "swingSpeed": 83
       }
     ]
   },
