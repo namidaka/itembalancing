@@ -8634,27 +8634,6 @@
     "flags": [],
     "weapons": [
       {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 246,
-        "balance": 0.0,
-        "handling": 64,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 20,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 53,
-        "swingDamageType": "Cut",
-        "swingSpeed": 15
-      },
-      {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
@@ -10599,27 +10578,6 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 201,
-        "balance": 0.0,
-        "handling": 65,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 30,
-        "thrustDamageType": "Cut",
-        "thrustSpeed": 88,
-        "swingDamage": 45,
-        "swingDamageType": "Cut",
-        "swingSpeed": 25
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
@@ -21863,28 +21821,6 @@
     "flags": [],
     "weapons": [
       {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 143,
-        "balance": 0.0,
-        "handling": 75,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip",
-          "NoBlood"
-        ],
-        "thrustDamage": 15,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 85,
-        "swingDamage": 30,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 48
-      },
-      {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_shield_swing_thrust",
         "accuracy": 0,
@@ -26476,29 +26412,6 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 178,
-        "balance": 0.25,
-        "handling": 64,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 17,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
-        "swingDamage": 50,
-        "swingDamageType": "Cut",
-        "swingSpeed": 77
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_bracing",
