@@ -223,7 +223,7 @@
   <CraftedItem id="crpg_avalanche_2haxe" name="{=IClH3Pus}Avalanche" crafting_template="crpg_TwoHandedAxe" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_avalanche_2haxe_blade" Type="Blade" />
-      <Piece id="crpg_avalanche_2haxe_handle" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_avalanche_2haxe_handle" Type="Handle" scale_factor="111" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_sentinel_2hsword" name="{=XIRtmaQt}Sentinel" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
@@ -416,7 +416,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_aserai_2haxe_3_t5" name="{=hTPJXK1w}Long Bladed Bardiche" crafting_template="crpg_TwoHandedAxe" culture="Culture.aserai" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_aserai_2haxe_3_t5_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_aserai_2haxe_3_t5_blade" Type="Blade" scale_factor="111" />
       <Piece id="crpg_aserai_2haxe_3_t5_handle" Type="Handle" scale_factor="90" />
     </Pieces>
   </CraftedItem>
