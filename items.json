@@ -9387,9 +9387,9 @@
     "name": "Steel Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 277,
-    "weight": 1.88,
-    "tier": 1.09812713,
+    "price": 298,
+    "weight": 1.78,
+    "tier": 1.17355168,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10387,9 +10387,9 @@
     "name": "Cataphract Mace",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 1369,
-    "weight": 1.55,
-    "tier": 3.65099049,
+    "price": 8224,
+    "weight": 1.45,
+    "tier": 10.5244055,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10563,27 +10563,6 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 163,
-        "balance": 0.0,
-        "handling": 76,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 21,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 40,
-        "swingDamageType": "Cut",
-        "swingSpeed": 48
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
@@ -15174,9 +15153,9 @@
     "name": "Steppe Light Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 129,
-    "weight": 1.73,
-    "tier": 0.4696777,
+    "price": 6763,
+    "weight": 1.64,
+    "tier": 9.440404,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15273,9 +15252,9 @@
     "name": "Heavy Flanged Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 198,
-    "weight": 2.29,
-    "tier": 0.7856775,
+    "price": 2020,
+    "weight": 1.97,
+    "tier": 4.66271448,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15469,27 +15448,6 @@
     "flags": [],
     "weapons": [
       {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 147,
-        "balance": 0.0,
-        "handling": 77,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 14,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
-        "swingDamage": 39,
-        "swingDamageType": "Cut",
-        "swingSpeed": 51
-      },
-      {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
@@ -15525,27 +15483,6 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 200,
-        "balance": 0.0,
-        "handling": 71,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 14,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
-        "swingDamage": 49,
-        "swingDamageType": "Cut",
-        "swingSpeed": 40
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
@@ -21470,9 +21407,9 @@
     "name": "Militia Pernach",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 757,
-    "weight": 1.76,
-    "tier": 2.44886184,
+    "price": 5084,
+    "weight": 1.66,
+    "tier": 8.036753,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29357,28 +29294,6 @@
       "CanBePickedUpFromCorpse"
     ],
     "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 142,
-        "balance": 0.0,
-        "handling": 70,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip",
-          "BonusAgainstShield"
-        ],
-        "thrustDamage": 15,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 48,
-        "swingDamageType": "Cut",
-        "swingSpeed": 44
-      },
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_swing_thrust",
