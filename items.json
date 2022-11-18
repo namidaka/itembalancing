@@ -12765,9 +12765,9 @@
     "name": "Ranger Bow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 5451,
-    "weight": 0.6,
-    "tier": 6.310008,
+    "price": 5048,
+    "weight": 0.5,
+    "tier": 6.03288269,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -12776,12 +12776,12 @@
       {
         "class": "Bow",
         "itemUsage": "long_bow",
-        "accuracy": 117,
-        "missileSpeed": 108,
+        "accuracy": 131,
+        "missileSpeed": 101,
         "stackAmount": 1,
         "length": 113,
         "balance": 0.0,
-        "handling": 90,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -12794,10 +12794,10 @@
         ],
         "thrustDamage": 12,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 86,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 90
+        "swingSpeed": 86
       }
     ]
   },
@@ -17048,9 +17048,9 @@
     "name": "Yew Bow",
     "culture": "Vlandia",
     "type": "Bow",
-    "price": 8703,
-    "weight": 0.55,
-    "tier": 8.25381,
+    "price": 8721,
+    "weight": 0.65,
+    "tier": 8.263146,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -17059,8 +17059,8 @@
       {
         "class": "Bow",
         "itemUsage": "long_bow",
-        "accuracy": 109,
-        "missileSpeed": 94,
+        "accuracy": 111,
+        "missileSpeed": 92,
         "stackAmount": 1,
         "length": 117,
         "balance": 0.0,
@@ -17075,12 +17075,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 100,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 96
+        "swingSpeed": 84
       }
     ]
   },
@@ -18806,9 +18806,9 @@
     "name": "Nordic Shortbow",
     "culture": "Sturgia",
     "type": "Bow",
-    "price": 3944,
-    "weight": 0.35,
-    "tier": 5.211713,
+    "price": 12049,
+    "weight": 0.6,
+    "tier": 9.902433,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -18817,12 +18817,12 @@
       {
         "class": "Bow",
         "itemUsage": "bow",
-        "accuracy": 120,
-        "missileSpeed": 89,
+        "accuracy": 121,
+        "missileSpeed": 88,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 81,
+        "handling": 106,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -18833,12 +18833,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 81,
+        "thrustSpeed": 106,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 94
+        "swingSpeed": 81
       }
     ]
   },
@@ -31061,9 +31061,9 @@
     "name": "Woodland Yew Bow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 11809,
-    "weight": 0.65,
-    "tier": 9.792536,
+    "price": 11754,
+    "weight": 0.7,
+    "tier": 9.767156,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -31072,12 +31072,12 @@
       {
         "class": "Bow",
         "itemUsage": "long_bow",
-        "accuracy": 100,
-        "missileSpeed": 95,
+        "accuracy": 101,
+        "missileSpeed": 96,
         "stackAmount": 1,
         "length": 115,
         "balance": 0.0,
-        "handling": 99,
+        "handling": 101,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -31090,10 +31090,10 @@
         ],
         "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
+        "thrustSpeed": 101,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 95
+        "swingSpeed": 91
       }
     ]
   },
