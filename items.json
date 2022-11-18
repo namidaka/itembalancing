@@ -3134,9 +3134,9 @@
     "name": "Northlander Wide Fullered Greatsword",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 9811,
+    "price": 11760,
     "weight": 1.88,
-    "tier": 8.196402,
+    "tier": 9.075353,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -3155,10 +3155,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
         "swingSpeed": 79
       },
@@ -3176,10 +3176,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
         "swingSpeed": 96
       },
@@ -3196,10 +3196,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
         "swingSpeed": 79
       }
@@ -3210,9 +3210,9 @@
     "name": "Falx",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 11580,
-    "weight": 1.96,
-    "tier": 8.997041,
+    "price": 13167,
+    "weight": 2.01,
+    "tier": 9.665308,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -3223,8 +3223,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 135,
-        "balance": 0.69,
-        "handling": 85,
+        "balance": 0.66,
+        "handling": 84,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon",
@@ -3232,10 +3232,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 31,
+        "thrustSpeed": 93,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 89
       }
     ]
   },
@@ -3320,9 +3320,9 @@
     "name": "Battanian Mountain Blade",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 7049,
+    "price": 7973,
     "weight": 1.95,
-    "tier": 6.785743,
+    "tier": 7.28398848,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -3344,7 +3344,7 @@
         "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 69
       },
@@ -3365,7 +3365,7 @@
         "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 88
       },
@@ -3385,7 +3385,7 @@
         "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 69
       }
@@ -7130,9 +7130,9 @@
     "name": "Two-Handed Cleaver ",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 11878,
-    "weight": 2.78,
-    "tier": 9.12584,
+    "price": 13506,
+    "weight": 2.82,
+    "tier": 9.802825,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -7143,8 +7143,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 128,
-        "balance": 0.36,
-        "handling": 79,
+        "balance": 0.33,
+        "handling": 78,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon",
@@ -7154,7 +7154,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 40,
+        "swingDamage": 42,
         "swingDamageType": "Cut",
         "swingSpeed": 80
       }
@@ -8553,9 +8553,9 @@
     "name": "Early Retirement",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 6899,
+    "price": 7927,
     "weight": 1.52,
-    "tier": 6.7023263,
+    "tier": 7.259857,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8575,7 +8575,7 @@
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       },
@@ -8596,7 +8596,7 @@
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 97,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
         "swingSpeed": 97
       },
@@ -8616,7 +8616,7 @@
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       }
@@ -18977,9 +18977,9 @@
     "name": "Fine Steel Two Handed Sword",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 10319,
+    "price": 12022,
     "weight": 1.81,
-    "tier": 8.433121,
+    "tier": 9.187549,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18998,10 +18998,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       },
@@ -19019,10 +19019,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 95,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 97
       },
@@ -19039,10 +19039,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       }
@@ -19053,9 +19053,9 @@
     "name": "Northlander Broad Axe",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 14253,
-    "weight": 1.02,
-    "tier": 10.0999832,
+    "price": 493,
+    "weight": 1.01,
+    "tier": 1.13158786,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -19068,8 +19068,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 115,
-        "balance": 0.97,
-        "handling": 86,
+        "balance": 0.98,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -19080,7 +19080,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 102,
-        "swingDamage": 36,
+        "swingDamage": 13,
         "swingDamageType": "Cut",
         "swingSpeed": 99
       }
@@ -22171,9 +22171,9 @@
     "name": "Reaper",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 7146,
-    "weight": 2.2,
-    "tier": 6.8398695,
+    "price": 7660,
+    "weight": 2.22,
+    "tier": 7.11840057,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -22193,8 +22193,8 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 29,
+        "thrustSpeed": 84,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 68
       },
@@ -22205,8 +22205,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 131,
-        "balance": 0.6,
-        "handling": 83,
+        "balance": 0.57,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -22216,7 +22216,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 92,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 87
       },
@@ -22236,8 +22236,8 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 29,
+        "thrustSpeed": 84,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 68
       }
@@ -22423,9 +22423,9 @@
     "name": "Ridged Great Saber",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 51,
-    "weight": 2.19,
-    "tier": 0.0074993195,
+    "price": 10736,
+    "weight": 1.62,
+    "tier": 8.623379,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -22435,19 +22435,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.14,
-        "handling": 78,
+        "length": 111,
+        "balance": 0.59,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 1,
+        "thrustDamage": 9,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 1,
+        "thrustSpeed": 90,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
-        "swingSpeed": 74
+        "swingSpeed": 87
       },
       {
         "class": "TwoHandedSword",
@@ -22455,20 +22455,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.74,
-        "handling": 86,
+        "length": 111,
+        "balance": 1.0,
+        "handling": 90,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 1,
+        "thrustDamage": 9,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 1,
+        "thrustSpeed": 96,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 102
       },
       {
         "class": "OneHandedSword",
@@ -22476,19 +22476,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.14,
-        "handling": 78,
+        "length": 111,
+        "balance": 0.59,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 1,
+        "thrustDamage": 9,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 1,
+        "thrustSpeed": 90,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
-        "swingSpeed": 74
+        "swingSpeed": 87
       }
     ]
   },
@@ -23171,9 +23171,9 @@
     "name": "Sentinel",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 12109,
+    "price": 14110,
     "weight": 1.83,
-    "tier": 9.224802,
+    "tier": 10.0438538,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -23193,10 +23193,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 17,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 95,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 100
       }
@@ -23735,9 +23735,9 @@
     "name": "Broad Kaskara",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 11801,
+    "price": 13708,
     "weight": 1.59,
-    "tier": 9.093032,
+    "tier": 9.883864,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -23755,10 +23755,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 96,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 95
       }
@@ -28428,9 +28428,9 @@
     "name": "Wide Fullered Broad Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 12068,
+    "price": 14018,
     "weight": 1.79,
-    "tier": 9.207437,
+    "tier": 10.007453,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -28448,10 +28448,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 17,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 93
       }
@@ -28462,9 +28462,9 @@
     "name": "Thamaskene Steel Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 11887,
-    "weight": 2.13,
-    "tier": 9.129845,
+    "price": 13935,
+    "weight": 2.12,
+    "tier": 9.974608,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -28474,7 +28474,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 122,
+        "length": 124,
         "balance": 0.81,
         "handling": 84,
         "bodyArmor": 5,
@@ -28485,7 +28485,7 @@
         "thrustDamage": 19,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
-        "swingDamage": 30,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
         "swingSpeed": 94
       }
@@ -29655,9 +29655,9 @@
     "name": "War Razor",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 6785,
+    "price": 7576,
     "weight": 2.54,
-    "tier": 6.637726,
+    "tier": 7.07354832,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29678,7 +29678,7 @@
         "thrustDamage": 9,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 82,
-        "swingDamage": 34,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
         "swingSpeed": 63
       },
@@ -29700,7 +29700,7 @@
         "thrustDamage": 9,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
-        "swingDamage": 34,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       },
@@ -29721,7 +29721,7 @@
         "thrustDamage": 9,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 82,
-        "swingDamage": 34,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
         "swingSpeed": 63
       }
@@ -29808,9 +29808,9 @@
     "name": "Broad Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 11954,
+    "price": 13960,
     "weight": 1.88,
-    "tier": 9.158512,
+    "tier": 9.984377,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29828,10 +29828,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 91
       }
