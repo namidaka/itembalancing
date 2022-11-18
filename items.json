@@ -3022,9 +3022,9 @@
     "name": "Iron Broadsword",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 374,
-    "weight": 1.99,
-    "tier": 0.8904733,
+    "price": 4700,
+    "weight": 0.81,
+    "tier": 5.350579,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -3036,9 +3036,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 96,
-        "balance": 0.9,
-        "handling": 89,
+        "length": 100,
+        "balance": 1.0,
+        "handling": 96,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon",
@@ -3046,10 +3046,10 @@
         ],
         "thrustDamage": 7,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
-        "swingDamage": 10,
+        "thrustSpeed": 103,
+        "swingDamage": 18,
         "swingDamageType": "Cut",
-        "swingSpeed": 97
+        "swingSpeed": 115
       }
     ]
   },
@@ -14350,9 +14350,9 @@
     "name": "Justicier",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 1053,
-    "weight": 1.41,
-    "tier": 2.03187037,
+    "price": 4671,
+    "weight": 1.96,
+    "tier": 5.331274,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -14364,9 +14364,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 105,
-        "balance": 1.0,
-        "handling": 92,
+        "length": 112,
+        "balance": 0.77,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
@@ -14374,10 +14374,10 @@
         ],
         "thrustDamage": 10,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
-        "swingDamage": 11,
+        "thrustSpeed": 94,
+        "swingDamage": 25,
         "swingDamageType": "Cut",
-        "swingSpeed": 104
+        "swingSpeed": 93
       }
     ]
   },
@@ -29688,9 +29688,9 @@
     "name": "Tapered Two-Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 694,
-    "weight": 1.67,
-    "tier": 1.49038756,
+    "price": 4762,
+    "weight": 1.47,
+    "tier": 5.39265,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -29702,19 +29702,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 97,
-        "balance": 0.53,
-        "handling": 87,
+        "length": 134,
+        "balance": 0.28,
+        "handling": 78,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 11,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 12,
+        "thrustSpeed": 90,
+        "swingDamage": 22,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 78
       },
       {
         "class": "TwoHandedSword",
@@ -29722,20 +29722,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 97,
-        "balance": 1.0,
-        "handling": 91,
+        "length": 134,
+        "balance": 0.85,
+        "handling": 85,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 11,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 12,
+        "thrustSpeed": 97,
+        "swingDamage": 22,
         "swingDamageType": "Cut",
-        "swingSpeed": 100
+        "swingSpeed": 95
       },
       {
         "class": "OneHandedSword",
@@ -29743,19 +29743,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 97,
-        "balance": 0.53,
-        "handling": 87,
+        "length": 134,
+        "balance": 0.28,
+        "handling": 78,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 11,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 12,
+        "thrustSpeed": 90,
+        "swingDamage": 22,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 78
       }
     ]
   },
@@ -30873,9 +30873,9 @@
     "name": "Wooden Twohander",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 561,
-    "weight": 0.55,
-    "tier": 1.25926232,
+    "price": 4811,
+    "weight": 0.82,
+    "tier": 5.425508,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30885,20 +30885,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 104,
-        "balance": 1.0,
-        "handling": 106,
+        "length": 121,
+        "balance": 0.89,
+        "handling": 95,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon",
           "NoBlood"
         ],
-        "thrustDamage": 2,
+        "thrustDamage": 6,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 5,
+        "thrustSpeed": 98,
+        "swingDamage": 12,
         "swingDamageType": "Blunt",
-        "swingSpeed": 109
+        "swingSpeed": 96
       },
       {
         "class": "TwoHandedSword",
@@ -30906,21 +30906,21 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 104,
+        "length": 121,
         "balance": 1.0,
-        "handling": 100,
+        "handling": 95,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
           "NoBlood"
         ],
-        "thrustDamage": 2,
+        "thrustDamage": 6,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 108,
-        "swingDamage": 5,
+        "thrustSpeed": 103,
+        "swingDamage": 12,
         "swingDamageType": "Blunt",
-        "swingSpeed": 118
+        "swingSpeed": 109
       },
       {
         "class": "OneHandedSword",
@@ -30928,20 +30928,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 104,
-        "balance": 1.0,
-        "handling": 106,
+        "length": 121,
+        "balance": 0.89,
+        "handling": 95,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon",
           "NoBlood"
         ],
-        "thrustDamage": 2,
+        "thrustDamage": 6,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 5,
+        "thrustSpeed": 98,
+        "swingDamage": 12,
         "swingDamageType": "Blunt",
-        "swingSpeed": 109
+        "swingSpeed": 96
       }
     ]
   },
