@@ -10107,7 +10107,7 @@
       },
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_bracing",
+        "itemUsage": "polearm_couch",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -10166,7 +10166,7 @@
       },
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_bracing",
+        "itemUsage": "polearm_couch",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -14946,6 +14946,29 @@
       {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 198,
+        "balance": 0.0,
+        "handling": 56,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 7,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 67
+      },
+      { 
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -28782,30 +28805,7 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 16
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_bracing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 208,
-        "balance": 0.0,
-        "handling": 53,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 7,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 62
-      }
+      }      
     ]
   },
   {
