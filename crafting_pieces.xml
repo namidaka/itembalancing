@@ -2036,7 +2036,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_axe_1_t2_handle" name="{=cFTzptut}Mahogany Handle" tier="2" piece_type="Handle" mesh="axe_craft_25_handle" length="80" weight="0.516">
+  <CraftingPiece id="crpg_aserai_axe_1_t2_handle" name="{=cFTzptut}Mahogany Handle" tier="2" piece_type="Handle" mesh="axe_craft_25_handle" length="80" weight="0.116">
     <BuildData piece_offset="20" next_piece_offset="1.835" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -2284,10 +2284,10 @@
       <Material id="Iron1" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_axe_1_t2_blade" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.632">
+  <CraftingPiece id="crpg_aserai_axe_1_t2_blade" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.432">
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="2" blade_length="12.564" blade_width="15.1" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="1.12" />
+      <Swing damage_type="Cut" damage_factor="3.3" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

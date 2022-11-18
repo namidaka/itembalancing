@@ -695,9 +695,9 @@
     "name": "Wood Splitter Axe",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 209,
-    "weight": 1.15,
-    "tier": 0.8355338,
+    "price": 7168,
+    "weight": 0.68,
+    "tier": 9.751403,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -709,9 +709,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 62,
-        "balance": 0.96,
-        "handling": 97,
+        "length": 86,
+        "balance": 0.89,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -719,10 +719,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 11,
+        "thrustSpeed": 100,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 98
+        "swingSpeed": 96
       }
     ]
   },
