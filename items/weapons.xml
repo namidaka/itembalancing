@@ -93,7 +93,7 @@
   </Item>
   <Item id="crpg_marksman_bow" name="Marksmans Bow" body_name="bo_composite_longbow_a" mesh="longbow_a" culture="Culture.vlandia" is_merchandise="false" subtype="bow" weight="0.9" difficulty="0" appearance="1" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
     <ItemComponent>
-      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="66" speed_rating="93" missile_speed="118" weapon_length="120" accuracy="111" thrust_damage="23" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0">
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="44" speed_rating="90" missile_speed="114" weapon_length="120" accuracy="111" thrust_damage="22" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0">
         <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
       </Weapon>
     </ItemComponent>
@@ -109,7 +109,7 @@
   </Item>
   <Item id="crpg_marksman_bow_test" name="Marksmans Bow Test" body_name="bo_composite_longbow_a" mesh="longbow_a" culture="Culture.vlandia" is_merchandise="false" subtype="bow" weight="0.9" difficulty="0" appearance="1" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
     <ItemComponent>
-      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="66" speed_rating="93" missile_speed="118" weapon_length="120" accuracy="111" thrust_damage="23" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0">
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="44" speed_rating="90" missile_speed="114" weapon_length="120" accuracy="111" thrust_damage="22" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0">
         <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" UnloadWhenSheathed="true" />
       </Weapon>
     </ItemComponent>

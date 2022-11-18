@@ -17208,9 +17208,9 @@
     "name": "Marksmans Bow",
     "culture": "Vlandia",
     "type": "Bow",
-    "price": 37089,
+    "price": 13126,
     "weight": 0.9,
-    "tier": 18.20792,
+    "tier": 10.3834381,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -17220,11 +17220,11 @@
         "class": "Bow",
         "itemUsage": "long_bow",
         "accuracy": 111,
-        "missileSpeed": 118,
+        "missileSpeed": 114,
         "stackAmount": 1,
         "length": 120,
         "balance": 0.0,
-        "handling": 66,
+        "handling": 44,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -17235,12 +17235,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 66,
+        "thrustSpeed": 44,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 90
       }
     ]
   },
@@ -17249,9 +17249,9 @@
     "name": "Marksmans Bow Test",
     "culture": "Vlandia",
     "type": "Bow",
-    "price": 37089,
+    "price": 13126,
     "weight": 0.9,
-    "tier": 18.20792,
+    "tier": 10.3834381,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -17261,11 +17261,11 @@
         "class": "Bow",
         "itemUsage": "long_bow",
         "accuracy": 111,
-        "missileSpeed": 118,
+        "missileSpeed": 114,
         "stackAmount": 1,
         "length": 120,
         "balance": 0.0,
-        "handling": 66,
+        "handling": 44,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -17275,12 +17275,12 @@
           "UnloadWhenSheathed",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 66,
+        "thrustSpeed": 44,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 90
       }
     ]
   },
