@@ -1355,7 +1355,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_lance_1_t3_blade" name="{=OryiZr9d}Kontarion" tier="3" piece_type="Blade" mesh="spear_blade_23" length="42" weight="0.352" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.7" />
+      <Thrust damage_type="Pierce" damage_factor="1.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1624,7 +1624,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_khuzait_lance_1_t3_blade" name="{=ZUp9mm79}Jagged Spear Head" tier="3" piece_type="Blade" mesh="spear_blade_35" length="41" weight="0.3056" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_5_1" holster_body_name="bo_throwing_spear_quiver_5_1" holster_mesh_length="96.7">
-      <Thrust damage_type="Pierce" damage_factor="0.7" />
+      <Thrust damage_type="Pierce" damage_factor="1.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="3" />
@@ -1763,7 +1763,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_vlandia_lance_1_t3_blade" name="{=uwG8iwBc}Long Grassland Spear" tier="3" piece_type="Blade" mesh="spear_blade_20" length="46" weight="0.3592" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.735" />
+      <Thrust damage_type="Pierce" damage_factor="1.735" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />

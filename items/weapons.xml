@@ -727,21 +727,21 @@
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_lance_1_t3" name="{=j4XraSN6}Light Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_vlandia_lance_1_t3_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_vlandia_lance_1_t3_handle" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_vlandia_lance_1_t3_blade" Type="Blade" scale_factor="140" />
+      <Piece id="crpg_vlandia_lance_1_t3_handle" Type="Handle" scale_factor="144" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_empire_lance_1_t3" name="{=TQ1MVhIX}Light Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_empire_lance_1_t3_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_empire_lance_1_t3_handle" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_empire_lance_1_t3_blade" Type="Blade" scale_factor="140" />
+      <Piece id="crpg_empire_lance_1_t3_handle" Type="Handle" scale_factor="140" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_khuzait_lance_1_t3" name="{=UWvOndG0}Light Steppe Rider Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_khuzait_lance_1_t3_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_khuzait_lance_1_t3_guard" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_khuzait_lance_1_t3_handle" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_khuzait_lance_1_t3_blade" Type="Blade" scale_factor="140" />
+      <Piece id="crpg_khuzait_lance_1_t3_guard" Type="Guard" scale_factor="140" />
+      <Piece id="crpg_khuzait_lance_1_t3_handle" Type="Handle" scale_factor="140" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_aserai_lance_1_t5" name="{=hsRwbHSk}Mamluke Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
