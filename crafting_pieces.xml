@@ -3606,7 +3606,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_noble_sword_2_t5_handle" name="{=bEbyObu7}Jeweled Golden One Handed Grip" tier="5" piece_type="Handle" mesh="empire_noble_grip_2" culture="Culture.empire" length="15" weight="0.10">
+  <CraftingPiece id="crpg_empire_noble_sword_2_t5_handle" name="{=bEbyObu7}Jeweled Golden One Handed Grip" tier="5" piece_type="Handle" mesh="empire_noble_grip_2" culture="Culture.empire" length="15" weight="0.23">
     <BuildData piece_offset="0" next_piece_offset="0" previous_piece_offset="0.5" />
     <Materials>
       <Material id="Iron5" count="1" />
@@ -5520,7 +5520,7 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_noble_sword_2_t5_blade" name="{=dafrn0mR}Thamaskene Steel Spatha Blade" tier="5" piece_type="Blade" mesh="empire_blade_7" culture="Culture.vlandia" length="99" weight="0.88">
+  <CraftingPiece id="crpg_empire_noble_sword_2_t5_blade" name="{=dafrn0mR}Thamaskene Steel Spatha Blade" tier="5" piece_type="Blade" mesh="empire_blade_7" culture="Culture.vlandia" length="99" weight="1.32">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_7_scabbard_7">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="3.3" />
