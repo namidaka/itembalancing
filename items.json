@@ -1997,9 +1997,9 @@
     "name": "Narrow Fine Steel Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 30167,
-    "weight": 1.45,
-    "tier": 21.1929741,
+    "price": 5299,
+    "weight": 1.82,
+    "tier": 8.228696,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2009,19 +2009,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.67,
-        "handling": 89,
+        "length": 105,
+        "balance": 0.42,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 88,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 82
       }
     ]
   },
