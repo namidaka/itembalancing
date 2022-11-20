@@ -1530,9 +1530,9 @@
     "name": "Decorated Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 51398,
-    "weight": 1.43,
-    "tier": 28.0125675,
+    "price": 7285,
+    "weight": 1.95,
+    "tier": 9.839881,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1544,19 +1544,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 103,
-        "balance": 0.81,
-        "handling": 91,
+        "length": 101,
+        "balance": 0.44,
+        "handling": 85,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 33,
+        "thrustSpeed": 87,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 94
+        "swingSpeed": 83
       }
     ]
   },
