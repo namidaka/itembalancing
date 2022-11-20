@@ -3955,7 +3955,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_sword_4_t4_handle" name="{=H2xibh6p}Studded Imperial Grip" tier="4" piece_type="Handle" mesh="empire_grip_5" culture="Culture.empire" length="15" weight="0.12">
+  <CraftingPiece id="crpg_empire_sword_4_t4_handle" name="{=H2xibh6p}Studded Imperial Grip" tier="4" piece_type="Handle" mesh="empire_grip_5" culture="Culture.empire" length="15" weight="0.33">
     <BuildData piece_offset="0" next_piece_offset="0.91" previous_piece_offset="0.8" />
     <Materials>
       <Material id="Iron4" count="1" />
@@ -5550,7 +5550,7 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_sword_4_t4_blade" name="{=kIbtwQRF}Fine Steel Spatha Blade" tier="4" piece_type="Blade" mesh="empire_blade_6" culture="Culture.empire" length="92.4" weight="0.82">
+  <CraftingPiece id="crpg_empire_sword_4_t4_blade" name="{=kIbtwQRF}Fine Steel Spatha Blade" tier="4" piece_type="Blade" mesh="empire_blade_6" culture="Culture.empire" length="92.4" weight="1.10">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_6_scabbard_6">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
       <Swing damage_type="Cut" damage_factor="2.9" />
