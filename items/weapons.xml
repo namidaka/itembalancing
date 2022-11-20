@@ -984,7 +984,7 @@
       <Piece id="crpg_broad_ild_sword_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_short_sword_t3" name="{=cRCkC36E}Short Arming Sword" crafting_template="crpg_OneHandedSword" modifier_group="sword">
+  <CraftedItem id="crpg_short_sword_t3" name="{=cRCkC36E}Short Arming Sword" crafting_template="crpg_OneHandedSword" culture="Culture.vlandia" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_short_sword_t3_blade" Type="Blade" scale_factor="138" />
       <Piece id="crpg_short_sword_t3_guard" Type="Guard" scale_factor="100" />
@@ -1120,7 +1120,7 @@
       <Piece id="crpg_ridged_sabre_sword_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_broad_arming_sword_t4" name="{=b8AgXwbL}Iron Pointed Sword" crafting_template="crpg_OneHandedSword" modifier_group="sword">
+  <CraftedItem id="crpg_broad_arming_sword_t4" name="{=b8AgXwbL}Iron Pointed Sword" crafting_template="crpg_OneHandedSword" culture="Culture.vlandia" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_broad_arming_sword_t4_blade" Type="Blade" scale_factor="93" />
       <Piece id="crpg_broad_arming_sword_t4_guard" Type="Guard" scale_factor="100" />
