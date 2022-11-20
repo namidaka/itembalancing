@@ -29016,9 +29016,15 @@
     "name": "Spiked Mace",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3289,
     "weight": 1.83,
     "tier": 6.249227,
+=======
+    "price": 5127,
+    "weight": 1.62,
+    "tier": 8.075823,
+>>>>>>> f2d92cf (11.19 - Spiked Mace)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29029,18 +29035,30 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
+<<<<<<< HEAD
         "balance": 0.44,
         "handling": 87,
+=======
+        "balance": 0.6,
+        "handling": 91,
+>>>>>>> f2d92cf (11.19 - Spiked Mace)
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 9,
         "thrustDamageType": "Pierce",
+<<<<<<< HEAD
         "thrustSpeed": 88,
         "swingDamage": 26,
         "swingDamageType": "Pierce",
         "swingSpeed": 83
+=======
+        "thrustSpeed": 90,
+        "swingDamage": 26,
+        "swingDamageType": "Pierce",
+        "swingSpeed": 87
+>>>>>>> f2d92cf (11.19 - Spiked Mace)
       }
     ]
   },
