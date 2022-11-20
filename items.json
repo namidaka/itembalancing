@@ -10826,9 +10826,9 @@
     "name": "Thamaskene Steel Spathion",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 50669,
-    "weight": 1.32,
-    "tier": 27.8051338,
+    "price": 7244,
+    "weight": 2.79,
+    "tier": 9.80911,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10838,19 +10838,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 99,
-        "balance": 0.74,
-        "handling": 90,
+        "length": 97,
+        "balance": 0.41,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 35,
+        "thrustSpeed": 81,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 82
       }
     ]
   },
