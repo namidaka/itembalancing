@@ -10688,9 +10688,9 @@
     "name": "Spatha With Narrow Fuller",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 17095,
-    "weight": 1.33,
-    "tier": 15.6719646,
+    "price": 5904,
+    "weight": 1.73,
+    "tier": 8.74704552,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -10703,18 +10703,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.75,
-        "handling": 92,
+        "balance": 0.53,
+        "handling": 88,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 29,
+        "thrustSpeed": 89,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 85
       }
     ]
   },
