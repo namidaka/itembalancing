@@ -3044,7 +3044,7 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 9,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 103,
         "swingDamage": 18,
@@ -14401,19 +14401,19 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.71,
-        "handling": 86,
+        "balance": 0.68,
+        "handling": 85,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 11,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 25,
+        "thrustSpeed": 92,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
-        "swingSpeed": 91
+        "swingSpeed": 90
       }
     ]
   },
@@ -29745,10 +29745,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 19,
+        "swingDamage": 20,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       },
@@ -29766,10 +29766,10 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 98,
-        "swingDamage": 19,
+        "swingDamage": 20,
         "swingDamageType": "Cut",
         "swingSpeed": 97
       },
@@ -29786,10 +29786,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 11,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 19,
+        "swingDamage": 20,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       }
