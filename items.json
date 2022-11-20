@@ -1565,9 +1565,9 @@
     "name": "Decorated Long Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 76131,
-    "weight": 1.46,
-    "tier": 34.34215,
+    "price": 7373,
+    "weight": 2.06,
+    "tier": 9.905988,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1579,19 +1579,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 98,
-        "balance": 0.82,
-        "handling": 92,
+        "length": 97,
+        "balance": 0.47,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
+        "thrustSpeed": 86,
         "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 94
+        "swingSpeed": 84
       }
     ]
   },
