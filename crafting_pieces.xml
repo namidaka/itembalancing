@@ -5444,7 +5444,7 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_sword_7_t5_blade" name="{=aTnuOUCC}Thamaskene Steel Kaskara Blade" tier="5" piece_type="Blade" mesh="aserai_blade_11" culture="Culture.aserai" length="102.3" weight="1.02">
+  <CraftingPiece id="crpg_aserai_sword_7_t5_blade" name="{=aTnuOUCC}Thamaskene Steel Kaskara Blade" tier="5" piece_type="Blade" mesh="aserai_blade_11" culture="Culture.aserai" length="102.3" weight="1.30">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_11_scabbard_11">
       <Thrust damage_type="Pierce" damage_factor="2.5" />
       <Swing damage_type="Cut" damage_factor="2.8" />
