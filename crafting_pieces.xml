@@ -160,7 +160,7 @@
       <Material id="Wood" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_mace_2_t2_handle" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.15" CraftingCost="75">
+  <CraftingPiece id="crpg_battania_mace_2_t2_handle" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.35" CraftingCost="75">
     <BuildData piece_offset="15" />
     <Materials>
       <Material id="Wood" count="2" />
@@ -285,7 +285,7 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_mace_2_t2_blade" name="{=0SpLcthg}Highland Spiked Club" tier="2" piece_type="Blade" mesh="mace_head_5" length="25.5" weight="0.40" full_scale="true">
+  <CraftingPiece id="crpg_battania_mace_2_t2_blade" name="{=0SpLcthg}Highland Spiked Club" tier="2" piece_type="Blade" mesh="mace_head_5" length="25.5" weight="0.55" full_scale="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="1.2" />
       <Swing damage_type="Pierce" damage_factor="2.7" />
