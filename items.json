@@ -10723,9 +10723,9 @@
     "name": "Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 9921,
-    "weight": 1.37,
-    "tier": 11.6700592,
+    "price": 3345,
+    "weight": 1.65,
+    "tier": 6.31071854,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -10738,18 +10738,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.75,
-        "handling": 92,
+        "balance": 0.54,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 89,
         "swingDamage": 27,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 86
       }
     ]
   },
