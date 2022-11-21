@@ -5496,6 +5496,10 @@
       <Thrust damage_type="Pierce" damage_factor="1.5" />
       <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
+        <Materials>
+      <Material id="Iron5" count="5" />
+    </Materials>
+  </CraftingPiece>
       <CraftingPiece id="crpg_heavy_executionner_2sword_blade" name="{=pX4nTZOI}Fine Steel Broad Kaskara" tier="4" piece_type="Blade" mesh="aserai_blade_5" culture="Culture.battania" length="108.9" weight="1.2">
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_5_scabbard_5">
       <Thrust damage_type="Pierce" damage_factor="1.5" />
