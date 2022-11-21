@@ -17514,31 +17514,52 @@
     "name": "Morningstar",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5182,
     "weight": 2.14,
     "tier": 8.124802,
+=======
+    "price": 7576,
+    "weight": 1.87,
+    "tier": 10.0569248,
+>>>>>>> 3f243fe (11.21 - Morningstar Edit)
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
+<<<<<<< HEAD
         "length": 80,
         "balance": 0.38,
         "handling": 79,
+=======
+        "length": 79,
+        "balance": 0.57,
+        "handling": 82,
+>>>>>>> 3f243fe (11.21 - Morningstar Edit)
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 30,
         "swingDamageType": "Pierce",
         "swingSpeed": 81
+=======
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 30,
+        "swingDamageType": "Pierce",
+        "swingSpeed": 87
+>>>>>>> 3f243fe (11.21 - Morningstar Edit)
       }
     ]
   },

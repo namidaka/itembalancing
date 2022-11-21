@@ -1599,8 +1599,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_morningstar_mace_t3" name="{=6EWm09LY}Morningstar" crafting_template="crpg_Mace" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_morningstar_mace_t3_blade" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_morningstar_mace_t3_handle" Type="Handle" scale_factor="120" />
+      <Piece id="crpg_morningstar_mace_t3_blade" Type="Blade" scale_factor="130" />
+      <Piece id="crpg_morningstar_mace_t3_handle" Type="Handle" scale_factor="117" />
       <Piece id="crpg_morningstar_mace_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
