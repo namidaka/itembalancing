@@ -4390,7 +4390,7 @@
   },
   {
     "id": "crpg_battania_mace_1_t3",
-    "name": "Highland Mace",
+    "name": "Light Morningstar",
     "culture": "Battania",
     "type": "OneHandedWeapon",
     "price": 62,
@@ -4401,23 +4401,23 @@
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 65,
-        "balance": 0.41,
-        "handling": 89,
+        "length": 72,
+        "balance": 0.57,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 6,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 8,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 26,
+        "swingDamageType": "Pierce",
+        "swingSpeed": 87
       }
     ]
   },
@@ -17556,7 +17556,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 30,
+        "swingDamage": 31,
         "swingDamageType": "Pierce",
         "swingSpeed": 87
 >>>>>>> 3f243fe (11.21 - Morningstar Edit)
