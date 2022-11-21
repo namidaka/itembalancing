@@ -1467,7 +1467,7 @@
     <CraftedItem id="crpg_heavy_executionner_2sword" name="{=62nIvqbA}Heavy Executionner Long Sword" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_heavy_executionner_2sword_blade" Type="Blade" scale_factor="160" />
-      <Piece id="crpg_heavy_executionner_2sword_guard" Type="Guard" scale_factor="150" />
+      <Piece id="crpg_heavy_executionner_2sword_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_heavy_executionner_2sword_handle" Type="Handle" scale_factor="115" />
       <Piece id="crpg_heavy_executionner_2sword_pommel" Type="Pommel" scale_factor="115" />
     </Pieces>
