@@ -1464,12 +1464,12 @@
       <Piece id="crpg_battania_2hsword_5_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-    <CraftedItem id="crpg_heavy_executionner_2sword" name="{=62nIvqbA}Battanian Mountain Blade" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
+    <CraftedItem id="crpg_heavy_executionner_2sword" name="{=62nIvqbA}Heavy Executionner Long Sword" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_heavy_executionner_2sword_blade" Type="Blade" scale_factor="135" />
-      <Piece id="crpg_heavy_executionner_2sword_guard" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_heavy_executionner_2sword_handle" Type="Handle" scale_factor="110" />
-      <Piece id="crpg_heavy_executionner_2sword_pommel" Type="Pommel" scale_factor="100" />
+      <Piece id="crpg_heavy_executionner_2sword_blade" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_heavy_executionner_2sword_guard" Type="Guard" scale_factor="150" />
+      <Piece id="crpg_heavy_executionner_2sword_handle" Type="Handle" scale_factor="115" />
+      <Piece id="crpg_heavy_executionner_2sword_pommel" Type="Pommel" scale_factor="115" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_2hsword_1_t5" name="{=9ZiUK3JJ}Wide Fullered Broad Two Hander" crafting_template="crpg_TwoHandedSword" culture="Culture.vlandia" modifier_group="sword">
