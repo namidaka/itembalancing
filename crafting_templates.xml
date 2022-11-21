@@ -734,16 +734,16 @@
 			<UsablePiece piece_id="crpg_wooden_sword_t1_blade"/>
 			<UsablePiece piece_id="crpg_wooden_sword_t1_guard"/>
 			<UsablePiece piece_id="crpg_wooden_sword_t1_pommel"/>
-			<UsablePiece piece_id="dawn_blade"/>
-			<UsablePiece piece_id="dawn_guard"/>
-			<UsablePiece piece_id="dawn_handle"/>
-			<UsablePiece piece_id="dawn_pommel"/>
-			<UsablePiece piece_id="winter_blade"/>
-			<UsablePiece piece_id="winter_guard"/>
-			<UsablePiece piece_id="winter_handle"/>
-			<UsablePiece piece_id="winter_pommel"/>
-			<UsablePiece piece_id="barmace_blade"/>
-			<UsablePiece piece_id="barmace_handle"/>
+			<UsablePiece piece_id="crpg_dawn_blade"/>
+			<UsablePiece piece_id="crpg_dawn_guard"/>
+			<UsablePiece piece_id="crpg_dawn_handle"/>
+			<UsablePiece piece_id="crpg_dawn_pommel"/>
+			<UsablePiece piece_id="crpg_winter_blade"/>
+			<UsablePiece piece_id="crpg_winter_guard"/>
+			<UsablePiece piece_id="crpg_winter_handle"/>
+			<UsablePiece piece_id="crpg_winter_pommel"/>
+			<UsablePiece piece_id="crpg_barmace_blade"/>
+			<UsablePiece piece_id="crpg_barmace_handle"/>
 		</UsablePieces>
 	</CraftingTemplate>
 	<CraftingTemplate id="crpg_Dagger" item_type="OneHandedWeapon" modifier_group="sword" item_holsters="sword_left_hip_3:sword_left_hip_2:sword_left_hip:sword_back" default_item_holster_position_offset="0,0,-0.1" use_weapon_as_holster_mesh="true">
@@ -1436,8 +1436,8 @@
 			<UsablePiece piece_id="crpg_winds_fury_sword_t3_pommel"/>
 			<UsablePiece piece_id="crpg_wooden_2hsword_t1_pommel"/>
 			<UsablePiece piece_id="crpg_wooden_sword_t1_pommel"/>
-			<UsablePiece piece_id="greataxe_blade"/>
-			<UsablePiece piece_id="greataxe_handle"/>
+			<UsablePiece piece_id="crpg_greataxe_blade"/>
+			<UsablePiece piece_id="crpg_greataxe_handle"/>
 		</UsablePieces>
 	</CraftingTemplate>
 	<CraftingTemplate id="crpg_ThrowingAxe" item_type="Thrown" modifier_group="axe_throwing" item_holsters="throwing_axe:throwing_axe_2:axe_right_hip_2:axe_back" default_item_holster_position_offset="0,0,0.05" always_show_holster_with_weapon="true">
@@ -1703,10 +1703,10 @@
 			<UsablePiece piece_id="crpg_wide_leaf_spear_t4_pommel"/>
 			<UsablePiece piece_id="crpg_war_scythe_handle"/>
 			<UsablePiece piece_id="crpg_war_scythe_blade"/>
-			<UsablePiece piece_id="awlpike_handle"/>
-			<UsablePiece piece_id="awlpike_blade"/>
-			<UsablePiece piece_id="long_greataxe_blade"/>
-			<UsablePiece piece_id="long_greataxe_handle"/>
+			<UsablePiece piece_id="crpg_awlpike_handle"/>
+			<UsablePiece piece_id="crpg_awlpike_blade"/>
+			<UsablePiece piece_id="crpg_long_greataxe_blade"/>
+			<UsablePiece piece_id="crpg_long_greataxe_handle"/>
 		</UsablePieces>
 	</CraftingTemplate>
 	<CraftingTemplate id="crpg_Spear4DMode" item_type="Polearm" modifier_group="polearm" item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4" default_item_holster_position_offset="0,0,-0.30" use_weapon_as_holster_mesh="true">
@@ -2439,8 +2439,8 @@
 			<UsablePiece piece_id="crpg_wooden_sword_t1_pommel"/>
 			<UsablePiece piece_id="crpg_bos_head"/>
 			<UsablePiece piece_id="crpg_bos_handle"/>
-			<UsablePiece piece_id="gada_blade"/>
-			<UsablePiece piece_id="gada_handle"/>
+			<UsablePiece piece_id="crpg_gada_blade"/>
+			<UsablePiece piece_id="crpg_gada_handle"/>
 		</UsablePieces>
 	</CraftingTemplate>
 </CraftingTemplates>
