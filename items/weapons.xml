@@ -2220,50 +2220,50 @@
 			<Piece id="crpg_war_scythe_handle" Type="Handle" scale_factor="100"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="dawn_greatsword" name="{=}Dawn" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+	<CraftedItem id="crpg_dawn" name="{=}Dawn" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="dawn_blade" Type="Blade" scale_factor="135"/>
-			<Piece id="dawn_guard" Type="Guard" scale_factor="125"/>
-			<Piece id="dawn_handle" Type="Handle" scale_factor="140"/>
-			<Piece id="dawn_pommel" Type="Pommel" scale_factor="140"/>
+			<Piece id="crpg_dawn_blade" Type="Blade" scale_factor="135"/>
+			<Piece id="crpg_dawn_guard" Type="Guard" scale_factor="125"/>
+			<Piece id="crpg_dawn_handle" Type="Handle" scale_factor="140"/>
+			<Piece id="crpg_dawn_pommel" Type="Pommel" scale_factor="140"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="winter_greatsword" name="{=}Winter" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+	<CraftedItem id="crpg_winter" name="{=}Winter" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="winter_blade" Type="Blade" scale_factor="140"/>
-			<Piece id="winter_guard" Type="Guard" scale_factor="140"/>
-			<Piece id="winter_handle" Type="Handle" scale_factor="140"/>
-			<Piece id="winter_pommel" Type="Pommel" scale_factor="140"/>
+			<Piece id="crpg_winter_blade" Type="Blade" scale_factor="140"/>
+			<Piece id="crpg_winter_guard" Type="Guard" scale_factor="140"/>
+			<Piece id="crpg_winter_handle" Type="Handle" scale_factor="140"/>
+			<Piece id="crpg_winter_pommel" Type="Pommel" scale_factor="140"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="awlpike" name="{=}Awlpike" crafting_template="crpg_TwoHandedPolearm">
+	<CraftedItem id="crpg_awlpike" name="{=}Awlpike" crafting_template="crpg_TwoHandedPolearm">
 		<Pieces>
-			<Piece id="awlpike_blade" Type="Blade" scale_factor="100"/>
-			<Piece id="awlpike_handle" Type="Handle" scale_factor="100"/>
+			<Piece id="crpg_awlpike_blade" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_awlpike_handle" Type="Handle" scale_factor="100"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="barmace" name="{=}Barmace" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+	<CraftedItem id="crpg_barmace" name="{=}Barmace" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="barmace_blade" Type="Blade" scale_factor="125"/>
-			<Piece id="barmace_handle" Type="Handle" scale_factor="145"/>
+			<Piece id="crpg_barmace_blade" Type="Blade" scale_factor="125"/>
+			<Piece id="crpg_barmace_handle" Type="Handle" scale_factor="145"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="gada" name="{=}Gada" crafting_template="crpg_TwoHandedMace" is_merchandise="false" culture="Culture.battania">
+	<CraftedItem id="crpg_gada" name="{=}Gada" crafting_template="crpg_TwoHandedMace" is_merchandise="false" culture="Culture.battania">
 		<Pieces>
-			<Piece id="gada_blade" Type="Blade" scale_factor="100"/>
-			<Piece id="gada_handle" Type="Handle" scale_factor="100"/>
+			<Piece id="crpg_gada_blade" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_gada_handle" Type="Handle" scale_factor="100"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="greataxe" name="{=}Greataxe" crafting_template="crpg_TwoHandedAxe" is_merchandise="false" culture="Culture.battania">
+	<CraftedItem id="crpg_greataxe" name="{=}Greataxe" crafting_template="crpg_TwoHandedAxe" is_merchandise="false" culture="Culture.battania">
 		<Pieces>
-			<Piece id="greataxe_blade" Type="Blade" scale_factor="100"/>
-			<Piece id="greataxe_handle" Type="Handle" scale_factor="100"/>
+			<Piece id="crpg_greataxe_blade" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_greataxe_handle" Type="Handle" scale_factor="100"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="long_greataxe" name="{=}Long Greataxe" crafting_template="crpg_TwoHandedPolearm">
+	<CraftedItem id="crpg_long_greataxe" name="{=}Long Greataxe" crafting_template="crpg_TwoHandedPolearm">
 		<Pieces>
-			<Piece id="long_greataxe_blade" Type="Blade" scale_factor="120"/>
-			<Piece id="long_greataxe_handle" Type="Handle" scale_factor="120"/>
+			<Piece id="crpg_long_greataxe_blade" Type="Blade" scale_factor="120"/>
+			<Piece id="crpg_long_greataxe_handle" Type="Handle" scale_factor="120"/>
 		</Pieces>
 	</CraftedItem>
 </Items>
