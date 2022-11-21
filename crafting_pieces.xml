@@ -4596,7 +4596,7 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_heavy_executionner_2sword_guard" name="Heavy Executionner Guard" tier="5" piece_type="Guard" mesh="vlandian_guard_8" culture="Culture.vlandia" length="1.42" weight="0.355">
-      <BuildData next_piece_offset="0.2" />
+    <BuildData next_piece_offset="0.2" />
     <StatContributions armor_bonus="5" />
     <Materials>
       <Material id="Iron5" count="2" />
