@@ -3306,6 +3306,11 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
+    <CraftingPiece id="crpg_heavy_executionner_2sword_pommel" name="{=ugQrq53t}Fan Pommel" tier="5" piece_type="Pommel" mesh="vlandian_pommel_9" culture="Culture.vlandia" length="5.275" weight="0.25">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_vlandia_sword_5_t5_pommel" name="{=ugQrq53t}Fan Pommel" tier="5" piece_type="Pommel" mesh="vlandian_pommel_9" culture="Culture.vlandia" length="5.275" weight="0.02">
     <Materials>
       <Material id="Iron4" count="1" />
@@ -3727,6 +3732,12 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_battania_2hsword_5_t5_handle" name="{=saYgR9C6}High Quality Highland Two Handed Grip" tier="2" piece_type="Handle" mesh="battania_grip_6" culture="Culture.battania" length="25.6" weight="0.1">
+    <BuildData piece_offset="-0.22" previous_piece_offset="0.3" next_piece_offset="0.1" />
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="crpg_heavy_executionner_2sword_handle" name="{=saYgR9C6}High Quality Highland Two Handed Grip" tier="2" piece_type="Handle" mesh="battania_grip_6" culture="Culture.battania" length="25.6" weight="0.1">
     <BuildData piece_offset="-0.22" previous_piece_offset="0.3" next_piece_offset="0.1" />
     <Materials>
       <Material id="Iron2" count="2" />
@@ -4546,7 +4557,7 @@
     <BuildData next_piece_offset="1.6" />
     <StatContributions armor_bonus="5" />
     <Materials>
-      <Material id="Iron4" count="1" />
+      <Material id="thamaskeneIron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_sword_4_t4_guard" name="{=jN4PPWjp}Knobbed Crescent Guard" tier="4" piece_type="Guard" mesh="empire_guard_2" culture="Culture.empire" length="3.6" weight="0.18">
@@ -4577,7 +4588,14 @@
       <Material id="Iron5" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_sword_5_t5_guard" name="{=az6t2tOm}Ridged Western Guard" tier="5" piece_type="Guard" mesh="vlandian_guard_8" culture="Culture.vlandia" length="1.42" weight="0.25">
+    <CraftingPiece id="crpg_heavy_executionner_2sword_guard" name="{=az6t2tOm}Ridged Western Guard" tier="5" piece_type="Guard" mesh="vlandian_guard_8" culture="Culture.vlandia" length="1.42" weight="0.355">
+    <BuildData next_piece_offset="0.2" />
+    <StatContributions armor_bonus="5" />
+    <Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="crpg_vlandia_sword_5_t5_guard" name="{=az6t2tOm}Ridged Western Guard" tier="5" piece_type="Guard" mesh="vlandian_guard_8" culture="Culture.vlandia" length="1.42" weight="0.25">
     <BuildData next_piece_offset="0.2" />
     <StatContributions armor_bonus="5" />
     <Materials>
@@ -5222,6 +5240,18 @@
       <Material id="Iron6" count="2" />
     </Materials>
   </CraftingPiece>
+    <CraftingPiece id="crpg_heavy_executionner_2sword_blade" name="{=swb45HVS}Mountain Blade" tier="5" piece_type="Blade" mesh="battania_blade_5" culture="Culture.battania" length="80.8" weight="1.2">
+    <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="battania_blade_5_scabbard_5">
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron6" count="2" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_battania_sword_5_t5_blade" name="{=swb45HVS}Mountain Blade" tier="5" piece_type="Blade" mesh="battania_blade_5" culture="Culture.battania" length="80.8" weight="1.4">
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="battania_blade_5_scabbard_5">
       <Thrust damage_type="Pierce" damage_factor="1.2" />
@@ -5462,6 +5492,11 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_southern_broad_2hsword_t4_blade" name="{=pX4nTZOI}Fine Steel Broad Kaskara" tier="4" piece_type="Blade" mesh="aserai_blade_5" culture="Culture.battania" length="108.9" weight="1.2">
+    <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_5_scabbard_5">
+      <Thrust damage_type="Pierce" damage_factor="1.5" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
+    </BladeData>
+      <CraftingPiece id="crpg_heavy_executionner_2sword_blade" name="{=pX4nTZOI}Fine Steel Broad Kaskara" tier="4" piece_type="Blade" mesh="aserai_blade_5" culture="Culture.battania" length="108.9" weight="1.2">
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_5_scabbard_5">
       <Thrust damage_type="Pierce" damage_factor="1.5" />
       <Swing damage_type="Cut" damage_factor="2.9" />
