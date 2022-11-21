@@ -1917,18 +1917,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.48,
-        "handling": 85,
+        "balance": 0.45,
+        "handling": 87,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 82,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 83
       }
     ]
   },
@@ -22569,18 +22569,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 100,
-        "balance": 0.78,
-        "handling": 91,
+        "balance": 0.54,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 9,
+        "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 13,
+        "thrustSpeed": 85,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 93
+        "swingSpeed": 86
       }
     ]
   },
