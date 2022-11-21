@@ -4588,7 +4588,7 @@
       <Material id="Iron5" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_sword_5_t5_guard" name="{=az6t2tOm}Ridged Western Guard" tier="5" piece_type="Guard" mesh="vlandian_guard_8" culture="Culture.vlandia" length="1.42" weight="0.25"> 
+  <CraftingPiece id="crpg_vlandia_sword_5_t5_guard" name="{=az6t2tOm}Ridged Western Guard" tier="5" piece_type="Guard" mesh="vlandian_guard_8" culture="Culture.vlandia" length="1.42" weight="0.25">
     <BuildData next_piece_offset="0.2" />
     <StatContributions armor_bonus="5" />
     <Materials>
