@@ -5638,42 +5638,39 @@
     ]
   },
   {
-    "id": "crpg_bo_staff",
-    "name": "Bo staff",
+    "id": "crpg_bo_staff_t1",
+    "name": "Bo Staff",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 50,
-    "weight": 1.0,
-    "tier": 0.0,
+    "price": 8386,
+    "weight": 2.39,
+    "tier": 6.90302,
     "requirement": 0,
-    "flags": [
-      "WoodenParry",
-      "DoNotScaleBodyAccordingToWeaponLength"
-    ],
+    "flags": [],
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_swing_thrust",
-        "accuracy": 100,
+        "itemUsage": "polearm_block_shield_swing_thrust",
+        "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 100,
-        "balance": 1.0,
-        "handling": 100,
+        "length": 128,
+        "balance": 0.83,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "PenaltyWithShield"
+          "NoBlood"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 18,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 100,
-        "swingDamage": 8,
+        "thrustSpeed": 91,
+        "swingDamage": 18,
         "swingDamageType": "Blunt",
-        "swingSpeed": 100
+        "swingSpeed": 94
       }
     ]
   },
