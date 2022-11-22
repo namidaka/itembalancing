@@ -4393,9 +4393,9 @@
     "name": "Light Morningstar",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 62,
-    "weight": 2.13,
-    "tier": 0.08864907,
+    "price": 10119,
+    "weight": 1.9,
+    "tier": 11.7968922,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -17514,15 +17514,9 @@
     "name": "Morningstar",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-<<<<<<< HEAD
-    "price": 5182,
-    "weight": 2.14,
-    "tier": 8.124802,
-=======
-    "price": 7576,
-    "weight": 1.87,
-    "tier": 10.0569248,
->>>>>>> 3f243fe (11.21 - Morningstar Edit)
+    "price": 3075,
+    "weight": 2.35,
+    "tier": 6.006117,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -17532,34 +17526,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-<<<<<<< HEAD
-        "length": 80,
-        "balance": 0.38,
-        "handling": 79,
-=======
         "length": 79,
-        "balance": 0.57,
-        "handling": 82,
->>>>>>> 3f243fe (11.21 - Morningstar Edit)
+        "balance": 0.26,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-<<<<<<< HEAD
-        "thrustDamage": 18,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 30,
-        "swingDamageType": "Pierce",
-        "swingSpeed": 81
-=======
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 84,
         "swingDamage": 31,
         "swingDamageType": "Pierce",
-        "swingSpeed": 87
->>>>>>> 3f243fe (11.21 - Morningstar Edit)
+        "swingSpeed": 77
       }
     ]
   },
@@ -29037,15 +29016,9 @@
     "name": "Spiked Mace",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-<<<<<<< HEAD
     "price": 3289,
     "weight": 1.83,
     "tier": 6.249227,
-=======
-    "price": 5127,
-    "weight": 1.62,
-    "tier": 8.075823,
->>>>>>> f2d92cf (11.19 - Spiked Mace)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29056,30 +29029,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-<<<<<<< HEAD
         "balance": 0.44,
         "handling": 87,
-=======
-        "balance": 0.6,
-        "handling": 91,
->>>>>>> f2d92cf (11.19 - Spiked Mace)
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 9,
         "thrustDamageType": "Pierce",
-<<<<<<< HEAD
         "thrustSpeed": 88,
         "swingDamage": 26,
         "swingDamageType": "Pierce",
         "swingSpeed": 83
-=======
-        "thrustSpeed": 90,
-        "swingDamage": 26,
-        "swingDamageType": "Pierce",
-        "swingSpeed": 87
->>>>>>> f2d92cf (11.19 - Spiked Mace)
       }
     ]
   },
