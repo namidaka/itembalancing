@@ -5002,7 +5002,7 @@
         "length": 70,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 5,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -13229,7 +13229,7 @@
         "length": 60,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 10,
+        "bodyArmor": 2,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -14589,7 +14589,7 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 200,
+        "stackAmount": 160,
         "length": 110,
         "balance": 0.0,
         "handling": 82,
@@ -27140,7 +27140,7 @@
         "length": 70,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 10,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
