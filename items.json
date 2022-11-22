@@ -8391,9 +8391,9 @@
     "name": "Desert Long Sword",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 74,
+    "price": 5488,
     "weight": 1.93,
-    "tier": 0.160905823,
+    "tier": 8.393385,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8410,10 +8410,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 12,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 13,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
         "swingSpeed": 80
       }
