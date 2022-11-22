@@ -2260,7 +2260,7 @@
 			<Piece id="crpg_greataxe_handle" Type="Handle" scale_factor="100"/>
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="crpg_long_greataxe" name="{=}Long Greataxe" crafting_template="crpg_TwoHandedPolearm">
+	<CraftedItem id="crpg_long_greataxe" name="{=}Long Greataxe" crafting_template="crpg_TwoHandedAxe">
 		<Pieces>
 			<Piece id="crpg_long_greataxe_blade" Type="Blade" scale_factor="120"/>
 			<Piece id="crpg_long_greataxe_handle" Type="Handle" scale_factor="120"/>

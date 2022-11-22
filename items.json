@@ -2188,9 +2188,9 @@
     "name": "Awlpike",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 10347,
+    "price": 21510,
     "weight": 2.22,
-    "tier": 7.78458,
+    "tier": 11.6982222,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2200,9 +2200,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 191,
-        "balance": 0.0,
-        "handling": 61,
+        "length": 169,
+        "balance": 0.21,
+        "handling": 65,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -2212,10 +2212,10 @@
         ],
         "thrustDamage": 29,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 69
+        "swingSpeed": 76
       }
     ]
   },
@@ -2964,9 +2964,9 @@
     "name": "Barmace",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 12914,
-    "weight": 2.39,
-    "tier": 9.561502,
+    "price": 20736,
+    "weight": 3.02,
+    "tier": 12.4074049,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2976,9 +2976,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 108,
-        "balance": 0.33,
-        "handling": 78,
+        "length": 94,
+        "balance": 0.25,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -2986,10 +2986,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
+        "thrustSpeed": 86,
         "swingDamage": 36,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 77
       }
     ]
   },
@@ -6148,43 +6148,6 @@
     ]
   },
   {
-    "id": "crpg_boulder_on_a_stick",
-    "name": "Boulder on a Stick",
-    "culture": "Battania",
-    "type": "TwoHandedWeapon",
-    "price": 50,
-    "weight": 3.2,
-    "tier": 6.057653E-05,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 109,
-        "balance": 0.0,
-        "handling": 59,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "TwoHandIdleOnMount",
-          "MultiplePenetration",
-          "CanKnockDown"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 5,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 60
-      }
-    ]
-  },
-  {
     "id": "crpg_bound_adarga",
     "name": "Wooden Adarga",
     "culture": "Aserai",
@@ -8026,9 +7989,9 @@
     "name": "Dawn",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 13733,
+    "price": 24826,
     "weight": 1.97,
-    "tier": 9.894058,
+    "tier": 13.67967,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8038,9 +8001,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 130,
-        "balance": 0.53,
-        "handling": 78,
+        "length": 128,
+        "balance": 0.61,
+        "handling": 80,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
@@ -8051,7 +8014,7 @@
         "thrustSpeed": 93,
         "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -11983,9 +11946,9 @@
     "name": "Gada",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 11599,
+    "price": 2308693,
     "weight": 2.0,
-    "tier": 9.005628,
+    "tier": 141.704987,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -11995,9 +11958,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 108,
-        "balance": 0.21,
-        "handling": 70,
+        "length": 110,
+        "balance": 0.45,
+        "handling": 78,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -12007,10 +11970,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 43,
         "swingDamageType": "Blunt",
-        "swingSpeed": 76
+        "swingSpeed": 83
       }
     ]
   },
@@ -12232,9 +12195,9 @@
     "name": "Greataxe",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 12245,
+    "price": 75769,
     "weight": 1.28,
-    "tier": 9.282491,
+    "tier": 24.7333126,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -12246,9 +12209,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 107,
-        "balance": 0.68,
-        "handling": 78,
+        "length": 92,
+        "balance": 0.85,
+        "handling": 83,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -12258,10 +12221,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 98,
+        "thrustSpeed": 99,
         "swingDamage": 47,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 95
       }
     ]
   },
@@ -17147,29 +17110,29 @@
     "id": "crpg_long_greataxe",
     "name": "Long Greataxe",
     "culture": "Neutral",
-    "type": "Polearm",
-    "price": 14405,
+    "type": "TwoHandedWeapon",
+    "price": 36896,
     "weight": 1.34,
-    "tier": 9.376427,
+    "tier": 16.9199333,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
     ],
     "weapons": [
       {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "class": "TwoHandedAxe",
+        "itemUsage": "twohanded_widegrip_axe",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 128,
-        "balance": 0.59,
-        "handling": 74,
+        "length": 111,
+        "balance": 0.68,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
-          "WideGrip",
+          "BonusAgainstShield",
           "TwoHandIdleOnMount"
         ],
         "thrustDamage": 0,
@@ -17177,7 +17140,7 @@
         "thrustSpeed": 98,
         "swingDamage": 44,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 90
       }
     ]
   },
@@ -30011,9 +29974,9 @@
     "name": "War Scythe",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 66,
+    "price": 60,
     "weight": 1.54,
-    "tier": 0.0529485345,
+    "tier": 0.0336317,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30023,9 +29986,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 140,
-        "balance": 0.77,
-        "handling": 78,
+        "length": 169,
+        "balance": 0.56,
+        "handling": 74,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -30038,7 +30001,7 @@
         "thrustSpeed": 96,
         "swingDamage": 11,
         "swingDamageType": "Cut",
-        "swingSpeed": 93
+        "swingSpeed": 86
       }
     ]
   },
@@ -31152,9 +31115,9 @@
     "name": "Winter",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 14184,
+    "price": 48285,
     "weight": 2.14,
-    "tier": 10.0729284,
+    "tier": 19.5169468,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -31164,9 +31127,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 133,
-        "balance": 0.43,
-        "handling": 76,
+        "length": 119,
+        "balance": 0.67,
+        "handling": 82,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
@@ -31177,7 +31140,7 @@
         "thrustSpeed": 92,
         "swingDamage": 42,
         "swingDamageType": "Cut",
-        "swingSpeed": 82
+        "swingSpeed": 90
       }
     ]
   },
