@@ -2237,7 +2237,7 @@
 	</CraftedItem>
 	<CraftedItem id="crpg_barmace" name="{=}Barmace" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="crpg_barmace_blade" Type="Blade" scale_factor="125"/>
+			<Piece id="crpg_barmace_blade" Type="Blade" scale_factor="160"/>
 			<Piece id="crpg_barmace_handle" Type="Handle" scale_factor="145"/>
 		</Pieces>
 	</CraftedItem>
