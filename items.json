@@ -13385,6 +13385,39 @@
     ]
   },
   {
+    "id": "crpg_horse_whip",
+    "name": "Horse Whip",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 50,
+    "weight": 0.2,
+    "tier": 0.0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 95,
+        "balance": 1.0,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 8,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 79,
+        "swingDamage": 8,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 99
+      }
+    ]
+  },
+  {
     "id": "crpg_horsemans_heater_shield",
     "name": "Small Cavalry Heater Shield",
     "culture": "Vlandia",
@@ -28524,17 +28557,17 @@
     "name": "Spiked Battle Axe",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 326,
+    "price": 38326,
     "weight": 0.74,
-    "tier": 1.27173424,
+    "tier": 24.0328178,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
     ],
     "weapons": [
       {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -28543,13 +28576,12 @@
         "handling": 89,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon",
-          "BonusAgainstShield"
+          "MeleeWeapon"
         ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
         "thrustSpeed": 98,
-        "swingDamage": 20,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 94
       }
