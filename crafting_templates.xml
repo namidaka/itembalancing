@@ -442,6 +442,7 @@
       <WeaponDescription id="crpg_OneHandedBastardSword" />
       <WeaponDescription id="crpg_TwoHandedSword" />
       <WeaponDescription id="crpg_OneHandedBastardSwordAlternative" />
+      <WeaponDescription id="crpg_OneHandedBastardSwordAlternative" />
     </WeaponDescriptions>
     <StatsData>
       <StatData stat_type="Weight" max_value="7.0" />
@@ -465,8 +466,6 @@
       <UsablePiece piece_id="crpg_barmace_handle" />
       <UsablePiece piece_id="crpg_desert_long_sword_t4_pommel" />
       <UsablePiece piece_id="crpg_desert_long_sword_t4_handle" />
-      <UsablePiece piece_id="crpg_desert_long_sword_t4_guard" />
-      <UsablePiece piece_id="crpg_desert_long_sword_t4_blade" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_guard" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_handle" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_pommel" />
