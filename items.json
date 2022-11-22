@@ -10790,9 +10790,9 @@
     "name": "Fine Steel Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 7039,
-    "weight": 1.87,
-    "tier": 9.653089,
+    "price": 5242,
+    "weight": 1.91,
+    "tier": 8.17785,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -10805,18 +10805,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.48,
-        "handling": 87,
+        "balance": 0.46,
+        "handling": 86,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 83
       }
     ]
   },
