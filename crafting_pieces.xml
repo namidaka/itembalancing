@@ -3295,7 +3295,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_2hsword_3_t3_pommel" name="{=d4aLa7tz}Top Pommel" tier="3" piece_type="Pommel" mesh="empire_pommel_4" culture="Culture.empire" length="6.795" weight="0.110">
+  <CraftingPiece id="crpg_battania_2hsword_3_t3_pommel" name="{=d4aLa7tz}Top Pommel" tier="3" piece_type="Pommel" mesh="empire_pommel_4" culture="Culture.empire" length="6.795" weight="0.4">
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
@@ -3788,7 +3788,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_2hsword_3_t3_handle" name="{=jzzZDEw7}Long Wire Grip" tier="5" piece_type="Handle" mesh="battania_grip_2" culture="Culture.battania" length="30.5" weight="0.20" item_holster_pos_shift="0,0,-0.02">
+  <CraftingPiece id="crpg_battania_2hsword_3_t3_handle" name="{=jzzZDEw7}Long Wire Grip" tier="5" piece_type="Handle" mesh="battania_grip_2" culture="Culture.battania" length="30.5" weight="2.0" item_holster_pos_shift="0,0,-0.02">
     <BuildData piece_offset="-6.75" next_piece_offset="0.133" previous_piece_offset="0.417" />
     <Materials>
       <Material id="Iron4" count="1" />
@@ -4717,7 +4717,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_2hsword_3_t3_guard" name="{=kp8hUsXA}Embroiled Rectangular Northern Guard" tier="3" piece_type="Guard" mesh="sturgian_guard_10" culture="Culture.sturgia" length="3.718" weight="0.20">
+  <CraftingPiece id="crpg_battania_2hsword_3_t3_guard" name="{=kp8hUsXA}Embroiled Rectangular Northern Guard" tier="3" piece_type="Guard" mesh="sturgian_guard_10" culture="Culture.sturgia" length="3.718" weight="0.2">
     <BuildData next_piece_offset="0.466" />
     <StatContributions armor_bonus="4" />
     <Materials>
@@ -5206,7 +5206,7 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_battania_2hsword_3_t3_blade" name="{=GXhZ8NKv}Wide Fullered Northern Blade" tier="3" piece_type="Blade" mesh="sturgian_blade_3" culture="Culture.sturgia" length="87.3" weight="1.68">
+  <CraftingPiece id="crpg_battania_2hsword_3_t3_blade" name="{=GXhZ8NKv}Wide Fullered Northern Blade" tier="3" piece_type="Blade" mesh="sturgian_blade_3" culture="Culture.sturgia" length="87.3" weight="0.55">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sturgian_blade_3_scabbard_3">
       <Thrust damage_type="Pierce" damage_factor="2.4" />
       <Swing damage_type="Cut" damage_factor="3.5" />
