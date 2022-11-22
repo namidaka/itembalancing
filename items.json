@@ -3134,9 +3134,9 @@
     "name": "Northlander Wide Fullered Greatsword",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 10662,
+    "price": 15391,
     "weight": 1.88,
-    "tier": 8.589935,
+    "tier": 10.5378551,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -3190,9 +3190,9 @@
     "name": "Falx",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 9597,
-    "weight": 1.96,
-    "tier": 8.094674,
+    "price": 12386,
+    "weight": 2.01,
+    "tier": 9.341818,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -3300,9 +3300,9 @@
     "name": "Battanian Mountain Blade",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 3805,
+    "price": 9554,
     "weight": 1.95,
-    "tier": 4.7123456,
+    "tier": 8.073981,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -6434,6 +6434,72 @@
     ]
   },
   {
+    "id": "crpg_broad_arrows_a",
+    "name": "Broad Head Arrows",
+    "culture": "Neutral",
+    "type": "Arrows",
+    "price": 2163,
+    "weight": 0.098,
+    "tier": 6.575722,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Arrow",
+        "itemUsage": "arrow_right",
+        "accuracy": 100,
+        "missileSpeed": 10,
+        "stackAmount": 22,
+        "length": 97,
+        "balance": 0.0,
+        "handling": 0,
+        "bodyArmor": 0,
+        "flags": [
+          "Consumable"
+        ],
+        "thrustDamage": 10,
+        "thrustDamageType": "Cut",
+        "thrustSpeed": 0,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 0
+      }
+    ]
+  },
+  {
+    "id": "crpg_broad_arrows_b",
+    "name": "Light Broad Head Arrows",
+    "culture": "Neutral",
+    "type": "Arrows",
+    "price": 1265,
+    "weight": 0.078,
+    "tier": 4.752814,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Arrow",
+        "itemUsage": "arrow_right",
+        "accuracy": 100,
+        "missileSpeed": 10,
+        "stackAmount": 33,
+        "length": 97,
+        "balance": 0.0,
+        "handling": 0,
+        "bodyArmor": 0,
+        "flags": [
+          "Consumable"
+        ],
+        "thrustDamage": 6,
+        "thrustDamageType": "Cut",
+        "thrustSpeed": 0,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 0
+      }
+    ]
+  },
+  {
     "id": "crpg_broad_falchion_sword_t3",
     "name": "Pointed Falchion",
     "culture": "Neutral",
@@ -7040,9 +7106,9 @@
     "name": "Two-Handed Cleaver ",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 10092,
-    "weight": 2.78,
-    "tier": 8.328096,
+    "price": 13030,
+    "weight": 2.82,
+    "tier": 9.609537,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8463,9 +8529,9 @@
     "name": "Early Retirement",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 3700,
+    "price": 9061,
     "weight": 1.52,
-    "tier": 4.63270664,
+    "tier": 7.834974,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -18006,41 +18072,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_narrow_sword_t3",
-    "name": "Narrow Sword",
-    "culture": "Neutral",
-    "type": "OneHandedWeapon",
-    "price": 90,
-    "weight": 1.52,
-    "tier": 0.260448456,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 94,
-        "balance": 0.63,
-        "handling": 91,
-        "bodyArmor": 3,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 9,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 12,
-        "swingDamageType": "Cut",
-        "swingSpeed": 88
-      }
-    ]
-  },
-  {
     "id": "crpg_nasal_cervelliere_over_laced_coif",
     "name": "Nasal Cervelliere over Laced Coif",
     "culture": "Vlandia",
@@ -18839,9 +18870,9 @@
     "name": "Fine Steel Two Handed Sword",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 7961,
+    "price": 14595,
     "weight": 1.81,
-    "tier": 7.277912,
+    "tier": 10.2331781,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -22013,9 +22044,9 @@
     "name": "Reaper",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 3760,
-    "weight": 2.2,
-    "tier": 4.67838144,
+    "price": 11357,
+    "weight": 2.22,
+    "tier": 8.899679,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -22223,9 +22254,9 @@
     "name": "Ridged Great Saber",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 50,
-    "weight": 2.19,
-    "tier": 7.30296E-06,
+    "price": 8001,
+    "weight": 1.63,
+    "tier": 7.29842854,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -22931,9 +22962,9 @@
     "name": "Sentinel",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 11110,
+    "price": 15129,
     "weight": 1.83,
-    "tier": 8.790476,
+    "tier": 10.4384365,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -23495,9 +23526,9 @@
     "name": "Broad Kaskara",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 10534,
+    "price": 14254,
     "weight": 1.59,
-    "tier": 8.531703,
+    "tier": 10.1002731,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -28188,9 +28219,9 @@
     "name": "Wide Fullered Broad Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 11099,
+    "price": 15025,
     "weight": 1.79,
-    "tier": 8.785651,
+    "tier": 10.3987417,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -28222,9 +28253,9 @@
     "name": "Thamaskene Steel Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 10909,
-    "weight": 2.13,
-    "tier": 8.701123,
+    "price": 14920,
+    "weight": 2.12,
+    "tier": 10.35849,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29415,9 +29446,9 @@
     "name": "War Razor",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 3453,
-    "weight": 2.54,
-    "tier": 4.441885,
+    "price": 9314,
+    "weight": 2.39,
+    "tier": 7.958677,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -29526,9 +29557,9 @@
     "name": "Broad Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 11081,
+    "price": 15166,
     "weight": 1.88,
-    "tier": 8.77782249,
+    "tier": 10.4525185,
     "requirement": 0,
     "flags": [],
     "weapons": [
