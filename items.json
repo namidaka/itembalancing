@@ -13504,9 +13504,9 @@
     "name": "Tzikourion",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 50,
-    "weight": 10.36,
-    "tier": 3.63126164E-05,
+    "price": 189,
+    "weight": 1.08,
+    "tier": 0.7486389,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -13519,8 +13519,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 81,
-        "balance": 0.0,
-        "handling": 32,
+        "balance": 0.63,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -13528,10 +13528,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 52,
-        "swingDamage": 100,
+        "thrustSpeed": 94,
+        "swingDamage": 23,
         "swingDamageType": "Cut",
-        "swingSpeed": 15
+        "swingSpeed": 88
       }
     ]
   },
@@ -25758,9 +25758,9 @@
     "name": "Drilled Two Handed Axe",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 33292226,
+    "price": 3176,
     "weight": 1.03,
-    "tier": 541.3652,
+    "tier": 4.21837759,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -25785,7 +25785,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 100,
-        "swingDamage": 100,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 94
       }
