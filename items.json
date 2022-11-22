@@ -745,9 +745,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 62,
-        "balance": 0.98,
-        "handling": 97,
+        "length": 89,
+        "balance": 0.81,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -755,10 +755,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 96,
-        "swingDamage": 11,
+        "thrustSpeed": 97,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
-        "swingSpeed": 99
+        "swingSpeed": 94
       }
     ]
   },
@@ -2225,8 +2225,8 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 73,
-        "balance": 0.48,
+        "length": 91,
+        "balance": 0.58,
         "handling": 83,
         "bodyArmor": 0,
         "flags": [
@@ -2235,10 +2235,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 96,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 87
       }
     ]
   },
@@ -3410,9 +3410,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 65,
-        "balance": 0.84,
-        "handling": 93,
+        "length": 86,
+        "balance": 0.87,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -3420,10 +3420,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 34,
+        "thrustSpeed": 97,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 95
+        "swingSpeed": 96
       }
     ]
   },
@@ -21106,9 +21106,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 45,
-        "balance": 1.0,
-        "handling": 108,
+        "length": 65,
+        "balance": 0.98,
+        "handling": 98,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -21116,10 +21116,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 96,
-        "swingDamage": 8,
+        "thrustSpeed": 94,
+        "swingDamage": 17,
         "swingDamageType": "Cut",
-        "swingSpeed": 108
+        "swingSpeed": 99
       }
     ]
   },
@@ -21219,9 +21219,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 50,
-        "balance": 1.0,
-        "handling": 106,
+        "length": 72,
+        "balance": 0.51,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -21229,10 +21229,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 96,
-        "swingDamage": 16,
+        "thrustSpeed": 90,
+        "swingDamage": 20,
         "swingDamageType": "Pierce",
-        "swingSpeed": 107
+        "swingSpeed": 85
       }
     ]
   },
@@ -25847,9 +25847,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 65,
-        "balance": 0.91,
-        "handling": 95,
+        "length": 71,
+        "balance": 0.9,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -25858,7 +25858,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 96,
-        "swingDamage": 11,
+        "swingDamage": 27,
         "swingDamageType": "Cut",
         "swingSpeed": 97
       }
@@ -25919,9 +25919,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 62,
-        "balance": 0.82,
-        "handling": 93,
+        "length": 92,
+        "balance": 0.81,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -25929,8 +25929,8 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 13,
+        "thrustSpeed": 97,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 94
       }
