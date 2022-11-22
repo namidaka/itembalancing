@@ -3411,8 +3411,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 65,
-        "balance": 0.87,
-        "handling": 94,
+        "balance": 0.84,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -3420,10 +3420,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 95,
-        "swingDamage": 20,
+        "thrustSpeed": 94,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 96
+        "swingSpeed": 95
       }
     ]
   },
@@ -3446,9 +3446,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 68,
-        "balance": 0.82,
-        "handling": 91,
+        "length": 73,
+        "balance": 0.87,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -3456,10 +3456,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 96,
-        "swingDamage": 13,
+        "thrustSpeed": 97,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 94
+        "swingSpeed": 96
       }
     ]
   },
