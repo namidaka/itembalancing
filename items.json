@@ -1431,9 +1431,9 @@
     "name": "Fullered Light Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 77,
-    "weight": 1.32,
-    "tier": 0.1803411,
+    "price": 2273,
+    "weight": 1.72,
+    "tier": 5.01171827,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1444,18 +1444,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 55,
-        "balance": 1.0,
-        "handling": 102,
+        "balance": 0.75,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 7,
+        "thrustSpeed": 89,
+        "swingDamage": 18,
         "swingDamageType": "Blunt",
-        "swingSpeed": 101
+        "swingSpeed": 92
       }
     ]
   },
@@ -1464,9 +1464,9 @@
     "name": "Heavy Horsemans Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 75,
-    "weight": 1.86,
-    "tier": 0.165770859,
+    "price": 5248,
+    "weight": 1.29,
+    "tier": 8.18357849,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1476,19 +1476,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 66,
-        "balance": 0.57,
-        "handling": 92,
+        "length": 111,
+        "balance": 0.29,
+        "handling": 77,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 88,
-        "swingDamage": 9,
+        "thrustSpeed": 92,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 78
       }
     ]
   },
@@ -4360,9 +4360,9 @@
     "name": "Knobbed Club",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 65,
-    "weight": 1.34,
-    "tier": 0.104478121,
+    "price": 2806,
+    "weight": 2.44,
+    "tier": 5.68886471,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -4373,18 +4373,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 54,
-        "balance": 1.0,
-        "handling": 101,
+        "balance": 0.33,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 6,
+        "thrustSpeed": 83,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 100
+        "swingSpeed": 79
       }
     ]
   },
@@ -14356,9 +14356,9 @@
     "name": "Judgement",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 104,
-    "weight": 1.83,
-    "tier": 0.337212473,
+    "price": 5635,
+    "weight": 3.17,
+    "tier": 8.519594,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -14368,19 +14368,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 57,
-        "balance": 0.83,
-        "handling": 100,
+        "length": 60,
+        "balance": 0.0,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 88,
-        "swingDamage": 9,
+        "thrustSpeed": 78,
+        "swingDamage": 36,
         "swingDamageType": "Blunt",
-        "swingSpeed": 94
+        "swingSpeed": 69
       }
     ]
   },
@@ -15247,9 +15247,9 @@
     "name": "Heavy Flanged Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 70,
-    "weight": 2.29,
-    "tier": 0.138890028,
+    "price": 4198,
+    "weight": 2.09,
+    "tier": 7.201998,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15260,18 +15260,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 74,
-        "balance": 0.38,
-        "handling": 82,
+        "balance": 0.53,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 10,
+        "thrustSpeed": 85,
+        "swingDamage": 23,
         "swingDamageType": "Blunt",
-        "swingSpeed": 81
+        "swingSpeed": 85
       }
     ]
   },
@@ -15725,9 +15725,9 @@
     "name": "Knight's Fall",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 73,
+    "price": 3677,
     "weight": 1.9,
-    "tier": 0.154818937,
+    "tier": 6.669979,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15747,7 +15747,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 9,
+        "swingDamage": 21,
         "swingDamageType": "Blunt",
         "swingSpeed": 95
       }
@@ -16766,9 +16766,9 @@
     "name": "Light Mace",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 79,
+    "price": 511,
     "weight": 1.8,
-    "tier": 0.193389192,
+    "tier": 1.83297563,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16788,7 +16788,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 88,
-        "swingDamage": 9,
+        "swingDamage": 15,
         "swingDamageType": "Blunt",
         "swingSpeed": 99
       }
