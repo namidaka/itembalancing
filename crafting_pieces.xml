@@ -37,7 +37,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
- <CraftingPiece id="crpg_2hmorningstar_mace_t3_handle" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.25" CraftingCost="75">
+ <CraftingPiece id="crpg_2hmorningstar_mace_t3_handle" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.32" CraftingCost="75">
     <BuildData piece_offset="18" />
     <Materials>
       <Material id="Wood" count="1" />

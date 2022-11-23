@@ -4,9 +4,9 @@
     "name": "Heavy Morningstar",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 12710,
-    "weight": 2.06,
-    "tier": 9.477204,
+    "price": 9864,
+    "weight": 2.16,
+    "tier": 8.22104,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -17,8 +17,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 99,
-        "balance": 0.61,
-        "handling": 82,
+        "balance": 0.57,
+        "handling": 81,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -30,7 +30,7 @@
         "thrustSpeed": 92,
         "swingDamage": 30,
         "swingDamageType": "Pierce",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
