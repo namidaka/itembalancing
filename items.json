@@ -7209,9 +7209,9 @@
     "name": "Two-Handed Cleaver ",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 14461,
-    "weight": 3.18,
-    "tier": 10.1814165,
+    "price": 14068,
+    "weight": 3.12,
+    "tier": 10.0271368,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -7222,7 +7222,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 128,
-        "balance": 0.19,
+        "balance": 0.21,
         "handling": 76,
         "bodyArmor": 2,
         "flags": [
@@ -7232,10 +7232,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 48,
+        "thrustSpeed": 86,
+        "swingDamage": 47,
         "swingDamageType": "Cut",
-        "swingSpeed": 75
+        "swingSpeed": 76
       }
     ]
   },
