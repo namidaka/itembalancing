@@ -515,7 +515,7 @@
   },
   {
     "id": "crpg_aserai_2haxe_1_t3",
-    "name": "Chainbreaker",
+    "name": "Short Handled Bardiche",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
     "price": 41740,
@@ -6261,7 +6261,7 @@
         "length": 95,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 2,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -7866,7 +7866,7 @@
         "length": 66,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 2,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -10651,7 +10651,7 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 95,
         "swingDamage": 38,
@@ -11448,7 +11448,7 @@
         "length": 95,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -13091,7 +13091,7 @@
         "length": 60,
         "balance": 0.0,
         "handling": 120,
-        "bodyArmor": 4,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -16156,7 +16156,7 @@
         "length": 60,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 2,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -19387,8 +19387,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 115,
-        "balance": 0.98,
-        "handling": 87,
+        "balance": 0.97,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -20089,7 +20089,7 @@
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 93,
-        "swingDamage": 14,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
         "swingSpeed": 45
       },
@@ -20112,7 +20112,7 @@
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 100,
-        "swingDamage": 14,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
         "swingSpeed": 85
       },
@@ -20135,7 +20135,7 @@
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 100,
-        "swingDamage": 14,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
         "swingSpeed": 85
       }
@@ -20166,7 +20166,7 @@
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
         "swingDamage": 21,
@@ -20189,7 +20189,7 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 96,
         "swingDamage": 21,
@@ -20212,7 +20212,7 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 96,
         "swingDamage": 21,
@@ -21091,7 +21091,7 @@
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -22582,7 +22582,7 @@
         "length": 110,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 2,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -22620,7 +22620,7 @@
         "length": 78,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -24316,7 +24316,7 @@
         "length": 110,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -25939,7 +25939,7 @@
         "length": 60,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 2,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -28242,7 +28242,7 @@
         "length": 60,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 5,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -29859,7 +29859,7 @@
           "BonusAgainstShield",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 97,
         "swingDamage": 48,
@@ -30229,7 +30229,7 @@
         "thrustSpeed": 89,
         "swingDamage": 38,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 84
       }
     ]
   },
@@ -30634,7 +30634,7 @@
         "length": 110,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 5,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -30834,7 +30834,7 @@
         "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
-        "swingDamage": 12,
+        "swingDamage": 14,
         "swingDamageType": "Blunt",
         "swingSpeed": 49
       },
@@ -30857,7 +30857,7 @@
         "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 99,
-        "swingDamage": 12,
+        "swingDamage": 14,
         "swingDamageType": "Blunt",
         "swingSpeed": 87
       },
@@ -30880,7 +30880,7 @@
         "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 99,
-        "swingDamage": 12,
+        "swingDamage": 14,
         "swingDamageType": "Blunt",
         "swingSpeed": 87
       }
@@ -31266,7 +31266,7 @@
         "length": 90,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 1,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
