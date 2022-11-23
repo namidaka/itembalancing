@@ -8995,9 +8995,9 @@
     "name": "Long Steel Mace",
     "culture": "Khuzait",
     "type": "TwoHandedWeapon",
-    "price": 14211,
-    "weight": 1.57,
-    "tier": 10.0835648,
+    "price": 13402,
+    "weight": 1.89,
+    "tier": 9.760807,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -9008,8 +9008,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 135,
-        "balance": 0.19,
-        "handling": 70,
+        "balance": 0.15,
+        "handling": 69,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -9018,10 +9018,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 33,
+        "thrustSpeed": 92,
+        "swingDamage": 34,
         "swingDamageType": "Blunt",
-        "swingSpeed": 75
+        "swingSpeed": 74
       }
     ]
   },

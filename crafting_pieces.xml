@@ -208,7 +208,7 @@
   </CraftingPiece>
     <CraftingPiece id="crpg_eastern_long_steel_mace_t4_blade" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.39 " full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="3.3" />
+      <Swing damage_type="Blunt" damage_factor="3.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -2867,7 +2867,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-    <CraftingPiece id="crpg_eastern_long_steel_mace_t4_pommel" name="{=8gW1o7iH}Western Lobed Pommel" tier="4" piece_type="Pommel" mesh="vlandian_pommel_2" culture="Culture.vlandia" length="7.9" weight="0.08">
+    <CraftingPiece id="crpg_eastern_long_steel_mace_t4_pommel" name="{=8gW1o7iH}Western Lobed Pommel" tier="4" piece_type="Pommel" mesh="vlandian_pommel_2" culture="Culture.vlandia" length="7.9" weight="0.4">
     <BuildData next_piece_offset="0.1" />
     <Materials>
       <Material id="Iron4" count="1" />
