@@ -23675,9 +23675,9 @@
     "name": "Sentinel",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 14240,
+    "price": 13693,
     "weight": 2.62,
-    "tier": 10.0947285,
+    "tier": 9.878063,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -23697,7 +23697,7 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
         "swingDamage": 37,
@@ -30387,9 +30387,9 @@
     "name": "Broad Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 14245,
-    "weight": 2.54,
-    "tier": 10.0966139,
+    "price": 12414,
+    "weight": 2.61,
+    "tier": 9.35364,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30400,8 +30400,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 140,
-        "balance": 0.36,
-        "handling": 79,
+        "balance": 0.33,
+        "handling": 78,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
