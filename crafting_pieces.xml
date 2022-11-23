@@ -5932,10 +5932,10 @@
 <Material id="Iron3" count="1"/>
 </Materials>
 </CraftingPiece>
-<CraftingPiece id="crpg_winter_blade" name="{=}Ice Blade" tier="4" piece_type="Blade" mesh="ice_blade" culture="Culture.battania" length="81.1" weight="1.0">
+<CraftingPiece id="crpg_winter_blade" name="{=}Ice Blade" tier="4" piece_type="Blade" mesh="ice_blade" culture="Culture.battania" length="81.1" weight="1.03">
 <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-<Thrust damage_type="Pierce" damage_factor="1.5"/>
-<Swing damage_type="Cut" damage_factor="4.2"/>
+<Thrust damage_type="Pierce" damage_factor="1.4"/>
+<Swing damage_type="Cut" damage_factor="3.9"/>
 </BladeData>
 <Materials>
 <Material id="Iron5" count="4"/>
@@ -5980,9 +5980,9 @@
 <Material id="Wood" count="1"/>
 </Materials>
 </CraftingPiece>
-<CraftingPiece id="crpg_gada_blade" name="{=}Gada Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="1.000" full_scale="true" excluded_item_usage_features="shield:thrust">
+<CraftingPiece id="crpg_gada_blade" name="{=}Gada Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="1.35" full_scale="true" excluded_item_usage_features="shield:thrust">
 <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
-<Swing damage_type="Blunt" damage_factor="4.3"/>
+<Swing damage_type="Blunt" damage_factor="2.9"/>
 </BladeData>
 <Flags>
 <Flag name="CanKnockDown"/>

@@ -11904,9 +11904,9 @@
     "name": "Gada",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 2308693,
-    "weight": 2.0,
-    "tier": 141.704987,
+    "price": 12851,
+    "weight": 2.35,
+    "tier": 9.535659,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -11917,8 +11917,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 110,
-        "balance": 0.45,
-        "handling": 78,
+        "balance": 0.21,
+        "handling": 73,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -11928,10 +11928,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 43,
+        "thrustSpeed": 89,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 76
       }
     ]
   },
@@ -31435,9 +31435,9 @@
     "name": "Winter",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 48285,
-    "weight": 2.14,
-    "tier": 19.5169468,
+    "price": 12920,
+    "weight": 2.38,
+    "tier": 9.564268,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -31447,20 +31447,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 119,
-        "balance": 0.67,
-        "handling": 82,
+        "length": 135,
+        "balance": 0.43,
+        "handling": 78,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 42,
+        "thrustSpeed": 90,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 83
       }
     ]
   },
