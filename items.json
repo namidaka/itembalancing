@@ -342,26 +342,6 @@
     "flags": [],
     "weapons": [
       {
-        "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_rshield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 113,
-        "balance": 0.0,
-        "handling": 77,
-        "bodyArmor": 3,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 16,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 80,
-        "swingDamage": 37,
-        "swingDamageType": "Cut",
-        "swingSpeed": 70
-      },
-      {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
         "accuracy": 0,
