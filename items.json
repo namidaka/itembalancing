@@ -5826,7 +5826,7 @@
     "culture": "Neutral",
     "type": "Bolts",
     "price": 5107,
-    "weight": 0.04,
+    "weight": 0.1,
     "tier": 7.659239,
     "requirement": 0,
     "flags": [
@@ -5862,7 +5862,7 @@
     "culture": "Vlandia",
     "type": "Bolts",
     "price": 6641,
-    "weight": 0.05,
+    "weight": 0.15,
     "tier": 8.888707,
     "requirement": 0,
     "flags": [
@@ -5898,7 +5898,7 @@
     "culture": "Vlandia",
     "type": "Bolts",
     "price": 8200,
-    "weight": 0.06,
+    "weight": 0.2,
     "tier": 10.0,
     "requirement": 0,
     "flags": [
@@ -5934,7 +5934,7 @@
     "culture": "Empire",
     "type": "Bolts",
     "price": 3738,
-    "weight": 0.03,
+    "weight": 0.08,
     "tier": 6.39489746,
     "requirement": 0,
     "flags": [
@@ -5970,7 +5970,7 @@
     "culture": "Empire",
     "type": "Bolts",
     "price": 2600,
-    "weight": 0.02,
+    "weight": 0.05,
     "tier": 5.15461874,
     "requirement": 0,
     "flags": [
@@ -6028,6 +6028,42 @@
           "Consumable"
         ],
         "thrustDamage": 14,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 0,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 0
+      }
+    ]
+  },
+  {
+    "id": "crpg_bolt_g",
+    "name": "Light Precision Bolts",
+    "culture": "Vlandia",
+    "type": "Bolts",
+    "price": 2064,
+    "weight": 0.15,
+    "tier": 4.47672653,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone"
+    ],
+    "weapons": [
+      {
+        "class": "Bolt",
+        "itemUsage": "",
+        "accuracy": 100,
+        "missileSpeed": 20,
+        "stackAmount": 10,
+        "length": 47,
+        "balance": 0.0,
+        "handling": 0,
+        "bodyArmor": 0,
+        "flags": [
+          "AttachAmmoToVisual",
+          "Consumable"
+        ],
+        "thrustDamage": 0,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 0,
         "swingDamage": 0,
@@ -7523,7 +7559,7 @@
   },
   {
     "id": "crpg_crossbow_a",
-    "name": "Simple Light Crossbow",
+    "name": "Peasant Light Crossbow",
     "culture": "Empire",
     "type": "Crossbow",
     "price": 1325,
@@ -7599,7 +7635,7 @@
   },
   {
     "id": "crpg_crossbow_c",
-    "name": "Huntsman's Heavy Arbalest",
+    "name": "Heavy Hunting Crossbow",
     "culture": "Vlandia",
     "type": "Crossbow",
     "price": 9218,
@@ -7637,7 +7673,7 @@
   },
   {
     "id": "crpg_crossbow_d",
-    "name": "Knight's Heavy Arbalest",
+    "name": "Nobleman's Heavy Arbalest",
     "culture": "Empire",
     "type": "Crossbow",
     "price": 13786,
@@ -7675,7 +7711,7 @@
   },
   {
     "id": "crpg_crossbow_e",
-    "name": "Light Crossbow",
+    "name": "Farmer's Light Crossbow",
     "culture": "Vlandia",
     "type": "Crossbow",
     "price": 3154,
@@ -7751,7 +7787,7 @@
   },
   {
     "id": "crpg_crossbow_g",
-    "name": "Fine Light Crossbow",
+    "name": "Squire's Light Crossbow",
     "culture": "Vlandia",
     "type": "Crossbow",
     "price": 5708,
@@ -7788,7 +7824,7 @@
   },
   {
     "id": "crpg_crossbow_h",
-    "name": "Squire's Light Crossbow",
+    "name": "Knight's Light Crossbow",
     "culture": "Vlandia",
     "type": "Crossbow",
     "price": 7509,
