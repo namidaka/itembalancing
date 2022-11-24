@@ -840,7 +840,7 @@
       <Piece id="crpg_sturgia_sword_1_t2_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Ridged Iron Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Iron Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_sword_1_t2_blade" Type="Blade" scale_factor="109" />
       <Piece id="crpg_battania_sword_1_t2_guard" Type="Guard" scale_factor="100" />
@@ -1168,7 +1168,7 @@
       <Piece id="crpg_sturgia_sword_5_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_battania_sword_5_t5" name="{=l9kAJ1Xh}Highland Broad Blade" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_battania_sword_5_t5" name="{=l9kAJ1Xh}Highland Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_sword_5_t5_blade" Type="Blade" scale_factor="115" />
       <Piece id="crpg_battania_sword_5_t5_guard" Type="Guard" scale_factor="100" />
