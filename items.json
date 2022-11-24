@@ -6532,9 +6532,9 @@
     "name": "Iron Pointed Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5497,
-    "weight": 1.62,
-    "tier": 8.40157,
+    "price": 3332,
+    "weight": 1.75,
+    "tier": 6.29623556,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6545,18 +6545,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.53,
-        "handling": 85,
+        "balance": 0.43,
+        "handling": 83,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 88,
         "swingDamage": 25,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 82
       }
     ]
   },
@@ -6631,9 +6631,9 @@
     "name": "Pointed Falchion",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4968,
-    "weight": 1.9,
-    "tier": 7.93177032,
+    "price": 4519,
+    "weight": 2.1,
+    "tier": 7.513823,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6644,18 +6644,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 108,
-        "balance": 0.44,
-        "handling": 87,
+        "balance": 0.53,
+        "handling": 82,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 30,
+        "thrustSpeed": 85,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 85
       }
     ]
   },
@@ -7268,9 +7268,9 @@
     "name": "Iron Cleaver",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 2746,
+    "price": 3118,
     "weight": 2.28,
-    "tier": 5.61543131,
+    "tier": 6.05494165,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -7287,7 +7287,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 32,
@@ -8023,9 +8023,9 @@
     "name": "Dawnbreaker",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 7147,
-    "weight": 1.68,
-    "tier": 9.735505,
+    "price": 7046,
+    "weight": 2.15,
+    "tier": 9.658815,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -8039,15 +8039,15 @@
         "stackAmount": 0,
         "length": 102,
         "balance": 0.48,
-        "handling": 88,
+        "handling": 84,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 31,
+        "thrustSpeed": 85,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -11205,9 +11205,9 @@
     "name": "Iron Falchion",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 3190,
-    "weight": 1.98,
-    "tier": 6.137142,
+    "price": 3758,
+    "weight": 2.06,
+    "tier": 6.75475073,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -11220,16 +11220,16 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 97,
-        "balance": 0.56,
-        "handling": 92,
+        "balance": 0.55,
+        "handling": 90,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 12,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 27,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
         "swingSpeed": 86
       }
@@ -24002,9 +24002,9 @@
     "name": "Short Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 4805,
-    "weight": 1.95,
-    "tier": 7.78222752,
+    "price": 4514,
+    "weight": 2.29,
+    "tier": 7.509364,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -24017,18 +24017,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.63,
-        "handling": 92,
+        "balance": 0.7,
+        "handling": 87,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 29,
+        "thrustSpeed": 85,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 90
       }
     ]
   },
@@ -27980,9 +27980,9 @@
     "name": "Scalpel",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6786,
-    "weight": 1.9,
-    "tier": 9.457925,
+    "price": 6768,
+    "weight": 2.22,
+    "tier": 9.444033,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -27993,7 +27993,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 110,
-        "balance": 0.48,
+        "balance": 0.56,
         "handling": 84,
         "bodyArmor": 5,
         "flags": [
@@ -28001,10 +28001,10 @@
         ],
         "thrustDamage": 10,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 33,
+        "thrustSpeed": 85,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -28822,9 +28822,9 @@
     "name": "Tyrhung",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6688,
+    "price": 6953,
     "weight": 1.63,
-    "tier": 9.381266,
+    "tier": 9.587602,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -28846,7 +28846,7 @@
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 26,
+        "swingDamage": 27,
         "swingDamageType": "Cut",
         "swingSpeed": 80
       }
@@ -29849,9 +29849,9 @@
     "name": "Decorated Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 4229,
-    "weight": 2.35,
-    "tier": 7.23261547,
+    "price": 7368,
+    "weight": 2.23,
+    "tier": 9.902038,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -29864,18 +29864,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 96,
-        "balance": 0.31,
-        "handling": 84,
+        "balance": 0.47,
+        "handling": 83,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 85,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 84
       }
     ]
   },
@@ -29884,9 +29884,9 @@
     "name": "Fine Steel Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5785,
-    "weight": 1.95,
-    "tier": 8.647546,
+    "price": 5715,
+    "weight": 2.23,
+    "tier": 8.587589,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -29899,18 +29899,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 100,
-        "balance": 0.42,
-        "handling": 88,
+        "balance": 0.48,
+        "handling": 83,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 32,
+        "thrustSpeed": 85,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 82
+        "swingSpeed": 84
       }
     ]
   },
@@ -29919,9 +29919,9 @@
     "name": "Engraved Pointed Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 6555,
-    "weight": 2.07,
-    "tier": 9.276565,
+    "price": 7455,
+    "weight": 2.33,
+    "tier": 9.967127,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -29934,18 +29934,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.29,
-        "handling": 84,
+        "balance": 0.35,
+        "handling": 83,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 26,
+        "thrustSpeed": 84,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
-        "swingSpeed": 78
+        "swingSpeed": 80
       }
     ]
   },
@@ -29954,9 +29954,9 @@
     "name": "Crescent Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 4741,
-    "weight": 2.03,
-    "tier": 7.723208,
+    "price": 4268,
+    "weight": 2.23,
+    "tier": 7.270982,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -29970,15 +29970,15 @@
         "stackAmount": 0,
         "length": 95,
         "balance": 0.49,
-        "handling": 90,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 30,
+        "thrustSpeed": 85,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -30087,9 +30087,9 @@
     "name": "Iron Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3043,
-    "weight": 1.78,
-    "tier": 5.968808,
+    "price": 2667,
+    "weight": 2.1,
+    "tier": 5.518829,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -30102,18 +30102,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 94,
-        "balance": 0.56,
-        "handling": 87,
+        "balance": 0.49,
+        "handling": 84,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 29,
+        "thrustSpeed": 85,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 84
       }
     ]
   },
@@ -30157,9 +30157,9 @@
     "name": "Knightly Cavalry Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 7261,
-    "weight": 2.11,
-    "tier": 9.821844,
+    "price": 6934,
+    "weight": 2.16,
+    "tier": 9.572699,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -30173,12 +30173,12 @@
         "stackAmount": 0,
         "length": 117,
         "balance": 0.25,
-        "handling": 84,
+        "handling": 82,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 35,
@@ -30225,9 +30225,9 @@
     "name": "Fine Steel Cavalry Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5472,
-    "weight": 2.06,
-    "tier": 8.379188,
+    "price": 5073,
+    "weight": 2.09,
+    "tier": 8.027132,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30238,13 +30238,13 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 115,
-        "balance": 0.26,
-        "handling": 84,
+        "balance": 0.25,
+        "handling": 83,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 34,
@@ -31621,9 +31621,9 @@
     "name": "Winds Fury",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 7250,
-    "weight": 2.05,
-    "tier": 9.813585,
+    "price": 6834,
+    "weight": 2.03,
+    "tier": 9.49551,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -31634,18 +31634,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 116,
-        "balance": 0.26,
-        "handling": 84,
+        "balance": 0.21,
+        "handling": 82,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 86,
-        "swingDamage": 34,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 77
+        "swingSpeed": 76
       }
     ]
   },
@@ -31845,9 +31845,9 @@
     "name": "Wooden Sword",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 2037,
+    "price": 578,
     "weight": 0.97,
-    "tier": 4.686848,
+    "tier": 2.0133853,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -31865,10 +31865,10 @@
           "MeleeWeapon",
           "NoBlood"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 9,
         "thrustDamageType": "Blunt",
         "thrustSpeed": 97,
-        "swingDamage": 11,
+        "swingDamage": 9,
         "swingDamageType": "Blunt",
         "swingSpeed": 99
       }
