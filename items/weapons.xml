@@ -155,11 +155,11 @@
       <Piece id="crpg_dawnbreaker_sword_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_ambassador_sword_t3" name="{=kxtSkGju}The Ambassador" crafting_template="crpg_OneHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_ambassador_sword_t3" name="{=kxtSkGju}The Ambassador" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
-      <Piece id="crpg_ambassador_sword_t3_blade" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_ambassador_sword_t3_blade" Type="Blade" scale_factor="99" />
       <Piece id="crpg_ambassador_sword_t3_guard" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_ambassador_sword_t3_handle" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_ambassador_sword_t3_handle" Type="Handle" scale_factor="102" />
       <Piece id="crpg_ambassador_sword_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
@@ -315,7 +315,7 @@
   <CraftedItem id="crpg_large_franziskaa_axe_t3" name="{=KRhIG1cw}Large Franziska Axe" crafting_template="crpg_OneHandedAxe" modifier_group="axe">
     <Pieces>
       <Piece id="crpg_large_franziskaa_axe_t3_blade" Type="Blade" scale_factor="130" />
-      <Piece id="crpg_large_franziskaa_axe_t3_handle" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_large_franziskaa_axe_t3_handle" Type="Handle" scale_factor="115" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_axe_2_t4" name="{=SDBvC0ON}Spiked Battle Axe" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="axe">
@@ -399,7 +399,7 @@
   <CraftedItem id="crpg_aserai_2haxe_2_t4" name="{=BAsjzOiH}Bardiche" crafting_template="crpg_TwoHandedAxe" culture="Culture.aserai" modifier_group="axe">
     <Pieces>
       <Piece id="crpg_aserai_2haxe_2_t4_blade" Type="Blade" scale_factor="102" />
-      <Piece id="crpg_aserai_2haxe_2_t4_handle" Type="Handle" scale_factor="126" />
+      <Piece id="crpg_aserai_2haxe_2_t4_handle" Type="Handle" scale_factor="130" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_sturgia_2haxe_1_t4" name="{=jhFSLdve}Drilled Two Handed Axe" crafting_template="crpg_TwoHandedAxe" culture="Culture.sturgia" modifier_group="axe">
@@ -509,7 +509,7 @@
       <Piece id="crpg_southern_spear_3_t3_handle" Type="Handle" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_southern_spear_4_t3" name="{=IDfl59yt}Knob Headed Spear" crafting_template="crpg_TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+  <CraftedItem id="crpg_southern_spear_4_t3" name="{=IDfl59yt}Knob Headed Spear" crafting_template="crpg_Spear4DMode" culture="Culture.aserai" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_southern_spear_4_t3_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_southern_spear_4_t3_guard" Type="Guard" scale_factor="100" />
@@ -650,7 +650,7 @@
   <CraftedItem id="crpg_vlandia_pike_1_t5" name="{=h60wQVVX}Pike" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_pike_1_t5_blade" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_vlandia_pike_1_t5_handle" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_vlandia_pike_1_t5_handle" Type="Handle" scale_factor="220" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_billhook_polearm_t2" name="{=Dj64aJKQ}Billhook" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
@@ -1128,11 +1128,11 @@
       <Piece id="crpg_broad_arming_sword_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_desert_long_sword_t4" name="{=gsGjXj8J}Desert Long Sword" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_desert_long_sword_t4" name="{=gsGjXj8J}Desert Long Sword" crafting_template="crpg_TwoHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_desert_long_sword_t4_blade" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_desert_long_sword_t4_blade" Type="Blade" scale_factor="105" />
       <Piece id="crpg_desert_long_sword_t4_guard" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_desert_long_sword_t4_handle" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_desert_long_sword_t4_handle" Type="Handle" scale_factor="102" />
       <Piece id="crpg_desert_long_sword_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
@@ -1218,8 +1218,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_empire_noble_sword_2_t5" name="{=Rcc0JW6H}Thamaskene Steel Spatha" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.empire" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_empire_noble_sword_2_t5_blade" Type="Blade" scale_factor="97" />
-      <Piece id="crpg_empire_noble_sword_2_t5_guard" Type="Guard" scale_factor="101" />
+      <Piece id="crpg_empire_noble_sword_2_t5_blade" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_empire_noble_sword_2_t5_guard" Type="Guard" scale_factor="102" />
       <Piece id="crpg_empire_noble_sword_2_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_empire_noble_sword_2_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
@@ -1250,7 +1250,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_aserai_noble_sword_3_t5" name="{=bohbzGjg}Decorated Scimitar with Wide Grip" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_aserai_noble_sword_3_t5_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_aserai_noble_sword_3_t5_blade" Type="Blade" scale_factor="112" />
       <Piece id="crpg_aserai_noble_sword_3_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_aserai_noble_sword_3_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_aserai_noble_sword_3_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1434,7 +1434,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_ridged_2hsword_t4" name="{=mMtKWolp}Ridged Great Saber" crafting_template="crpg_TwoHandedSword" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_ridged_2hsword_t4_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_ridged_2hsword_t4_blade" Type="Blade" scale_factor="104" />
       <Piece id="crpg_ridged_2hsword_t4_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_ridged_2hsword_t4_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_ridged_2hsword_t4_pommel" Type="Pommel" scale_factor="100" />
@@ -1482,7 +1482,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_2hsword_2_t5" name="{=VAO11FSu}Thamaskene Steel Two Hander" crafting_template="crpg_TwoHandedSword" culture="Culture.vlandia" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_vlandia_2hsword_2_t5_blade" Type="Blade" scale_factor="113" />
+      <Piece id="crpg_vlandia_2hsword_2_t5_blade" Type="Blade" scale_factor="115" />
       <Piece id="crpg_vlandia_2hsword_2_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_vlandia_2hsword_2_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_vlandia_2hsword_2_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1498,7 +1498,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_celtic_dagger" name="{=vPXWpJTP}Highland Dagger" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_celtic_dagger_blade" Type="Blade" scale_factor="115" />
+      <Piece id="crpg_celtic_dagger_blade" Type="Blade" scale_factor="94" />
       <Piece id="crpg_celtic_dagger_guard" Type="Guard" />
       <Piece id="crpg_celtic_dagger_handle" Type="Handle" />
       <Piece id="crpg_celtic_dagger_pommel" Type="Pommel" />
@@ -1506,7 +1506,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_pugio" name="{=bVzkrtUc}Pugio" crafting_template="crpg_Dagger" culture="Culture.empire" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_pugio_blade" Type="Blade" scale_factor="140" />
+      <Piece id="crpg_pugio_blade" Type="Blade" scale_factor="90" />
       <Piece id="crpg_pugio_guard" Type="Guard" scale_factor="90" />
       <Piece id="crpg_pugio_handle" Type="Handle" />
       <Piece id="crpg_pugio_pommel" Type="Pommel" scale_factor="109" />
@@ -1522,7 +1522,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_gladius_b" name="{=AOZbTGOS}Xiphos" crafting_template="crpg_Dagger" culture="Culture.empire" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_gladius_b_blade" Type="Blade" scale_factor="120" />
+      <Piece id="crpg_gladius_b_blade" Type="Blade" scale_factor="110" />
       <Piece id="crpg_gladius_b_guard" Type="Guard" scale_factor="110" />
       <Piece id="crpg_gladius_b_handle" Type="Handle" />
       <Piece id="crpg_gladius_b_pommel" Type="Pommel" scale_factor="90" />
@@ -1584,6 +1584,7 @@
       <Piece id="crpg_battania_mace_1_t3_pommel" Type="Pommel" scale_factor="103" />
     </Pieces>
   </CraftedItem>
+
   <CraftedItem id="crpg_light_mace_t3" name="{=PBLsXDgP}Light Mace" crafting_template="crpg_Mace" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_light_mace_t3_blade" Type="Blade" />
@@ -1604,6 +1605,15 @@
       <Piece id="crpg_morningstar_mace_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
+
+<CraftedItem id="crpg_2hmorningstar_mace_t3" name="{=6EWm09LY}Heavy Morningstar" crafting_template="crpg_TwoHandedMace" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_2hmorningstar_mace_t3_blade" Type="Blade" scale_factor="165" />
+      <Piece id="crpg_2hmorningstar_mace_t3_handle" Type="Handle" scale_factor="145" />
+      <Piece id="crpg_2hmorningstar_mace_t3_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
   <CraftedItem id="crpg_vlandia_mace_2_t4" name="{=dSTxsYsh}Fullered Cavalry Mace" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_vlandia_mace_2_t4_blade" Type="Blade" />
@@ -1659,8 +1669,8 @@
   </CraftedItem>
     <CraftedItem id="crpg_eastern_long_steel_mace_t4" name="Long Steel Mace" crafting_template="crpg_TwoHandedMace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_eastern_long_steel_mace_t4_blade" Type="Blade" scale_factor="175" />
-      <Piece id="crpg_eastern_long_steel_mace_t4_handle" Type="Handle" scale_factor="300" />
+      <Piece id="crpg_eastern_long_steel_mace_t4_blade" Type="Blade" scale_factor="150" />
+      <Piece id="crpg_eastern_long_steel_mace_t4_handle" Type="Handle" scale_factor="175" />
       <Piece id="crpg_eastern_long_steel_mace_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
@@ -1842,14 +1852,14 @@
       </Weapon>
     </ItemComponent>
   </Item>
-  <Item id="crpg_crossbow_b" name="{=r07M9xbT}Heavy Crossbow" body_name="bo_cross_bow_heavy" mesh="crossbow_b" culture="Culture.empire" weight="3.5" appearance="0.7" difficulty="20" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.24975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+  <Item id="crpg_crossbow_b" name="{=r07M9xbT}Heavy Maple Crossbow" body_name="bo_cross_bow_heavy" mesh="crossbow_b" culture="Culture.empire" weight="3.5" appearance="0.7" difficulty="20" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.24975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
       <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="115" accuracy="97" thrust_damage="45" thrust_speed="88" speed_rating="64" weapon_length="95" ammo_limit="1" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" CanPenetrateShield="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
       </Weapon>
     </ItemComponent>
   </Item>
-  <Item id="crpg_crossbow_c" name="{=0e17RZrZ}Arbalest" body_name="bo_cross_bow_heavy" mesh="crossbow_c" culture="Culture.vlandia" weight="4.0" appearance="0.4" difficulty="20" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.24675" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+  <Item id="crpg_crossbow_c" name="{=0e17RZrZ}Huntsman's Heavy Arbalest" body_name="bo_cross_bow_heavy" mesh="crossbow_c" culture="Culture.vlandia" weight="4.0" appearance="0.4" difficulty="20" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.24675" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
       <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="120" accuracy="98" thrust_damage="50" thrust_speed="87" speed_rating="62" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
@@ -1864,7 +1874,7 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_crossbow_d" name="{=CPI0wkaZ}Hickory Crossbow" body_name="bo_composite_crossbows" mesh="crossbow_d" culture="Culture.empire" weight="5.0" appearance="0.6" Type="Crossbow" difficulty="40" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+  <Item id="crpg_crossbow_d" name="{=CPI0wkaZ}Knight's Heavy Arbalest" body_name="bo_composite_crossbows" mesh="crossbow_d" culture="Culture.empire" weight="5.0" appearance="0.6" Type="Crossbow" difficulty="40" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
       <Weapon weapon_class="Crossbow" ammo_class="Bolt" ammo_limit="1" thrust_speed="84" speed_rating="58" missile_speed="125" weapon_length="100" accuracy="99" thrust_damage="57" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
@@ -1880,7 +1890,7 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_crossbow_f" name="{=TBW9E2ao}Bound Crossbow" body_name="bo_cross_bow_heavy" mesh="crossbow_f" culture="Culture.vlandia" weight="5.2" appearance="0.8" difficulty="70" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+  <Item id="crpg_crossbow_f" name="{=TBW9E2ao}Lord's Heavy Arbalest" body_name="bo_cross_bow_heavy" mesh="crossbow_f" culture="Culture.vlandia" weight="5.2" appearance="0.8" difficulty="70" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
       <Weapon weapon_class="Crossbow" ammo_class="Bolt" ammo_limit="1" thrust_speed="84" speed_rating="50" missile_speed="132" weapon_length="100" accuracy="100" thrust_damage="64" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" CanPenetrateShield="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
@@ -1888,9 +1898,9 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_crossbow_h" name="{=I1yTY2rx}Squires Light Crossbow" body_name="bo_composite_crossbows" culture="Culture.vlandia" mesh="crossbow_g" weight="2.8" appearance="0.7" difficulty="40" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+  <Item id="crpg_crossbow_h" name="{=I1yTY2rx}Squire's Light Crossbow" body_name="bo_composite_crossbows" culture="Culture.vlandia" mesh="crossbow_g" weight="2.8" appearance="0.7" difficulty="40" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
-      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="105" accuracy="98" thrust_damage="39" thrust_speed="86" speed_rating="58" weapon_length="95" ammo_limit="1" thrust_damage_type="Pierce" item_usage="crossbow_light" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
+      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="105" accuracy="98" thrust_damage="39" thrust_speed="86" speed_rating="52" weapon_length="95" ammo_limit="1" thrust_damage_type="Pierce" item_usage="crossbow_light" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
       </Weapon>
     </ItemComponent>
@@ -2160,7 +2170,7 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_bolt_a" name="{=g7vxJhiz}Light Bolts" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_a" holster_mesh="bolt_bl_a_quiver" flying_mesh="bolt_bl_flying" holster_mesh_with_weapon="bolt_bl_a_quiver" weight="0.04" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
+  <Item id="crpg_bolt_a" name="{=g7vxJhiz}Light Bolts" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_a" holster_mesh="bolt_bl_a_quiver" flying_mesh="bolt_bl_flying" holster_mesh_with_weapon="bolt_bl_a_quiver" weight="0.1" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
     <ItemComponent>
       <Weapon weapon_class="Bolt" stack_amount="12" thrust_speed="0" thrust_damage="6" thrust_damage_type="Pierce" speed_rating="0" missile_speed="10" weapon_length="47" item_usage="" passby_sound_code="event:/mission/combat/missile/passby" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.47,0" sticking_rotation="90,0,0" center_of_mass="0,0,-0.1" modifier_group="bolt">
         <WeaponFlags AttachAmmoToVisual="true" Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
@@ -2168,7 +2178,7 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_bolt_b" name="{=wrbea2oa}Bolts" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_b" holster_mesh="bolt_bl_b_quiver" flying_mesh="bolt_bl_flying" holster_mesh_with_weapon="bolt_bl_b_quiver" culture="Culture.vlandia" weight="0.05" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
+  <Item id="crpg_bolt_b" name="{=wrbea2oa}Bolts" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_b" holster_mesh="bolt_bl_b_quiver" flying_mesh="bolt_bl_flying" holster_mesh_with_weapon="bolt_bl_b_quiver" culture="Culture.vlandia" weight="0.15" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
     <ItemComponent>
       <Weapon weapon_class="Bolt" stack_amount="10" thrust_speed="0" thrust_damage="9" thrust_damage_type="Pierce" speed_rating="0" missile_speed="10" weapon_length="47" item_usage="" passby_sound_code="event:/mission/combat/missile/passby" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.47,0" sticking_rotation="90,0,0" center_of_mass="0,0,-0.1" modifier_group="bolt">
         <WeaponFlags AttachAmmoToVisual="true" Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
@@ -2176,7 +2186,7 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_bolt_c" name="{=wi53b5PG}Heavy Bolts" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_c" holster_mesh="bolt_bl_c_quiver" holster_mesh_with_weapon="bolt_bl_c_quiver" flying_mesh="bolt_bl_flying" culture="Culture.vlandia" weight="0.06" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
+  <Item id="crpg_bolt_c" name="{=wi53b5PG}Heavy Bolts" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_c" holster_mesh="bolt_bl_c_quiver" holster_mesh_with_weapon="bolt_bl_c_quiver" flying_mesh="bolt_bl_flying" culture="Culture.vlandia" weight="0.2" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
     <ItemComponent>
       <Weapon weapon_class="Bolt" stack_amount="8" thrust_speed="0" thrust_damage="12" thrust_damage_type="Pierce" speed_rating="0" missile_speed="10" weapon_length="37" item_usage="" passby_sound_code="event:/mission/combat/missile/passby" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.37,0" sticking_rotation="90,0,0" center_of_mass="0,0,-0.1" modifier_group="bolt">
         <WeaponFlags AttachAmmoToVisual="true" Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
@@ -2184,7 +2194,7 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_bolt_d" name="{=hN4wE2gG}Heavy Quarrels" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_d" holster_mesh="bolt_bl_d_quiver" holster_mesh_with_weapon="bolt_bl_d_quiver" flying_mesh="bolt_bl_flying" culture="Culture.empire" weight="0.03" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
+  <Item id="crpg_bolt_d" name="{=hN4wE2gG}Heavy Quarrels" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_d" holster_mesh="bolt_bl_d_quiver" holster_mesh_with_weapon="bolt_bl_d_quiver" flying_mesh="bolt_bl_flying" culture="Culture.empire" weight="0.08" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
     <ItemComponent>
       <Weapon weapon_class="Bolt" stack_amount="14" thrust_speed="0" thrust_damage="3" thrust_damage_type="Pierce" speed_rating="0" missile_speed="10" weapon_length="37" item_usage="" passby_sound_code="event:/mission/combat/missile/passby" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.37,0" sticking_rotation="90,0,0" center_of_mass="0,0,-0.1" modifier_group="bolt">
         <WeaponFlags AttachAmmoToVisual="true" Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
@@ -2192,7 +2202,7 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_bolt_e" name="{=I67Avuos}Light Quarrels" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_e" holster_mesh="bolt_bl_e_quiver" holster_mesh_with_weapon="bolt_bl_e_quiver" flying_mesh="bolt_bl_flying" culture="Culture.empire" weight="0.02" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
+  <Item id="crpg_bolt_e" name="{=I67Avuos}Light Quarrels" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="bolt_bl_e" holster_mesh="bolt_bl_e_quiver" holster_mesh_with_weapon="bolt_bl_e_quiver" flying_mesh="bolt_bl_flying" culture="Culture.empire" weight="0.05" appearance="1" Type="Bolts" item_holsters="quiver_bolts:quiver_bolts_2:quiver_back_middle:quiver_back_top">
     <ItemComponent>
       <Weapon weapon_class="Bolt" stack_amount="16" thrust_speed="0" thrust_damage="0" thrust_damage_type="Pierce" speed_rating="0" missile_speed="10" weapon_length="37" item_usage="" passby_sound_code="event:/mission/combat/missile/passby" rotation="180, 0, 0" physics_material="missile" sticking_position="0,-0.37,0" sticking_rotation="90,0,0" center_of_mass="0,0,-0.1" modifier_group="bolt">
         <WeaponFlags AttachAmmoToVisual="true" Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
@@ -2208,4 +2218,62 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
+	<CraftedItem id="crpg_boulder_on_a_stick" name="{=}Boulder on a Stick" crafting_template="crpg_TwoHandedMace" is_merchandise="false" culture="Culture.battania">
+		<Pieces>
+			<Piece id="crpg_bos_head" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_bos_handle" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_war_scythe" name="{=}War Scythe" crafting_template="crpg_TwoHandedPolearm">
+		<Pieces>
+			<Piece id="crpg_war_scythe_blade" Type="Blade" scale_factor="80"/>
+			<Piece id="crpg_war_scythe_handle" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_dawn" name="{=}Dawn" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+		<Pieces>
+			<Piece id="crpg_dawn_blade" Type="Blade" scale_factor="135"/>
+			<Piece id="crpg_dawn_guard" Type="Guard" scale_factor="125"/>
+			<Piece id="crpg_dawn_handle" Type="Handle" scale_factor="140"/>
+			<Piece id="crpg_dawn_pommel" Type="Pommel" scale_factor="140"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_winter" name="{=}Winter" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+		<Pieces>
+			<Piece id="crpg_winter_blade" Type="Blade" scale_factor="160"/>
+			<Piece id="crpg_winter_guard" Type="Guard" scale_factor="140"/>
+			<Piece id="crpg_winter_handle" Type="Handle" scale_factor="140"/>
+			<Piece id="crpg_winter_pommel" Type="Pommel" scale_factor="140"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_awlpike" name="{=}Awlpike" crafting_template="crpg_TwoHandedPolearm">
+		<Pieces>
+			<Piece id="crpg_awlpike_blade" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_awlpike_handle" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_barmace" name="{=}Barmace" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+		<Pieces>
+			<Piece id="crpg_barmace_blade" Type="Blade" scale_factor="160"/>
+			<Piece id="crpg_barmace_handle" Type="Handle" scale_factor="145"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_gada" name="{=}Gada" crafting_template="crpg_TwoHandedMace" is_merchandise="false" culture="Culture.battania">
+		<Pieces>
+			<Piece id="crpg_gada_blade" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_gada_handle" Type="Handle" scale_factor="100"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_greataxe" name="{=}Greataxe" crafting_template="crpg_TwoHandedAxe" is_merchandise="false" culture="Culture.battania">
+		<Pieces>
+			<Piece id="crpg_greataxe_blade" Type="Blade" scale_factor="100"/>
+			<Piece id="crpg_greataxe_handle" Type="Handle" scale_factor="108"/>
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_long_greataxe" name="{=}Long Greataxe" crafting_template="crpg_TwoHandedAxe">
+		<Pieces>
+			<Piece id="crpg_long_greataxe_blade" Type="Blade" scale_factor="120"/>
+			<Piece id="crpg_long_greataxe_handle" Type="Handle" scale_factor="120"/>
+		</Pieces>
+	</CraftedItem>
 </Items>
