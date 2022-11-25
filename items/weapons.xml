@@ -226,7 +226,7 @@
       <Piece id="crpg_avalanche_2haxe_handle" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_sentinel_2hsword" name="{=XIRtmaQt}Sentinel" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_sentinel_2hsword" name="{=XIRtmaQt}Longsword" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_sentinel_2hsword_blade" Type="Blade" scale_factor="108" />
       <Piece id="crpg_sentinel_2hsword_guard" Type="Guard" />
@@ -840,7 +840,7 @@
       <Piece id="crpg_sturgia_sword_1_t2_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Iron Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Plain Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_sword_1_t2_blade" Type="Blade" scale_factor="109" />
       <Piece id="crpg_battania_sword_1_t2_guard" Type="Guard" scale_factor="100" />
@@ -1168,7 +1168,7 @@
       <Piece id="crpg_sturgia_sword_5_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_battania_sword_5_t5" name="{=l9kAJ1Xh}Highland Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_battania_sword_5_t5" name="{=l9kAJ1Xh}Battanian Two Hander" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_sword_5_t5_blade" Type="Blade" scale_factor="115" />
       <Piece id="crpg_battania_sword_5_t5_guard" Type="Guard" scale_factor="100" />
@@ -1368,7 +1368,7 @@
       <Piece id="crpg_battania_2hsword_2_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_battania_2hsword_3_t3" name="{=NaaM2O2g}Northlander Wide Fullered Greatsword" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_battania_2hsword_3_t3" name="{=NaaM2O2g}Northlander Greatsword" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_2hsword_3_t3_blade" Type="Blade" scale_factor="115" />
       <Piece id="crpg_battania_2hsword_3_t3_guard" Type="Guard" scale_factor="100" />
@@ -1376,7 +1376,7 @@
       <Piece id="crpg_battania_2hsword_3_t3_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_cleaver_2hsword_t3" name="{=XTGdfqVV}Two-Handed Cleaver " crafting_template="crpg_TwoHandedSword" modifier_group="sword">
+  <CraftedItem id="crpg_cleaver_2hsword_t3" name="{=XTGdfqVV}Harvesting Season" crafting_template="crpg_TwoHandedSword" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_cleaver_2hsword_t3_blade" Type="Blade" scale_factor="120" />
       <Piece id="crpg_cleaver_2hsword_t3_guard" Type="Guard" scale_factor="100" />
@@ -1472,7 +1472,7 @@
       <Piece id="crpg_heavy_executionner_2sword_pommel" Type="Pommel" scale_factor="120" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_vlandia_2hsword_1_t5" name="{=9ZiUK3JJ}Wide Fullered Broad Two Hander" crafting_template="crpg_TwoHandedSword" culture="Culture.vlandia" modifier_group="sword">
+  <CraftedItem id="crpg_vlandia_2hsword_1_t5" name="{=9ZiUK3JJ}Wide Fullered Two Hander" crafting_template="crpg_TwoHandedSword" culture="Culture.vlandia" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_vlandia_2hsword_1_t5_blade" Type="Blade" scale_factor="120" />
       <Piece id="crpg_vlandia_2hsword_1_t5_guard" Type="Guard" scale_factor="100" />
