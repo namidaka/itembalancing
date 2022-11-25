@@ -840,7 +840,7 @@
       <Piece id="crpg_sturgia_sword_1_t2_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Plain Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Plain Two Hander" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_sword_1_t2_blade" Type="Blade" scale_factor="109" />
       <Piece id="crpg_battania_sword_1_t2_guard" Type="Guard" scale_factor="100" />
