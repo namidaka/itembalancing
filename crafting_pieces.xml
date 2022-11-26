@@ -3457,7 +3457,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_4_t5_handle" name="{=jupH2NfE}Gold Inlaid Angular Bastard Sword Grip" tier="5" piece_type="Handle" mesh="aserai_noble_grip_3" culture="Culture.aserai" length="17" weight="0.225">
+  <CraftingPiece id="crpg_aserai_noble_sword_4_t5_handle" name="{=jupH2NfE}Gold Inlaid Angular Bastard Sword Grip" tier="5" piece_type="Handle" mesh="aserai_noble_grip_3" culture="Culture.aserai" length="17" weight="0.70">
     <BuildData piece_offset="0" previous_piece_offset="0.1" next_piece_offset="0.1" />
     <Materials>
       <Material id="Iron5" count="2" />
@@ -4780,10 +4780,10 @@
       <Material id="Iron6" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_4_t5_blade" name="{=RdVX1jC0}Engraved Kaskara Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_3" culture="Culture.aserai" length="71" weight="1.38">
+  <CraftingPiece id="crpg_aserai_noble_sword_4_t5_blade" name="{=RdVX1jC0}Engraved Kaskara Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_3" culture="Culture.aserai" length="71" weight="1.00">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_noble_blade_3_scabbard_3">
-      <Thrust damage_type="Pierce" damage_factor="1.1" />
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
