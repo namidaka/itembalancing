@@ -10524,9 +10524,9 @@
     "name": "Decorated Short Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 5388,
-    "weight": 2.04,
-    "tier": 8.306443,
+    "price": 6752,
+    "weight": 1.75,
+    "tier": 9.431326,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10537,18 +10537,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 96,
-        "balance": 0.48,
-        "handling": 88,
+        "balance": 0.67,
+        "handling": 92,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 30,
+        "thrustSpeed": 89,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 90
       }
     ]
   },
