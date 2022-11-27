@@ -6115,48 +6115,12 @@
   },
   {
     "id": "crpg_bolt_g",
-    "name": "Hunting Bolts",
-    "culture": "Empire",
-    "type": "Bolts",
-    "price": 8450,
-    "weight": 0.2,
-    "tier": 10.1687737,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone"
-    ],
-    "weapons": [
-      {
-        "class": "Bolt",
-        "itemUsage": "",
-        "accuracy": 100,
-        "missileSpeed": 10,
-        "stackAmount": 8,
-        "length": 37,
-        "balance": 0.0,
-        "handling": 0,
-        "bodyArmor": 0,
-        "flags": [
-          "AttachAmmoToVisual",
-          "Consumable"
-        ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 0,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 0
-      }
-    ]
-  },
-  {
-    "id": "crpg_bolt_h",
     "name": "Tournament Bolts",
     "culture": "Empire",
     "type": "Bolts",
-    "price": 384,
+    "price": 2869,
     "weight": 0.15,
-    "tier": 1.36713517,
+    "tier": 5.46854067,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -6177,6 +6141,42 @@
           "Consumable"
         ],
         "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 0,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 0
+      }
+    ]
+  },
+  {
+    "id": "crpg_bolt_h",
+    "name": "Hunting Bolts",
+    "culture": "Empire",
+    "type": "Bolts",
+    "price": 1258,
+    "weight": 0.2,
+    "tier": 3.26530623,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone"
+    ],
+    "weapons": [
+      {
+        "class": "Bolt",
+        "itemUsage": "",
+        "accuracy": 100,
+        "missileSpeed": 10,
+        "stackAmount": 8,
+        "length": 37,
+        "balance": 0.0,
+        "handling": 0,
+        "bodyArmor": 0,
+        "flags": [
+          "AttachAmmoToVisual",
+          "Consumable"
+        ],
+        "thrustDamage": 12,
         "thrustDamageType": "Cut",
         "thrustSpeed": 0,
         "swingDamage": 0,
@@ -7901,9 +7901,9 @@
     "name": "Lord's Heavy Arbalest",
     "culture": "Vlandia",
     "type": "Crossbow",
-    "price": 17583,
+    "price": 17970,
     "weight": 5.5,
-    "tier": 9.8711195,
+    "tier": 9.990774,
     "requirement": 17,
     "flags": [],
     "weapons": [
@@ -7915,7 +7915,7 @@
         "stackAmount": 1,
         "length": 100,
         "balance": 0.0,
-        "handling": 82,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -7928,7 +7928,7 @@
         ],
         "thrustDamage": 64,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
+        "thrustSpeed": 84,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 50
