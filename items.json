@@ -6114,6 +6114,78 @@
     ]
   },
   {
+    "id": "crpg_bolt_g",
+    "name": "Hunting Bolts",
+    "culture": "Empire",
+    "type": "Bolts",
+    "price": 8450,
+    "weight": 0.2,
+    "tier": 10.1687737,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone"
+    ],
+    "weapons": [
+      {
+        "class": "Bolt",
+        "itemUsage": "",
+        "accuracy": 100,
+        "missileSpeed": 10,
+        "stackAmount": 8,
+        "length": 37,
+        "balance": 0.0,
+        "handling": 0,
+        "bodyArmor": 0,
+        "flags": [
+          "AttachAmmoToVisual",
+          "Consumable"
+        ],
+        "thrustDamage": 8,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 0,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 0
+      }
+    ]
+  },
+  {
+    "id": "crpg_bolt_h",
+    "name": "Tournament Bolts",
+    "culture": "Empire",
+    "type": "Bolts",
+    "price": 384,
+    "weight": 0.15,
+    "tier": 1.36713517,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone"
+    ],
+    "weapons": [
+      {
+        "class": "Bolt",
+        "itemUsage": "",
+        "accuracy": 100,
+        "missileSpeed": 10,
+        "stackAmount": 8,
+        "length": 37,
+        "balance": 0.0,
+        "handling": 0,
+        "bodyArmor": 0,
+        "flags": [
+          "AttachAmmoToVisual",
+          "Consumable"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Cut",
+        "thrustSpeed": 0,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 0
+      }
+    ]
+  },
+  {
     "id": "crpg_bolted_leather_strips",
     "name": "Bolted Leather Strips",
     "culture": "Khuzait",
@@ -7041,7 +7113,7 @@
         "class": "ThrowingKnife",
         "itemUsage": "throwing_knife",
         "accuracy": 95,
-        "missileSpeed": 30,
+        "missileSpeed": 29,
         "stackAmount": 1,
         "length": 37,
         "balance": 1.0,
@@ -7843,7 +7915,7 @@
         "stackAmount": 1,
         "length": 100,
         "balance": 0.0,
-        "handling": 84,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -7856,7 +7928,7 @@
         ],
         "thrustDamage": 64,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 50
@@ -21818,7 +21890,7 @@
         "thrustSpeed": 82,
         "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 81
+        "swingSpeed": 87
       }
     ]
   },
@@ -27151,7 +27223,7 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 27,
         "swingDamageType": "Cut",
         "swingSpeed": 88
@@ -27224,7 +27296,7 @@
         "thrustSpeed": 90,
         "swingDamage": 24,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 96
       }
     ]
   },
@@ -29824,7 +29896,7 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 75,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 22
@@ -29847,7 +29919,7 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 75,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 22
