@@ -4568,9 +4568,9 @@
     "name": "Engraved Backsword",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 5684,
-    "weight": 1.97,
-    "tier": 8.561647,
+    "price": 7285,
+    "weight": 1.94,
+    "tier": 9.839655,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -4583,8 +4583,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 109,
-        "balance": 0.42,
-        "handling": 82,
+        "balance": 0.43,
+        "handling": 83,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
@@ -4594,7 +4594,7 @@
         "thrustSpeed": 87,
         "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 82
+        "swingSpeed": 83
       }
     ]
   },
@@ -15575,9 +15575,9 @@
     "name": "Lion Imprinted Saber",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 5989,
-    "weight": 2.06,
-    "tier": 8.817404,
+    "price": 7497,
+    "weight": 1.99,
+    "tier": 9.997992,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15588,18 +15588,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.61,
-        "handling": 87,
+        "balance": 0.66,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
@@ -29541,9 +29541,9 @@
     "name": "Decorated Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 6328,
-    "weight": 2.23,
-    "tier": 9.094973,
+    "price": 7510,
+    "weight": 2.15,
+    "tier": 10.0077419,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -29556,18 +29556,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 96,
-        "balance": 0.47,
+        "balance": 0.51,
         "handling": 83,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 85
       }
     ]
   },
@@ -31187,9 +31187,9 @@
     "name": "Winds Fury",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4533,
-    "weight": 2.03,
-    "tier": 7.527532,
+    "price": 6752,
+    "weight": 2.1,
+    "tier": 9.43116951,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -31199,19 +31199,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 116,
-        "balance": 0.21,
-        "handling": 82,
+        "length": 107,
+        "balance": 0.66,
+        "handling": 86,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 31,
+        "thrustSpeed": 85,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 89
       }
     ]
   },
