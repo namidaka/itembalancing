@@ -5504,6 +5504,27 @@
     ],
     "weapons": [
       {
+        "class": "OneHandedAxe",
+        "itemUsage": "onehanded_rshield_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.16,
+        "handling": 74,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "BonusAgainstShield"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 74
+      },
+      {
         "class": "TwoHandedAxe",
         "itemUsage": "twohanded_widegrip_axe",
         "accuracy": 0,
@@ -5525,6 +5546,27 @@
         "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 92
+      },
+      {
+        "class": "OneHandedAxe",
+        "itemUsage": "onehanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.16,
+        "handling": 74,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "BonusAgainstShield"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 74
       }
     ]
   },
@@ -13289,27 +13331,6 @@
       },
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_couch",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 223,
-        "balance": 0.0,
-        "handling": 50,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 25,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 76,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 14
-      },
-      {
-        "class": "TwoHandedPolearm",
         "itemUsage": "polearm_bracing",
         "accuracy": 0,
         "missileSpeed": 0,
@@ -18347,7 +18368,7 @@
       "Civilian"
     ],
     "mount": {
-      "bodyLength": 90,
+      "bodyLength": 95,
       "chargeDamage": 4,
       "maneuver": 85,
       "speed": 44,
@@ -18368,7 +18389,7 @@
       "Civilian"
     ],
     "mount": {
-      "bodyLength": 90,
+      "bodyLength": 95,
       "chargeDamage": 2,
       "maneuver": 74,
       "speed": 38,
@@ -18389,7 +18410,7 @@
       "Civilian"
     ],
     "mount": {
-      "bodyLength": 90,
+      "bodyLength": 95,
       "chargeDamage": 2,
       "maneuver": 77,
       "speed": 39,
@@ -18410,7 +18431,7 @@
       "Civilian"
     ],
     "mount": {
-      "bodyLength": 90,
+      "bodyLength": 95,
       "chargeDamage": 2,
       "maneuver": 79,
       "speed": 41,
@@ -18431,7 +18452,7 @@
       "Civilian"
     ],
     "mount": {
-      "bodyLength": 90,
+      "bodyLength": 95,
       "chargeDamage": 3,
       "maneuver": 81,
       "speed": 42,
@@ -18452,7 +18473,7 @@
       "Civilian"
     ],
     "mount": {
-      "bodyLength": 90,
+      "bodyLength": 95,
       "chargeDamage": 3,
       "maneuver": 83,
       "speed": 43,
@@ -26308,14 +26329,35 @@
     "name": "Drilled Two Handed Axe",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 5258,
-    "weight": 1.27,
-    "tier": 5.71865654,
+    "price": 5199,
+    "weight": 1.08,
+    "tier": 5.680962,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
     ],
     "weapons": [
+      {
+        "class": "OneHandedAxe",
+        "itemUsage": "onehanded_rshield_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 111,
+        "balance": 0.25,
+        "handling": 73,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "BonusAgainstShield"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 31,
+        "swingDamageType": "Cut",
+        "swingSpeed": 77
+      },
       {
         "class": "TwoHandedAxe",
         "itemUsage": "twohanded_widegrip_axe",
@@ -26323,8 +26365,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 111,
-        "balance": 0.69,
-        "handling": 80,
+        "balance": 0.81,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -26334,10 +26376,31 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 98,
-        "swingDamage": 34,
+        "thrustSpeed": 100,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 94
+      },
+      {
+        "class": "OneHandedAxe",
+        "itemUsage": "onehanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 111,
+        "balance": 0.25,
+        "handling": 73,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "BonusAgainstShield"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 31,
+        "swingDamageType": "Cut",
+        "swingSpeed": 77
       }
     ]
   },
@@ -26730,9 +26793,9 @@
     "name": "Heavy Druzhinnik Lance",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 11998,
+    "price": 11331,
     "weight": 2.26,
-    "tier": 8.46383,
+    "tier": 8.195611,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -26760,27 +26823,6 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 51
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_couch",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 265,
-        "balance": 0.0,
-        "handling": 52,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 25,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 13
       }
     ]
   },
@@ -29358,27 +29400,6 @@
       },
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_couch",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 208,
-        "balance": 0.0,
-        "handling": 57,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 23,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 16
-      },
-      {
-        "class": "TwoHandedPolearm",
         "itemUsage": "polearm_bracing",
         "accuracy": 0,
         "missileSpeed": 0,
@@ -29513,27 +29534,6 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 57
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_couch",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 250,
-        "balance": 0.0,
-        "handling": 56,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 25,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 14
       }
     ]
   },

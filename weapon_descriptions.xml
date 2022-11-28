@@ -1614,6 +1614,8 @@
       <AvailablePiece id="crpg_sturgia_2haxe_1_t4_blade" />
       <AvailablePiece id="crpg_sturgia_2haxe_2_t5_blade" />
       <AvailablePiece id="crpg_vlandia_2haxe_1_t4_blade" />
+      <AvailablePiece id="crpg_sturgia_2haxe_1_t4_handle" />
+      <AvailablePiece id="crpg_bearded_axe_t3_handle" />
     </AvailablePieces>
   </WeaponDescription>
   <WeaponDescription id="crpg_OneHandedBastardAxeAlternative" weapon_class="OneHandedAxe" item_usage_features="onehanded:axe">
@@ -1637,6 +1639,8 @@
       <AvailablePiece id="crpg_sturgia_2haxe_1_t4_blade" />
       <AvailablePiece id="crpg_sturgia_2haxe_2_t5_blade" />
       <AvailablePiece id="crpg_vlandia_2haxe_1_t4_blade" />
+      <AvailablePiece id="crpg_sturgia_2haxe_1_t4_handle" />
+      <AvailablePiece id="crpg_bearded_axe_t3_handle" />
     </AvailablePieces>
   </WeaponDescription>
   <WeaponDescription id="crpg_TwoHandedAxe" weapon_class="TwoHandedAxe" item_usage_features="twohanded:widegrip:axe">
@@ -2397,8 +2401,6 @@
       <AvailablePiece id="crpg_generic_javelin_1_t3_blade" />
       <AvailablePiece id="crpg_generic_javelin_1_t3_guard" />
       <AvailablePiece id="crpg_generic_javelin_1_t3_pommel" />
-      <AvailablePiece id="crpg_highland_spear_3_t3_blade" />
-      <AvailablePiece id="crpg_highland_spear_3_t3_handle" />
       <AvailablePiece id="crpg_highland_spear_4_t4_blade" />
       <AvailablePiece id="crpg_highland_spear_4_t4_guard" />
       <AvailablePiece id="crpg_highland_spear_4_t4_pommel" />
@@ -2454,19 +2456,13 @@
       <AvailablePiece id="crpg_southern_spear_4_t3_guard" />
       <AvailablePiece id="crpg_sturgia_lance_1_t4_blade" />
       <AvailablePiece id="crpg_sturgia_lance_1_t4_handle" />
-      <AvailablePiece id="crpg_sturgia_lance_2_t5_blade" />
-      <AvailablePiece id="crpg_sturgia_lance_2_t5_handle" />
       <AvailablePiece id="crpg_sturgia_polearm_1_t5_blade" />
       <AvailablePiece id="crpg_sturgia_polearm_1_t5_guard" />
       <AvailablePiece id="crpg_sturgia_polearm_1_t5_pommel" />
       <AvailablePiece id="crpg_thamaskene_pike_t4_blade" />
       <AvailablePiece id="crpg_triangluar_spear_t3_blade" />
-      <AvailablePiece id="crpg_vlandia_lance_1_t3_blade" />
-      <AvailablePiece id="crpg_vlandia_lance_1_t3_handle" />
       <AvailablePiece id="crpg_vlandia_lance_2_t4_blade" />
       <AvailablePiece id="crpg_vlandia_lance_2_t4_handle" />
-      <AvailablePiece id="crpg_vlandia_lance_3_t5_blade" />
-      <AvailablePiece id="crpg_vlandia_lance_3_t5_handle" />
       <AvailablePiece id="crpg_vlandia_mace_2_t4_pommel" />
       <AvailablePiece id="crpg_vlandia_mace_3_t5_pommel" />
       <AvailablePiece id="crpg_vlandia_pike_1_t5_blade" />
