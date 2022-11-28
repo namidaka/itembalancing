@@ -6115,48 +6115,12 @@
   },
   {
     "id": "crpg_bolt_g",
-    "name": "Tournament Bolts",
-    "culture": "Empire",
-    "type": "Bolts",
-    "price": 2869,
-    "weight": 0.15,
-    "tier": 5.46854067,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone"
-    ],
-    "weapons": [
-      {
-        "class": "Bolt",
-        "itemUsage": "",
-        "accuracy": 100,
-        "missileSpeed": 10,
-        "stackAmount": 8,
-        "length": 37,
-        "balance": 0.0,
-        "handling": 0,
-        "bodyArmor": 0,
-        "flags": [
-          "AttachAmmoToVisual",
-          "Consumable"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 0,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 0
-      }
-    ]
-  },
-  {
-    "id": "crpg_bolt_h",
     "name": "Hunting Bolts",
     "culture": "Empire",
     "type": "Bolts",
-    "price": 1258,
+    "price": 1634,
     "weight": 0.2,
-    "tier": 3.26530623,
+    "tier": 3.86695862,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -6176,7 +6140,7 @@
           "AttachAmmoToVisual",
           "Consumable"
         ],
-        "thrustDamage": 12,
+        "thrustDamage": 15,
         "thrustDamageType": "Cut",
         "thrustSpeed": 0,
         "swingDamage": 0,
