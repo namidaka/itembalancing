@@ -1283,6 +1283,9 @@
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
+    <Flags>
+     <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_western_spear_2_t2_blade" name="{=r3R6RM9G}Short Simple Pike Head" tier="1" piece_type="Blade" mesh="spear_blade_9" length="23.328" weight="0.204" is_default="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_3_1" holster_body_name="bo_throwing_spear_quiver_3_1" holster_mesh_length="96.8">
@@ -1305,6 +1308,9 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="0.91" />
     </BladeData>
+      <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
@@ -1503,6 +1509,9 @@
     <Materials>
       <Material id="Iron5" count="2" />
     </Materials>
+      <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_western_javelin_1_t2_blade" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_15" length="22.862" weight="0.2136" excluded_item_usage_features="swing">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_1_1" holster_body_name="bo_throwing_spear_quiver_1_1" holster_mesh_length="68.9">
@@ -1788,6 +1797,9 @@
     <Materials>
       <Material id="Iron5" count="1" />
     </Materials>
+    <Flags>
+    <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_billhook_polearm_t2_blade" name="{=R62maL2H}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.51" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
