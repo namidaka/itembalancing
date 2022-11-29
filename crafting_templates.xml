@@ -1716,6 +1716,8 @@
       <UsablePiece piece_id="crpg_wide_leaf_spear_t4_pommel" />
       <UsablePiece piece_id="crpg_long_bardiche_head" />
       <UsablePiece piece_id="crpg_long_bardiche_handle" />
+      <UsablePiece piece_id="crpg_long_hafted_spiked_mace" />
+      <UsablePiece piece_id="crpg_long_hafted_spiked_mace_handle" />
     </UsablePieces>
   </CraftingTemplate>
     <CraftingTemplate id="crpg_Spear4DMode" item_type="Polearm" modifier_group="polearm" item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4" default_item_holster_position_offset="0,0,-0.30" use_weapon_as_holster_mesh="true">
