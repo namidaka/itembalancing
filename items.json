@@ -1896,12 +1896,12 @@
   },
   {
     "id": "crpg_aserai_sword_2_t2",
-    "name": "Iron Scimitar",
+    "name": "Iron Cavalry Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 5642,
-    "weight": 1.61,
-    "tier": 8.525885,
+    "price": 5450,
+    "weight": 1.85,
+    "tier": 8.360676,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1913,19 +1913,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 96,
-        "balance": 0.61,
-        "handling": 90,
+        "length": 112,
+        "balance": 0.31,
+        "handling": 84,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 30,
+        "thrustSpeed": 87,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 79
       }
     ]
   },
