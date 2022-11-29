@@ -6015,6 +6015,24 @@
 <Material id="Iron3" count="1"/>
 </Materials>
 </CraftingPiece>
+<CraftingPiece id="crpg_long_hafted_spiked_mace" name="{=}Long Hafted Spiked Mace" tier="5" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.2" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.7" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="CanKnockDown" />
+    </Flags>
+    <Materials>
+      <Material id="Iron3" count="5" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_long_hafted_spiked_mace_handle" name="{=}Long Hafted Spiked Mace Handle" tier="5" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.3" CraftingCost="75">
+    <BuildData piece_offset="15" />
+    <Materials>
+      <Material id="Wood" count="2" />
+    </Materials>
+  </CraftingPiece>
 <CraftingPiece id="crpg_hoplite_handle_1" name="{=}Hoplite Ash Shaft" tier="2" piece_type="Handle" mesh="spear_handle_5" length="229" weight="0.9" CraftingCost="110">
     <BuildData piece_offset="22.9" />
     <Materials>
