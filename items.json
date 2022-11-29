@@ -6873,6 +6873,27 @@
     "weapons": []
   },
   {
+    "id": "crpg_camel_11",
+    "name": "Padisha",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 71964,
+    "weight": 520.0,
+    "tier": 11,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 6,
+      "maneuver": 85,
+      "speed": 36,
+      "hitPoints": 300
+    },
+    "weapons": []
+  },
+  {
     "id": "crpg_camel_10",
     "name": "Achaemenian War Camel",
     "culture": "Aserai",
