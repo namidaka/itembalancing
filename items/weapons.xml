@@ -1240,7 +1240,7 @@
       <Piece id="crpg_aserai_noble_sword_1_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_aserai_noble_sword_2_t5" name="{=93OHSnEV}Decorated Long Scimitar" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_aserai_noble_sword_2_t5" name="{=93OHSnEV}Decorated Elite Scimitar" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_aserai_noble_sword_2_t5_blade" Type="Blade" scale_factor="99" />
       <Piece id="crpg_aserai_noble_sword_2_t5_guard" Type="Guard" scale_factor="100" />
