@@ -15734,6 +15734,40 @@
     ]
   },
   {
+    "id": "crpg_khuzait_noble_2hsword_1_t5",
+    "name": "Decorated Great Saber",
+    "culture": "Khuzait",
+    "type": "TwoHandedWeapon",
+    "price": 12619,
+    "weight": 2.22,
+    "tier": 9.439594,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 119,
+        "balance": 0.91,
+        "handling": 90,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 14,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 92,
+        "swingDamage": 29,
+        "swingDamageType": "Cut",
+        "swingSpeed": 97
+      }
+    ]
+  },
+  {
     "id": "crpg_khuzait_noble_helmet_with_feathers",
     "name": "Noble Lancer Helmet",
     "culture": "Khuzait",

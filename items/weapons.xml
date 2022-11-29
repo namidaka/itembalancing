@@ -1271,6 +1271,14 @@
       <Piece id="crpg_khuzait_noble_sword_1_t5_handle" Type="Handle" scale_factor="110" />
       <Piece id="crpg_khuzait_noble_sword_1_t5_pommel" Type="Pommel" scale_factor="110" />
     </Pieces>
+      </CraftedItem>
+  <CraftedItem id="crpg_khuzait_noble_2hsword_1_t5" name="{=v7WQhge3}Decorated Great Saber" crafting_template="crpg_TwoHandedSword" is_merchandise="false" culture="Culture.khuzait" modifier_group="sword">
+    <Pieces>
+      <Piece id="crpg_khuzait_noble_2hsword_1_t5_blade" Type="Blade" scale_factor="150" />
+      <Piece id="crpg_khuzait_noble_2hsword_1_t5_guard" Type="Guard" scale_factor="98" />
+      <Piece id="crpg_khuzait_noble_2hsword_1_t5_handle" Type="Handle" scale_factor="115" />
+      <Piece id="crpg_khuzait_noble_2hsword_1_t5_pommel" Type="Pommel" scale_factor="105" />
+    </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_khuzait_noble_sword_2_t5" name="{=a10taTGb}Lion Imprinted Saber" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
