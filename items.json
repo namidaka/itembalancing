@@ -10677,12 +10677,12 @@
   },
   {
     "id": "crpg_empire_noble_2hsword_2_t5",
-    "name": "Great Thamaskene Steel Spatha",
+    "name": "Great Thamaskene Steel Claymore",
     "culture": "Empire",
     "type": "TwoHandedWeapon",
-    "price": 13491,
-    "weight": 3.75,
-    "tier": 9.797004,
+    "price": 13427,
+    "weight": 3.54,
+    "tier": 9.771189,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10693,8 +10693,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 125,
-        "balance": 0.43,
-        "handling": 81,
+        "balance": 0.48,
+        "handling": 80,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
@@ -10702,10 +10702,10 @@
         ],
         "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
+        "thrustSpeed": 83,
         "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 84
       }
     ]
   },
@@ -15772,9 +15772,9 @@
     "name": "Decorated Great Saber",
     "culture": "Khuzait",
     "type": "TwoHandedWeapon",
-    "price": 12619,
-    "weight": 2.22,
-    "tier": 9.439594,
+    "price": 12641,
+    "weight": 2.11,
+    "tier": 9.448773,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15785,7 +15785,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 119,
-        "balance": 0.91,
+        "balance": 0.9,
         "handling": 90,
         "bodyArmor": 3,
         "flags": [
@@ -15794,7 +15794,7 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 97
