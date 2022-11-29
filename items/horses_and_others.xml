@@ -246,7 +246,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-   <Item id="crpg_mount_balanced_11" name="Lionheart" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="90" Type="Horse">
+   <Item id="crpg_mount_balanced_11" name="Bohemond" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="90" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="79" speed="47" charge_damage="4" body_length="100" is_mountable="true" extra_health="0" modifier_group="horse">
         <AdditionalMeshes>
