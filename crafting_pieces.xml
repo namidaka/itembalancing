@@ -2992,7 +2992,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_1_t5_pommel" name="{=rn6tttI2}Southern Ornamental Pommel" tier="5" piece_type="Pommel" mesh="aserai_noble_pommel_2" culture="Culture.aserai" length="6.4" weight="0.284">
+  <CraftingPiece id="crpg_aserai_noble_sword_1_t5_pommel" name="{=rn6tttI2}Southern Ornamental Pommel" tier="5" piece_type="Pommel" mesh="aserai_noble_pommel_2" culture="Culture.aserai" length="6.4" weight="0.35">
     <Materials>
       <Material id="Iron5" count="1" />
     </Materials>
@@ -3668,7 +3668,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_1_t5_handle" name="{=p1Uz3dqs}Riveted Decorated Red Kaskara Grip" tier="5" piece_type="Handle" mesh="aserai_noble_grip_1" culture="Culture.aserai" length="15" weight="0.225">
+  <CraftingPiece id="crpg_aserai_noble_sword_1_t5_handle" name="{=p1Uz3dqs}Riveted Decorated Red Kaskara Grip" tier="5" piece_type="Handle" mesh="aserai_noble_grip_1" culture="Culture.aserai" length="15" weight="0.50">
     <BuildData piece_offset="0" previous_piece_offset="0.1" next_piece_offset="0.1" />
     <Materials>
       <Material id="Iron5" count="1" />
@@ -5025,10 +5025,10 @@
       <Material id="Iron6" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_noble_sword_1_t5_blade" name="{=gwkR6TZL}Decorated Kaskara Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_2" culture="Culture.aserai" length="93.2" weight="1.3">
+  <CraftingPiece id="crpg_aserai_noble_sword_1_t5_blade" name="{=gwkR6TZL}Decorated Kaskara Blade" tier="5" piece_type="Blade" mesh="aserai_noble_blade_2" culture="Culture.aserai" length="93.2" weight="0.83">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_noble_blade_2_scabbard_2">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Thrust damage_type="Pierce" damage_factor="1.2" />
+      <Swing damage_type="Cut" damage_factor="3.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
