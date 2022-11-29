@@ -1,5 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Items>
+  <Item id="crpg_mount_fast_11" name="Shadowfax" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="69" speed="56" charge_damage="4" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="0" modifier_group="horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_white_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF303030" percentage="1.0" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+<Items>
   <Item id="crpg_mount_fast_10" name="Lusitano Pureblood Courser" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="68" speed="55" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-10" modifier_group="horse">
@@ -95,6 +113,24 @@
           <Material name="horse_white_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF303030" percentage="1.0" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+   <Item id="crpg_mount_charger_11" name="Bucephalus" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="72" speed="44" charge_damage="8" body_length="105" is_mountable="true" extra_health="25" modifier_group="horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_black_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
             </MeshMultipliers>
           </Material>
         </Materials>
@@ -200,6 +236,24 @@
         </AdditionalMeshes>
         <Materials>
           <Material name="horse_black_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+   <Item id="crpg_mount_balanced_11" name="Lionheart" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="90" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="79" speed="47" charge_damage="4" body_length="100" is_mountable="true" extra_health="0" modifier_group="horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_brown_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
               <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
@@ -318,6 +372,24 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
+  <Item id="crpg_mount_maneuverable_11" name="Marengo" mesh="horse_brown" item_category="noble_horse" culture="Culture.khuzait" subtype="horse" weight="300" difficulty="30" appearance="0" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="86" speed="45" charge_damage="4" body_length="95" is_mountable="true" extra_health="0" skeleton_scale="khuzait_horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="steppe_horse">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF08080B" percentage="1.0" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
   <Item id="crpg_mount_maneuverable_10" name="Arabian Palfrey" mesh="horse_brown" item_category="noble_horse" culture="Culture.khuzait" subtype="horse" weight="300" difficulty="30" appearance="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="85" speed="44" charge_damage="4" body_length="95" is_mountable="true" extra_health="-12" skeleton_scale="khuzait_horse">
@@ -426,9 +498,16 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mule" name="Chadz" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
+  <Item id="crpg_mule" name="Donkey" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.mule" maneuver="58" speed="30" charge_damage="0" body_length="92" is_mountable="true" extra_health="150" is_pack_animal="true" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+   </Item>
+  <Item id="crpg_mule_2" name="Chadz" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.mule" maneuver="60" speed="33" charge_damage="1" body_length="92" is_mountable="true" extra_health="200" is_pack_animal="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
