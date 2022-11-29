@@ -2316,7 +2316,7 @@
 	</CraftedItem>
   <CraftedItem id="crpg_long_hafted_spiked_mace" name="{=}Long Hafted Spiked Mace" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_long_hafted_spiked_mace" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_long_hafted_spiked_mace_head" Type="Blade" scale_factor="160" />
       <Piece id="crpg_long_hafted_spiked_mace_handle" Type="Handle" scale_factor="290" />
     </Pieces>
   </CraftedItem>
