@@ -3008,6 +3008,11 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_empire_noble_2hsword_2_t5_pommel" name="{=GI6XD77j}Imperial Decorated Pommel" tier="5" piece_type="Pommel" mesh="empire_noble_pommel_4" culture="Culture.empire" length="7" weight="0.35" appearance="0.9">
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_empire_noble_sword_1_t5_pommel" name="{=9Y1zUaE7}Imperial Round Pommel" tier="5" piece_type="Pommel" mesh="empire_noble_pommel_3" culture="Culture.empire" length="6.8" weight="0.2" appearance="0.9">
     <Materials>
       <Material id="Iron5" count="1" />
@@ -3692,6 +3697,12 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_empire_noble_2hsword_2_t5_handle" name="{=bEbyObu7}Jeweled Golden One Handed Grip" tier="5" piece_type="Handle" mesh="empire_noble_grip_2" culture="Culture.empire" length="15" weight="1.50">
+    <BuildData piece_offset="0" next_piece_offset="0" previous_piece_offset="0.5" />
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_vlandia_noble_sword_3_t5_handle" name="{=TKQl9boE}Golden Decorated Fine Arming Sword Grip" tier="5" piece_type="Handle" mesh="vlandian_noble_grip_4" culture="Culture.vlandia" length="15" weight="0.3">
     <BuildData piece_offset="0" previous_piece_offset="0.358" />
     <Materials>
@@ -4265,6 +4276,13 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_noble_sword_2_t5_guard" name="{=a4qSDsmb}Imperial Golden Great Sword Guard" tier="5" piece_type="Guard" mesh="empire_noble_guard_4" culture="Culture.empire" length="2.9" weight="0.20">
+    <BuildData next_piece_offset="-0.5" />
+    <StatContributions armor_bonus="5" />
+    <Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+   <CraftingPiece id="crpg_empire_noble_2hsword_2_t5_guard" name="{=a4qSDsmb}Imperial Golden Great Sword Guard" tier="5" piece_type="Guard" mesh="empire_noble_guard_4" culture="Culture.empire" length="2.9" weight="0.20">
     <BuildData next_piece_offset="-0.5" />
     <StatContributions armor_bonus="5" />
     <Materials>
@@ -5646,6 +5664,15 @@
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_7_scabbard_7">
       <Thrust damage_type="Pierce" damage_factor="1.7" />
       <Swing damage_type="Cut" damage_factor="3.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron6" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_empire_noble_2hsword_2_t5_blade" name="{=dafrn0mR}Thamaskene Steel Spatha Blade" tier="5" piece_type="Blade" mesh="empire_blade_7" culture="Culture.vlandia" length="99" weight="1.45">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_7_scabbard_7">
+      <Thrust damage_type="Pierce" damage_factor="1.6" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Materials>
       <Material id="Iron6" count="4" />
