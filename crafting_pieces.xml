@@ -5519,7 +5519,7 @@
   <CraftingPiece id="crpg_sturgia_sword_5_t4_blade" name="{=weIT4gUP}Fullered Narrow Warsword Blade" tier="4" piece_type="Blade" mesh="sturgian_blade_6" culture="Culture.sturgia" length="73.7" weight="0.95">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="sturgian_blade_6_scabbard_6">
       <Thrust damage_type="Pierce" damage_factor="1.6" />
-      <Swing damage_type="Cut" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
