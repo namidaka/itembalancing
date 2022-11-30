@@ -1224,7 +1224,7 @@
       <Piece id="crpg_empire_noble_sword_2_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_empire_noble_2hsword_2_t5" name="{=Rcc0JW6H}Great Thamaskene Steel Claymore" crafting_template="crpg_TwoHandedSword" is_merchandise="false" culture="Culture.empire" modifier_group="sword">
+  <CraftedItem id="crpg_empire_noble_2hsword_2_t5" name="{=Rcc0JW6H}Thamaskene Steel Claymore" crafting_template="crpg_TwoHandedSword" is_merchandise="false" culture="Culture.empire" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_great_thamaskene_steel_spatha_2hsword_2_t5_blade" Type="Blade" scale_factor="112" />
       <Piece id="crpg_great_thamaskene_steel_spatha_2hsword_2_t5_guard" Type="Guard" scale_factor="96" />
