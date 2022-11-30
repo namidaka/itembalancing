@@ -2430,6 +2430,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <Materials>
       <Material id="Iron4" count="3" />
@@ -2558,6 +2559,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <Materials>
       <Material id="Iron4" count="3" />
