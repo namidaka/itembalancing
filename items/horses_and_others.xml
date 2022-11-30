@@ -246,6 +246,24 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
+  <Item id="crpg_mount_balanced_12" name="Llamrei" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="90" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="79" speed="47" charge_damage="5" body_length="100" is_mountable="true" extra_health="20" modifier_group="horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="horse_brown_mat">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
    <Item id="crpg_mount_balanced_11" name="Bohemond" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="90" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="79" speed="47" charge_damage="4" body_length="100" is_mountable="true" extra_health="0" modifier_group="horse">
@@ -364,6 +382,24 @@
           <Material name="horse_black_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
+              <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
+            </MeshMultipliers>
+          </Material>
+        </Materials>
+      </Horse>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  Item id="crpg_mount_maneuverable_12" name="Baucent" mesh="horse_brown" item_category="noble_horse" culture="Culture.khuzait" subtype="horse" weight="300" difficulty="30" appearance="0" Type="Horse">
+    <ItemComponent>
+      <Horse monster="Monster.horse" maneuver="86" speed="45" charge_damage="5" body_length="95" is_mountable="true" extra_health="20" skeleton_scale="khuzait_horse">
+        <AdditionalMeshes>
+          <Mesh name="horse_mane" affected_by_cover="true" />
+        </AdditionalMeshes>
+        <Materials>
+          <Material name="steppe_horse">
+            <MeshMultipliers>
+              <MeshMultiplier mesh_multiplier="FF08080B" percentage="1.0" />
               <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
             </MeshMultipliers>
           </Material>

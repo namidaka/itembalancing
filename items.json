@@ -18092,6 +18092,27 @@
     ]
   },
   {
+    "id": "crpg_mount_balanced_12",
+    "name": "Llamrei",
+    "culture": "Khuzait",
+    "type": "Mount",
+    "price": 89190,
+    "weight": 430.0,
+    "tier": 11,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 100,
+      "chargeDamage": 5,
+      "maneuver": 79,
+      "speed": 47,
+      "hitPoints": 220
+    },
+    "weapons": []
+  },
+  {
     "id": "crpg_mount_balanced_11",
     "name": "Bohemond",
     "culture": "Khuzait",
@@ -18533,6 +18554,27 @@
     "weapons": []
   },
   {
+    "id": "crpg_mount_maneuverable_12",
+    "name": "Baucent",
+    "culture": "Khuzait",
+    "type": "Mount",
+    "price": 89950,
+    "weight": 300.0,
+    "tier": 11,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 95,
+      "chargeDamage": 5,
+      "maneuver": 86,
+      "speed": 45,
+      "hitPoints": 220
+    },
+    "weapons": []
+  },
+  {
     "id": "crpg_mount_maneuverable_11",
     "name": "Marengo",
     "culture": "Khuzait",
@@ -18746,7 +18788,7 @@
     "name": "Chadz",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 15196,
+    "price": 18995,
     "weight": 300.0,
     "tier": 11,
     "requirement": 0,
