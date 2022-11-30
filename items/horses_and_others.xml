@@ -507,7 +507,7 @@
    </Item>
   <Item id="crpg_mule_2" name="Chadz" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.mule" maneuver="60" speed="33" charge_damage="1" body_length="92" is_mountable="true" extra_health="200" is_pack_animal="true" />
+      <Horse monster="Monster.mule" maneuver="60" speed="33" charge_damage="1" body_length="92" is_mountable="true" extra_health="175" is_pack_animal="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
