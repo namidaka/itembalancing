@@ -10340,7 +10340,9 @@
     "weight": 2.02,
     "tier": 7.378704,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "DropOnWeaponChange"
+    ],
     "weapons": [
       {
         "class": "TwoHandedPolearm",
@@ -10399,7 +10401,9 @@
     "weight": 2.33,
     "tier": 9.95194,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "DropOnWeaponChange"
+    ],
     "weapons": [
       {
         "class": "TwoHandedPolearm",
@@ -27102,6 +27106,7 @@
     "tier": 8.195611,
     "requirement": 0,
     "flags": [
+      "DropOnWeaponChange",
       "NotStackable"
     ],
     "weapons": [
@@ -29679,7 +29684,9 @@
     "weight": 2.11,
     "tier": 2.99668837,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "DropOnWeaponChange"
+    ],
     "weapons": [
       {
         "class": "TwoHandedPolearm",
@@ -29816,7 +29823,9 @@
     "weight": 2.4,
     "tier": 9.956636,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "DropOnWeaponChange"
+    ],
     "weapons": [
       {
         "class": "TwoHandedPolearm",

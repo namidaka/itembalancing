@@ -1372,6 +1372,7 @@
     </BladeData>
     <Flags>
       <Flag name="NotStackable" type="ItemFlags" />
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
     </Flags>
     <Materials>
       <Material id="Iron5" count="2" />
@@ -1711,6 +1712,9 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.5" />
     </BladeData>
+    <Flags>
+    <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
@@ -1761,6 +1765,9 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.5" />
     </BladeData>
+    <Flags>
+    <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron5" count="1" />
     </Materials>
@@ -1786,6 +1793,9 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
+    <Flags>
+    <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron5" count="1" />
     </Materials>
@@ -1827,6 +1837,9 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
     </BladeData>
+    <Flags>
+    <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
