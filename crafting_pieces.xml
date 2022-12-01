@@ -241,6 +241,10 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
+    </Flags>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
@@ -249,6 +253,10 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Pierce" damage_factor="2.2" />
     </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
+    </Flags>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
@@ -257,6 +265,10 @@
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Pierce" damage_factor="3.0" />
     </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
+    </Flags>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>

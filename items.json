@@ -4,11 +4,13 @@
     "name": "Heavy Morningstar",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 9864,
+    "price": 13867,
     "weight": 2.16,
-    "tier": 8.22104,
+    "tier": 9.947458,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "TwoHandedMace",
@@ -23,6 +25,7 @@
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
+          "BonusAgainstShield",
           "TwoHandIdleOnMount"
         ],
         "thrustDamage": 0,
@@ -4439,11 +4442,13 @@
     "name": "Light Morningstar",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 2162,
+    "price": 2968,
     "weight": 1.97,
-    "tier": 4.86055756,
+    "tier": 5.881274,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Mace",
@@ -4456,7 +4461,8 @@
         "handling": 91,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
@@ -18286,11 +18292,13 @@
     "name": "Morningstar",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 2846,
+    "price": 3939,
     "weight": 1.99,
-    "tier": 5.737174,
+    "tier": 6.94198227,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Mace",
@@ -18303,7 +18311,8 @@
         "handling": 82,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
