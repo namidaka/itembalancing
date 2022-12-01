@@ -21,6 +21,8 @@
         "length": 99,
         "balance": 0.57,
         "handling": 81,
+        "balance": 0.57,
+        "handling": 81,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -32,7 +34,10 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 92,
         "swingDamage": 30,
+        "thrustSpeed": 92,
+        "swingDamage": 30,
         "swingDamageType": "Pierce",
+        "swingSpeed": 87
         "swingSpeed": 87
       }
     ]
