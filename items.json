@@ -4439,9 +4439,9 @@
     "name": "Light Morningstar",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 4819,
-    "weight": 2.05,
-    "tier": 7.795581,
+    "price": 2162,
+    "weight": 1.97,
+    "tier": 4.86055756,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -4452,8 +4452,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.46,
-        "handling": 90,
+        "balance": 0.53,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -4461,9 +4461,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 26,
+        "swingDamage": 22,
         "swingDamageType": "Pierce",
-        "swingSpeed": 83
+        "swingSpeed": 86
       }
     ]
   },
@@ -18286,9 +18286,9 @@
     "name": "Morningstar",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 2235,
-    "weight": 2.04,
-    "tier": 4.96041536,
+    "price": 2846,
+    "weight": 1.99,
+    "tier": 5.737174,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -18299,18 +18299,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 79,
-        "balance": 0.45,
-        "handling": 81,
+        "balance": 0.49,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 26,
         "swingDamageType": "Pierce",
-        "swingSpeed": 83
+        "swingSpeed": 84
       }
     ]
   },
