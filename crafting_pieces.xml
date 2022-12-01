@@ -6107,7 +6107,7 @@
       <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="CanCrushThrough" />
       <Flag name="CanKnockDown" />
     </Flags>
     <Materials>

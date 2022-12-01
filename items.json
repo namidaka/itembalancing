@@ -17541,13 +17541,11 @@
     "name": "Long Hafted Spiked Mace",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 10120,
+    "price": 14197,
     "weight": 1.69,
-    "tier": 7.68676138,
+    "tier": 9.30098152,
     "requirement": 0,
-    "flags": [
-      "CanBePickedUpFromCorpse"
-    ],
+    "flags": [],
     "weapons": [
       {
         "class": "TwoHandedPolearm",
@@ -17564,7 +17562,8 @@
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "MultiplePenetration"
+          "MultiplePenetration",
+          "CanKnockDown"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
