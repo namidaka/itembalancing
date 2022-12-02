@@ -10676,40 +10676,6 @@
     ]
   },
   {
-    "id": "crpg_empire_noble_2hsword_2_t5",
-    "name": "Thamaskene Steel Claymore",
-    "culture": "Empire",
-    "type": "TwoHandedWeapon",
-    "price": 13427,
-    "weight": 3.54,
-    "tier": 9.771189,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedSword",
-        "itemUsage": "twohanded_block_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 125,
-        "balance": 0.48,
-        "handling": 80,
-        "bodyArmor": 5,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand"
-        ],
-        "thrustDamage": 16,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
-        "swingDamage": 40,
-        "swingDamageType": "Cut",
-        "swingSpeed": 84
-      }
-    ]
-  },
-  {
     "id": "crpg_empire_noble_sword_1_t5",
     "name": "Decorated Short Spatha",
     "culture": "Empire",
@@ -12395,6 +12361,40 @@
       "materialType": "Plate"
     },
     "weapons": []
+  },
+  {
+    "id": "crpg_great_thamaskene_steel_claymore_2hsword_2_t5",
+    "name": "Thamaskene Steel Claymore",
+    "culture": "Empire",
+    "type": "TwoHandedWeapon",
+    "price": 13427,
+    "weight": 3.54,
+    "tier": 9.771189,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 125,
+        "balance": 0.48,
+        "handling": 80,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 16,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
+      }
+    ]
   },
   {
     "id": "crpg_greataxe",
