@@ -6190,4 +6190,23 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
+<CraftingPiece id="crpg_big_bos_handle" name="{=}Great Long Maul" tier="1" piece_type="Handle" mesh="greataxe_handle" length="129" weight="2.4" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
+<BuildData piece_offset="30.9"/>
+<Materials>
+<Material id="Wood" count="1"/>
+</Materials>
+</CraftingPiece>
+<CraftingPiece id="crpg_big_bos_head" name="{=}Boulder for the Stick" tier="2" piece_type="Blade" mesh="crpg_bos_head" length="23.1" weight="0.0" full_scale="true" excluded_item_usage_features="shield">
+<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+<Thrust damage_type="Blunt" damage_factor="1.4"/>
+<Swing damage_type="Blunt" damage_factor="2.1"/>
+</BladeData>
+<Flags>
+<Flag name="CanKnockDown"/>
+<Flag name="CanCrushThrough"/>
+</Flags>
+<Materials>
+<Material id="Wood" count="1"/>
+</Materials>
+</CraftingPiece>
 </CraftingPieces>

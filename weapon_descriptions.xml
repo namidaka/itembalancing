@@ -2311,9 +2311,11 @@
       <AvailablePiece id="crpg_hoplite_pommel_1" />
       <AvailablePiece id="crpg_iklwa_handle_1" />
       <AvailablePiece id="crpg_iklwa_blade_1" />
+      <AvailablePiece id="crpg_big_bos_head" />
+      <AvailablePiece id="crpg_big_bos_handle" />
 
       
-    </AvailablePieces>
+</AvailablePieces>
   </WeaponDescription>
     <WeaponDescription id="crpg_SpearDoubleThrust" weapon_class="TwoHandedPolearm" item_usage_features="polearm:block:long:shield:thrust">
     <WeaponFlags>

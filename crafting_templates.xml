@@ -1712,6 +1712,8 @@
       <UsablePiece piece_id="crpg_hoplite_pommel_1" />
       <UsablePiece piece_id="crpg_iklwa_handle_1" />
       <UsablePiece piece_id="crpg_iklwa_blade_1" />
+      <UsablePiece piece_id="crpg_big_bos_head" />
+      <UsablePiece piece_id="crpg_big_bos_handle" />
     </UsablePieces>
   </CraftingTemplate>
     <CraftingTemplate id="crpg_Spear4DMode" item_type="Polearm" modifier_group="polearm" item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4" default_item_holster_position_offset="0,0,-0.30" use_weapon_as_holster_mesh="true">
