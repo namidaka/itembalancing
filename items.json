@@ -6940,9 +6940,9 @@
     "name": "Padisha",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 29665,
+    "price": 25393,
     "weight": 520.0,
-    "tier": 13.1458025,
+    "tier": 12.0808945,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -6952,7 +6952,7 @@
       "chargeDamage": 6,
       "maneuver": 85,
       "speed": 36,
-      "hitPoints": 300
+      "hitPoints": 280
     },
     "weapons": []
   },
@@ -18552,11 +18552,11 @@
   {
     "id": "crpg_mount_balanced_11",
     "name": "Bohemond",
-    "culture": "Khuzait",
+    "culture": "Vlandia",
     "type": "Mount",
-    "price": 34098,
+    "price": 30555,
     "weight": 430.0,
-    "tier": 14.17307,
+    "tier": 13.3578005,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18565,19 +18565,19 @@
       "bodyLength": 100,
       "chargeDamage": 8,
       "maneuver": 83,
-      "speed": 48,
-      "hitPoints": 225
+      "speed": 47,
+      "hitPoints": 220
     },
     "weapons": []
   },
   {
     "id": "crpg_mount_balanced_12",
     "name": "Llamrei",
-    "culture": "Khuzait",
+    "culture": "Battania",
     "type": "Mount",
-    "price": 40387,
+    "price": 36292,
     "weight": 430.0,
-    "tier": 15.52211,
+    "tier": 14.6567516,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18586,8 +18586,8 @@
       "bodyLength": 100,
       "chargeDamage": 9,
       "maneuver": 84,
-      "speed": 49,
-      "hitPoints": 230
+      "speed": 48,
+      "hitPoints": 225
     },
     "weapons": []
   },
@@ -18719,12 +18719,12 @@
   },
   {
     "id": "crpg_mount_charger_11",
-    "name": "Bucephalus",
-    "culture": "Khuzait",
+    "name": "Lionheart",
+    "culture": "Vlandia",
     "type": "Mount",
-    "price": 34812,
+    "price": 34436,
     "weight": 450.0,
-    "tier": 14.332056,
+    "tier": 14.24857,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18732,8 +18732,29 @@
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 10,
-      "maneuver": 79,
+      "maneuver": 80,
       "speed": 48,
+      "hitPoints": 230
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount_charger_12",
+    "name": "Bucephalus",
+    "culture": "Empire",
+    "type": "Mount",
+    "price": 41633,
+    "weight": 450.0,
+    "tier": 15.77668,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 11,
+      "maneuver": 81,
+      "speed": 49,
       "hitPoints": 235
     },
     "weapons": []
@@ -18866,12 +18887,12 @@
   },
   {
     "id": "crpg_mount_fast_11",
-    "name": "Shadowfax",
+    "name": "Hengeron",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 37101,
+    "price": 33258,
     "weight": 420.0,
-    "tier": 14.8314867,
+    "tier": 13.9836655,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18881,7 +18902,28 @@
       "chargeDamage": 5,
       "maneuver": 83,
       "speed": 52,
-      "hitPoints": 215
+      "hitPoints": 205
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount_fast_12",
+    "name": "Shadowfax",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 38905,
+    "weight": 420.0,
+    "tier": 15.2142019,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 100,
+      "chargeDamage": 6,
+      "maneuver": 84,
+      "speed": 53,
+      "hitPoints": 210
     },
     "weapons": []
   },
@@ -19014,11 +19056,11 @@
   {
     "id": "crpg_mount_maneuverable_11",
     "name": "Marengo",
-    "culture": "Khuzait",
+    "culture": "Vlandia",
     "type": "Mount",
-    "price": 33636,
+    "price": 27240,
     "weight": 300.0,
-    "tier": 14.0692453,
+    "tier": 12.551487,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19026,20 +19068,20 @@
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 3,
-      "maneuver": 87,
-      "speed": 50,
-      "hitPoints": 205
+      "maneuver": 86,
+      "speed": 48,
+      "hitPoints": 200
     },
     "weapons": []
   },
   {
     "id": "crpg_mount_maneuverable_12",
     "name": "Baucent",
-    "culture": "Khuzait",
+    "culture": "Vlandia",
     "type": "Mount",
-    "price": 39304,
+    "price": 31944,
     "weight": 300.0,
-    "tier": 15.2978268,
+    "tier": 13.6827745,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19047,9 +19089,9 @@
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 4,
-      "maneuver": 88,
-      "speed": 51,
-      "hitPoints": 210
+      "maneuver": 87,
+      "speed": 49,
+      "hitPoints": 205
     },
     "weapons": []
   },
