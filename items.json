@@ -18361,19 +18361,19 @@
     "name": "Bohemond",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 20106,
+    "price": 34098,
     "weight": 430.0,
-    "tier": 10.6302834,
+    "tier": 14.17307,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "mount": {
       "bodyLength": 100,
-      "chargeDamage": 4,
-      "maneuver": 79,
-      "speed": 47,
-      "hitPoints": 200
+      "chargeDamage": 8,
+      "maneuver": 83,
+      "speed": 48,
+      "hitPoints": 225
     },
     "weapons": []
   },
@@ -18382,19 +18382,19 @@
     "name": "Llamrei",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 25174,
+    "price": 40387,
     "weight": 430.0,
-    "tier": 12.0239363,
+    "tier": 15.52211,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "mount": {
       "bodyLength": 100,
-      "chargeDamage": 5,
-      "maneuver": 79,
-      "speed": 47,
-      "hitPoints": 220
+      "chargeDamage": 9,
+      "maneuver": 84,
+      "speed": 49,
+      "hitPoints": 230
     },
     "weapons": []
   },
@@ -18529,19 +18529,19 @@
     "name": "Bucephalus",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 17816,
+    "price": 34812,
     "weight": 450.0,
-    "tier": 9.943507,
+    "tier": 14.332056,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "mount": {
       "bodyLength": 105,
-      "chargeDamage": 8,
-      "maneuver": 72,
-      "speed": 44,
-      "hitPoints": 225
+      "chargeDamage": 10,
+      "maneuver": 79,
+      "speed": 48,
+      "hitPoints": 235
     },
     "weapons": []
   },
@@ -18676,19 +18676,19 @@
     "name": "Shadowfax",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 22259,
+    "price": 37101,
     "weight": 420.0,
-    "tier": 11.2415552,
+    "tier": 14.8314867,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "mount": {
       "bodyLength": 100,
-      "chargeDamage": 4,
-      "maneuver": 69,
-      "speed": 56,
-      "hitPoints": 200
+      "chargeDamage": 5,
+      "maneuver": 83,
+      "speed": 52,
+      "hitPoints": 215
     },
     "weapons": []
   },
@@ -18823,19 +18823,19 @@
     "name": "Marengo",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 22804,
+    "price": 33636,
     "weight": 300.0,
-    "tier": 11.39141,
+    "tier": 14.0692453,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "mount": {
       "bodyLength": 95,
-      "chargeDamage": 4,
-      "maneuver": 86,
-      "speed": 45,
-      "hitPoints": 200
+      "chargeDamage": 3,
+      "maneuver": 87,
+      "speed": 50,
+      "hitPoints": 205
     },
     "weapons": []
   },
@@ -18844,19 +18844,19 @@
     "name": "Baucent",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 28577,
+    "price": 39304,
     "weight": 300.0,
-    "tier": 12.88218,
+    "tier": 15.2978268,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "mount": {
       "bodyLength": 95,
-      "chargeDamage": 5,
-      "maneuver": 86,
-      "speed": 45,
-      "hitPoints": 220
+      "chargeDamage": 4,
+      "maneuver": 88,
+      "speed": 51,
+      "hitPoints": 210
     },
     "weapons": []
   },
@@ -19008,7 +19008,7 @@
   },
   {
     "id": "crpg_mule",
-    "name": "Donkey",
+    "name": "Mule",
     "culture": "Neutral",
     "type": "Mount",
     "price": 3799,
