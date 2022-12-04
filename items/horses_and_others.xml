@@ -582,7 +582,7 @@
   </Item>
   <Item id="crpg_camel_11" name="Padisha" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="85" speed="36" charge_damage="6" body_length="110" extra_health="100" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="85" speed="36" charge_damage="6" body_length="110" extra_health="80" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
