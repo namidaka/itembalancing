@@ -53,3 +53,58 @@ private GameMatch game1 = new()
                 ronWeasley
             },
 };
+	private static Clan Black Baronesses = new(){ Id = 7, Name = "Black Baronesses" };
+        private static Clan Navy Knights =new(){ Id = 8, Name = "Navy Knights" };
+        private static Clan Purple Peasants =new(){ Id = 9, Name = "Purple Peasants" };
+        private static Clan Red Ritters =new(){ Id = 10, Name = "Red Ritters" };
+        private static Clan Lemon Levies =new(){ Id = 11, Name = "Lemon Levies" };
+        private static Clan Scarlet Shieldmaidens =new(){ Id = 12, Name = "Scarlet Shieldmaidens" };
+
+        private static User GerryShepherd =new(){ Id = 21, Rating = 2000, ClanMembership = new ClanMember { UserId = 21, User = GerryShepherd, ClanId = 7, Clan = Black Baronesses } };
+        private static User BullyDog =new(){ Id = 22, Rating = 1600, ClanMembership = new ClanMember { UserId = 22, User = BullyDog, ClanId = 7, Clan = Black Baronesses } };
+        private static User LabbyRetriever =new(){ Id = 23, Rating = 1500, ClanMembership = new ClanMember { UserId = 23, User = LabbyRetriever, ClanId = 7, Clan = Black Baronesses } };
+        private static User GoldyRetriever =new(){ Id = 24, Rating = 2000, ClanMembership = new ClanMember { UserId = 24, User = GoldyRetriever, ClanId = 8, Clan = Navy Knights } };
+        private static User SibbyHusky =new(){ Id = 25, Rating = 1000, ClanMembership = new ClanMember { UserId = 25, User = SibbyHusky, ClanId = 8, Clan = Navy Knights } };
+        private static User Poodlums =new(){ Id = 26, Rating = 2800, ClanMembership = new ClanMember { UserId = 26, User = Poodlums, ClanId = 9, Clan = Purple Peasants } };
+        private static User BordyCollie =new(){ Id = 27, Rating = 2000, ClanMembership = new ClanMember { UserId = 27, User = BordyCollie, ClanId = 10, Clan = Red Ritters } };
+        private static User Rottyweiler =new(){ Id = 28, Rating = 2700, ClanMembership = new ClanMember { UserId = 28, User = Rottyweiler, ClanId = 11, Clan = Lemon Levies } };
+        private static User Daschyhund =new(){ Id = 29, Rating = 2800, ClanMembership = new ClanMember { UserId = 29, User = Daschyhund, ClanId = 12, Clan = Scarlet Shieldmaidens } };
+        private static User GreatieDane =new(){ Id = 30, Rating = 1200 };
+        private static User YorkyTerrier =new(){ Id = 31, Rating = 1300 };
+        private static User CockySpaniel =new(){ Id = 32, Rating = 800 };
+        private static User Pomyranian =new(){ Id = 33, Rating = 500 };
+        private static User Bullymastiff =new(){ Id = 34, Rating = 1100 };
+        private static User JackyRussell =new(){ Id = 35, Rating = 3500 };
+        private static User Akitayinu =new(){ Id = 36, Rating = 2400 };
+        private static User Maltiepoo =new(){ Id = 37, Rating = 2700 };
+        private static User Doberymann =new(){ Id = 38, Rating = 1100 };
+        private static User Sheeiitzu =new(){ Id = 39, Rating = 2400 };
+        private static User BassetyHound = new() { Id = 40, Rating = 600, ClanMembership = new ClanMember { UserId = 40, User = BassetyHound, ClanId = 4, Clan = Red Ritters } };
+        private GameMatch game1 = new()
+        {
+            TeamA = new List<User> { },
+            TeamB = new List<User> { },
+            Waiting = new List<User>
+            {
+                GerryShepherd,
+                BullyDog,
+                LabbyRetriever,
+                GoldyRetriever,
+                SibbyHusky,
+                Poodlums,
+                BordyCollie,
+                Rottyweiler,
+                Daschyhund,
+                GreatieDane,
+                YorkyTerrier,
+                CockySpaniel,
+                Pomyranian,
+                Bullymastiff,
+                JackyRussell,
+                Akitayinu,
+                Maltiepoo,
+                Doberymann,
+                Sheeiitzu,
+                BassetyHound
+            },
+        };
