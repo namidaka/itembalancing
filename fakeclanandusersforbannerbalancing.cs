@@ -989,9 +989,3 @@ private GameMatch game1 = new()
 >>>>>>> 332577a (generated users for autobalance)
             },
 };
-
-{
-    TeamA = new List<User> { },
-    TeamB = new List<User> { },
-    Waiting = new List<User>
-            {
