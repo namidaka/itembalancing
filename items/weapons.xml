@@ -36,6 +36,12 @@
       <Piece id="crpg_peasant_hammer_1_t1_handle" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_blacksmith_war_hammer_1_t1" name="{=6WcZ5Tr0}Blacksmith Warhammer" crafting_template="crpg_Mace" modifier_group="cheap_weapon">
+    <Pieces>
+      <Piece id="crpg_blacksmith_war_hammer_1_t1_blade" Type="Blade" scale_factor="155" />
+      <Piece id="crpg_blacksmith_war_hammer_mace_t3_handle" Type="Handle" scale_factor="145" />
+    </Pieces>
+  </CraftedItem>
   <CraftedItem id="crpg_peasant_hammer_2_t1" name="{=beVFwINO}Wooden Hammer" crafting_template="crpg_Mace" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_peasant_hammer_2_t1_blade" Type="Blade" />
@@ -846,6 +852,14 @@
       <Piece id="crpg_sturgia_sword_1_t2_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_thegn_sword_1_t2" name="{=Ag6dujzl}Thegn Sword" crafting_template="crpg_OneHandedSword" culture="Culture.sturgia" modifier_group="sword">
+    <Pieces>
+      <Piece id="crpg_thegn_sword_1_t2_blade" Type="Blade" scale_factor="113" />
+      <Piece id="crpg_sturgia_sword_1_t2_guard" Type="Guard" scale_factor="100" />
+      <Piece id="crpg_sturgia_sword_1_t2_handle" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_sturgia_sword_3_t3_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
   <CraftedItem id="crpg_battania_sword_1_t2" name="{=habJjtmv}Ridged Iron Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_battania_sword_1_t2_blade" Type="Blade" scale_factor="109" />
@@ -864,7 +878,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_simple_sabre_sword_t2" name="{=oQmUlQWp}Simple Saber " crafting_template="crpg_OneHandedSword" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_simple_sabre_sword_t2_blade" Type="Blade" scale_factor="105" />
+      <Piece id="crpg_simple_sabre_sword_t2_blade" Type="Blade" scale_factor="102" />
       <Piece id="crpg_simple_sabre_sword_t2_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_simple_sabre_sword_t2_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_simple_sabre_sword_t2_pommel" Type="Pommel" scale_factor="100" />
@@ -872,7 +886,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_simple_back_sword_t2" name="{=IK2Z9zWk}Simple Scimitar" crafting_template="crpg_OneHandedSword" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_simple_back_sword_t2_blade" Type="Blade" scale_factor="99" />
+      <Piece id="crpg_simple_back_sword_t2_blade" Type="Blade" scale_factor="96" />
       <Piece id="crpg_simple_back_sword_t2_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_simple_back_sword_t2_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_simple_back_sword_t2_pommel" Type="Pommel" scale_factor="100" />
@@ -960,7 +974,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_battania_sword_3_t3" name="{=8jEDX9J4}Steel Broadsword" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_battania_sword_3_t3_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_battania_sword_3_t3_blade" Type="Blade" scale_factor="113" />
       <Piece id="crpg_battania_sword_3_t3_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_battania_sword_3_t3_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_battania_sword_3_t3_pommel" Type="Pommel" scale_factor="100" />
@@ -984,7 +998,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_broad_ild_sword_t3" name="{=e8amL6a1}Broad Ild" crafting_template="crpg_OneHandedSword" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_broad_ild_sword_t3_blade" Type="Blade" scale_factor="82" />
+      <Piece id="crpg_broad_ild_sword_t3_blade" Type="Blade" scale_factor="72" />
       <Piece id="crpg_broad_ild_sword_t3_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_broad_ild_sword_t3_handle" Type="Handle" scale_factor="80" />
       <Piece id="crpg_broad_ild_sword_t3_pommel" Type="Pommel" scale_factor="100" />
@@ -1072,9 +1086,9 @@
   </CraftedItem>
   <CraftedItem id="crpg_khuzait_sword_4_t4" name="{=gadEbFyj}Fine Steel Saber" crafting_template="crpg_OneHandedSword" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_khuzait_sword_4_t4_blade" Type="Blade" scale_factor="101" />
+      <Piece id="crpg_khuzait_sword_4_t4_blade" Type="Blade" scale_factor="94" />
       <Piece id="crpg_khuzait_sword_4_t4_guard" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_khuzait_sword_4_t4_handle" Type="Handle" scale_factor="90" />
+      <Piece id="crpg_khuzait_sword_4_t4_handle" Type="Handle" scale_factor="95" />
       <Piece id="crpg_khuzait_sword_4_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
@@ -1176,7 +1190,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_battania_sword_5_t5" name="{=l9kAJ1Xh}Highland Broad Blade" crafting_template="crpg_OneHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_battania_sword_5_t5_blade" Type="Blade" scale_factor="115" />
+      <Piece id="crpg_battania_sword_5_t5_blade" Type="Blade" scale_factor="122" />
       <Piece id="crpg_battania_sword_5_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_battania_sword_5_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_battania_sword_5_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1296,7 +1310,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_khuzait_noble_sword_2_t5" name="{=a10taTGb}Lion Imprinted Saber" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_khuzait_noble_sword_2_t5_blade" Type="Blade" scale_factor="108" />
+      <Piece id="crpg_khuzait_noble_sword_2_t5_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_khuzait_noble_sword_2_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_khuzait_noble_sword_2_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_khuzait_noble_sword_2_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1304,7 +1318,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_khuzait_noble_sword_3_t5" name="{=tpUzcdY6}Tall Gripped Ild" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.khuzait" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_khuzait_noble_sword_3_t5_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_khuzait_noble_sword_3_t5_blade" Type="Blade" scale_factor="98" />
       <Piece id="crpg_khuzait_noble_sword_3_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_khuzait_noble_sword_3_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_khuzait_noble_sword_3_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1328,7 +1342,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_sturgia_noble_sword_3_t5" name="{=QA5zGCKf}Decorated Fullered Sword" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.sturgia" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_sturgia_noble_sword_3_t5_blade" Type="Blade" scale_factor="145" />
+      <Piece id="crpg_sturgia_noble_sword_3_t5_blade" Type="Blade" scale_factor="138" />
       <Piece id="crpg_sturgia_noble_sword_3_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_sturgia_noble_sword_3_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_sturgia_noble_sword_3_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1344,7 +1358,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_battania_noble_sword_1_t5" name="{=VucrovFw}Engraved Backsword" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.battania" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_battania_noble_sword_1_t5_blade" Type="Blade" scale_factor="99" />
+      <Piece id="crpg_battania_noble_sword_1_t5_blade" Type="Blade" scale_factor="97" />
       <Piece id="crpg_battania_noble_sword_1_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_battania_noble_sword_1_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_battania_noble_sword_1_t5_pommel" Type="Pommel" scale_factor="100" />
@@ -1360,7 +1374,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_battania_noble_sword_3_t5" name="{=Cr5ak47X}Decorated Broadsword" crafting_template="crpg_OneHandedSword" is_merchandise="false" culture="Culture.battania" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_battania_noble_sword_3_t5_blade" Type="Blade" scale_factor="101" />
+      <Piece id="crpg_battania_noble_sword_3_t5_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_battania_noble_sword_3_t5_guard" Type="Guard" scale_factor="90" />
       <Piece id="crpg_battania_noble_sword_3_t5_handle" Type="Handle" scale_factor="90" />
       <Piece id="crpg_battania_noble_sword_3_t5_pommel" Type="Pommel" scale_factor="90" />
@@ -1867,6 +1881,30 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
+  <Item id="crpg_manual_lowland_yew_bow" name="Experminetal Manual Yew Bow" body_name="bo_composite_longbow_a" mesh="longbow_b" culture="Culture.vlandia" difficulty="50" weight="0.55" appearance="0.4" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="100" speed_rating="96" missile_speed="94" weapon_length="117" accuracy="109" thrust_damage="14" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="crpg_manual_noble_bow" name="Experimental Manual Noble Bow" body_name="bo_composite_shotbow_f" mesh="shortbow_f" weight="0.4" difficulty="70" appearance="0.1" Type="Bow" item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="100" speed_rating="98" missile_speed="85" weapon_length="116" accuracy="95" thrust_damage="14" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.1,0,-0.15" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="crpg_manual_noble_long_bow" name="Experimental Manual Noble Long Bow" body_name="bo_composite_longbow_g" mesh="longbow_j" weight="0.8" difficulty="70" appearance="0.1" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="86" speed_rating="88" missile_speed="100" weapon_length="118" accuracy="97" thrust_damage="18" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
   <Item id="crpg_strong_tribal_long_bow" name="Strong Tribal Long Bow" body_name="bo_composite_longbow_g" mesh="longbow_i" culture="Culture.aserai" weight="0.9" difficulty="70" appearance="0.1" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
     <ItemComponent>
       <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="76" speed_rating="86" missile_speed="103" weapon_length="116" accuracy="96" thrust_damage="19" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0" modifier_group="bow">
@@ -2340,7 +2378,7 @@
     <Pieces>
       <Piece id="crpg_hoplite_blade_1" Type="Blade" scale_factor="90" />
       <Piece id="crpg_hoplite_guard_1" Type="Guard" scale_factor="90" />
-      <Piece id="crpg_hoplite_handle_1" Type="Handle" scale_factor="70" />
+      <Piece id="crpg_hoplite_handle_1" Type="Handle" scale_factor="75" />
       <Piece id="crpg_hoplite_pommel_1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
