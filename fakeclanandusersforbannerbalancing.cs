@@ -4,7 +4,6 @@ private static Clan gilead = new() { Id = 3, Name = "Gilead" };
 private static Clan poudlard = new() { Id = 4, Name = "Poudlard" };
 private static Clan xMen = new() { Id = 5, Name = "X-MEN" };
 private static Clan xMenVillain = new() { Id = 6, Name = "X-MEN Villains" };
-<<<<<<< HEAD
 private static Clan JeanJean = new() { Id = 7, Name = "JeanJean" };
 private static Clan Glut = new() { Id = 8, Name = "Glut" };
 private static Clan Vlex = new() { Id = 9, Name = "Vlex" };
@@ -15,23 +14,17 @@ private static Clan PurplePeasants = new() { Id = 13, Name = "Purple Peasants" }
 private static Clan RedRitters = new() { Id = 14, Name = "Red Ritters" };
 private static Clan LemonLevies = new() { Id = 15, Name = "Lemon Levies" };
 private static Clan ScarletShieldmaidens = new() { Id = 16, Name = "Scarlet Shieldmaidens" };
-=======
-private static Clan JeanJean =new(){ Id = 7, Name = "JeanJean" };
-private static Clan Glut =new(){ Id = 8, Name = "Glut" };
-private static Clan Vlex =new(){ Id = 9, Name = "Vlex" };
-private static Clan Hudahut =new(){ Id = 10, Name = "Hudahut" };
 private static Clan DUMPSTERS = new() { Id = 50, Name = "DUMPSTERS" };
 private static Clan TRASHCANS = new() { Id = 51, Name = "TRASHCANS" };
 private static Clan SCRUBS = new() { Id = 52, Name = "SCRUBS" };
 private static Clan GARBAGE = new() { Id = 53, Name = "GARBAGE" };
 private static Clan BASURA = new() { Id = 54, Name = "BASURA" };
 private static Clan WASTE = new() { Id = 55, Name = "WASTE" };
-private static Clan BADS =new(){ Id = 56, Name = "BADS" };
-private static Clan POORS =new(){ Id = 57, Name = "POORS" };
-private static Clan PEASANTRY =new(){ Id = 58, Name = "PEASANTRY" };
-private static Clan SERFS =new(){ Id = 59, Name = "SERFS" };
-private static Clan VAGABONDS =new(){ Id = 60, Name = "VAGABONDS" };
->>>>>>> 332577a (generated users for autobalance)
+private static Clan BADS = new() { Id = 56, Name = "BADS" };
+private static Clan POORS = new() { Id = 57, Name = "POORS" };
+private static Clan PEASANTRY = new() { Id = 58, Name = "PEASANTRY" };
+private static Clan SERFS = new() { Id = 59, Name = "SERFS" };
+private static Clan VAGABONDS = new() { Id = 60, Name = "VAGABONDS" };
 
 
 private static User arwen = new() { Id = 1, Rating = 2000, ClanMembership = new ClanMember { UserId = 1, User = arwen, ClanId = 1, Clan = lOTR } };
@@ -54,7 +47,6 @@ private static User merlin = new() { Id = 17, Rating = 2700 };
 private static User bob = new() { Id = 18, Rating = 1100 };
 private static User thomas = new() { Id = 19, Rating = 2400 };
 private static User ronWeasley = new() { Id = 20, Rating = 600, ClanMembership = new ClanMember { UserId = 7, User = ronWeasley, ClanId = 4, Clan = poudlard } };
-<<<<<<< HEAD
 private static User Jean_01 = new() { Id = 21, Rating = 3000, ClanMembership = new ClanMember { UserId = 21, User = Jean_01, ClanId = 7, Clan = JeanJean } };
 private static User Jean_02 = new() { Id = 22, Rating = 2500, ClanMembership = new ClanMember { UserId = 22, User = Jean_02, ClanId = 7, Clan = JeanJean } };
 private static User Jean_03 = new() { Id = 23, Rating = 2100, ClanMembership = new ClanMember { UserId = 23, User = Jean_03, ClanId = 7, Clan = JeanJean } };
@@ -95,27 +87,6 @@ private static User Maltiepoo = new() { Id = 57, Rating = 2700 };
 private static User Doberymann = new() { Id = 58, Rating = 1100 };
 private static User Sheeiitzu = new() { Id = 59, Rating = 2400 };
 private static User BassetyHound = new() { Id = 60, Rating = 600, ClanMembership = new ClanMember { UserId = 40, User = BassetyHound, ClanId = 14, Clan = RedRitters } };
-=======
-private static User Jean_01 =new(){ Id = 21, Rating = 3000, ClanMembership = new ClanMember { UserId = 21, User = Jean_01, ClanId = 7, Clan = JeanJean } };
-private static User Jean_02 =new(){ Id = 22, Rating = 2500, ClanMembership = new ClanMember { UserId = 22, User = Jean_02, ClanId = 7, Clan = JeanJean } };
-private static User Jean_03 =new(){ Id = 23, Rating = 2100, ClanMembership = new ClanMember { UserId = 23, User = Jean_03, ClanId = 7, Clan = JeanJean } };
-private static User Jean_04 =new(){ Id = 24, Rating = 1200, ClanMembership = new ClanMember { UserId = 24, User = Jean_04, ClanId = 7, Clan = JeanJean } };
-private static User Jean_05 =new(){ Id = 25, Rating = 800, ClanMembership = new ClanMember { UserId = 25, User = Jean_05, ClanId = 7, Clan = JeanJean } };
-private static User Glutentag_01 =new(){ Id = 26, Rating = 900, ClanMembership = new ClanMember { UserId = 26, User = Glutentag_01, ClanId = 8, Clan = Glut } };
-private static User Glutentag_02 =new(){ Id = 27, Rating = 200, ClanMembership = new ClanMember { UserId = 27, User = Glutentag_02, ClanId = 8, Clan = Glut } };
-private static User Glutentag_03 =new(){ Id = 28, Rating = 2200, ClanMembership = new ClanMember { UserId = 28, User = Glutentag_03, ClanId = 8, Clan = Glut } };
-private static User Glutentag_04 =new(){ Id = 29, Rating = 400, ClanMembership = new ClanMember { UserId = 29, User = Glutentag_04, ClanId = 8, Clan = Glut } };
-private static User Glutentag_05 =new(){ Id = 30, Rating = 800, ClanMembership = new ClanMember { UserId = 30, User = Glutentag_05, ClanId = 8, Clan = Glut } };
-private static User Vlexance_01 =new(){ Id = 31, Rating = 2600, ClanMembership = new ClanMember { UserId = 31, User = Vlexance_01, ClanId = 9, Clan = Vlex } };
-private static User Vlexance_02 =new(){ Id = 32, Rating = 2300, ClanMembership = new ClanMember { UserId = 32, User = Vlexance_02, ClanId = 9, Clan = Vlex } };
-private static User Vlexance_03 =new(){ Id = 33, Rating = 1300, ClanMembership = new ClanMember { UserId = 33, User = Vlexance_03, ClanId = 9, Clan = Vlex } };
-private static User Vlexance_04 =new(){ Id = 34, Rating = 1100, ClanMembership = new ClanMember { UserId = 34, User = Vlexance_04, ClanId = 9, Clan = Vlex } };
-private static User Vlexance_05 =new(){ Id = 35, Rating = 300, ClanMembership = new ClanMember { UserId = 35, User = Vlexance_05, ClanId = 9, Clan = Vlex } };
-private static User Hudax_01 =new(){ Id = 36, Rating = 1900, ClanMembership = new ClanMember { UserId = 36, User = Hudax_01, ClanId = 10, Clan = Hudahut } };
-private static User Hudax_02 =new(){ Id = 37, Rating = 1700, ClanMembership = new ClanMember { UserId = 37, User = Hudax_02, ClanId = 10, Clan = Hudahut } };
-private static User Hudax_03 =new(){ Id = 38, Rating = 1300, ClanMembership = new ClanMember { UserId = 38, User = Hudax_03, ClanId = 10, Clan = Hudahut } };
-private static User Hudax_04 =new(){ Id = 39, Rating = 1400, ClanMembership = new ClanMember { UserId = 39, User = Hudax_04, ClanId = 10, Clan = Hudahut } };
-private static User Hudax_05 =new(){ Id = 40, Rating = 700, ClanMembership = new ClanMember { UserId = 40, User = Hudax_05, ClanId = 10, Clan = Hudahut } };
 private static User GopherSnakeWeb = new() { Id = 1000, Rating = 819, ClanMembership = new ClanMember { UserId = 1000, User = GopherSnakeWeb, ClanId = 58, Clan = PEASANTRY } };
 private static User AmbushSword = new() { Id = 1001, Rating = 2019, ClanMembership = new ClanMember { UserId = 1001, User = AmbushSword, ClanId = 50, Clan = DUMPSTERS } };
 private static User FencingPacMan = new() { Id = 1002, Rating = 738, ClanMembership = new ClanMember { UserId = 1002, User = FencingPacMan, ClanId = 53, Clan = GARBAGE } };
@@ -514,9 +485,8 @@ private static User PatrolBonbon = new() { Id = 1394, Rating = 2468 };
 private static User PortFem = new() { Id = 1395, Rating = 1659 };
 private static User BudgereePerianth = new() { Id = 1396, Rating = 2764 };
 private static User PsycheStaminate = new() { Id = 1397, Rating = 1035 };
-private static User Bat MitzvahQuatrefoil = new() { Id = 1398, Rating = 2009 };
+private static User BatMitzvahQuatrefoil = new() { Id = 1398, Rating = 2009 };
 private static User HoneyedSugar = new() { Id = 1399, Rating = 2216 };
->>>>>>> 332577a (generated users for autobalance)
 private GameMatch game1 = new()
 {
     TeamA = new List<User> { },
@@ -562,7 +532,6 @@ private GameMatch game1 = new()
                 Hudax_02,
                 Hudax_03,
                 Hudax_04,
-<<<<<<< HEAD
                 Hudax_05,
                 GerryShepherd,
                 BullyDog,
@@ -583,9 +552,7 @@ private GameMatch game1 = new()
                 Maltiepoo,
                 Doberymann,
                 Sheeiitzu,
-                BassetyHound
-=======
-                Hudax_05
+                BassetyHound,
                 GopherSnakeWeb,
                 AmbushSword,
                 FencingPacMan,
@@ -984,8 +951,7 @@ private GameMatch game1 = new()
                 PortFem,
                 BudgereePerianth,
                 PsycheStaminate,
-                Bat MitzvahQuatrefoil,
+                BatMitzvahQuatrefoil,
                 HoneyedSugar,
->>>>>>> 332577a (generated users for autobalance)
             },
 };
