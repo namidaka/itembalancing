@@ -8,12 +8,12 @@ private static Clan JeanJean = new() { Id = 7, Name = "JeanJean" };
 private static Clan Glut = new() { Id = 8, Name = "Glut" };
 private static Clan Vlex = new() { Id = 9, Name = "Vlex" };
 private static Clan Hudahut = new() { Id = 10, Name = "Hudahut" };
-private static Clan BlackBaronesses = new() { Id = 7, Name = "Black Baronesses" };
-private static Clan NavyKnights = new() { Id = 8, Name = "Navy Knights" };
-private static Clan PurplePeasants = new() { Id = 9, Name = "Purple Peasants" };
-private static Clan RedRitters = new() { Id = 10, Name = "Red Ritters" };
-private static Clan LemonLevies = new() { Id = 11, Name = "Lemon Levies" };
-private static Clan ScarletShieldmaidens = new() { Id = 12, Name = "Scarlet Shieldmaidens" };
+private static Clan BlackBaronesses = new() { Id = 11, Name = "Black Baronesses" };
+private static Clan NavyKnights = new() { Id = 12, Name = "Navy Knights" };
+private static Clan PurplePeasants = new() { Id = 13, Name = "Purple Peasants" };
+private static Clan RedRitters = new() { Id = 14, Name = "Red Ritters" };
+private static Clan LemonLevies = new() { Id = 15, Name = "Lemon Levies" };
+private static Clan ScarletShieldmaidens = new() { Id = 16, Name = "Scarlet Shieldmaidens" };
 
 
 private static User arwen = new() { Id = 1, Rating = 2000, ClanMembership = new ClanMember { UserId = 1, User = arwen, ClanId = 1, Clan = lOTR } };
@@ -56,15 +56,15 @@ private static User Hudax_02 = new() { Id = 37, Rating = 1700, ClanMembership = 
 private static User Hudax_03 = new() { Id = 38, Rating = 1300, ClanMembership = new ClanMember { UserId = 38, User = Hudax_03, ClanId = 10, Clan = Hudahut } };
 private static User Hudax_04 = new() { Id = 39, Rating = 1400, ClanMembership = new ClanMember { UserId = 39, User = Hudax_04, ClanId = 10, Clan = Hudahut } };
 private static User Hudax_05 = new() { Id = 40, Rating = 700, ClanMembership = new ClanMember { UserId = 40, User = Hudax_05, ClanId = 10, Clan = Hudahut } };
-private static User GerryShepherd = new() { Id = 41, Rating = 2000, ClanMembership = new ClanMember { UserId = 21, User = GerryShepherd, ClanId = 7, Clan = BlackBaronesses } };
-private static User BullyDog = new() { Id = 42, Rating = 1600, ClanMembership = new ClanMember { UserId = 22, User = BullyDog, ClanId = 7, Clan = BlackBaronesses } };
-private static User LabbyRetriever = new() { Id = 43, Rating = 1500, ClanMembership = new ClanMember { UserId = 23, User = LabbyRetriever, ClanId = 7, Clan = BlackBaronesses } };
-private static User GoldyRetriever = new() { Id = 44, Rating = 2000, ClanMembership = new ClanMember { UserId = 24, User = GoldyRetriever, ClanId = 8, Clan = NavyKnights } };
-private static User SibbyHusky = new() { Id = 45, Rating = 1000, ClanMembership = new ClanMember { UserId = 25, User = SibbyHusky, ClanId = 8, Clan = NavyKnights } };
-private static User Poodlums = new() { Id = 46, Rating = 2800, ClanMembership = new ClanMember { UserId = 26, User = Poodlums, ClanId = 9, Clan = PurplePeasants } };
-private static User BordyCollie = new() { Id = 47, Rating = 2000, ClanMembership = new ClanMember { UserId = 27, User = BordyCollie, ClanId = 10, Clan = RedRitters } };
-private static User Rottyweiler = new() { Id = 48, Rating = 2700, ClanMembership = new ClanMember { UserId = 28, User = Rottyweiler, ClanId = 11, Clan = LemonLevies } };
-private static User Daschyhund = new() { Id = 49, Rating = 2800, ClanMembership = new ClanMember { UserId = 29, User = Daschyhund, ClanId = 12, Clan = ScarletShieldmaidens } };
+private static User GerryShepherd = new() { Id = 41, Rating = 2000, ClanMembership = new ClanMember { UserId = 21, User = GerryShepherd, ClanId = 11, Clan = BlackBaronesses } };
+private static User BullyDog = new() { Id = 42, Rating = 1600, ClanMembership = new ClanMember { UserId = 22, User = BullyDog, ClanId = 11, Clan = BlackBaronesses } };
+private static User LabbyRetriever = new() { Id = 43, Rating = 1500, ClanMembership = new ClanMember { UserId = 23, User = LabbyRetriever, ClanId = 11, Clan = BlackBaronesses } };
+private static User GoldyRetriever = new() { Id = 44, Rating = 2000, ClanMembership = new ClanMember { UserId = 24, User = GoldyRetriever, ClanId = 12, Clan = NavyKnights } };
+private static User SibbyHusky = new() { Id = 45, Rating = 1000, ClanMembership = new ClanMember { UserId = 25, User = SibbyHusky, ClanId = 12, Clan = NavyKnights } };
+private static User Poodlums = new() { Id = 46, Rating = 2800, ClanMembership = new ClanMember { UserId = 26, User = Poodlums, ClanId = 13, Clan = PurplePeasants } };
+private static User BordyCollie = new() { Id = 47, Rating = 2000, ClanMembership = new ClanMember { UserId = 27, User = BordyCollie, ClanId = 14, Clan = RedRitters } };
+private static User Rottyweiler = new() { Id = 48, Rating = 2700, ClanMembership = new ClanMember { UserId = 28, User = Rottyweiler, ClanId = 15, Clan = LemonLevies } };
+private static User Daschyhund = new() { Id = 49, Rating = 2800, ClanMembership = new ClanMember { UserId = 29, User = Daschyhund, ClanId = 16, Clan = ScarletShieldmaidens } };
 private static User GreatieDane = new() { Id = 50, Rating = 1200 };
 private static User YorkyTerrier = new() { Id = 51, Rating = 1300 };
 private static User CockySpaniel = new() { Id = 52, Rating = 800 };
@@ -75,7 +75,7 @@ private static User Akitayinu = new() { Id = 56, Rating = 2400 };
 private static User Maltiepoo = new() { Id = 57, Rating = 2700 };
 private static User Doberymann = new() { Id = 58, Rating = 1100 };
 private static User Sheeiitzu = new() { Id = 59, Rating = 2400 };
-private static User BassetyHound = new() { Id = 60, Rating = 600, ClanMembership = new ClanMember { UserId = 40, User = BassetyHound, ClanId = 10, Clan = Red Ritters } };
+private static User BassetyHound = new() { Id = 60, Rating = 600, ClanMembership = new ClanMember { UserId = 40, User = BassetyHound, ClanId = 14, Clan = RedRitters } };
 private GameMatch game1 = new()
 {
     TeamA = new List<User> { },
