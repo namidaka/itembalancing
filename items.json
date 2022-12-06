@@ -9586,8 +9586,7 @@
         "flags": [
           "MeleeWeapon",
           "WideGrip",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
@@ -9611,8 +9610,7 @@
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
@@ -9636,8 +9634,7 @@
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
@@ -13493,7 +13490,8 @@
           "MeleeWeapon",
           "NotUsableWithOneHand",
           "WideGrip",
-          "TwoHandIdleOnMount"
+          "TwoHandIdleOnMount",
+          "MissileWithPhysics"
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
@@ -13530,8 +13528,7 @@
         "flags": [
           "MeleeWeapon",
           "WideGrip",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
@@ -13555,8 +13552,7 @@
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
@@ -13580,8 +13576,7 @@
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
@@ -13772,8 +13767,7 @@
         "flags": [
           "MeleeWeapon",
           "WideGrip",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
@@ -13797,8 +13791,7 @@
           "NotUsableWithOneHand",
           "WideGrip",
           "TwoHandIdleOnMount",
-          "CanDismount",
-          "MissileWithPhysics"
+          "CanDismount"
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",

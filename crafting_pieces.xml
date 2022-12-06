@@ -1085,6 +1085,9 @@
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
+    <Flags>
+     <Flag name="CanHook" />
+    </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_eastern_spear_5_t5_guard" name="{=8x9klENe}Segmented Riveted Shaft Reinforcement" tier="2" piece_type="Guard" mesh="spear_guard_2" culture="Culture.empire" length="5.5" weight="0">
     <Materials>
@@ -1177,7 +1180,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="CanHook" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_highland_spear_t2_guard" name="{=Vf2wKojF}Blunt Wings" tier="4" piece_type="Guard" mesh="spear_guard_3" culture="Culture.empire" length="12.5" weight="0">
@@ -1186,7 +1188,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="CanHook" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_khuzait_lance_1_t3_guard" name="{=YFkEsUhn}Red Horse Tail Frills" tier="4" piece_type="Guard" mesh="spear_banner_17" culture="Culture.neutral_culture" length="8.84" weight="0">
@@ -6167,7 +6168,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="CanHook" />
     </Flags>
   </CraftingPiece>
     <CraftingPiece id="crpg_hoplite_pommel_1" name="{=}Mace Shaped Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_11" culture="Culture.empire" length="10" weight="0.07">
