@@ -2284,6 +2284,8 @@
       <UsablePiece piece_id="crpg_winds_fury_sword_t3_pommel" />
       <UsablePiece piece_id="crpg_wooden_2hsword_t1_pommel" />
       <UsablePiece piece_id="crpg_wooden_sword_t1_pommel" />
+      <UsablePiece piece_id="crpg_battania_axe_3_t5_blade" />
+      <UsablePiece piece_id="crpg_battania_axe_3_t5_handle" />
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_TwoHandedMace" item_type="TwoHandedWeapon" modifier_group="mace" item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4" default_item_holster_position_offset="0,0,-0.75" use_weapon_as_holster_mesh="true">

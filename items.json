@@ -3513,42 +3513,6 @@
     ]
   },
   {
-    "id": "crpg_battania_axe_3_t5",
-    "name": "Round Bitted Fine Steel Hatchet",
-    "culture": "Battania",
-    "type": "OneHandedWeapon",
-    "price": 2875,
-    "weight": 1.03,
-    "tier": 5.77098036,
-    "requirement": 0,
-    "flags": [
-      "CanBePickedUpFromCorpse"
-    ],
-    "weapons": [
-      {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 80,
-        "balance": 0.7,
-        "handling": 88,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "BonusAgainstShield"
-        ],
-        "thrustDamage": 14,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 95,
-        "swingDamage": 29,
-        "swingDamageType": "Cut",
-        "swingSpeed": 90
-      }
-    ]
-  },
-  {
     "id": "crpg_battania_battle_crown",
     "name": "Two Pronged Bronze Crown",
     "culture": "Battania",
@@ -29696,9 +29660,9 @@
     "name": "Spiked Battle Axe",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 6182,
+    "price": 8637,
     "weight": 0.91,
-    "tier": 8.976664,
+    "tier": 10.81349,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -29715,7 +29679,8 @@
         "handling": 82,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
