@@ -8095,6 +8095,80 @@
     ]
   },
   {
+    "id": "crpg_crossbow_l",
+    "name": "Chu Ko Nu",
+    "culture": "Khuzait",
+    "type": "Crossbow",
+    "price": 245,
+    "weight": 2.5,
+    "tier": 0.476993,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Crossbow",
+        "itemUsage": "crossbow_light",
+        "accuracy": 97,
+        "missileSpeed": 100,
+        "stackAmount": 5,
+        "length": 90,
+        "balance": 0.0,
+        "handling": 88,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "HasString",
+          "StringHeldByHand",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 10,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 65
+      }
+    ]
+  },
+  {
+    "id": "crpg_crossbow_m",
+    "name": "Rapid Fire Crossbow",
+    "culture": "Empire",
+    "type": "Crossbow",
+    "price": 565,
+    "weight": 4.0,
+    "tier": 1.04808593,
+    "requirement": 1,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Crossbow",
+        "itemUsage": "crossbow",
+        "accuracy": 98,
+        "missileSpeed": 110,
+        "stackAmount": 5,
+        "length": 95,
+        "balance": 0.0,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "NotUsableWithOneHand",
+          "HasString",
+          "StringHeldByHand",
+          "CantReloadOnHorseback",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 86,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 65
+      }
+    ]
+  },
+  {
     "id": "crpg_crude_leather_armor",
     "name": "Crude Hide Armor",
     "culture": "Khuzait",
