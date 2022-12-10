@@ -244,7 +244,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_charger_6" name="Norwegian Fjord Draught" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
+  <Item id="crpg_mount_charger_6" name="Icelandic Charger" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="64" speed="40" charge_damage="6" body_length="105" is_mountable="true" extra_health="-2" modifier_group="horse">
         <AdditionalMeshes>
@@ -262,7 +262,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_charger_5" name="Murgese Draught" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
+  <Item id="crpg_mount_charger_5" name="Norwegian Fjord Draught" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="61" speed="38" charge_damage="7" body_length="105" is_mountable="true" extra_health="-12" modifier_group="horse">
         <AdditionalMeshes>
@@ -406,7 +406,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_balanced_5" name="Icelandic Rouncey" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
+  <Item id="crpg_mount_balanced_5" name="Murgese Rouncey" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="90" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="66" speed="40" charge_damage="1" body_length="105" is_mountable="true" extra_health="-28" modifier_group="horse">
         <AdditionalMeshes>
