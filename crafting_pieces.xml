@@ -6325,20 +6325,20 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_claymore_pommel" name="{=}Claymore Pommel" tier="4" piece_type="Pommel" mesh="claymore_pommel" culture="Culture.battania" length="6.64" weight="0.2">
-    <BuildData next_piece_offset="4"/>
+    <BuildData next_piece_offset="5"/>
     <Materials>
       <Material id="Iron4" count="1"/>
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_claymore_guard" name="{=}Claymore Guard" tier="5" piece_type="Guard" mesh="claymore_guard" culture="Culture.battania" length="14.5" weight="0.1">
-    <BuildData next_piece_offset="2"/>
+    <BuildData next_piece_offset="15"/>
     <StatContributions armor_bonus="3"/>
     <Materials>
       <Material id="Iron5" count="1"/>
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_claymore_handle" name="{=}Claymore Handle" tier="3" piece_type="Handle" mesh="claymore_handle" culture="Culture.khuzait" length="27.9" weight="0.2">
-    <BuildData piece_offset="-5" previous_piece_offset="0.0" next_piece_offset="5"/>
+    <BuildData piece_offset="-8" previous_piece_offset="0.0" next_piece_offset="0"/>
     <Materials>
       <Material id="Iron3" count="1"/>
     </Materials>
