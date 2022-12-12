@@ -20,6 +20,7 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
+      <UsablePiece piece_id="crpg_thegn_sword_1_t2_blade" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_blade" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_guard" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_handle" />
@@ -1709,6 +1710,10 @@
       <UsablePiece piece_id="crpg_hoplite_handle_1" />
       <UsablePiece piece_id="crpg_hoplite_guard_1" />
       <UsablePiece piece_id="crpg_hoplite_pommel_1" />
+      <UsablePiece piece_id="crpg_hoplite_blade_2" />
+      <UsablePiece piece_id="crpg_hoplite_handle_2" />
+      <UsablePiece piece_id="crpg_hoplite_guard_2" />
+      <UsablePiece piece_id="crpg_hoplite_pommel_2" />
       <UsablePiece piece_id="crpg_iklwa_handle_1" />
       <UsablePiece piece_id="crpg_iklwa_blade_1" />
     </UsablePieces>
