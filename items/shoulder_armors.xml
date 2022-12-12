@@ -484,9 +484,15 @@
 		</ItemComponent>
 		<Flags/>
 	</Item>
-	<Item id="crpg_western_chain_shoulders" name="Western chain shoulders" mesh="chain_shoulders" is_merchandise="true" culture="Culture.vlandia" weight="0.55" appearance="2" Type="Cape">
+	<Item id="crpg_western_chain_shoulders" name="Western chain shoulders" mesh="chain_shoulders" is_merchandise="true" culture="Culture.vlandia" weight="1.55" appearance="2" Type="Cape">
 		<ItemComponent>
 			<Armor body_armor="12" modifier_group="Chainmail" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags/>
+	</Item>
+	<Item id="crpg_light_chain_shoulders" name="Light Chain Shoulders" mesh="rhkt_chain_a" is_merchandise="true" culture="Culture.vlandia" weight="1.05" appearance="2" Type="Cape">
+		<ItemComponent>
+			<Armor body_armor="9" modifier_group="Chainmail" material_type="Chainmail"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
