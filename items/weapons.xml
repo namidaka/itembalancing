@@ -2434,4 +2434,18 @@
       <Piece id="crpg_shieldsplitter_handle" Type="Handle" scale_factor="100"/>
     </Pieces>
   </CraftedItem>
+  <Item id="crpg_snowball" name="Snowball" is_merchandise="false" body_name="bo_throwing_stone" holster_body_name="bo_axe_short" holster_mesh="snowball_holster" holster_mesh_with_weapon="snowball_holster" mesh="snowball" weight="0.1" appearance="0.1" Type="Thrown" item_holsters="sword_back">
+    <ItemComponent>
+      <Weapon weapon_class="Stone" ammo_class="Stone" stack_amount="10" physics_material="missile" accuracy="100" thrust_speed="102" speed_rating="102" missile_speed="40" weapon_length="10" thrust_damage="8" item_usage="stone" rotation="100,30,20" passby_sound_code="" rotation_speed="0, -3.0, 0">
+        <WeaponFlags RangedWeapon="true" Consumable="true" AutoReload="true" UnloadWhenSheathed="true" UseHandAsThrowBase="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <CraftedItem id="crpg_sherpherds" name="Sherpherd's Axe" crafting_template="OneHandedAxe" culture="Culture.sturgia" modifier_group="axe">
+    <Pieces>
+      <Piece id="crpg_sherpherds_head" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_sherpherds_handle" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
 </Items>
