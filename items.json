@@ -8370,9 +8370,9 @@
     "name": "Dawn",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 10228,
-    "weight": 2.95,
-    "tier": 8.391152,
+    "price": 14042,
+    "weight": 3.66,
+    "tier": 10.016715,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8383,8 +8383,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 128,
-        "balance": 0.42,
-        "handling": 68,
+        "balance": 0.3,
+        "handling": 74,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
@@ -8392,10 +8392,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 29,
+        "thrustSpeed": 82,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 82
+        "swingSpeed": 78
       }
     ]
   },
