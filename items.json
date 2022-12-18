@@ -1658,9 +1658,9 @@
     "name": "Decorated Scimitar with Wide Grip",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 8051,
-    "weight": 1.93,
-    "tier": 10.4017467,
+    "price": 7340,
+    "weight": 1.96,
+    "tier": 9.880842,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1673,18 +1673,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 101,
-        "balance": 0.6,
-        "handling": 89,
+        "balance": 0.56,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 86
       }
     ]
   },
