@@ -1657,7 +1657,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_eastern_javelin_2_t3_blade" name="{=XSabsFbx}Weighted Awl Pike Head" tier="3" piece_type="Blade" mesh="spear_blade_37" length="23.7" weight="1.10" excluded_item_usage_features="swing">
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_5" holster_body_name="bo_throwing_spear_quiver_5" holster_mesh_length="96.7">
-      <Thrust damage_type="Pierce" damage_factor="0.485" />
+      <Thrust damage_type="Pierce" damage_factor="0.475" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

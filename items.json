@@ -9167,7 +9167,9 @@
     "weight": 0.91,
     "tier": 4.994764,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
@@ -9221,21 +9223,23 @@
     "name": "Horseman Javelin",
     "culture": "Khuzait",
     "type": "Thrown",
-    "price": 4349,
-    "weight": 1.11,
-    "tier": 7.415123,
+    "price": 6164,
+    "weight": 1.8,
+    "tier": 9.040178,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
         "itemUsage": "throwing_javelin",
         "accuracy": 92,
-        "missileSpeed": 28,
-        "stackAmount": 3,
+        "missileSpeed": 27,
+        "stackAmount": 5,
         "length": 67,
-        "balance": 1.0,
-        "handling": 96,
+        "balance": 0.54,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -9244,12 +9248,12 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 31,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 104
+        "swingSpeed": 86
       },
       {
         "class": "OneHandedPolearm",
@@ -9258,19 +9262,19 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 67,
-        "balance": 0.78,
-        "handling": 93,
+        "balance": 0.23,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 7,
+        "thrustDamage": 4,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 93
+        "swingSpeed": 77
       }
     ]
   },
@@ -9283,7 +9287,9 @@
     "weight": 1.2,
     "tier": 9.999999,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
@@ -12400,6 +12406,7 @@
           "RangedWeapon",
           "Consumable",
           "UnloadWhenSheathed",
+          "BonusAgainstShield",
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
@@ -12422,7 +12429,8 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "BonusAgainstShield"
         ],
         "thrustDamage": 7,
         "thrustDamageType": "Pierce",
@@ -14765,9 +14773,9 @@
     "name": "Pilum",
     "culture": "Empire",
     "type": "Thrown",
-    "price": 3852,
+    "price": 7597,
     "weight": 2.53,
-    "tier": 6.91358,
+    "tier": 10.15873,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -14776,7 +14784,7 @@
         "itemUsage": "throwing_javelin",
         "accuracy": 92,
         "missileSpeed": 24,
-        "stackAmount": 1,
+        "stackAmount": 2,
         "length": 176,
         "balance": 0.0,
         "handling": 55,
@@ -14785,10 +14793,11 @@
           "RangedWeapon",
           "Consumable",
           "UnloadWhenSheathed",
+          "BonusAgainstShield",
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 56,
+        "thrustDamage": 48,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 80,
         "swingDamage": 0,
@@ -14807,9 +14816,10 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 7,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 80,
         "swingDamage": 0,
@@ -20834,6 +20844,7 @@
           "RangedWeapon",
           "Consumable",
           "UnloadWhenSheathed",
+          "BonusAgainstShield",
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
@@ -20856,7 +20867,8 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "BonusAgainstShield"
         ],
         "thrustDamage": 6,
         "thrustDamageType": "Pierce",
@@ -20876,7 +20888,9 @@
     "weight": 1.08,
     "tier": 8.702876,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
@@ -20930,11 +20944,13 @@
     "name": "Broad Blade Javelin",
     "culture": "Sturgia",
     "type": "Thrown",
-    "price": 6675,
+    "price": 3697,
     "weight": 1.11,
-    "tier": 9.45216,
+    "tier": 6.751543,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
@@ -20954,7 +20970,7 @@
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 35,
-        "thrustDamageType": "Pierce",
+        "thrustDamageType": "Cut",
         "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
@@ -20975,7 +20991,7 @@
           "WideGrip"
         ],
         "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
+        "thrustDamageType": "Cut",
         "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
@@ -31799,7 +31815,9 @@
     "weight": 0.91,
     "tier": 2.240318,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
@@ -31857,7 +31875,9 @@
     "weight": 1.2,
     "tier": 8.919752,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
     "weapons": [
       {
         "class": "Javelin",
@@ -31931,6 +31951,7 @@
           "RangedWeapon",
           "Consumable",
           "UnloadWhenSheathed",
+          "BonusAgainstShield",
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
@@ -31953,7 +31974,8 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "BonusAgainstShield"
         ],
         "thrustDamage": 7,
         "thrustDamageType": "Pierce",
