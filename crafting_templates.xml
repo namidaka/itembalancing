@@ -1718,10 +1718,6 @@
       <UsablePiece piece_id="crpg_hoplite_handle_1" />
       <UsablePiece piece_id="crpg_hoplite_guard_1" />
       <UsablePiece piece_id="crpg_hoplite_pommel_1" />
-      <UsablePiece piece_id="crpg_hoplite_blade_2" />
-      <UsablePiece piece_id="crpg_hoplite_handle_2" />
-      <UsablePiece piece_id="crpg_hoplite_guard_2" />
-      <UsablePiece piece_id="crpg_hoplite_pommel_2" />
       <UsablePiece piece_id="crpg_iklwa_handle_1" />
       <UsablePiece piece_id="crpg_iklwa_blade_1" />
     </UsablePieces>
@@ -1934,6 +1930,10 @@
       <UsablePiece piece_id="crpg_western_spear_5_t4_handle" />
       <UsablePiece piece_id="crpg_wide_leaf_spear_t4_blade" />
       <UsablePiece piece_id="crpg_wide_leaf_spear_t4_handle" />
+      <UsablePiece piece_id="crpg_hoplite_blade_2" />
+      <UsablePiece piece_id="crpg_hoplite_guard_2" />
+      <UsablePiece piece_id="crpg_hoplite_handle_2" />
+      <UsablePiece piece_id="crpg_hoplite_pommel_2" />
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_Javelin" item_type="Thrown" modifier_group="spear_dart_throwing" item_holsters="javelins:javelins_2:bow_hip:bow_hip_2" default_item_holster_position_offset="0,0,-0.10" piece_type_to_scale_holster_with="Handle" hidden_piece_types_on_holster="Guard:Handle:Pommel" rotate_weapon_in_holster="true" always_show_holster_with_weapon="true">
