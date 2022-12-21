@@ -6971,153 +6971,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_camel_10",
-    "name": "Achaemenian War Camel",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 17991,
-    "weight": 520.0,
-    "tier": 9.997325,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 5,
-      "maneuver": 84,
-      "speed": 35,
-      "hitPoints": 254
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_camel_11",
-    "name": "Padisha",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 21710,
-    "weight": 520.0,
-    "tier": 11.0886145,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 6,
-      "maneuver": 86,
-      "speed": 38,
-      "hitPoints": 240
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_camel_5",
-    "name": "Pratihara Camel",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 5317,
-    "weight": 520.0,
-    "tier": 4.961558,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 2,
-      "maneuver": 72,
-      "speed": 30,
-      "hitPoints": 218
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_camel_6",
-    "name": "Qedarite War Camel",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 7249,
-    "weight": 520.0,
-    "tier": 5.962626,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 2,
-      "maneuver": 75,
-      "speed": 31,
-      "hitPoints": 230
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_camel_7",
-    "name": "Palmyrene War Camel",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 9486,
-    "weight": 520.0,
-    "tier": 6.96950531,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 4,
-      "maneuver": 78,
-      "speed": 32,
-      "hitPoints": 235
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_camel_8",
-    "name": "Nabatean War Camel",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 11965,
-    "weight": 520.0,
-    "tier": 7.9565,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 5,
-      "maneuver": 80,
-      "speed": 33,
-      "hitPoints": 242
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_camel_9",
-    "name": "Parthian War Camel",
-    "culture": "Aserai",
-    "type": "Mount",
-    "price": 14819,
-    "weight": 520.0,
-    "tier": 8.974289,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 110,
-      "chargeDamage": 5,
-      "maneuver": 82,
-      "speed": 34,
-      "hitPoints": 249
-    },
-    "weapons": []
-  },
-  {
     "id": "crpg_camel_saddle",
     "name": "Camel Saddle",
     "culture": "Aserai",
@@ -7156,6 +7009,153 @@
       "armArmor": 0,
       "legArmor": 0,
       "materialType": "Leather"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_10",
+    "name": "Achaemenian War Camel",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 17991,
+    "weight": 520.0,
+    "tier": 9.997325,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 5,
+      "maneuver": 84,
+      "speed": 35,
+      "hitPoints": 254
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_11",
+    "name": "Padisha",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 21710,
+    "weight": 520.0,
+    "tier": 11.0886145,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 6,
+      "maneuver": 86,
+      "speed": 38,
+      "hitPoints": 240
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_5",
+    "name": "Pratihara Camel",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 5317,
+    "weight": 520.0,
+    "tier": 4.961558,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 2,
+      "maneuver": 72,
+      "speed": 30,
+      "hitPoints": 218
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_6",
+    "name": "Qedarite War Camel",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 7249,
+    "weight": 520.0,
+    "tier": 5.962626,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 2,
+      "maneuver": 75,
+      "speed": 31,
+      "hitPoints": 230
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_7",
+    "name": "Palmyrene War Camel",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 9486,
+    "weight": 520.0,
+    "tier": 6.96950531,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 4,
+      "maneuver": 78,
+      "speed": 32,
+      "hitPoints": 235
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_8",
+    "name": "Nabatean War Camel",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 11965,
+    "weight": 520.0,
+    "tier": 7.9565,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 5,
+      "maneuver": 80,
+      "speed": 33,
+      "hitPoints": 242
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel2_9",
+    "name": "Parthian War Camel",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 14819,
+    "weight": 520.0,
+    "tier": 8.974289,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 5,
+      "maneuver": 82,
+      "speed": 34,
+      "hitPoints": 249
     },
     "weapons": []
   },
@@ -18852,7 +18852,7 @@
     ]
   },
   {
-    "id": "crpg_mount_balanced_10",
+    "id": "crpg_mount2_balanced_10",
     "name": "Parthian Destrier",
     "culture": "Khuzait",
     "type": "Mount",
@@ -18873,7 +18873,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_11",
+    "id": "crpg_mount2_balanced_11",
     "name": "Bohemond",
     "culture": "Vlandia",
     "type": "Mount",
@@ -18894,7 +18894,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_12",
+    "id": "crpg_mount2_balanced_12",
     "name": "Llamrei",
     "culture": "Battania",
     "type": "Mount",
@@ -18915,7 +18915,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_5",
+    "id": "crpg_mount2_balanced_5",
     "name": "Murgese Rouncey",
     "culture": "Khuzait",
     "type": "Mount",
@@ -18936,7 +18936,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_6",
+    "id": "crpg_mount2_balanced_6",
     "name": "Holsteiner Rouncey",
     "culture": "Khuzait",
     "type": "Mount",
@@ -18957,7 +18957,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_7",
+    "id": "crpg_mount2_balanced_7",
     "name": "Perechon Destrier",
     "culture": "Khuzait",
     "type": "Mount",
@@ -18978,7 +18978,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_8",
+    "id": "crpg_mount2_balanced_8",
     "name": "Fresian Destrier",
     "culture": "Khuzait",
     "type": "Mount",
@@ -18999,7 +18999,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_balanced_9",
+    "id": "crpg_mount2_balanced_9",
     "name": "Carthusian Destrier",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19020,7 +19020,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_10",
+    "id": "crpg_mount2_charger_10",
     "name": "Neapolitan Charger",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19041,7 +19041,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_11",
+    "id": "crpg_mount2_charger_11",
     "name": "Lionheart",
     "culture": "Vlandia",
     "type": "Mount",
@@ -19062,7 +19062,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_12",
+    "id": "crpg_mount2_charger_12",
     "name": "Bucephalus",
     "culture": "Empire",
     "type": "Mount",
@@ -19083,7 +19083,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_5",
+    "id": "crpg_mount2_charger_5",
     "name": "Norwegian Fjord Draught",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19104,7 +19104,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_6",
+    "id": "crpg_mount2_charger_6",
     "name": "Icelandic Charger",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19125,7 +19125,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_7",
+    "id": "crpg_mount2_charger_7",
     "name": "Ardennais Charger",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19146,7 +19146,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_8",
+    "id": "crpg_mount2_charger_8",
     "name": "Shire Charger",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19167,7 +19167,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_charger_9",
+    "id": "crpg_mount2_charger_9",
     "name": "Andalusian Charger",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19188,7 +19188,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_10",
+    "id": "crpg_mount2_fast_10",
     "name": "Lusitano Pureblood Courser",
     "culture": "Neutral",
     "type": "Mount",
@@ -19209,7 +19209,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_11",
+    "id": "crpg_mount2_fast_11",
     "name": "Hengeron",
     "culture": "Neutral",
     "type": "Mount",
@@ -19230,7 +19230,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_12",
+    "id": "crpg_mount2_fast_12",
     "name": "Shadowfax",
     "culture": "Neutral",
     "type": "Mount",
@@ -19251,7 +19251,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_5",
+    "id": "crpg_mount2_fast_5",
     "name": "Turkoman Courser",
     "culture": "Neutral",
     "type": "Mount",
@@ -19272,7 +19272,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_6",
+    "id": "crpg_mount2_fast_6",
     "name": "Menorquín Courser",
     "culture": "Neutral",
     "type": "Mount",
@@ -19293,7 +19293,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_7",
+    "id": "crpg_mount2_fast_7",
     "name": "Nisean Courser",
     "culture": "Neutral",
     "type": "Mount",
@@ -19314,7 +19314,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_8",
+    "id": "crpg_mount2_fast_8",
     "name": "Thessalian Courser",
     "culture": "Neutral",
     "type": "Mount",
@@ -19335,7 +19335,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_fast_9",
+    "id": "crpg_mount2_fast_9",
     "name": "Ahalteke Courser",
     "culture": "Neutral",
     "type": "Mount",
@@ -19356,7 +19356,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_10",
+    "id": "crpg_mount2_maneuverable_10",
     "name": "Arabian Palfrey",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19377,7 +19377,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_11",
+    "id": "crpg_mount2_maneuverable_11",
     "name": "Marengo",
     "culture": "Vlandia",
     "type": "Mount",
@@ -19398,7 +19398,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_12",
+    "id": "crpg_mount2_maneuverable_12",
     "name": "Baucent",
     "culture": "Vlandia",
     "type": "Mount",
@@ -19419,7 +19419,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_5",
+    "id": "crpg_mount2_maneuverable_5",
     "name": "Irish Hobby",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19440,7 +19440,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_6",
+    "id": "crpg_mount2_maneuverable_6",
     "name": "Caspian Palfrey",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19461,7 +19461,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_7",
+    "id": "crpg_mount2_maneuverable_7",
     "name": "Mongolian Palfrey",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19482,7 +19482,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_8",
+    "id": "crpg_mount2_maneuverable_8",
     "name": "Marwari Palfrey",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19503,7 +19503,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_mount_maneuverable_9",
+    "id": "crpg_mount2_maneuverable_9",
     "name": "Berber Jennet",
     "culture": "Khuzait",
     "type": "Mount",
@@ -19565,48 +19565,6 @@
     ]
   },
   {
-    "id": "crpg_mule",
-    "name": "Mule",
-    "culture": "Neutral",
-    "type": "Mount",
-    "price": 2440,
-    "weight": 300.0,
-    "tier": 3.05089855,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 92,
-      "chargeDamage": 0,
-      "maneuver": 58,
-      "speed": 30,
-      "hitPoints": 200
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_mule_2",
-    "name": "Chadz",
-    "culture": "Neutral",
-    "type": "Mount",
-    "price": 6643,
-    "weight": 300.0,
-    "tier": 5.664498,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 92,
-      "chargeDamage": 1,
-      "maneuver": 60,
-      "speed": 33,
-      "hitPoints": 275
-    },
-    "weapons": []
-  },
-  {
     "id": "crpg_mule_load_a",
     "name": "Mule Harness with Pack",
     "culture": "Neutral",
@@ -19666,6 +19624,48 @@
       "armArmor": 0,
       "legArmor": 0,
       "materialType": "Cloth"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mule2_1",
+    "name": "Mule",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 2440,
+    "weight": 300.0,
+    "tier": 3.05089855,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 92,
+      "chargeDamage": 0,
+      "maneuver": 58,
+      "speed": 30,
+      "hitPoints": 200
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mule2_2",
+    "name": "Chadz",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 6643,
+    "weight": 300.0,
+    "tier": 5.664498,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 92,
+      "chargeDamage": 1,
+      "maneuver": 60,
+      "speed": 33,
+      "hitPoints": 275
     },
     "weapons": []
   },
