@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Items>
-  <Item id="crpg_mount2_fast_12" name="Shadowfax" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount_fast_12" name="Shadowfax" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="52" charge_damage="5" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="7" modifier_group="horse">
         <AdditionalMeshes>
@@ -17,7 +17,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount2_fast_11" name="Hengeron" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount_fast_11" name="Hengeron" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="51" charge_damage="4" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="4" modifier_group="horse">
         <AdditionalMeshes>
@@ -136,7 +136,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-     <Item id="crpg_mount2_charger_12" name="Bucephalus" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
+     <Item id="crpg_mount_charger_12" name="Bucephalus" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="48" charge_damage="8" body_length="105" is_mountable="true" extra_health="22" modifier_group="horse">
         <AdditionalMeshes>
@@ -154,7 +154,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-   <Item id="crpg_mount2_charger_11" name="Lionheart" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
+   <Item id="crpg_mount_charger_11" name="Lionheart" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="47" charge_damage="7" body_length="105" is_mountable="true" extra_health="19" modifier_group="horse">
         <AdditionalMeshes>
@@ -280,7 +280,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-    <Item id="crpg_mount2_balanced_12" name="Llamrei" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.battania" weight="430" difficulty="0" Type="Horse">
+    <Item id="crpg_mount_balanced_12" name="Llamrei" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.battania" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="83" speed="44" charge_damage="7" body_length="100" is_mountable="true" extra_health="20" modifier_group="horse">
         <AdditionalMeshes>
@@ -298,7 +298,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-   <Item id="crpg_mount2_balanced_11" name="Bohemond" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="430" difficulty="0" Type="Horse">
+   <Item id="crpg_mount_balanced_11" name="Bohemond" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="82" speed="43" charge_damage="6" body_length="100" is_mountable="true" extra_health="17" modifier_group="horse">
         <AdditionalMeshes>
@@ -424,7 +424,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount2_maneuverable_12" name="Baucent" mesh="horse_brown" item_category="noble_horse" culture="Culture.vlandia" subtype="horse" weight="300" difficulty="0" appearance="0" Type="Horse">
+  <Item id="crpg_mount_maneuverable_12" name="Baucent" mesh="horse_brown" item_category="noble_horse" culture="Culture.vlandia" subtype="horse" weight="300" difficulty="0" appearance="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="86" speed="46" charge_damage="5" body_length="95" is_mountable="true" extra_health="-2" skeleton_scale="khuzait_horse">
         <AdditionalMeshes>
@@ -442,7 +442,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount2_maneuverable_11" name="Marengo" mesh="horse_brown" item_category="noble_horse" culture="Culture.vlandia" subtype="horse" weight="300" difficulty="0" appearance="0" Type="Horse">
+  <Item id="crpg_mount_maneuverable_11" name="Marengo" mesh="horse_brown" item_category="noble_horse" culture="Culture.vlandia" subtype="horse" weight="300" difficulty="0" appearance="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="85" speed="46" charge_damage="4" body_length="95" is_mountable="true" extra_health="-5" skeleton_scale="khuzait_horse">
         <AdditionalMeshes>
