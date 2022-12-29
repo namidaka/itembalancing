@@ -24,7 +24,6 @@
   "defaultAgility": 3,
   "defaultHealthPoints": 60, /* A 33 STR, 3 AGI character with 11 IF would reach 115 HP. */
   "defaultGeneration": 0,
-  "defaultAutoRepair": true,
   "defaultAttributePoints": 0,
   "attributePointsPerLevel": 1,
   "defaultSkillPoints": 2,
@@ -44,7 +43,7 @@
   "defaultRatingDeviation": 350.0,
   "defaultRatingVolatility": 0.06,
   "defaultRole": "User",
-  "defaultGold": 300,
+  "defaultGold": 5000,
   "defaultHeirloomPoints": 0,
   "clanTagMinLength": 2,
   "clanTagMaxLength": 4,
