@@ -1997,12 +1997,12 @@
     <Item id="crpg_crossbow_l" name="Chu Ko Nu" body_name="bo_composite_crossbows" culture="Culture.khuzait" mesh="crossbow_g" weight="2.5" appearance="0.7" difficulty="40" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
       <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="100" accuracy="97" thrust_damage="10" thrust_speed="88" speed_rating="65" weapon_length="90" ammo_limit="5" thrust_damage_type="Pierce" item_usage="crossbow_light" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
-        <WeaponFlags RangedWeapon="true" HasString="true" TwoHandIdleOnMount="true" />
+        <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
       </Weapon>
     </ItemComponent>
     <Flags />
   </Item>
-    <Item id="crpg_crossbow_m" name="Rapid Fire Crossbow" body_name="bo_cross_bow_heavy" mesh="crossbow_f" culture="Culture.empire" weight="4.0" appearance="0.8" difficulty="70" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
+    <Item id="crpg_crossbow_m" name="Sunogi" body_name="bo_cross_bow_heavy" mesh="crossbow_f" culture="Culture.khuzait" weight="3.5" appearance="0.8" difficulty="70" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="crossbow_back:bow_hip:mace_right_hip:bow_hip_2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
       <Weapon weapon_class="Crossbow" ammo_class="Bolt" ammo_limit="5" thrust_speed="86" speed_rating="65" missile_speed="110" weapon_length="95" accuracy="98" thrust_damage="20" thrust_damage_type="Pierce" item_usage="crossbow" reload_phase_count="2" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="true" CantReloadOnHorseback="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" />
