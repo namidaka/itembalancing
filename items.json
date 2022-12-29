@@ -15162,9 +15162,9 @@
     "name": "Judgement",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6072,
-    "weight": 3.17,
-    "tier": 8.885986,
+    "price": 7450,
+    "weight": 2.72,
+    "tier": 9.963441,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15175,18 +15175,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 60,
-        "balance": 0.0,
-        "handling": 82,
+        "balance": 0.23,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 78,
-        "swingDamage": 36,
+        "thrustSpeed": 82,
+        "swingDamage": 30,
         "swingDamageType": "Blunt",
-        "swingSpeed": 69
+        "swingSpeed": 76
       }
     ]
   },
