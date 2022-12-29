@@ -436,9 +436,9 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_mace_4_t5_blade" name="{=3Q3FFqu0}Light Royal Mace Head" tier="5" piece_type="Blade" mesh="mace_head_13" length="9.2" weight="1.6" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_empire_mace_4_t5_blade" name="{=3Q3FFqu0}Light Royal Mace Head" tier="5" piece_type="Blade" mesh="mace_head_13" length="9.2" weight="0.68" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="3.0" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />

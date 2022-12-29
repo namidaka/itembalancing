@@ -1723,8 +1723,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_empire_mace_4_t5" name="{=UMX05EQF}Light Royal Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_empire_mace_4_t5_blade" Type="Blade" />
-      <Piece id="crpg_empire_mace_4_t5_handle" Type="Handle" />
+      <Piece id="crpg_empire_mace_4_t5_blade" Type="Blade" scale_factor="105" />
+      <Piece id="crpg_empire_mace_4_t5_handle" Type="Handle" scale_factor="130" />
       <Piece id="crpg_empire_mace_4_t5_pommel" Type="Pommel" />
     </Pieces>
   </CraftedItem>

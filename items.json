@@ -10839,9 +10839,9 @@
     "name": "Light Royal Mace",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 6703,
-    "weight": 2.9,
-    "tier": 9.39277,
+    "price": 6396,
+    "weight": 2.42,
+    "tier": 9.149743,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10851,8 +10851,8 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 55,
-        "balance": 0.3,
+        "length": 70,
+        "balance": 0.44,
         "handling": 86,
         "bodyArmor": 0,
         "flags": [
@@ -10860,10 +10860,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 80,
-        "swingDamage": 30,
+        "thrustSpeed": 83,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 78
+        "swingSpeed": 83
       }
     ]
   },
