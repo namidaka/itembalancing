@@ -12,7 +12,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knights_fall_mace_t3_handle" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
+  <CraftingPiece id="crpg_knights_fall_mace_t3_handle" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="0.75" item_holster_pos_shift="0,0,0.05">
     <Materials>
       <Material id="Wood" count="1" />
       <Material id="Iron3" count="1" />
@@ -404,9 +404,9 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knights_fall_mace_t3_blade" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.8" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knights_fall_mace_t3_blade" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.34" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.1" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />

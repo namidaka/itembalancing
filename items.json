@@ -16567,9 +16567,9 @@
     "name": "Knight's Fall",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 3954,
-    "weight": 1.9,
-    "tier": 6.956828,
+    "price": 5699,
+    "weight": 1.8,
+    "tier": 8.574381,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16579,9 +16579,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 50,
-        "balance": 0.86,
-        "handling": 90,
+        "length": 82,
+        "balance": 0.56,
+        "handling": 78,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -16589,9 +16589,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 21,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 95
+        "swingSpeed": 86
       }
     ]
   },
