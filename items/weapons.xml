@@ -1654,10 +1654,10 @@
     </Pieces>
   </CraftedItem>
 
-  <CraftedItem id="crpg_vlandia_mace_2_t4" name="{=dSTxsYsh}Fullered Cavalry Mace" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_vlandia_mace_2_t4" name="{=dSTxsYsh}Fullered Western Mace" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_vlandia_mace_2_t4_blade" Type="Blade" />
-      <Piece id="crpg_vlandia_mace_2_t4_handle" Type="Handle" />
+      <Piece id="crpg_vlandia_mace_2_t4_blade" Type="Blade" scale_factor="130"/>
+      <Piece id="crpg_vlandia_mace_2_t4_handle" Type="Handle" scale_factor="160" />
       <Piece id="crpg_vlandia_mace_2_t4_pommel" Type="Pommel" />
     </Pieces>
   </CraftedItem>

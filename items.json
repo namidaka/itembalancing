@@ -30826,12 +30826,12 @@
   },
   {
     "id": "crpg_vlandia_mace_2_t4",
-    "name": "Fullered Cavalry Mace",
+    "name": "Fullered Western Mace",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 6167,
-    "weight": 2.85,
-    "tier": 8.964608,
+    "price": 6651,
+    "weight": 2.03,
+    "tier": 9.351881,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30841,19 +30841,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 56,
-        "balance": 0.59,
-        "handling": 90,
+        "length": 85,
+        "balance": 0.46,
+        "handling": 81,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 81,
-        "swingDamage": 24,
+        "thrustSpeed": 86,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 83
       }
     ]
   },
