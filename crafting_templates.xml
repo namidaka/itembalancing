@@ -450,7 +450,9 @@
       <UsablePiece piece_id="crpg_decorated_great_saber_2hsword_1_t5_blade" />
       <UsablePiece piece_id="crpg_decorated_great_saber_2hsword_1_t5_guard" />
       <UsablePiece piece_id="crpg_decorated_great_saber_1_t5_handle" />
-      <UsablePiece piece_id="crpg_decorated_great_saber_1_t5_pommel" />      
+      <UsablePiece piece_id="crpg_decorated_great_saber_1_t5_pommel" />
+      <UsablePiece piece_id="crpg_heavy_goedendag_head"/>
+      <UsablePiece piece_id="crpg_heavy_goedendag_handle"/>      
       <UsablePiece piece_id="crpg_dawn_blade" />
       <UsablePiece piece_id="crpg_dawn_guard" />
       <UsablePiece piece_id="crpg_dawn_handle" />
@@ -1505,6 +1507,18 @@
       <UsablePiece piece_id="crpg_war_scythe_handle" />
       <UsablePiece piece_id="crpg_awlpike_blade" />
       <UsablePiece piece_id="crpg_awlpike_handle" />
+	  <UsablePiece piece_id="crpg_french_voulge_blade"/>
+      <UsablePiece piece_id="crpg_french_voulge_handle"/>
+      <UsablePiece piece_id="crpg_burgundian_glaive_blade"/>
+      <UsablePiece piece_id="crpg_burgundian_glaive_handle"/>
+      <UsablePiece piece_id="crpg_burgundian_axe_blade"/>
+      <UsablePiece piece_id="crpg_burgundian_axe_handle"/>
+      <UsablePiece piece_id="crpg_simple_poleaxe_blade"/>
+      <UsablePiece piece_id="crpg_simple_poleaxe_handle"/>
+      <UsablePiece piece_id="crpg_spiked_polehammer_blade"/>
+      <UsablePiece piece_id="crpg_spiked_polehammer_handle"/>
+      <UsablePiece piece_id="crpg_bec_de_corbin_handle"/>
+      <UsablePiece piece_id="crpg_bec_de_corbin_blade"/>
       <UsablePiece piece_id="crpg_aserai_lance_1_t5_blade" />
       <UsablePiece piece_id="crpg_aserai_lance_1_t5_handle" />
       <UsablePiece piece_id="crpg_battania_mace_1_t3_pommel" />
@@ -2082,6 +2096,14 @@
     <UsablePieces>
       <UsablePiece piece_id="crpg_blacksmith_war_hammer_mace_t3_handle" />
       <UsablePiece piece_id="crpg_blacksmith_war_hammer_1_t1_blade" />
+      <UsablePiece piece_id="crpg_medium_goedendag_head"/>
+      <UsablePiece piece_id="crpg_light_goedendag_head"/>
+      <UsablePiece piece_id="crpg_medium_goedendag_handle"/>
+      <UsablePiece piece_id="crpg_light_goedendag_handle"/>
+	  <UsablePiece piece_id="crpg_warhammer_head"/>
+      <UsablePiece piece_id="crpg_warhammer_shaft"/>
+	  <UsablePiece piece_id="crpg_military_hammer_shaft"/>
+      <UsablePiece piece_id="crpg_military_hammer_head"/>
       <UsablePiece piece_id="crpg_vlandia_axe_2_t4_blade" />
       <UsablePiece piece_id="crpg_vlandia_axe_2_t4_handle" />
       <UsablePiece piece_id="crpg_ambassador_sword_t3_pommel" />
