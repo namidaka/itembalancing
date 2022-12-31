@@ -604,7 +604,7 @@
       <Piece id="crpg_eastern_throwing_spear_2_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_imperial_throwing_spear_1_t4" name="{=rkqaCud5}Pilum" crafting_template="crpg_Javelin" culture="Culture.empire" modifier_group="polearm">
+  <CraftedItem id="crpg_imperial_throwing_spear_1_t4v2" name="{=rkqaCud5}Pilum" crafting_template="crpg_Javelin" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_imperial_throwing_spear_1_t4_blade" Type="Blade" scale_factor="375" />
       <Piece id="crpg_imperial_throwing_spear_1_t4_guard" Type="Guard" scale_factor="100" />
@@ -2062,7 +2062,7 @@
       <Piece id="crpg_western_javelin_3_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_northern_javelin_3_t4" name="{=ppiy9Cwl}Broad Blade Javelin" crafting_template="crpg_Javelin" culture="Culture.sturgia" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_northern_javelin_3_t4v2" name="{=ppiy9Cwl}Broad Blade Javelin" crafting_template="crpg_Javelin" culture="Culture.sturgia" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_northern_javelin_3_t4_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_northern_javelin_3_t4_guard" Type="Guard" scale_factor="100" />
