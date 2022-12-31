@@ -8206,25 +8206,25 @@
     ]
   },
   {
-    "id": "crpg_crossbow_k",
-    "name": "Templar's Light Crossbow",
-    "culture": "Vlandia",
+    "id": "crpg_crossbow_l",
+    "name": "Chu Ko Nu",
+    "culture": "Khuzait",
     "type": "Crossbow",
-    "price": 14299,
-    "weight": 3.1,
-    "tier": 8.796564,
-    "requirement": 15,
+    "price": 245,
+    "weight": 2.5,
+    "tier": 0.476993,
+    "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "Crossbow",
         "itemUsage": "crossbow_light",
-        "accuracy": 98,
-        "missileSpeed": 110,
-        "stackAmount": 1,
-        "length": 95,
+        "accuracy": 97,
+        "missileSpeed": 100,
+        "stackAmount": 5,
+        "length": 90,
         "balance": 0.0,
-        "handling": 84,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -8234,12 +8234,50 @@
           "CantReloadOnHorseback",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 40,
+        "thrustDamage": 10,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 69
+        "swingSpeed": 65
+      }
+    ]
+  },
+  {
+    "id": "crpg_crossbow_m",
+    "name": "Sunogi",
+    "culture": "Khuzait",
+    "type": "Crossbow",
+    "price": 565,
+    "weight": 3.5,
+    "tier": 1.04808593,
+    "requirement": 1,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Crossbow",
+        "itemUsage": "crossbow",
+        "accuracy": 98,
+        "missileSpeed": 110,
+        "stackAmount": 5,
+        "length": 95,
+        "balance": 0.0,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "NotUsableWithOneHand",
+          "HasString",
+          "StringHeldByHand",
+          "CantReloadOnHorseback",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 86,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 65
       }
     ]
   },
