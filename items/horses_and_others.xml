@@ -1177,13 +1177,13 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-    <Item id="crpg_camel_7" name="Syrian Heavy War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_camel_7" name="Sargonid Heavy War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="79" speed="33" charge_damage="5" body_length="110" extra_health="45" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-    <Item id="crpg_camel_6" name="Syrian Light War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_camel_6" name="Sargonid Light War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="80" speed="34" charge_damage="4" body_length="110" extra_health="25" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
