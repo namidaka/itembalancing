@@ -1153,13 +1153,13 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-    <Item id="crpg_camel_11" name="Tunisian Heavy War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_camel_11" name="Seleucid Heavy War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="5" body_length="110" extra_health="55" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-      <Item id="crpg_camel_10" name="Tunisian Light War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+      <Item id="crpg_camel_10" name="Seleucid Light War Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="82" speed="36" charge_damage="4" body_length="110" extra_health="35" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
