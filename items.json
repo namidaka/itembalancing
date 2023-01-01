@@ -13960,9 +13960,9 @@
     "name": "Hoplite Spear",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 7930,
-    "weight": 0.83,
-    "tier": 6.68435526,
+    "price": 4072,
+    "weight": 1.11,
+    "tier": 4.501392,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -13974,7 +13974,7 @@
         "stackAmount": 0,
         "length": 152,
         "balance": 0.0,
-        "handling": 76,
+        "handling": 72,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -13984,10 +13984,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 95,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -13996,8 +13996,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 152,
-        "balance": 0.81,
-        "handling": 75,
+        "balance": 0.63,
+        "handling": 70,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -14009,10 +14009,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 102,
+        "thrustSpeed": 99,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 94
+        "swingSpeed": 88
       }
     ]
   },
@@ -16215,9 +16215,9 @@
     "name": "Glaive",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 14671,
-    "weight": 1.63,
-    "tier": 9.472459,
+    "price": 12286,
+    "weight": 2.16,
+    "tier": 8.577528,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16237,9 +16237,9 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 22,
         "thrustDamageType": "Cut",
-        "thrustSpeed": 95,
+        "thrustSpeed": 91,
         "swingDamage": 41,
         "swingDamageType": "Cut",
         "swingSpeed": 84
@@ -32007,12 +32007,12 @@
   },
   {
     "id": "crpg_western_spear_2_t2",
-    "name": "Simple Short Spear",
+    "name": "War Spear",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 471,
-    "weight": 1.08,
-    "tier": 0.975268245,
+    "price": 981,
+    "weight": 1.57,
+    "tier": 1.74588645,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -32024,18 +32024,18 @@
         "stackAmount": 0,
         "length": 156,
         "balance": 0.0,
-        "handling": 72,
+        "handling": 67,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 14,
+        "thrustSpeed": 87,
+        "swingDamage": 20,
         "swingDamageType": "Blunt",
-        "swingSpeed": 49
+        "swingSpeed": 41
       },
       {
         "class": "TwoHandedPolearm",
@@ -32044,8 +32044,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.39,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -32053,12 +32053,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 14,
+        "thrustSpeed": 94,
+        "swingDamage": 20,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 81
       },
       {
         "class": "TwoHandedPolearm",
@@ -32067,8 +32067,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.39,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -32076,12 +32076,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 14,
+        "thrustSpeed": 94,
+        "swingDamage": 20,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 81
       }
     ]
   },
