@@ -448,7 +448,7 @@
       <Piece id="crpg_western_spear_1_t2_handle" Type="Handle" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_western_spear_2_t2" name="{=bue69aD4}Simple Short Spear" crafting_template="crpg_Spear4DMode" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_western_spear_2_t2" name="{=bue69aD4}War Spear" crafting_template="crpg_Spear4DMode" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_western_spear_2_t2_blade" Type="Blade" scale_factor="90" />
       <Piece id="crpg_western_spear_2_t2_handle" Type="Handle" scale_factor="90" />
