@@ -6578,4 +6578,46 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_katana_blade_yellow" name="{=}Katana Blade" tier="2" piece_type="Blade" mesh="katana_blade" culture="Culture.aserai" length="93.7" weight="1.0" >
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="katana_sheath_yellow">
+	  <Thrust damage_type="Pierce" damage_factor="2.1"/>
+      <Swing damage_type="Cut" damage_factor="3.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_katana_blade_black" name="{=}Katana Blade" tier="2" piece_type="Blade" mesh="katana_blade" culture="Culture.aserai" length="93.7" weight="1.0" >
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="katana_sheath_black">
+	  <Thrust damage_type="Pierce" damage_factor="2.1"/>
+      <Swing damage_type="Cut" damage_factor="3.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_katana_guard" name="{=}Katana Guard" tier="4" piece_type="Guard" mesh="katana_guard" culture="Culture.khuzait" length="3.73" weight="0.24">
+    <BuildData next_piece_offset="0.2" />
+    <StatContributions armor_bonus="4" />
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_katana_handle_yellow" name="{=}Yellow Katana Handle" tier="4" piece_type="Handle" mesh="katana_handle_yellow" culture="Culture.khuzait" length="29.1" weight="0.230">
+    <BuildData piece_offset="-9.5" previous_piece_offset="0.35" next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_katana_handle_black" name="{=}Black Katana Handle" tier="4" piece_type="Handle" mesh="katana_handle_black" culture="Culture.khuzait" length="29.1" weight="0.230">
+    <BuildData piece_offset="-9.5" previous_piece_offset="0.35" next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_katana_pommel" name="{=}Katana Pommel" tier="3" piece_type="Pommel" mesh="katana_pommel" culture="Culture.khuzait" length="2.97" weight="0.18">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
 </CraftingPieces>
