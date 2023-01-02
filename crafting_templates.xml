@@ -776,6 +776,18 @@
       <UsablePiece piece_id="crpg_sentinel_2hsword_guard" />
       <UsablePiece piece_id="crpg_sentinel_2hsword_handle" />
       <UsablePiece piece_id="crpg_sentinel_2hsword_pommel" />
+      <UsablePiece piece_id="crpg_katana_blade_red"/>
+      <UsablePiece piece_id="crpg_katana_blade_blue"/>
+      <UsablePiece piece_id="crpg_katana_blade_green"/>
+      <UsablePiece piece_id="crpg_katana_blade_yellow"/>
+      <UsablePiece piece_id="crpg_katana_blade_black"/>
+      <UsablePiece piece_id="crpg_katana_guard"/>
+      <UsablePiece piece_id="crpg_katana_handle_red"/>
+      <UsablePiece piece_id="crpg_katana_handle_blue"/>
+      <UsablePiece piece_id="crpg_katana_handle_green"/>
+      <UsablePiece piece_id="crpg_katana_handle_yellow"/>
+      <UsablePiece piece_id="crpg_katana_handle_black"/>
+      <UsablePiece piece_id="crpg_katana_pommel"/>
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_Dagger" item_type="OneHandedWeapon" modifier_group="sword" item_holsters="sword_left_hip_3:sword_left_hip_2:sword_left_hip:sword_back" default_item_holster_position_offset="0,0,-0.1" use_weapon_as_holster_mesh="true">
