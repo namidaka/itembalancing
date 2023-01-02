@@ -1125,13 +1125,13 @@
   </Item>
   <Item id="crpg_camel_16" name="Padisha" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="86" speed="38" charge_damage="7" body_length="110" extra_health="59" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="86" speed="38" charge_damage="7" body_length="110" extra_health="60" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="crpg_camel_15" name="Achaemenian Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="83" speed="37" charge_damage="6" body_length="110" extra_health="59" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="83" speed="37" charge_damage="6" body_length="110" extra_health="57" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -1143,25 +1143,25 @@
   </Item>
   <Item id="crpg_camel_13" name="Parthian Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="82" speed="36" charge_damage="5" body_length="110" extra_health="49" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="82" speed="36" charge_damage="5" body_length="110" extra_health="48" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
     <Item id="crpg_camel_12" name="Parthian Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="83" speed="37" charge_damage="4" body_length="110" extra_health="29" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="83" speed="37" charge_damage="4" body_length="110" extra_health="30" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
     <Item id="crpg_camel_11" name="Seleucid Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="5" body_length="110" extra_health="49" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="5" body_length="110" extra_health="48" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
       <Item id="crpg_camel_10" name="Seleucid Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="82" speed="36" charge_damage="4" body_length="110" extra_health="29" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="82" speed="36" charge_damage="4" body_length="110" extra_health="30" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -1173,7 +1173,7 @@
   </Item>
     <Item id="crpg_camel_8" name="Nabatean Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="4" body_length="110" extra_health="19" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="4" body_length="110" extra_health="21" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -1185,13 +1185,13 @@
   </Item>
     <Item id="crpg_camel_6" name="Sargonid Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="80" speed="34" charge_damage="4" body_length="110" extra_health="19" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="80" speed="34" charge_damage="4" body_length="110" extra_health="21" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="crpg_camel_5" name="Palmyrene Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="78" speed="32" charge_damage="4" body_length="110" extra_health="35" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="78" speed="32" charge_damage="4" body_length="110" extra_health="36" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -1203,13 +1203,13 @@
   </Item>
   <Item id="crpg_camel_3" name="Pratihara Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="76" speed="30" charge_damage="2" body_length="110" extra_health="25" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="76" speed="30" charge_damage="2" body_length="110" extra_health="24" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
     <Item id="crpg_camel_2" name="Pack Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel" maneuver="72" speed="29" charge_damage="2" body_length="110" extra_health="10" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel" maneuver="72" speed="29" charge_damage="2" body_length="110" extra_health="12" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
