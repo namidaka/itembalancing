@@ -1481,4 +1481,10 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
+  <Item id="crpg_khuzait_lamellar_strapped" name="{=}Reinforced Leather Armor" mesh="khuzait_lamellar_strap" culture="Culture.khuzait" weight="7.010831" appearance="1.4" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="24" leg_armor="12" arm_armor="6" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
 </Items>
