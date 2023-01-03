@@ -1661,4 +1661,10 @@
     </ItemComponent>	
 	    <Flags UseTeamColor="false" />
   </Item>
+  <Item id="crpg_roningasa" name="Roningasa" subtype="head_armor" mesh="roningasa" culture="Culture.vlandia" weight="0.1" difficulty="0" appearance="1" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="1" has_gender_variations="false" hair_cover_type="type1" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
 </Items>
