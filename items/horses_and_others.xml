@@ -313,7 +313,7 @@
   </Item>
   <Item id="crpg_mount_greathorse_9" name="Oberlander Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="80" speed="38" charge_damage="7" body_length="105" is_mountable="true" extra_health="25" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="81" speed="38" charge_damage="7" body_length="105" is_mountable="true" extra_health="25" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
@@ -331,7 +331,7 @@
   </Item>
   <Item id="crpg_mount_greathorse_8" name="Poitevin Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="79" speed="37" charge_damage="6" body_length="105" is_mountable="true" extra_health="22" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="80" speed="37" charge_damage="6" body_length="105" is_mountable="true" extra_health="22" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
@@ -349,7 +349,7 @@
   </Item>
   <Item id="crpg_mount_greathorse_7" name="Galloway Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="77" speed="36" charge_damage="6" body_length="105" is_mountable="true" extra_health="19" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="78" speed="36" charge_damage="6" body_length="105" is_mountable="true" extra_health="19" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
@@ -367,7 +367,7 @@
   </Item>
   <Item id="crpg_mount_greathorse_6" name="Boulonnais Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="75" speed="35" charge_damage="5" body_length="105" is_mountable="true" extra_health="16" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="76" speed="35" charge_damage="5" body_length="105" is_mountable="true" extra_health="16" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
@@ -385,7 +385,7 @@
   </Item>
   <Item id="crpg_mount_greathorse_5" name="Suffolk Punch Draught" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="73" speed="34" charge_damage="4" body_length="105" is_mountable="true" extra_health="13" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="74" speed="34" charge_damage="4" body_length="105" is_mountable="true" extra_health="13" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
