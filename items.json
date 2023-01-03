@@ -20116,30 +20116,9 @@
     "name": "Sumpter Horse",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 2682,
+    "price": 3726,
     "weight": 420.0,
-    "tier": 3.24377155,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "mount": {
-      "bodyLength": 100,
-      "chargeDamage": 1,
-      "maneuver": 56,
-      "speed": 32,
-      "hitPoints": 200
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_mount_rouncey_3",
-    "name": "Raymond Rouncey",
-    "culture": "Neutral",
-    "type": "Mount",
-    "price": 3330,
-    "weight": 420.0,
-    "tier": 3.721898,
+    "tier": 3.993084,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20149,6 +20128,27 @@
       "chargeDamage": 1,
       "maneuver": 60,
       "speed": 34,
+      "hitPoints": 200
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount_rouncey_3",
+    "name": "Raymond Rouncey",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 4567,
+    "weight": 420.0,
+    "tier": 4.525363,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 100,
+      "chargeDamage": 1,
+      "maneuver": 64,
+      "speed": 36,
       "hitPoints": 189
     },
     "weapons": []
