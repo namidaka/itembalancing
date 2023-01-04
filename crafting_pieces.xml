@@ -80,7 +80,7 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_mace_4_t5_handle" name="{=AGfMPOWB}Angular Fine Steel Mace Handle" tier="5" piece_type="Handle" mesh="mace_handle_13" length="65" weight="1.100" item_holster_pos_shift="0,0,0.05">
-    <BuildData piece_offset="13.7" />
+    <BuildData piece_offset="15.0" />
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
