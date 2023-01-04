@@ -24800,9 +24800,9 @@
     "name": "Light Shishpar Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 346,
-    "weight": 1.67,
-    "tier": 1.3357625,
+    "price": 3632,
+    "weight": 1.99,
+    "tier": 6.622573,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -24812,19 +24812,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 46,
-        "balance": 1.0,
-        "handling": 108,
+        "length": 57,
+        "balance": 0.84,
+        "handling": 101,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 10,
+        "thrustSpeed": 87,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 104
+        "swingSpeed": 95
       }
     ]
   },
