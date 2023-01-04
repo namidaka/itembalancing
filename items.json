@@ -1522,9 +1522,9 @@
     "name": "Heavy Horsemans Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 5653,
-    "weight": 1.29,
-    "tier": 8.53552151,
+    "price": 4768,
+    "weight": 1.68,
+    "tier": 7.74840832,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1534,19 +1534,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 111,
-        "balance": 0.29,
-        "handling": 77,
+        "length": 91,
+        "balance": 0.36,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 25,
+        "thrustSpeed": 89,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 78
+        "swingSpeed": 80
       }
     ]
   },

@@ -1614,7 +1614,7 @@
   <CraftedItem id="crpg_aserai_mace_3_t3" name="{=FJDCc3Y2}Heavy Horsemans Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_aserai_mace_3_t3_blade" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_aserai_mace_3_t3_handle" Type="Handle" scale_factor="200" />
+      <Piece id="crpg_aserai_mace_3_t3_handle" Type="Handle" scale_factor="160" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_battania_mace_1_t3" name="{=9pD32UdV}Light Morningstar" crafting_template="crpg_Mace" culture="Culture.battania" modifier_group="mace">
