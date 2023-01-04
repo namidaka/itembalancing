@@ -1716,8 +1716,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_mace_3_t5" name="{=rnzpyc0N}Pernach" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_vlandia_mace_3_t5_blade" Type="Blade" scale_factor="120"/>
-      <Piece id="crpg_vlandia_mace_3_t5_handle" Type="Handle" scale_factor="150" />
+      <Piece id="crpg_vlandia_mace_3_t5_blade" Type="Blade" scale_factor="125"/>
+      <Piece id="crpg_vlandia_mace_3_t5_handle" Type="Handle" scale_factor="130" />
       <Piece id="crpg_vlandia_mace_3_t5_pommel" Type="Pommel" scale_factor="108"/>
     </Pieces>
   </CraftedItem>
