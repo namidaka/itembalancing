@@ -1607,7 +1607,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_battania_mace_2_t2" name="{=0SpLcthg}Highland Spiked Club" crafting_template="crpg_Mace" culture="Culture.battania" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_battania_mace_2_t2_blade" Type="Blade" scale_factor="120" />
+      <Piece id="crpg_battania_mace_2_t2_blade" Type="Blade" scale_factor="115" />
       <Piece id="crpg_battania_mace_2_t2_handle" Type="Handle" scale_factor="145" />
     </Pieces>
   </CraftedItem>
