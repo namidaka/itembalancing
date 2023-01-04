@@ -198,7 +198,7 @@
   <CraftedItem id="crpg_knights_fall_mace_t3" name="{=BYPhysbH}Knight's Fall" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_knights_fall_mace_t3_blade" Type="Blade" scale_factor="110"/>
-      <Piece id="crpg_knights_fall_mace_t3_handle" Type="Handle" scale_factor="180" />
+      <Piece id="crpg_knights_fall_mace_t3_handle" Type="Handle" scale_factor="127" />
       <Piece id="crpg_knights_fall_mace_t3_pommel" Type="Pommel" />
     </Pieces>
   </CraftedItem>
