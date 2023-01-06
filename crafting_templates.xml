@@ -775,9 +775,15 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
+      <UsablePiece piece_id="crpg_katana_blade_red"/>
+      <UsablePiece piece_id="crpg_katana_blade_blue"/>
+      <UsablePiece piece_id="crpg_katana_blade_green"/>
       <UsablePiece piece_id="crpg_katana_blade_yellow"/>
       <UsablePiece piece_id="crpg_katana_blade_black"/>
       <UsablePiece piece_id="crpg_katana_guard"/>
+      <UsablePiece piece_id="crpg_katana_handle_red"/>
+      <UsablePiece piece_id="crpg_katana_handle_blue"/>
+      <UsablePiece piece_id="crpg_katana_handle_green"/>
       <UsablePiece piece_id="crpg_katana_handle_yellow"/>
       <UsablePiece piece_id="crpg_katana_handle_black"/>
       <UsablePiece piece_id="crpg_katana_pommel"/>

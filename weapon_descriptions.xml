@@ -848,12 +848,6 @@
       <WeaponFlag value="NotUsableWithOneHand" />
     </WeaponFlags>
     <AvailablePieces>
-      <AvailablePiece id="crpg_katana_blade_yellow"/>
-      <AvailablePiece id="crpg_katana_blade_black"/>
-      <AvailablePiece id="crpg_katana_guard"/>
-      <AvailablePiece id="crpg_katana_handle_yellow"/>
-      <AvailablePiece id="crpg_katana_handle_black"/>
-      <AvailablePiece id="crpg_katana_pommel"/>
       <AvailablePiece id="crpg_great_thamaskene_steel_spatha_2hsword_2_t5_blade" />
       <AvailablePiece id="crpg_great_thamaskene_steel_spatha_2hsword_2_t5_guard" />
       <AvailablePiece id="crpg_great_thamaskene_steel_spatha_2hsword_2_t5_handle" />
@@ -878,6 +872,18 @@
       <AvailablePiece id="crpg_claymore_guard"/>
       <AvailablePiece id="crpg_claymore_handle"/>
       <AvailablePiece id="crpg_claymore_pommel"/>
+	  <AvailablePiece id="crpg_katana_blade_red"/>
+      <AvailablePiece id="crpg_katana_blade_blue"/>
+      <AvailablePiece id="crpg_katana_blade_green"/>
+      <AvailablePiece id="crpg_katana_blade_yellow"/>
+      <AvailablePiece id="crpg_katana_blade_black"/>
+      <AvailablePiece id="crpg_katana_guard"/>
+      <AvailablePiece id="crpg_katana_handle_red"/>
+      <AvailablePiece id="crpg_katana_handle_blue"/>
+      <AvailablePiece id="crpg_katana_handle_green"/>
+      <AvailablePiece id="crpg_katana_handle_yellow"/>
+      <AvailablePiece id="crpg_katana_handle_black"/>
+      <AvailablePiece id="crpg_katana_pommel"/>
       <AvailablePiece id="crpg_northern_2hsword_t4_blade" />
       <AvailablePiece id="crpg_northern_2hsword_t4_guard" />
       <AvailablePiece id="crpg_northern_2hsword_t4_handle" />
