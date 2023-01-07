@@ -776,7 +776,7 @@
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
         <Materials>
-          <Material name="horse_brown2_mat">
+          <Material name="steppe_horse">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
               <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
