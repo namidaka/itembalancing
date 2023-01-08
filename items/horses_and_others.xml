@@ -459,7 +459,7 @@
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
         <Materials>
-          <Material name="horse_black_mat">
+          <Material name="horse_brown2_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF303030" percentage="1.0" />
             </MeshMultipliers>
@@ -510,7 +510,7 @@
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
         <Materials>
-          <Material name="horse_black_mat">
+          <Material name="horse_grey_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF303030" percentage="1.0" />
             </MeshMultipliers>
@@ -668,7 +668,7 @@
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
         <Materials>
-          <Material name="horse_black_mat">
+          <Material name="horse_brown2_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF010101" percentage="0.75" />
               <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
@@ -1100,7 +1100,7 @@
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
         <Materials>
-          <Material name="horse_black_mat">
+          <Material name="horse_brown_mat">
             <MeshMultipliers>
               <MeshMultiplier mesh_multiplier="FF08080B" percentage="1.0" />
               <MeshMultiplier mesh_multiplier="FF909090" percentage="0.25" />
