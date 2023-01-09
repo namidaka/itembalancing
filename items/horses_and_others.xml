@@ -36,7 +36,7 @@
   </Item>
   <Item id="crpg_mount_rouncey_12" name="Dzhabe Rouncey" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="77" speed="46" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="4" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="77" speed="47" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="4" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
@@ -70,7 +70,7 @@
   </Item>
   <Item id="crpg_mount_rouncey_10" name="Black Forest Rouncey" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="74" speed="45" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-2" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="75" speed="45" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-2" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
@@ -87,7 +87,7 @@
   </Item>
   <Item id="crpg_mount_rouncey_9" name="Anadolu Rouncey" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="73" speed="45" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-5" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="74" speed="45" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-5" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
