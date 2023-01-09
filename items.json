@@ -7098,6 +7098,27 @@
   },
   {
     "id": "crpg_camel_16",
+    "name": "Safinat al-Barr",
+    "culture": "Aserai",
+    "type": "Mount",
+    "price": 23251,
+    "weight": 520.0,
+    "tier": 11.5130272,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 110,
+      "chargeDamage": 7,
+      "maneuver": 85,
+      "speed": 37,
+      "hitPoints": 258
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_camel_17",
     "name": "Padisha",
     "culture": "Aserai",
     "type": "Mount",
