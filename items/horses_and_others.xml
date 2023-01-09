@@ -352,7 +352,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_balanced_8" name="Fresian Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="0" Type="Horse">
+  <Item id="crpg_mount_balanced_8" name="Friesian Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="44" charge_damage="2" body_length="100" is_mountable="true" extra_health="-10" modifier_group="horse">
         <AdditionalMeshes>
@@ -370,7 +370,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_balanced_7" name="Perechon Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="0" Type="Horse">
+  <Item id="crpg_mount_balanced_7" name="Percheron Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.khuzait" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="71" speed="43" charge_damage="7" body_length="105" is_mountable="true" extra_health="-19" modifier_group="horse">
         <AdditionalMeshes>
