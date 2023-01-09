@@ -19126,7 +19126,7 @@
   },
   {
     "id": "crpg_mount_balanced_8",
-    "name": "Fresian Destrier",
+    "name": "Friesian Destrier",
     "culture": "Khuzait",
     "type": "Mount",
     "price": 13051,
@@ -19672,7 +19672,7 @@
   },
   {
     "id": "crpg_mount_greathorse_14",
-    "name": "Perechon Great Horse",
+    "name": "Percheron Great Horse",
     "culture": "Empire",
     "type": "Mount",
     "price": 25207,
@@ -20011,9 +20011,9 @@
     "name": "Black Forest Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 15365,
+    "price": 14222,
     "weight": 420.0,
-    "tier": 9.157804,
+    "tier": 8.770262,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20021,7 +20021,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 76,
+      "maneuver": 74,
       "speed": 45,
       "hitPoints": 198
     },
@@ -20032,9 +20032,9 @@
     "name": "Bidet Breton Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 18243,
+    "price": 16906,
     "weight": 420.0,
-    "tier": 10.0745325,
+    "tier": 9.658382,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20042,7 +20042,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 78,
+      "maneuver": 76,
       "speed": 46,
       "hitPoints": 201
     },
@@ -20053,9 +20053,9 @@
     "name": "Dzhabe Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 19580,
+    "price": 18158,
     "weight": 420.0,
-    "tier": 10.4761057,
+    "tier": 10.0485439,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20063,7 +20063,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 79,
+      "maneuver": 77,
       "speed": 46,
       "hitPoints": 204
     },
@@ -20074,9 +20074,9 @@
     "name": "Karachay Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 22340,
+    "price": 20726,
     "weight": 420.0,
-    "tier": 11.2639112,
+    "tier": 10.80942,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20084,7 +20084,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 80,
+      "maneuver": 78,
       "speed": 47,
       "hitPoints": 207
     },
@@ -20095,9 +20095,9 @@
     "name": "Unmol Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 24529,
+    "price": 22748,
     "weight": 420.0,
-    "tier": 11.8546782,
+    "tier": 11.3760147,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20105,7 +20105,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 80,
+      "maneuver": 78,
       "speed": 48,
       "hitPoints": 210
     },
@@ -20137,9 +20137,9 @@
     "name": "Raymond Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 4567,
+    "price": 4828,
     "weight": 420.0,
-    "tier": 4.525363,
+    "tier": 4.680662,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20147,8 +20147,8 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 1,
-      "maneuver": 64,
-      "speed": 36,
+      "maneuver": 62,
+      "speed": 38,
       "hitPoints": 189
     },
     "weapons": []
@@ -20158,9 +20158,9 @@
     "name": "Fell Pony",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 6017,
+    "price": 5535,
     "weight": 420.0,
-    "tier": 5.34199333,
+    "tier": 5.08262157,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20168,7 +20168,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 2,
-      "maneuver": 66,
+      "maneuver": 64,
       "speed": 40,
       "hitPoints": 180
     },
@@ -20179,9 +20179,9 @@
     "name": "Welsh Cob",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 7220,
+    "price": 6650,
     "weight": 420.0,
-    "tier": 5.94881725,
+    "tier": 5.667833,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20189,7 +20189,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 2,
-      "maneuver": 68,
+      "maneuver": 66,
       "speed": 41,
       "hitPoints": 183
     },
@@ -20200,9 +20200,9 @@
     "name": "Sanhe Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 8769,
+    "price": 8090,
     "weight": 420.0,
-    "tier": 6.660801,
+    "tier": 6.356974,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20210,7 +20210,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 70,
+      "maneuver": 68,
       "speed": 42,
       "hitPoints": 186
     },
@@ -20221,9 +20221,9 @@
     "name": "Megrelakaya Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 10472,
+    "price": 9672,
     "weight": 420.0,
-    "tier": 7.37590265,
+    "tier": 7.04795742,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20231,7 +20231,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 72,
+      "maneuver": 70,
       "speed": 43,
       "hitPoints": 189
     },
@@ -20242,9 +20242,9 @@
     "name": "East Anglis Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 12484,
+    "price": 11544,
     "weight": 420.0,
-    "tier": 8.149946,
+    "tier": 7.79657173,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20252,7 +20252,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 74,
+      "maneuver": 72,
       "speed": 44,
       "hitPoints": 192
     },
@@ -20263,9 +20263,9 @@
     "name": "Anadolu Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 14295,
+    "price": 13223,
     "weight": 420.0,
-    "tier": 8.795376,
+    "tier": 8.418521,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20273,7 +20273,7 @@
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
-      "maneuver": 75,
+      "maneuver": 73,
       "speed": 45,
       "hitPoints": 195
     },
