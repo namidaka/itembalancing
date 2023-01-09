@@ -1123,7 +1123,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_camel_17" name="Padisha" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+  <Item id="crpg_camel_17" name="Padishah" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="86" speed="38" charge_damage="7" body_length="110" extra_health="58" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
