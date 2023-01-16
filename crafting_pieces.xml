@@ -2539,10 +2539,10 @@
       <Material id="Iron4" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_peasant_pickaxe_1_t1_blade" name="{=aPr8NPdo}Western Iron Polearm Head" tier="1" piece_type="Blade" mesh="axe_craft_37_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.55">
+  <CraftingPiece id="crpg_peasant_pickaxe_1_t1_blade" name="{=aPr8NPdo}Western Iron Polearm Head" tier="1" piece_type="Blade" mesh="axe_craft_37_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.61">
     <BuildData piece_offset="-6.8" />
     <BladeData stack_amount="2" blade_length="15.764" blade_width="12" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Pierce" damage_factor="1.8" />
+      <Swing damage_type="Pierce" damage_factor="2.0" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

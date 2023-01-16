@@ -14,7 +14,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_peasant_pickaxe_1_t1" name="{=zUFRE9y4}Pickaxe" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
     <Pieces>
-      <Piece id="crpg_peasant_pickaxe_1_t1_blade" Type="Blade" scale_factor="150" />
+      <Piece id="crpg_peasant_pickaxe_1_t1_blade" Type="Blade" scale_factor="165" />
       <Piece id="crpg_peasant_pickaxe_1_t1_handle" Type="Handle" scale_factor="152" />
     </Pieces>
   </CraftedItem>

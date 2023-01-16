@@ -22493,9 +22493,9 @@
     "name": "Pickaxe",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 458,
-    "weight": 1.46,
-    "tier": 1.68362737,
+    "price": 431,
+    "weight": 1.64,
+    "tier": 1.60475945,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -22508,9 +22508,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 76,
-        "balance": 0.56,
-        "handling": 87,
+        "length": 77,
+        "balance": 0.37,
+        "handling": 83,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -22518,10 +22518,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
-        "swingDamage": 18,
+        "thrustSpeed": 89,
+        "swingDamage": 20,
         "swingDamageType": "Pierce",
-        "swingSpeed": 86
+        "swingSpeed": 81
       }
     ]
   },
