@@ -22380,9 +22380,9 @@
     "name": "Hatchet",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 171,
+    "price": 272,
     "weight": 1.28,
-    "tier": 0.670722544,
+    "tier": 1.07758522,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -22406,7 +22406,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 93,
-        "swingDamage": 18,
+        "swingDamage": 20,
         "swingDamageType": "Cut",
         "swingSpeed": 95
       }

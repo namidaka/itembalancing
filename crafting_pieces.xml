@@ -2555,7 +2555,7 @@
   <CraftingPiece id="crpg_peasant_hatchet_1_t1_blade" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.632" is_default="true">
     <BuildData piece_offset="-5.4" />
     <BladeData stack_amount="2" blade_length="9.664" blade_width="17.21" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="1.8" />
+      <Swing damage_type="Cut" damage_factor="2.0" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
