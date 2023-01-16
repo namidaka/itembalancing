@@ -3462,11 +3462,11 @@
   {
     "id": "crpg_battania_axe_1_t2",
     "name": "Norse Huscarl Axe",
-    "culture": "Battania",
+    "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 3625,
+    "price": 6020,
     "weight": 0.99,
-    "tier": 6.61456,
+    "tier": 8.843622,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -3489,7 +3489,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 96,
-        "swingDamage": 30,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
         "swingSpeed": 92
       }
