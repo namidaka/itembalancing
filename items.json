@@ -27565,9 +27565,9 @@
     "name": "Forester Axe",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 416,
-    "weight": 1.02,
-    "tier": 1.560115,
+    "price": 488,
+    "weight": 1.22,
+    "tier": 1.76880836,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -27580,8 +27580,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 74,
-        "balance": 0.78,
-        "handling": 91,
+        "balance": 0.57,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -27589,10 +27589,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 96,
-        "swingDamage": 22,
+        "thrustSpeed": 93,
+        "swingDamage": 26,
         "swingDamageType": "Cut",
-        "swingSpeed": 93
+        "swingSpeed": 87
       }
     ]
   },
