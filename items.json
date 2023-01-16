@@ -753,9 +753,9 @@
     "name": "Wood Splitter Axe",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 3405,
-    "weight": 1.43,
-    "tier": 6.37673855,
+    "price": 4167,
+    "weight": 1.39,
+    "tier": 7.171903,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -768,8 +768,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 76,
-        "balance": 0.5,
-        "handling": 84,
+        "balance": 0.55,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -777,10 +777,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
+        "thrustSpeed": 92,
         "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 86
       }
     ]
   },
@@ -789,9 +789,9 @@
     "name": "Desert Ascia Axe",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 2442,
-    "weight": 0.97,
-    "tier": 5.234114,
+    "price": 3512,
+    "weight": 0.95,
+    "tier": 6.49407959,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -803,9 +803,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 87,
-        "balance": 0.74,
-        "handling": 88,
+        "length": 83,
+        "balance": 0.8,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -814,9 +814,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 96,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 93
       }
     ]
   },
@@ -30326,9 +30326,9 @@
     "name": "Steel Footman Axe",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3487,
+    "price": 4397,
     "weight": 1.09,
-    "tier": 6.46723938,
+    "tier": 7.397096,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -30351,7 +30351,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 94,
-        "swingDamage": 33,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 90
       }
