@@ -2605,7 +2605,7 @@
   <CraftingPiece id="crpg_sturgia_axe_2_t2_blade" name="{=X7OrRebK}Narrow Sparth Blade" tier="2" piece_type="Blade" mesh="axe_craft_20_head" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.675">
     <BuildData piece_offset="-5.4" />
     <BladeData stack_amount="2" blade_length="9.683" blade_width="18.004" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
