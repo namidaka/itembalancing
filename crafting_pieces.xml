@@ -2631,7 +2631,7 @@
   <CraftingPiece id="crpg_sturgia_axe_4_t4_blade" name="{=1NSafswc}Gallogaich Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_11_head" distance_to_next_piece="2.124" distance_to_previous_piece="3.279" weight="0.70">
     <BuildData piece_offset="-6.558" />
     <BladeData stack_amount="2" blade_length="9.79" blade_width="28.335" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.30" />
+      <Swing damage_type="Cut" damage_factor="3.40" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
