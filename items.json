@@ -32738,9 +32738,9 @@
     "name": "Saxon Hooked Axe",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 612,
-    "weight": 1.4,
-    "tier": 2.0992105,
+    "price": 669,
+    "weight": 1.37,
+    "tier": 2.2414782,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -32753,7 +32753,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 62,
-        "balance": 0.71,
+        "balance": 0.75,
         "handling": 91,
         "bodyArmor": 0,
         "flags": [
@@ -32765,7 +32765,7 @@
         "thrustSpeed": 92,
         "swingDamage": 26,
         "swingDamageType": "Cut",
-        "swingSpeed": 91
+        "swingSpeed": 92
       }
     ]
   },
