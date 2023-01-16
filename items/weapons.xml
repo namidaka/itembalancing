@@ -330,7 +330,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_axe_2_t4" name="{=SDBvC0ON}Knightly Spiked Battle Axe" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_vlandia_axe_2_t4_blade" Type="Blade" scale_factor="140" />
+      <Piece id="crpg_vlandia_axe_2_t4_blade" Type="Blade" scale_factor="135" />
       <Piece id="crpg_vlandia_axe_2_t4_handle" Type="Handle" scale_factor="140" />
     </Pieces>
   </CraftedItem>

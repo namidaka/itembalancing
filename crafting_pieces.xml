@@ -2618,7 +2618,7 @@
   <CraftingPiece id="crpg_vlandia_axe_2_t4_blade" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.46">
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="0" blade_length="25.328" blade_width="31.023" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Cut" damage_factor="3.40" /> 
     </BladeData>
     <Flags>
