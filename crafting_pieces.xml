@@ -2504,7 +2504,7 @@
   <CraftingPiece id="crpg_battania_axe_2_t4_blade" name="{=kNhcSC6i}Northern Bearded Head" tier="4" piece_type="Blade" mesh="axe_craft_23_head" distance_to_next_piece="3" distance_to_previous_piece="5.3" weight="0.765">
     <BuildData piece_offset="-10.6" />
     <BladeData stack_amount="2" blade_length="24.97" blade_width="20.661" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.0" />
+      <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
