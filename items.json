@@ -20499,9 +20499,9 @@
     "name": "Raider Battle Axe",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 5261,
-    "weight": 0.91,
-    "tier": 8.194605,
+    "price": 6355,
+    "weight": 0.97,
+    "tier": 9.116541,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -20513,9 +20513,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 90,
-        "balance": 0.7,
-        "handling": 86,
+        "length": 85,
+        "balance": 0.67,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -20523,8 +20523,8 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 97,
-        "swingDamage": 32,
+        "thrustSpeed": 96,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 90
       }

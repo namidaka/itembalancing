@@ -288,8 +288,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_northern_battle_axe_t3" name="{=DFcMeRdB}Raider Battle Axe" crafting_template="crpg_OneHandedAxe" culture="Culture.sturgia" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_northern_battle_axe_t3_blade" Type="Blade" scale_factor="120" />
-      <Piece id="crpg_northern_battle_axe_t3_handle" Type="Handle" scale_factor="120" />
+      <Piece id="crpg_northern_battle_axe_t3_blade" Type="Blade" scale_factor="115" />
+      <Piece id="crpg_northern_battle_axe_t3_handle" Type="Handle" scale_factor="113" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_axe_1_t3" name="{=KanKBHcS}Steel Footman Axe" crafting_template="crpg_OneHandedAxe" culture="Culture.vlandia" modifier_group="axe">
