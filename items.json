@@ -2305,9 +2305,9 @@
     "name": "Desert Battle Axe",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 2265,
-    "weight": 1.06,
-    "tier": 5.00066376,
+    "price": 2961,
+    "weight": 1.11,
+    "tier": 5.87285328,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -2319,9 +2319,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 81,
-        "balance": 0.53,
-        "handling": 83,
+        "length": 75,
+        "balance": 0.56,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -2330,7 +2330,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 94,
-        "swingDamage": 33,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
         "swingSpeed": 86
       }

@@ -2412,10 +2412,10 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bamboo_axe_t4_blade" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.675">
+  <CraftingPiece id="crpg_bamboo_axe_t4_blade" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.75">
     <BuildData piece_offset="-20.4" />
     <BladeData stack_amount="2" blade_length="22.539" blade_width="16.706" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.30" />
+      <Swing damage_type="Cut" damage_factor="3.50" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

@@ -349,7 +349,7 @@
   <CraftedItem id="crpg_bamboo_axe_t4" name="{=FAzGPJn6}Desert Battle Axe" crafting_template="crpg_OneHandedAxe" culture="Culture.aserai" modifier_group="axe">
     <Pieces>
       <Piece id="crpg_bamboo_axe_t4_blade" Type="Blade" scale_factor="105" />
-      <Piece id="crpg_bamboo_axe_t4_handle" Type="Handle" scale_factor="112" />
+      <Piece id="crpg_bamboo_axe_t4_handle" Type="Handle" scale_factor="103" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_battle_axe_t4" name="{=xWFW8jXw}Shield Reaver Axe" crafting_template="crpg_OneHandedAxe" modifier_group="axe">
