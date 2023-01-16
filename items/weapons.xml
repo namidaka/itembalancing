@@ -366,8 +366,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_battania_axe_3_t5" name="{=pP0GacSW}Steel Round Axe" crafting_template="crpg_OneHandedAxe" culture="Culture.battania" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_battania_axe_3_t5_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_battania_axe_3_t5_handle" Type="Handle" scale_factor="94" />
+      <Piece id="crpg_battania_axe_3_t5_blade" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_battania_axe_3_t5_handle" Type="Handle" scale_factor="91" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_battania_2haxe_1_t2" name="{=bNABNs8O}Square Bit Two Handed Axe" crafting_template="crpg_TwoHandedAxe" culture="Culture.battania" modifier_group="axe">

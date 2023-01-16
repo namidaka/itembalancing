@@ -3536,9 +3536,9 @@
     "name": "Steel Round Axe",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 2095,
+    "price": 2872,
     "weight": 1.04,
-    "tier": 4.76829433,
+    "tier": 5.767396,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -3550,20 +3550,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 80,
-        "balance": 0.68,
+        "length": 77,
+        "balance": 0.71,
         "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "BonusAgainstShield"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 95,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 91
       }
     ]
   },
