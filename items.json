@@ -8842,12 +8842,12 @@
   },
   {
     "id": "crpg_desert_long_sword_t4",
-    "name": "Desert Long Sword",
+    "name": "Desert Longsword",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 8739,
-    "weight": 3.02,
-    "tier": 7.67581844,
+    "price": 12076,
+    "weight": 2.93,
+    "tier": 9.210791,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8858,8 +8858,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 116,
-        "balance": 0.55,
-        "handling": 82,
+        "balance": 0.61,
+        "handling": 83,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
@@ -8867,10 +8867,10 @@
         ],
         "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 38,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
