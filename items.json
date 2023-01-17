@@ -24654,34 +24654,54 @@
     "name": "Longsword",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 9490,
-    "weight": 2.36,
-    "tier": 8.043325,
+    "price": 13863,
+    "weight": 1.77,
+    "tier": 9.945669,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "weapons": [
       {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.31,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 17,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 79
+      },
+      {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 105,
-        "balance": 0.81,
-        "handling": 87,
+        "length": 107,
+        "balance": 0.88,
+        "handling": 75,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 35,
+        "thrustSpeed": 94,
+        "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 94
+        "swingSpeed": 96
       }
     ]
   },
@@ -30289,12 +30309,12 @@
   },
   {
     "id": "crpg_vlandia_2hsword_2_t5",
-    "name": "Muhloord",
+    "name": "Thamaskene Steel Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 12639,
-    "weight": 2.86,
-    "tier": 9.447915,
+    "price": 13886,
+    "weight": 1.35,
+    "tier": 9.955066,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30304,20 +30324,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 122,
-        "balance": 0.53,
-        "handling": 80,
+        "length": 127,
+        "balance": 0.73,
+        "handling": 69,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 96,
         "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 91
       }
     ]
   },
