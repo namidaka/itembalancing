@@ -3022,9 +3022,9 @@
     "name": "Barmace",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 11309,
-    "weight": 2.61,
-    "tier": 8.878546,
+    "price": 13367,
+    "weight": 2.0,
+    "tier": 9.7469,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -3035,8 +3035,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 94,
-        "balance": 0.42,
-        "handling": 82,
+        "balance": 0.62,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -3044,10 +3044,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 89,
-        "swingDamage": 30,
+        "thrustSpeed": 94,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 88
       }
     ]
   },
@@ -3318,9 +3318,9 @@
     "name": "Falx",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 11917,
-    "weight": 2.92,
-    "tier": 9.142721,
+    "price": 12949,
+    "weight": 1.94,
+    "tier": 9.576182,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -3330,9 +3330,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 135,
-        "balance": 0.36,
-        "handling": 80,
+        "length": 130,
+        "balance": 0.66,
+        "handling": 71,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon",
@@ -3340,10 +3340,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 92,
         "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 89
       }
     ]
   },
@@ -7477,9 +7477,9 @@
     "name": "Harvesting Season",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 15032,
-    "weight": 3.12,
-    "tier": 10.4014721,
+    "price": 12070,
+    "weight": 2.85,
+    "tier": 9.208065,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -7490,8 +7490,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 128,
-        "balance": 0.21,
-        "handling": 76,
+        "balance": 0.4,
+        "handling": 67,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon",
@@ -7503,7 +7503,7 @@
         "thrustSpeed": 86,
         "swingDamage": 47,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 81
       }
     ]
   },
@@ -30278,9 +30278,9 @@
     "name": "Wide Fullered Broad Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 10740,
-    "weight": 1.97,
-    "tier": 8.625071,
+    "price": 13985,
+    "weight": 2.06,
+    "tier": 9.994454,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30290,20 +30290,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 131,
-        "balance": 0.68,
-        "handling": 83,
+        "length": 135,
+        "balance": 0.6,
+        "handling": 74,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 12,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
-        "swingDamage": 34,
+        "thrustSpeed": 92,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 87
       }
     ]
   },
