@@ -224,7 +224,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_justicier_2hsword" name="{=a47UTuL6}Justicier" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
-      <Piece id="crpg_justicier_2hsword_blade" Type="Blade" scale_factor="112" />
+      <Piece id="crpg_justicier_2hsword_blade" Type="Blade" scale_factor="122" />
       <Piece id="crpg_justicier_2hsword_guard" Type="Guard" />
       <Piece id="crpg_justicier_2hsword_handle" Type="Handle" scale_factor="96" />
       <Piece id="crpg_justicier_2hsword_pommel" Type="Pommel" scale_factor="93" />
@@ -1426,7 +1426,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_western_2hsword_t3" name="{=ekUvh8Em}Tapered Two-Hander" crafting_template="crpg_TwoHandedSword" culture="Culture.vlandia" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_western_2hsword_t3_blade" Type="Blade" scale_factor="145" />
+      <Piece id="crpg_western_2hsword_t3_blade" Type="Blade" scale_factor="150" />
       <Piece id="crpg_western_2hsword_t3_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_western_2hsword_t3_handle" Type="Handle" scale_factor="105" />
       <Piece id="crpg_western_2hsword_t3_pommel" Type="Pommel" scale_factor="100" />
@@ -1474,7 +1474,7 @@
   </CraftedItem>
   <CraftedItem id="crpg_ridged_2hsword_t4" name="{=mMtKWolp}Ridged Great Saber" crafting_template="crpg_TwoHandedSword" modifier_group="sword">
     <Pieces>
-      <Piece id="crpg_ridged_2hsword_t4_blade" Type="Blade" scale_factor="104" />
+      <Piece id="crpg_ridged_2hsword_t4_blade" Type="Blade" scale_factor="107" />
       <Piece id="crpg_ridged_2hsword_t4_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_ridged_2hsword_t4_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_ridged_2hsword_t4_pommel" Type="Pommel" scale_factor="100" />
@@ -2336,7 +2336,7 @@
 	</CraftedItem>
 	<CraftedItem id="crpg_dawn" name="{=}Dawn" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="crpg_dawn_blade" Type="Blade" scale_factor="135"/>
+			<Piece id="crpg_dawn_blade" Type="Blade" scale_factor="134"/>
 			<Piece id="crpg_dawn_guard" Type="Guard" scale_factor="125"/>
 			<Piece id="crpg_dawn_handle" Type="Handle" scale_factor="140"/>
 			<Piece id="crpg_dawn_pommel" Type="Pommel" scale_factor="140"/>
@@ -2344,7 +2344,7 @@
 	</CraftedItem>
 	<CraftedItem id="crpg_winter" name="{=}Winter" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="crpg_winter_blade" Type="Blade" scale_factor="160"/>
+			<Piece id="crpg_winter_blade" Type="Blade" scale_factor="159"/>
 			<Piece id="crpg_winter_guard" Type="Guard" scale_factor="140"/>
 			<Piece id="crpg_winter_handle" Type="Handle" scale_factor="140"/>
 			<Piece id="crpg_winter_pommel" Type="Pommel" scale_factor="140"/>
