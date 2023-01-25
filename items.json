@@ -120,15 +120,15 @@
     "name": "Bronze Lamellar Shoulder Guards",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 72,
+    "price": 631,
     "weight": 0.4055531,
-    "tier": 1.72207248,
+    "tier": 4.47738838,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 0,
-      "armArmor": 5,
+      "bodyArmor": 12,
+      "armArmor": 2,
       "legArmor": 0,
       "materialType": "Plate"
     },
@@ -196,14 +196,14 @@
     "name": "Cured Studded Leather Shoulders",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 720,
+    "price": 461,
     "weight": 1.534879,
-    "tier": 4.66152,
+    "tier": 4.05826426,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 10,
+      "bodyArmor": 8,
       "armArmor": 5,
       "legArmor": 0,
       "materialType": "Leather"
@@ -215,15 +215,15 @@
     "name": "Reinforced Studded Neckguard",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 990,
+    "price": 2185,
     "weight": 1.534879,
-    "tier": 5.12767172,
+    "tier": 6.443866,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 17,
-      "armArmor": 0,
+      "armArmor": 4,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -234,15 +234,15 @@
     "name": "Decorated Lamellar Leather Shoulder Guards",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 151,
+    "price": 503,
     "weight": 0.8207818,
-    "tier": 2.70612574,
+    "tier": 4.17194366,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 0,
-      "armArmor": 8,
+      "bodyArmor": 8,
+      "armArmor": 5,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -253,15 +253,15 @@
     "name": "Decorated Steel Lamellar Shoulder Pieces",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 258,
+    "price": 2036,
     "weight": 1.147077,
-    "tier": 3.33863831,
+    "tier": 6.31559038,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 0,
-      "armArmor": 10,
+      "bodyArmor": 13,
+      "armArmor": 7,
       "legArmor": 0,
       "materialType": "Plate"
     },
@@ -2362,9 +2362,9 @@
     "name": "Commoner Tunic",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 63,
+    "price": 92,
     "weight": 0.6110581,
-    "tier": 1.04249811,
+    "tier": 1.47475338,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -2372,8 +2372,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -2384,9 +2384,9 @@
     "name": "Sleeveless Enveloped Padded Garments",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 51,
+    "price": 95,
     "weight": 0.2160417,
-    "tier": 0.5306698,
+    "tier": 1.50140727,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -2394,9 +2394,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 2,
-      "armArmor": 1,
-      "legArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -2406,9 +2406,9 @@
     "name": "Old Fur Armor",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 189,
+    "price": 1473,
     "weight": 1.842267,
-    "tier": 2.10986423,
+    "tier": 4.1591,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -2416,9 +2416,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 12,
-      "armArmor": 0,
-      "legArmor": 6,
+      "bodyArmor": 26,
+      "armArmor": 3,
+      "legArmor": 3,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -2428,9 +2428,9 @@
     "name": "Old Fur Coat",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 159,
+    "price": 1533,
     "weight": 1.507872,
-    "tier": 1.96311045,
+    "tier": 4.208418,
     "requirement": 0,
     "flags": [
       "Civilian",
@@ -2438,9 +2438,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 12,
-      "armArmor": 0,
-      "legArmor": 4,
+      "bodyArmor": 26,
+      "armArmor": 3,
+      "legArmor": 3,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -2450,9 +2450,9 @@
     "name": "Rugged Gambeson",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 409,
+    "price": 5546,
     "weight": 3.004161,
-    "tier": 2.79478383,
+    "tier": 6.080701,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -2460,9 +2460,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 14,
-      "armArmor": 3,
-      "legArmor": 7,
+      "bodyArmor": 28,
+      "armArmor": 13,
+      "legArmor": 8,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -2472,9 +2472,9 @@
     "name": "Commoner Shirt",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 58,
+    "price": 93,
     "weight": 0.5141875,
-    "tier": 0.906492,
+    "tier": 1.48102915,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -2482,8 +2482,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 3,
-      "armArmor": 2,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -5697,18 +5697,18 @@
     "name": "Belted Leather Cuirass",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 604,
+    "price": 1274,
     "weight": 3.244425,
-    "tier": 3.17090631,
+    "tier": 3.9839592,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 19,
+      "bodyArmor": 26,
       "armArmor": 3,
-      "legArmor": 4,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -6253,15 +6253,15 @@
     "name": "Bolted Leather Strips",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 129,
+    "price": 623,
     "weight": 0.4954908,
-    "tier": 2.51551843,
+    "tier": 4.459328,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 8,
-      "armArmor": 0,
+      "bodyArmor": 12,
+      "armArmor": 2,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -6644,18 +6644,18 @@
     "name": "Bronze Lamellar over Mail",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 10663,
+    "price": 50725,
     "weight": 16.37916,
-    "tier": 7.29124355,
+    "tier": 11.1352015,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 46,
-      "armArmor": 14,
-      "legArmor": 14,
+      "bodyArmor": 64,
+      "armArmor": 25,
+      "legArmor": 25,
       "materialType": "Chainmail"
     },
     "weapons": []
@@ -6665,14 +6665,14 @@
     "name": "Bronze Lamellar Shoulder Pieces",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 2325,
+    "price": 5431,
     "weight": 2.63928,
-    "tier": 6.55734062,
+    "tier": 8.302439,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 16,
+      "bodyArmor": 22,
       "armArmor": 6,
       "legArmor": 0,
       "materialType": "Plate"
@@ -6889,18 +6889,18 @@
     "name": "Buckled Mail Armor",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 2188,
+    "price": 5808,
     "weight": 6.39116,
-    "tier": 4.66844749,
+    "tier": 6.159757,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 28,
+      "bodyArmor": 38,
       "armArmor": 8,
-      "legArmor": 4,
+      "legArmor": 8,
       "materialType": "Chainmail"
     },
     "weapons": []
@@ -7023,9 +7023,9 @@
     "name": "Burlap Dress",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 51,
+    "price": 95,
     "weight": 0.2160417,
-    "tier": 0.5306698,
+    "tier": 1.50140727,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -7034,9 +7034,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 2,
-      "armArmor": 1,
-      "legArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -8236,16 +8236,16 @@
     "name": "Crude Hide Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 496,
+    "price": 5359,
     "weight": 3.349267,
-    "tier": 2.97649956,
+    "tier": 6.02248955,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 13,
-      "armArmor": 6,
-      "legArmor": 6,
+      "bodyArmor": 28,
+      "armArmor": 13,
+      "legArmor": 8,
       "materialType": "Leather"
     },
     "weapons": []
@@ -9338,18 +9338,18 @@
     "name": "Lancer Lamellar Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 4991,
+    "price": 29342,
     "weight": 10.3814,
-    "tier": 5.90377569,
+    "tier": 9.610091,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 39,
-      "armArmor": 7,
-      "legArmor": 10,
+      "bodyArmor": 52,
+      "armArmor": 18,
+      "legArmor": 23,
       "materialType": "Plate"
     },
     "weapons": []
@@ -9359,9 +9359,9 @@
     "name": "Leather Riding Boots",
     "culture": "Khuzait",
     "type": "LegArmor",
-    "price": 73,
+    "price": 302,
     "weight": 0.2304528,
-    "tier": 2.17974019,
+    "tier": 4.35948038,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -9370,7 +9370,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 6,
+      "legArmor": 12,
       "materialType": "Leather"
     },
     "weapons": []
@@ -9415,18 +9415,18 @@
     "name": "Mirrored Brigandine Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 6836,
+    "price": 27951,
     "weight": 13.48989,
-    "tier": 6.446472,
+    "tier": 9.484688,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 36,
-      "armArmor": 14,
-      "legArmor": 14,
+      "bodyArmor": 52,
+      "armArmor": 23,
+      "legArmor": 18,
       "materialType": "Plate"
     },
     "weapons": []
@@ -9455,18 +9455,18 @@
     "name": "Brigandine Vest",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 2160,
+    "price": 33727,
     "weight": 5.875444,
-    "tier": 4.650716,
+    "tier": 9.978295,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 34,
-      "armArmor": 2,
-      "legArmor": 4,
+      "bodyArmor": 52,
+      "armArmor": 18,
+      "legArmor": 18,
       "materialType": "Plate"
     },
     "weapons": []
@@ -9893,18 +9893,18 @@
     "name": "Stitched Cured Leather Coat",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 1262,
+    "price": 6136,
     "weight": 5.623061,
-    "tier": 3.97253227,
+    "tier": 6.255092,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 20,
-      "armArmor": 6,
-      "legArmor": 10,
+      "bodyArmor": 38,
+      "armArmor": 8,
+      "legArmor": 8,
       "materialType": "Leather"
     },
     "weapons": []
@@ -9935,15 +9935,15 @@
     "name": "Reinforced Studded Shoulder Guards",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 1983,
+    "price": 5105,
     "weight": 2.352683,
-    "tier": 6.268688,
+    "tier": 8.162633,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 17,
-      "armArmor": 4,
+      "bodyArmor": 18,
+      "armArmor": 9,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -10070,13 +10070,13 @@
     "name": "Heavy Lancer Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 7039,
+    "price": 16231,
     "weight": 3.306017,
-    "tier": 8.215069,
+    "tier": 10.3091059,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 51,
+      "headArmor": 64,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -11601,9 +11601,9 @@
     "name": "Cotton Hood",
     "culture": "Neutral",
     "type": "ShoulderArmor",
-    "price": 50,
+    "price": 53,
     "weight": 0.06193636,
-    "tier": 0.6417654,
+    "tier": 0.962648153,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -11611,7 +11611,7 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 2,
+      "bodyArmor": 3,
       "armArmor": 0,
       "legArmor": 0,
       "materialType": "Cloth"
@@ -12158,18 +12158,18 @@
     "name": "Fur Coat over Tunic",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 235,
+    "price": 1434,
     "weight": 2.077283,
-    "tier": 2.297804,
+    "tier": 4.126423,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 12,
-      "armArmor": 2,
-      "legArmor": 5,
+      "bodyArmor": 26,
+      "armArmor": 3,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -12179,15 +12179,15 @@
     "name": "Nomad Fur Cap",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 60,
+    "price": 56,
     "weight": 0.1681113,
-    "tier": 1.26150024,
+    "tier": 1.08128583,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "armor": {
-      "headArmor": 7,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -12200,13 +12200,13 @@
     "name": "Thick Fur Hood",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 112,
+    "price": 56,
     "weight": 0.3773303,
-    "tier": 2.14149237,
+    "tier": 1.07074618,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 12,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -12219,9 +12219,9 @@
     "name": "Fur Skirt",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 56,
+    "price": 92,
     "weight": 0.6110581,
-    "tier": 0.813657,
+    "tier": 1.47475338,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -12229,9 +12229,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 2,
-      "armArmor": 0,
-      "legArmor": 6,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -12241,18 +12241,18 @@
     "name": "Fur Skirt with Tunic",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 83,
+    "price": 89,
     "weight": 1.147077,
-    "tier": 1.36805022,
+    "tier": 1.44267118,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
-      "legArmor": 6,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -12306,9 +12306,9 @@
     "name": "Fur Waistcoat over Tunic",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 78,
+    "price": 91,
     "weight": 0.8207818,
-    "tier": 1.31048286,
+    "tier": 1.46169245,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
@@ -12316,7 +12316,7 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
-      "armArmor": 2,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Leather"
     },
@@ -12820,9 +12820,9 @@
     "name": "Half Apron",
     "culture": "Neutral",
     "type": "BodyArmor",
-    "price": 53,
+    "price": 94,
     "weight": 0.2901902,
-    "tier": 0.6707019,
+    "tier": 1.49618125,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -12830,9 +12830,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 3,
-      "armArmor": 1,
-      "legArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -15796,13 +15796,13 @@
     "name": "Khuzait Battle Crown",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 2333,
+    "price": 3391,
     "weight": 1.960666,
-    "tier": 6.039774,
+    "tier": 6.71086,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 36,
+      "headArmor": 40,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -15815,9 +15815,9 @@
     "name": "Coat with Mirrored Belt",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 130,
+    "price": 88,
     "weight": 1.375265,
-    "tier": 1.78776133,
+    "tier": 1.430209,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -15825,9 +15825,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 8,
+      "bodyArmor": 6,
       "armArmor": 3,
-      "legArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -15837,9 +15837,9 @@
     "name": "Luxury Coat",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 98,
+    "price": 89,
     "weight": 1.122585,
-    "tier": 1.53118908,
+    "tier": 1.444048,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -15849,7 +15849,7 @@
       "headArmor": 0,
       "bodyArmor": 6,
       "armArmor": 3,
-      "legArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -15859,9 +15859,9 @@
     "name": "Luxury Thick Coat",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 98,
+    "price": 89,
     "weight": 1.122585,
-    "tier": 1.53118908,
+    "tier": 1.444048,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -15871,7 +15871,7 @@
       "headArmor": 0,
       "bodyArmor": 6,
       "armArmor": 3,
-      "legArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -15881,13 +15881,13 @@
     "name": "Ornate Steel Cap",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 505,
+    "price": 1113,
     "weight": 0.936664,
-    "tier": 3.83277321,
+    "tier": 4.878075,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 22,
+      "headArmor": 28,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -15900,9 +15900,9 @@
     "name": "Curved Boots",
     "culture": "Khuzait",
     "type": "LegArmor",
-    "price": 62,
+    "price": 304,
     "weight": 0.1753114,
-    "tier": 1.82122278,
+    "tier": 4.37093449,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -15911,7 +15911,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 5,
+      "legArmor": 12,
       "materialType": "Leather"
     },
     "weapons": []
@@ -15921,9 +15921,9 @@
     "name": "Aproned Feminine Coat",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 98,
+    "price": 89,
     "weight": 1.122585,
-    "tier": 1.53118908,
+    "tier": 1.444048,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -15933,7 +15933,7 @@
       "headArmor": 0,
       "bodyArmor": 6,
       "armArmor": 3,
-      "legArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -15943,9 +15943,9 @@
     "name": "Dress with Fur",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 111,
+    "price": 89,
     "weight": 1.196587,
-    "tier": 1.6509335,
+    "tier": 1.43991172,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -15953,9 +15953,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 8,
-      "armArmor": 2,
-      "legArmor": 3,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -15965,9 +15965,9 @@
     "name": "Reinforced Mirror Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 399,
+    "price": 5722,
     "weight": 2.704445,
-    "tier": 2.77215028,
+    "tier": 6.13412,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -15975,9 +15975,28 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 16,
-      "armArmor": 2,
-      "legArmor": 5,
+      "bodyArmor": 28,
+      "armArmor": 13,
+      "legArmor": 8,
+      "materialType": "Leather"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_khuzait_lamellar_strapped",
+    "name": "Reinforced Leather Armor",
+    "culture": "Khuzait",
+    "type": "BodyArmor",
+    "price": 1908,
+    "weight": 7.010831,
+    "tier": 4.48649073,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 24,
+      "armArmor": 6,
+      "legArmor": 12,
       "materialType": "Leather"
     },
     "weapons": []
@@ -16224,15 +16243,15 @@
     "name": "Reinforced Leather Pauldrons",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 290,
+    "price": 496,
     "weight": 0.9331263,
-    "tier": 3.479345,
+    "tier": 4.152766,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 8,
-      "armArmor": 3,
+      "armArmor": 5,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -16375,13 +16394,13 @@
     "name": "Noble Lancer Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 5813,
+    "price": 7781,
     "weight": 3.018642,
-    "tier": 7.794133,
+    "tier": 8.443645,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 48,
+      "headArmor": 52,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -16394,13 +16413,13 @@
     "name": "Furred Noble Lancer Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 4739,
+    "price": 8015,
     "weight": 2.740113,
-    "tier": 7.36641645,
+    "tier": 8.512302,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 45,
+      "headArmor": 52,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -16413,13 +16432,13 @@
     "name": "Plumed Noble Lancer Helmet with Neckguard",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 5813,
+    "price": 7781,
     "weight": 3.018642,
-    "tier": 7.794133,
+    "tier": 8.443645,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 48,
+      "headArmor": 52,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -16603,18 +16622,18 @@
     "name": "Mirrored Leather Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 406,
+    "price": 4685,
     "weight": 2.936653,
-    "tier": 2.788486,
+    "tier": 5.79958248,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 15,
-      "armArmor": 2,
-      "legArmor": 7,
+      "bodyArmor": 28,
+      "armArmor": 8,
+      "legArmor": 13,
       "materialType": "Leather"
     },
     "weapons": []
@@ -16918,9 +16937,9 @@
     "name": "Ladies Shoes",
     "culture": "Neutral",
     "type": "LegArmor",
-    "price": 50,
+    "price": 52,
     "weight": 0.01568033,
-    "tier": 0.36709547,
+    "tier": 1.10128641,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -16929,7 +16948,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 1,
+      "legArmor": 3,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -16977,15 +16996,15 @@
     "name": "Lamellar Shoulder Pieces",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 2290,
+    "price": 11427,
     "weight": 2.510549,
-    "tier": 6.52998,
+    "tier": 10.1665936,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 18,
-      "armArmor": 4,
+      "bodyArmor": 25,
+      "armArmor": 9,
       "legArmor": 0,
       "materialType": "Plate"
     },
@@ -17195,9 +17214,9 @@
     "name": "Leather Apron",
     "culture": "Neutral",
     "type": "BodyArmor",
-    "price": 63,
+    "price": 92,
     "weight": 0.6110581,
-    "tier": 1.04249811,
+    "tier": 1.47475338,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -17205,8 +17224,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Leather"
     },
@@ -17217,9 +17236,9 @@
     "name": "Fur Rimmed Curved Boots",
     "culture": "Khuzait",
     "type": "LegArmor",
-    "price": 56,
+    "price": 52,
     "weight": 0.1254426,
-    "tier": 1.46048379,
+    "tier": 1.09536278,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -17228,7 +17247,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 4,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -17340,9 +17359,9 @@
     "name": "Leather Gloves",
     "culture": "Neutral",
     "type": "HandArmor",
-    "price": 59,
+    "price": 53,
     "weight": 0.2901902,
-    "tier": 1.54484069,
+    "tier": 1.15863049,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -17350,7 +17369,7 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 0,
-      "armArmor": 4,
+      "armArmor": 3,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -17361,18 +17380,18 @@
     "name": "Cured Leather Lamellar Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 1908,
+    "price": 13080,
     "weight": 7.010831,
-    "tier": 4.48649073,
+    "tier": 7.71249151,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 24,
-      "armArmor": 6,
-      "legArmor": 12,
+      "bodyArmor": 40,
+      "armArmor": 13,
+      "legArmor": 18,
       "materialType": "Leather"
     },
     "weapons": []
@@ -17382,15 +17401,15 @@
     "name": "Leather Lamellar Shoulder Guards",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 702,
+    "price": 2216,
     "weight": 1.427819,
-    "tier": 4.62470961,
+    "tier": 6.4690876,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 12,
-      "armArmor": 3,
+      "bodyArmor": 17,
+      "armArmor": 4,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -19064,15 +19083,15 @@
     "name": "Merchant Hat",
     "culture": "Neutral",
     "type": "HeadArmor",
-    "price": 50,
+    "price": 56,
     "weight": 0.009077156,
-    "tier": 0.181621924,
+    "tier": 1.08973157,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "armor": {
-      "headArmor": 1,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -21590,15 +21609,15 @@
     "name": "Nomad Cap",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 51,
+    "price": 56,
     "weight": 0.07261725,
-    "tier": 0.724206567,
+    "tier": 1.08630979,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "armor": {
-      "headArmor": 4,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -21611,13 +21630,13 @@
     "name": "Nomad Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 1452,
+    "price": 1026,
     "weight": 1.566723,
-    "tier": 5.27252865,
+    "tier": 4.76228428,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 31,
+      "headArmor": 28,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -21630,15 +21649,15 @@
     "name": "Nomad Padded Hood",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 112,
+    "price": 56,
     "weight": 0.3773303,
-    "tier": 2.14149237,
+    "tier": 1.07074618,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "armor": {
-      "headArmor": 12,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -23455,18 +23474,18 @@
     "name": "Padded Leather Overcoat",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 329,
+    "price": 5905,
     "weight": 2.415419,
-    "tier": 2.59437633,
+    "tier": 6.188421,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 14,
-      "armArmor": 3,
-      "legArmor": 4,
+      "bodyArmor": 28,
+      "armArmor": 13,
+      "legArmor": 8,
       "materialType": "Leather"
     },
     "weapons": []
@@ -23559,15 +23578,15 @@
     "name": "Padded Vambraces",
     "culture": "Neutral",
     "type": "HandArmor",
-    "price": 109,
+    "price": 437,
     "weight": 0.6717997,
-    "tier": 2.6577878,
+    "tier": 4.556207,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 0,
-      "armArmor": 7,
+      "armArmor": 12,
       "legArmor": 0,
       "materialType": "Cloth"
     },
@@ -23697,13 +23716,13 @@
     "name": "Peaked Fur Hood",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 130,
+    "price": 56,
     "weight": 0.425466,
-    "tier": 2.314881,
+    "tier": 1.0684067,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 13,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -24573,13 +24592,13 @@
     "name": "Plumed Fur Lined Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 656,
+    "price": 1094,
     "weight": 1.067251,
-    "tier": 4.159431,
+    "tier": 4.85266972,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 24,
+      "headArmor": 28,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -24611,13 +24630,13 @@
     "name": "Plumed Lamellar Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 2333,
+    "price": 3391,
     "weight": 1.960666,
-    "tier": 6.039774,
+    "tier": 6.71086,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 36,
+      "headArmor": 40,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -24630,13 +24649,13 @@
     "name": "Plumed Nomad Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 1606,
+    "price": 3526,
     "weight": 1.643141,
-    "tier": 5.42778873,
+    "tier": 6.784736,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 32,
+      "headArmor": 40,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -24982,9 +25001,9 @@
     "name": "Ragged Boots",
     "culture": "Neutral",
     "type": "LegArmor",
-    "price": 62,
+    "price": 304,
     "weight": 0.1753114,
-    "tier": 1.82122278,
+    "tier": 4.37093449,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -24993,7 +25012,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 5,
+      "legArmor": 12,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -25003,9 +25022,9 @@
     "name": "Ragged Robes",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 55,
+    "price": 93,
     "weight": 0.388297,
-    "tier": 0.7575553,
+    "tier": 1.48943079,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -25013,8 +25032,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 3,
-      "armArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -25264,18 +25283,18 @@
     "name": "Reinforced Suede Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 399,
+    "price": 1342,
     "weight": 2.704445,
-    "tier": 2.77215028,
+    "tier": 4.04615974,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 16,
-      "armArmor": 2,
-      "legArmor": 5,
+      "bodyArmor": 26,
+      "armArmor": 3,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -25285,9 +25304,9 @@
     "name": "Reinforced Suede Boots",
     "culture": "Khuzait",
     "type": "LegArmor",
-    "price": 1367,
+    "price": 949,
     "weight": 1.402491,
-    "tier": 6.91897964,
+    "tier": 6.2270813,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -25296,7 +25315,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 20,
+      "legArmor": 18,
       "materialType": "Leather"
     },
     "weapons": []
@@ -25306,15 +25325,15 @@
     "name": "Reinforced Suede Shoulder Guards",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 81,
+    "price": 539,
     "weight": 0.3218308,
-    "tier": 1.90156257,
+    "tier": 4.26411,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 6,
-      "armArmor": 0,
+      "bodyArmor": 8,
+      "armArmor": 5,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -25470,18 +25489,18 @@
     "name": "Rough Fur Armor",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 354,
+    "price": 1355,
     "weight": 2.606896,
-    "tier": 2.66197848,
+    "tier": 4.058038,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 14,
+      "bodyArmor": 26,
       "armArmor": 3,
-      "legArmor": 5,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -25491,16 +25510,16 @@
     "name": "Rough Fur over Mail",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 4472,
+    "price": 12446,
     "weight": 9.974319,
-    "tier": 5.7238965,
+    "tier": 7.6080966,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 36,
-      "armArmor": 8,
-      "legArmor": 10,
+      "bodyArmor": 40,
+      "armArmor": 18,
+      "legArmor": 13,
       "materialType": "Chainmail"
     },
     "weapons": []
@@ -26182,9 +26201,9 @@
     "name": "Scarf",
     "culture": "Neutral",
     "type": "ShoulderArmor",
-    "price": 50,
+    "price": 53,
     "weight": 0.06193636,
-    "tier": 0.6417654,
+    "tier": 0.962648153,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -26192,7 +26211,7 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 2,
+      "bodyArmor": 3,
       "armArmor": 0,
       "legArmor": 0,
       "materialType": "Cloth"
@@ -26945,18 +26964,18 @@
     "name": "Sleeveless Fur Coat",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 235,
+    "price": 1434,
     "weight": 2.077283,
-    "tier": 2.297804,
+    "tier": 4.126423,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 12,
-      "armArmor": 2,
-      "legArmor": 5,
+      "bodyArmor": 26,
+      "armArmor": 3,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -27847,13 +27866,13 @@
     "name": "Spiked Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 5813,
+    "price": 7781,
     "weight": 3.018642,
-    "tier": 7.794133,
+    "tier": 8.443645,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 48,
+      "headArmor": 52,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -27866,13 +27885,13 @@
     "name": "Spiked Helmet with Facemask",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 7039,
+    "price": 16231,
     "weight": 3.306017,
-    "tier": 8.215069,
+    "tier": 10.3091059,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 51,
+      "headArmor": 64,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -28319,9 +28338,9 @@
     "name": "Striped Coat",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 69,
+    "price": 92,
     "weight": 0.6717997,
-    "tier": 1.1665746,
+    "tier": 1.47089839,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -28330,7 +28349,7 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
-      "armArmor": 1,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -28415,9 +28434,9 @@
     "name": "Envelope Dress",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 165,
+    "price": 86,
     "weight": 1.728333,
-    "tier": 1.99645579,
+    "tier": 1.41212726,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -28425,9 +28444,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 8,
-      "armArmor": 4,
-      "legArmor": 4,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -28579,13 +28598,13 @@
     "name": "Infantry Steel Helmet",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 1770,
+    "price": 3492,
     "weight": 1.720762,
-    "tier": 5.58213568,
+    "tier": 6.76622438,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 33,
+      "headArmor": 40,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -28598,9 +28617,9 @@
     "name": "Sturdy Leather Boots",
     "culture": "Khuzait",
     "type": "LegArmor",
-    "price": 56,
+    "price": 306,
     "weight": 0.1254426,
-    "tier": 1.46048379,
+    "tier": 4.381451,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -28609,7 +28628,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 4,
+      "legArmor": 12,
       "materialType": "Leather"
     },
     "weapons": []
@@ -28619,15 +28638,15 @@
     "name": "Cured Leather Pauldrons",
     "culture": "Khuzait",
     "type": "ShoulderArmor",
-    "price": 81,
+    "price": 539,
     "weight": 0.3218308,
-    "tier": 1.90156257,
+    "tier": 4.26411,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 6,
-      "armArmor": 0,
+      "bodyArmor": 8,
+      "armArmor": 5,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -28638,9 +28657,9 @@
     "name": "Leather Vambraces",
     "culture": "Khuzait",
     "type": "HandArmor",
-    "price": 394,
+    "price": 1518,
     "weight": 1.507872,
-    "tier": 4.40862846,
+    "tier": 6.6129427,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -28648,7 +28667,7 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 0,
-      "armArmor": 12,
+      "armArmor": 18,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -28659,9 +28678,9 @@
     "name": "Steppe Robe",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 63,
+    "price": 92,
     "weight": 0.6110581,
-    "tier": 1.04249811,
+    "tier": 1.47475338,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -28669,8 +28688,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -28881,9 +28900,9 @@
     "name": "Strapped Shoes",
     "culture": "Neutral",
     "type": "LegArmor",
-    "price": 62,
+    "price": 52,
     "weight": 0.1753114,
-    "tier": 1.82122278,
+    "tier": 1.09273362,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -28892,7 +28911,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 5,
+      "legArmor": 3,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -29135,9 +29154,9 @@
     "name": "Studded Fur Armor",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 237,
+    "price": 5112,
     "weight": 2.137492,
-    "tier": 2.30528474,
+    "tier": 5.94331169,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -29145,9 +29164,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 11,
-      "armArmor": 3,
-      "legArmor": 5,
+      "bodyArmor": 28,
+      "armArmor": 8,
+      "legArmor": 13,
       "materialType": "Leather"
     },
     "weapons": []
@@ -29197,18 +29216,18 @@
     "name": "Studded Leather over Aketon",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 665,
+    "price": 18711,
     "weight": 4.001147,
-    "tier": 3.2679317,
+    "tier": 8.505732,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 14,
-      "armArmor": 7,
-      "legArmor": 7,
+      "bodyArmor": 40,
+      "armArmor": 18,
+      "legArmor": 13,
       "materialType": "Leather"
     },
     "weapons": []
@@ -29218,15 +29237,15 @@
     "name": "Studded Leather Vambraces",
     "culture": "Khuzait",
     "type": "HandArmor",
-    "price": 310,
+    "price": 1555,
     "weight": 1.323371,
-    "tier": 4.068876,
+    "tier": 6.65816,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 0,
-      "armArmor": 11,
+      "armArmor": 18,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -29237,9 +29256,9 @@
     "name": "Studded Leather Waistcoat",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 83,
+    "price": 91,
     "weight": 0.8651426,
-    "tier": 1.370973,
+    "tier": 1.45901716,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -29248,9 +29267,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 8,
-      "armArmor": 0,
-      "legArmor": 3,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -29319,18 +29338,18 @@
     "name": "Studded Leather Armor",
     "culture": "Khuzait",
     "type": "BodyArmor",
-    "price": 593,
+    "price": 4333,
     "weight": 3.74306,
-    "tier": 3.15189481,
+    "tier": 5.67341042,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 14,
-      "armArmor": 6,
-      "legArmor": 7,
+      "bodyArmor": 28,
+      "armArmor": 8,
+      "legArmor": 13,
       "materialType": "Leather"
     },
     "weapons": []
@@ -29340,15 +29359,15 @@
     "name": "Studded Vambraces",
     "culture": "Khuzait",
     "type": "HandArmor",
-    "price": 70,
+    "price": 453,
     "weight": 0.4055531,
-    "tier": 1.92083013,
+    "tier": 4.6099925,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 0,
-      "armArmor": 5,
+      "armArmor": 12,
       "legArmor": 0,
       "materialType": "Leather"
     },
@@ -30843,9 +30862,9 @@
     "name": "Tattered Rags",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 51,
+    "price": 95,
     "weight": 0.1884841,
-    "tier": 0.518406153,
+    "tier": 1.50337791,
     "requirement": 0,
     "flags": [
       "Civilian",
@@ -30853,9 +30872,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 3,
-      "armArmor": 0,
-      "legArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -31173,9 +31192,9 @@
     "name": "Torn Padded Garments",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 69,
+    "price": 92,
     "weight": 0.6717997,
-    "tier": 1.1665746,
+    "tier": 1.47089839,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -31184,7 +31203,7 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
-      "armArmor": 1,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -31908,15 +31927,15 @@
     "name": "Upturned Fur Cap",
     "culture": "Khuzait",
     "type": "HeadArmor",
-    "price": 84,
+    "price": 56,
     "weight": 0.2870449,
-    "tier": 1.79203117,
+    "tier": 1.07521868,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "armor": {
-      "headArmor": 10,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -32383,18 +32402,18 @@
     "name": "Cheap Paddings",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 264,
+    "price": 5184,
     "weight": 2.017651,
-    "tier": 2.39877343,
+    "tier": 5.966798,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 14,
-      "armArmor": 2,
-      "legArmor": 3,
+      "bodyArmor": 28,
+      "armArmor": 8,
+      "legArmor": 13,
       "materialType": "Leather"
     },
     "weapons": []
@@ -32404,18 +32423,18 @@
     "name": "Cheap Colored Clothes",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 60,
+    "price": 93,
     "weight": 0.4954908,
-    "tier": 0.958357155,
+    "tier": 1.482259,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
-      "legArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -32425,9 +32444,9 @@
     "name": "Torn Robe",
     "culture": "Looters",
     "type": "BodyArmor",
-    "price": 50,
+    "price": 96,
     "weight": 0.07145534,
-    "tier": 0.23460868,
+    "tier": 1.5119226,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -32435,9 +32454,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 1,
-      "armArmor": 0,
-      "legArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Leather"
     },
     "weapons": []
@@ -32447,13 +32466,13 @@
     "name": "Rough Padded Cap",
     "culture": "Looters",
     "type": "HeadArmor",
-    "price": 112,
+    "price": 56,
     "weight": 0.3773303,
-    "tier": 2.14149237,
+    "tier": 1.07074618,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 12,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -32466,13 +32485,13 @@
     "name": "Hide Cap",
     "culture": "Looters",
     "type": "HeadArmor",
-    "price": 66,
+    "price": 56,
     "weight": 0.2053926,
-    "tier": 1.43914938,
+    "tier": 1.079362,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 8,
+      "headArmor": 6,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -34951,9 +34970,9 @@
     "name": "Woven Leather Boots",
     "culture": "Khuzait",
     "type": "LegArmor",
-    "price": 62,
+    "price": 52,
     "weight": 0.1753114,
-    "tier": 1.82122278,
+    "tier": 1.09273362,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -34962,7 +34981,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 5,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -35139,9 +35158,9 @@
     "name": "Shawl",
     "culture": "Neutral",
     "type": "ShoulderArmor",
-    "price": 50,
+    "price": 53,
     "weight": 0.06193636,
-    "tier": 0.6417654,
+    "tier": 0.962648153,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -35149,7 +35168,7 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 2,
+      "bodyArmor": 3,
       "armArmor": 0,
       "legArmor": 0,
       "materialType": "Cloth"
