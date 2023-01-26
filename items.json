@@ -7081,8 +7081,8 @@
   },
   {
     "id": "crpg_buckler",
-    "name": "Round Buckler",
-    "culture": "Sturgia",
+    "name": "Round Buckler Shield",
+    "culture": "Neutral",
     "type": "Shield",
     "price": 3590,
     "weight": 1.0,
@@ -7098,7 +7098,7 @@
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 200,
+        "stackAmount": 75,
         "length": 15,
         "balance": 0.0,
         "handling": 86,
@@ -7107,9 +7107,9 @@
           "HasHitPoints",
           "CanBlockRanged"
         ],
-        "thrustDamage": 5,
+        "thrustDamage": 1,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 86,
+        "thrustSpeed": 100,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 100
