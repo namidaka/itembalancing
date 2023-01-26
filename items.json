@@ -7623,6 +7623,27 @@
         "swingDamage": 42,
         "swingDamageType": "Cut",
         "swingSpeed": 81
+      },
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 116,
+        "balance": 0.64,
+        "handling": 72,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 42,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
       }
     ]
   },
@@ -12862,6 +12883,26 @@
     "weapons": []
   },
   {
+    "id": "crpg_great_prankh_helm",
+    "name": "Round Top Great Helmet",
+    "culture": "Vlandia",
+    "type": "HeadArmor",
+    "price": 9448,
+    "weight": 3.8,
+    "tier": 8.903204,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 56,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
     "id": "crpg_greataxe",
     "name": "Greataxe",
     "culture": "Battania",
@@ -13483,6 +13524,44 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 87
+      }
+    ]
+  },
+  {
+    "id": "crpg_Heavy_Highland_Tower_Shield",
+    "name": "Heavy Highland Tower Shield",
+    "culture": "Battania",
+    "type": "Shield",
+    "price": 19897,
+    "weight": 10.0,
+    "tier": 15.1999168,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
+        "length": 150,
+        "balance": 0.0,
+        "handling": 80,
+        "bodyArmor": 10,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
       }
     ]
   },
@@ -16236,31 +16315,10 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 33,
-      "armArmor": 8,
-      "legArmor": 8,
-      "materialType": "Leather",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_khuzait_lamellar_strapped",
-    "name": "Steppe Reinforced Leather Armor",
-    "culture": "Khuzait",
-    "type": "BodyArmor",
-    "price": 19315,
-    "weight": 11.81787,
-    "tier": 8.57964,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 0,
-      "bodyArmor": 40,
-      "armArmor": 18,
-      "legArmor": 13,
-      "materialType": "Leather",
-      "familyType": 0
+      "bodyArmor": 16,
+      "armArmor": 2,
+      "legArmor": 5,
+      "materialType": "Leather"
     },
     "weapons": []
   },
@@ -18366,44 +18424,7 @@
         "thrustSpeed": 94,
         "swingDamage": 49,
         "swingDamageType": "Cut",
-        "swingSpeed": 74
-      }
-    ]
-  },
-  {
-    "id": "crpg_long_buckler",
-    "name": "Oval Buckler",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 10277,
-    "weight": 1.2,
-    "tier": 10.60991,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 220,
-        "length": 24,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 8,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 10,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 100
+        "swingSpeed": 76
       }
     ]
   },
@@ -19599,43 +19620,7 @@
         "thrustSpeed": 87,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 67
-      }
-    ]
-  },
-  {
-    "id": "crpg_military_hammer",
-    "name": "Military Hammer",
-    "culture": "Sturgia",
-    "type": "OneHandedWeapon",
-    "price": 7821,
-    "weight": 1.49,
-    "tier": 10.236001,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 78,
-        "balance": 0.48,
-        "handling": 85,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 21,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 64
       }
     ]
   },
@@ -25142,7 +25127,7 @@
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 35,
+      "headArmor": 40,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -25926,31 +25911,10 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 29,
-      "armArmor": 17,
-      "legArmor": 7,
-      "materialType": "Chainmail",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_roningasa",
-    "name": "Roningasa",
-    "culture": "Khuzait",
-    "type": "HeadArmor",
-    "price": 59,
-    "weight": 0.07117252,
-    "tier": 1.19262862,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 6,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Cloth",
-      "familyType": 0
+      "bodyArmor": 28,
+      "armArmor": 13,
+      "legArmor": 8,
+      "materialType": "Chainmail"
     },
     "weapons": []
   },
@@ -26376,6 +26340,249 @@
     "weapons": []
   },
   {
+    "id": "crpg_rus_armour",
+    "name": "Vaegir Coat of Plates",
+    "culture": "Sturgia",
+    "type": "BodyArmor",
+    "price": 10663,
+    "weight": 16.38,
+    "tier": 7.29118347,
+    "requirement": 0,
+    "flags": [
+      "UseTeamColor"
+    ],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 46,
+      "armArmor": 14,
+      "legArmor": 14,
+      "materialType": "Plate"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_armour1",
+    "name": "Vaegir Coat of Plates",
+    "culture": "Sturgia",
+    "type": "BodyArmor",
+    "price": 10663,
+    "weight": 16.38,
+    "tier": 7.29118347,
+    "requirement": 0,
+    "flags": [
+      "UseTeamColor"
+    ],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 46,
+      "armArmor": 14,
+      "legArmor": 14,
+      "materialType": "Plate"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_helm_noble",
+    "name": "Vaegir Noble Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 7037,
+    "weight": 3.31,
+    "tier": 8.214173,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 51,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_helm_regular",
+    "name": "Vaegir Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 7037,
+    "weight": 3.31,
+    "tier": 8.214173,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 51,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_helm_regular2",
+    "name": "Vaegir Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 7037,
+    "weight": 3.31,
+    "tier": 8.214173,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 51,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate"
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_open_helm",
+    "name": "Vaegir Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 6207,
+    "weight": 3.11,
+    "tier": 7.93595743,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 49,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_armour",
+    "name": "Vaegir Coat of Plates",
+    "culture": "Sturgia",
+    "type": "BodyArmor",
+    "price": 28769,
+    "weight": 19.18489,
+    "tier": 9.558988,
+    "requirement": 0,
+    "flags": [
+      "UseTeamColor"
+    ],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 52,
+      "armArmor": 23,
+      "legArmor": 18,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_armour1",
+    "name": "Shiny Vaegir Coat of Plates",
+    "culture": "Sturgia",
+    "type": "BodyArmor",
+    "price": 28769,
+    "weight": 19.18489,
+    "tier": 9.558988,
+    "requirement": 0,
+    "flags": [
+      "UseTeamColor"
+    ],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 52,
+      "armArmor": 23,
+      "legArmor": 18,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_helm_noble",
+    "name": "Vaegir Noble Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 14537,
+    "weight": 5.043871,
+    "tier": 10.0068874,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 64,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_helm_regular",
+    "name": "Vaegir Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 14537,
+    "weight": 5.043871,
+    "tier": 10.0068874,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 64,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_helm_regular2",
+    "name": "Shiny Vaegir Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 14537,
+    "weight": 5.043871,
+    "tier": 10.0068874,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 64,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_rus_open_helm",
+    "name": "Vaegir Open Helmet",
+    "culture": "Sturgia",
+    "type": "HeadArmor",
+    "price": 8573,
+    "weight": 3.470932,
+    "tier": 8.670144,
+    "requirement": 0,
+    "flags": [],
+    "armor": {
+      "headArmor": 52,
+      "bodyArmor": 0,
+      "armArmor": 0,
+      "legArmor": 0,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
     "id": "crpg_sa_1ChurburghBoots",
     "name": "Plate Boots",
     "culture": "Vlandia",
@@ -26612,91 +26819,10 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 3,
-      "armArmor": 1,
-      "legArmor": 0,
-      "materialType": "Cloth",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_sallet_base",
-    "name": "Western Full Sallet",
-    "culture": "Vlandia",
-    "type": "HeadArmor",
-    "price": 14537,
-    "weight": 5.043871,
-    "tier": 10.0068874,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 64,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Plate",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_sallet_base_nochin",
-    "name": "Western Sallet",
-    "culture": "Vlandia",
-    "type": "HeadArmor",
-    "price": 8573,
-    "weight": 3.470932,
-    "tier": 8.670144,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 52,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Plate",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_sallet_no_visor",
-    "name": "Western Open Sallet",
-    "culture": "Vlandia",
-    "type": "HeadArmor",
-    "price": 8573,
-    "weight": 3.470932,
-    "tier": 8.670144,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 52,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Plate",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_sallet_no_visor_nochin",
-    "name": "Western Simple Sallet",
-    "culture": "Vlandia",
-    "type": "HeadArmor",
-    "price": 4119,
-    "weight": 2.164452,
-    "tier": 7.085007,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 40,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Plate",
-      "familyType": 0
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
+      "materialType": "Cloth"
     },
     "weapons": []
   },
@@ -32738,48 +32864,7 @@
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
-      "materialType": "Leather",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_vaegir_helm",
-    "name": "Vaegir War Mask",
-    "culture": "Sturgia",
-    "type": "HeadArmor",
-    "price": 14537,
-    "weight": 5.043871,
-    "tier": 10.0068874,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 64,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Plate",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
-    "id": "crpg_vaegir_helm_open",
-    "name": "Vaegir War helmet",
-    "culture": "Sturgia",
-    "type": "HeadArmor",
-    "price": 8573,
-    "weight": 3.470932,
-    "tier": 8.670144,
-    "requirement": 0,
-    "flags": [],
-    "armor": {
-      "headArmor": 52,
-      "bodyArmor": 0,
-      "armArmor": 0,
-      "legArmor": 0,
-      "materialType": "Plate",
-      "familyType": 0
+      "materialType": "Leather"
     },
     "weapons": []
   },
@@ -34295,40 +34380,7 @@
         "thrustSpeed": 94,
         "swingDamage": 44,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_warhammer",
-    "name": "Warhammer",
-    "culture": "Sturgia",
-    "type": "OneHandedWeapon",
-    "price": 6820,
-    "weight": 1.91,
-    "tier": 9.484508,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 70,
-        "balance": 0.48,
-        "handling": 90,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 20,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 26,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 82
       }
     ]
   },
