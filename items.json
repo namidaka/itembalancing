@@ -10207,13 +10207,13 @@
     "name": "Jeweled Plumed Battle Crown",
     "culture": "Empire",
     "type": "HeadArmor",
-    "price": 3106,
+    "price": 8015,
     "weight": 2.740113,
-    "tier": 6.547925,
+    "tier": 8.512302,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 40,
+      "headArmor": 52,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -10226,13 +10226,13 @@
     "name": "Imperial Plumed Helmet",
     "culture": "Empire",
     "type": "HeadArmor",
-    "price": 3018,
+    "price": 7781,
     "weight": 3.018642,
-    "tier": 6.495111,
+    "tier": 8.443645,
     "requirement": 0,
     "flags": [],
     "armor": {
-      "headArmor": 40,
+      "headArmor": 52,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -10667,9 +10667,9 @@
     "name": "Decorated Legionary Mail",
     "culture": "Empire",
     "type": "BodyArmor",
-    "price": 10498,
+    "price": 11880,
     "weight": 10.89783,
-    "tier": 7.25995827,
+    "tier": 7.511342,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
@@ -10677,8 +10677,8 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 40,
-      "armArmor": 13,
-      "legArmor": 18,
+      "armArmor": 18,
+      "legArmor": 13,
       "materialType": "Chainmail"
     },
     "weapons": []
@@ -10688,17 +10688,17 @@
     "name": "Ornate Legionary Scale Mail",
     "culture": "Empire",
     "type": "BodyArmor",
-    "price": 9750,
+    "price": 29186,
     "weight": 12.49636,
-    "tier": 7.113463,
+    "tier": 9.596278,
     "requirement": 0,
     "flags": [
       "UseTeamColor"
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 40,
-      "armArmor": 13,
+      "bodyArmor": 52,
+      "armArmor": 23,
       "legArmor": 18,
       "materialType": "Plate"
     },

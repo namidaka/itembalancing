@@ -1471,13 +1471,13 @@
   </Item>
   <Item id="crpg_empire_battle_crown_west" name="{=EOplBvKz}Imperial Plumed Helmet" subtype="head_armor" mesh="empire_battle_crown_west" culture="Culture.empire" is_merchandise="false" weight="3.018642" difficulty="0" appearance="3" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_empire_battle_crown_north" name="{=AK0lNDmN}Jeweled Plumed Battle Crown" subtype="head_armor" mesh="empire_battle_crown_north" culture="Culture.empire" is_merchandise="false" weight="2.740113" difficulty="0" appearance="3" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
