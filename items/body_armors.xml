@@ -1213,7 +1213,7 @@
   </Item>
   <Item id="crpg_imperial_lamellar" name="{=LMo6MaQS}Cataphract Lamellar Armor" mesh="imperial_lamellar_a" subtype="body_armor" culture="Culture.empire" weight="20.72603" difficulty="0" appearance="3" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="18" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="52" leg_armor="23" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
