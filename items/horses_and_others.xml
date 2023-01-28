@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Items>
   <Item id="crpg_mount_rouncey_14" name="Unmol Rouncey" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
@@ -170,7 +170,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_rouncey_4" name="Fell Pony" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+      <Item id="crpg_mount_rouncey_4" name="Fell Pony" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="64" speed="40" charge_damage="2" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-20" modifier_group="horse">
         <AdditionalMeshes>
@@ -187,7 +187,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_rouncey_3" name="Raymond Rouncey" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+    <Item id="crpg_mount_rouncey_3" name="Raymond Rouncey" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="62" speed="38" charge_damage="1" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-11" modifier_group="horse">
         <AdditionalMeshes>
@@ -204,7 +204,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_rouncey_2" name="Sumpter Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+    <Item id="crpg_mount_rouncey_2" name="Sumpter Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="60" speed="34" charge_damage="1" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="0" modifier_group="horse">
         <AdditionalMeshes>
@@ -221,7 +221,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_greathorse_14" name="Percheron Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
+    <Item id="crpg_mount_greathorse_14" name="Percheron Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="84" speed="40" charge_damage="9" body_length="105" is_mountable="true" extra_health="40" modifier_group="horse">
         <AdditionalMeshes>
@@ -239,7 +239,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_greathorse_13" name="English Black Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
+   <Item id="crpg_mount_greathorse_13" name="English Black Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="84" speed="39" charge_damage="9" body_length="105" is_mountable="true" extra_health="37" modifier_group="horse">
         <AdditionalMeshes>
@@ -257,7 +257,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-   <Item id="crpg_mount_greathorse_12" name="Comtois Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
+     <Item id="crpg_mount_greathorse_12" name="Comtois Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="83" speed="39" charge_damage="8" body_length="105" is_mountable="true" extra_health="34" modifier_group="horse">
         <AdditionalMeshes>
@@ -275,7 +275,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_greathorse_11" name="Brabant Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
+   <Item id="crpg_mount_greathorse_11" name="Brabant Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="82" speed="38" charge_damage="8" body_length="105" is_mountable="true" extra_health="31" modifier_group="horse">
         <AdditionalMeshes>
@@ -571,7 +571,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_charger_14" name="Bucephalus" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
+       <Item id="crpg_mount1_charger_14" name="Bucephalus" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="76" speed="47" charge_damage="9" body_length="105" is_mountable="true" extra_health="31" modifier_group="horse">
         <AdditionalMeshes>
@@ -589,7 +589,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_charger_13" name="Lionheart" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
+   <Item id="crpg_mount1_charger_13" name="Lionheart" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="76" speed="46" charge_damage="9" body_length="105" is_mountable="true" extra_health="28" modifier_group="horse">
         <AdditionalMeshes>
@@ -607,7 +607,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_charger_12" name="Neapolitan Charger" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
+     <Item id="crpg_mount1_charger_12" name="Neapolitan Charger" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.empire" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="45" charge_damage="8" body_length="105" is_mountable="true" extra_health="25" modifier_group="horse">
         <AdditionalMeshes>
@@ -625,7 +625,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_charger_11" name="Andravida Charger" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
+   <Item id="crpg_mount1_charger_11" name="Andravida Charger" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="44" charge_damage="8" body_length="105" is_mountable="true" extra_health="22" modifier_group="horse">
         <AdditionalMeshes>
@@ -751,7 +751,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_balanced_14" name="Llamrei" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.battania" weight="430" difficulty="0" Type="Horse">
+      <Item id="crpg_mount1_balanced_14" name="Llamrei" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.battania" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="82" speed="45" charge_damage="8" body_length="100" is_mountable="true" extra_health="22" modifier_group="horse">
         <AdditionalMeshes>
@@ -769,7 +769,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_balanced_13" name="Bohemond" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="430" difficulty="0" Type="Horse">
+   <Item id="crpg_mount1_balanced_13" name="Bohemond" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="82" speed="44" charge_damage="8" body_length="100" is_mountable="true" extra_health="19" modifier_group="horse">
         <AdditionalMeshes>
@@ -787,7 +787,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_balanced_12" name="Lusitano Pureblood Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.battania" weight="430" difficulty="0" Type="Horse">
+    <Item id="crpg_mount1_balanced_12" name="Lusitano Pureblood Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.battania" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="81" speed="43" charge_damage="7" body_length="100" is_mountable="true" extra_health="16" modifier_group="horse">
         <AdditionalMeshes>
@@ -805,7 +805,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_balanced_11" name="Auvergne Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="430" difficulty="0" Type="Horse">
+   <Item id="crpg_mount1_balanced_11" name="Auvergne Destrier" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="430" difficulty="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="80" speed="42" charge_damage="7" body_length="100" is_mountable="true" extra_health="13" modifier_group="horse">
         <AdditionalMeshes>
@@ -931,7 +931,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount1_maneuverable_14" name="Baucent" mesh="horse_brown" item_category="noble_horse" culture="Culture.vlandia" subtype="horse" weight="300" difficulty="0" appearance="0" Type="Horse">
+    <Item id="crpg_mount1_maneuverable_14" name="Baucent" mesh="horse_brown" item_category="noble_horse" culture="Culture.vlandia" subtype="horse" weight="300" difficulty="0" appearance="0" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="86" speed="46" charge_damage="5" body_length="95" is_mountable="true" extra_health="1" skeleton_scale="khuzait_horse">
         <AdditionalMeshes>
@@ -1117,7 +1117,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mule2_2" name="Chadz" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
+    <Item id="crpg_mule2_2" name="Chadz" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.mule" maneuver="60" speed="33" charge_damage="1" body_length="92" is_mountable="true" extra_health="175" is_pack_animal="true" />
     </ItemComponent>
@@ -1129,7 +1129,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_16" name="Safinat al-Barr" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_16" name="Safinat al-Barr" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="85" speed="37" charge_damage="7" body_length="110" extra_health="58" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
@@ -1141,7 +1141,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_14" name="Achaemenian Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_14" name="Achaemenian Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="84" speed="38" charge_damage="5" body_length="110" extra_health="40" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
@@ -1153,19 +1153,19 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_12" name="Parthian Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_12" name="Parthian Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="83" speed="37" charge_damage="4" body_length="110" extra_health="31" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_11" name="Seleucid Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_11" name="Seleucid Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="5" body_length="110" extra_health="49" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_10" name="Seleucid Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+      <Item id="crpg_mount_camel_10" name="Seleucid Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="82" speed="36" charge_damage="4" body_length="110" extra_health="31" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
@@ -1177,19 +1177,19 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_8" name="Nabatean Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_8" name="Nabatean Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="81" speed="35" charge_damage="4" body_length="110" extra_health="22" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_7" name="Sargonid Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_7" name="Sargonid Heavy Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="79" speed="33" charge_damage="5" body_length="110" extra_health="40" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_6" name="Sargonid Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_6" name="Sargonid Light Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="80" speed="34" charge_damage="4" body_length="110" extra_health="22" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
@@ -1213,7 +1213,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_mount_camel_2" name="Pack Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
+    <Item id="crpg_mount_camel_2" name="Pack Camel" mesh="camel_mesh" item_category="sumpter_horse" culture="Culture.aserai" weight="520" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.camel" maneuver="72" speed="29" charge_damage="2" body_length="110" extra_health="16" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
