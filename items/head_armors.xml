@@ -302,7 +302,7 @@
 	</Item>
 	<Item id="crpg_wolfhead" name="{=B7tbURzI}Wolf Head" mesh="battania_helmet_i" culture="Culture.battania" weight="0.580938" appearance="1.5" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
+			<Armor head_armor="28" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -320,13 +320,13 @@
 	</Item>
 	<Item id="crpg_leather_studdedhelm_over_thinhide" name="{=2m1kWsao}Leather Studded Helm over Thinhide" mesh="battania_helmet_k_a" culture="Culture.battania" weight="0.3773303" appearance="1" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
+			<Armor head_armor="28" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_leather_studdedhelm_over_headcloth" name="{=beMSPAOG}Leather Studded Helm over Headcloth" mesh="battania_helmet_k_b" culture="Culture.battania" weight="0.2870449" appearance="1" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
+			<Armor head_armor="28" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -368,25 +368,25 @@
 	</Item>
 	<Item id="crpg_battanian_plated_noble_helmet" name="{=4xXPKRpE}Warlord Helmet with Feathers" mesh="battania_lord_helmet_a" culture="Culture.battania" weight="2.831956" appearance="3.8" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="64" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_a" name="{=HkwJao2z}Fringed Steel Cap with Cheek Guards" mesh="battania_earmuff_helmet_a" culture="Culture.battania" weight="1.960666" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="64" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_a_brnz" name="{=HBaSQlSJ}Fringed Bronze Cap with Cheek Guards" mesh="battania_earmuff_helmet_a_brnz" culture="Culture.battania" weight="1.879541" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_b" name="{=HvjviTTW}Steel Cap with Cheek Guards" mesh="battania_earmuff_helmet_b" culture="Culture.battania" weight="1.643141" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="64" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
@@ -404,31 +404,31 @@
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_c_brnz" name="{=KoyU5yeY}Fringed Decorated Bronze Cap with Cheek Guards" mesh="battania_earmuff_helmet_c_brnz" culture="Culture.battania" weight="2.042925" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_c_cpr" name="{=NiBDR9ld}Decorated Bronze Helmet with Cheek Guards" mesh="battania_earmuff_helmet_c_cpr" culture="Culture.battania" weight="1.879541" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_d" name="{=wQY1oqdK}Ridged Decorated Steel Cap with Cheek Guards" mesh="battania_earmuff_helmet_d" culture="Culture.battania" weight="2.383009" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="64" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_earmuff_helmet_d_brnz" name="{=RDbqA36B}Ridged Decorated Bronze Cap with Cheek Guards" mesh="battania_earmuff_helmet_d_brnz" culture="Culture.battania" weight="2.296359" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0">
 		<ItemComponent>
-			<Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2"/>
 		</ItemComponent>
 		<Flags/>
 	</Item>
 	<Item id="crpg_battania_battle_crown" name="{=aQeOcLX4}Two Pronged Bronze Crown" mesh="battania_battle_crown" culture="Culture.battania" weight="2.296359" appearance="3" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
 		<ItemComponent>
-			<Armor head_armor="64" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
+			<Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none"/>
 		</ItemComponent>
 		<Flags Civilian="true"/>
 	</Item>

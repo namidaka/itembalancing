@@ -332,7 +332,7 @@
 	</Item>
 	<Item id="crpg_highland_cloth" name="{=j1pFE61w}Woodland Cloth Armor" mesh="battania_cloth_armor_a" culture="Culture.battania" weight="1.481027" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0">
 		<ItemComponent>
-			<Armor body_armor="6" leg_armor="2" arm_armor="3" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth"/>
+			<Armor body_armor="28" leg_armor="8" arm_armor="13" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth"/>
 		</ItemComponent>
 		<Flags UseTeamColor="true" Civilian="true"/>
 	</Item>
@@ -410,7 +410,7 @@
 	</Item>
 	<Item id="crpg_battania_civil_b" name="{=qH5VV8In}Villager Leather Tunic" mesh="battania_civil_b" culture="Culture.battania" weight="1.61685" appearance="1" Type="BodyArmor">
 		<ItemComponent>
-			<Armor body_armor="28" leg_armor="8" arm_armor="13" covers_body="true" modifier_group="leather" material_type="Leather"/>
+			<Armor body_armor="6" leg_armor="2" arm_armor="3" covers_body="true" modifier_group="leather" material_type="Leather"/>
 		</ItemComponent>
 		<Flags UseTeamColor="true" Civilian="true"/>
 	</Item>
