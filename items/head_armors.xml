@@ -1052,7 +1052,7 @@
   </Item>
   <Item id="crpg_sturgian_crown" name="{=5kAqcWac}Jeweled Fur Rimmed Helmet" subtype="head_armor" mesh="sturgian_crown" culture="Culture.sturgia" is_merchandise="false" weight="2.383009" difficulty="0" appearance="2.0" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="6" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="28" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>

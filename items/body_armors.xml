@@ -769,25 +769,25 @@
   </Item>
   <Item id="crpg_northern_tunic" name="{=W58TN2g5}Varyag Tunic" subtype="body_armor" mesh="sturgia_costume_j" culture="Culture.sturgia" weight="0.9561659" difficulty="0" appearance="0.6" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="6" leg_armor="3" arm_armor="2" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="6" leg_armor="2" arm_armor="3" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_nordic_tunic" name="{=9aehD627}Luxury Tunic" subtype="body_armor" mesh="sturgia_costume_a" culture="Culture.sturgia" weight="0.7344306" difficulty="0" appearance="0.6" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="4" leg_armor="3" arm_armor="2" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="6" leg_armor="2" arm_armor="3" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_tundra_tunic" name="{=ya4i8G3y}Belted Tunic" subtype="body_armor" mesh="fur_vaegir_b" culture="Culture.sturgia" weight="0.6110581" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="4" leg_armor="2" arm_armor="2" has_gender_variations="false" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="6" leg_armor="2" arm_armor="3" has_gender_variations="false" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item multiplayer_item="false" id="crpg_roughcloth_shortcoat" name="{=hXijcZyp}Roughcloth Shortcoat" mesh="walker_costume_a" subtype="body_armor" culture="Culture.sturgia" weight="0.5716428" difficulty="0" appearance="0.3" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5" leg_armor="2" arm_armor="1" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="6" leg_armor="2" arm_armor="3" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
@@ -877,7 +877,7 @@
   </Item>
   <Item id="crpg_northern_padded_gambeson" name="{=fwxHsC1h}Short Gambeson over Tunic" mesh="sturgia_costume_c" culture="Culture.sturgia" weight="3.140701" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="16" leg_armor="6" arm_armor="3" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+      <Armor body_armor="26" leg_armor="3" arm_armor="3" has_gender_variations="true" covers_body="true" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
@@ -901,13 +901,13 @@
   </Item>
   <Item id="crpg_stitched_leather_vest" name="{=xa7KRSCy}Stitched Leather Vest" mesh="armor_leather_chain_a" culture="Culture.sturgia" subtype="body_armor" weight="2.290499" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="12" leg_armor="5" arm_armor="3" covers_body="true" modifier_group="leather" material_type="Leather" />
+      <Armor body_armor="6" leg_armor="3" arm_armor="3" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_nordic_sloven" name="{=c7wcTevc}Leather Armor over Heavy Cloth" subtype="body_armor" mesh="nordic_sloven_b" culture="Culture.sturgia" weight="1.784997" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="11" leg_armor="3" arm_armor="3" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+      <Armor body_armor="28" leg_armor="8" arm_armor="13" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>

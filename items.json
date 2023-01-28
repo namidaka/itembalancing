@@ -6703,15 +6703,15 @@
     "name": "Lamellar Pauldrons",
     "culture": "Sturgia",
     "type": "ShoulderArmor",
-    "price": 4277,
+    "price": 4944,
     "weight": 2.63928,
-    "tier": 7.773621,
+    "tier": 8.090912,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 18,
-      "armArmor": 8,
+      "armArmor": 9,
       "legArmor": 0,
       "materialType": "Plate"
     },
@@ -22000,9 +22000,9 @@
     "name": "Leather Armor over Heavy Cloth",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 201,
+    "price": 6359,
     "weight": 1.784997,
-    "tier": 2.16262364,
+    "tier": 6.317776,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -22010,9 +22010,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 11,
-      "armArmor": 3,
-      "legArmor": 3,
+      "bodyArmor": 28,
+      "armArmor": 13,
+      "legArmor": 8,
       "materialType": "Leather"
     },
     "weapons": []
@@ -22064,9 +22064,9 @@
     "name": "Luxury Tunic",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 67,
+    "price": 91,
     "weight": 0.7344306,
-    "tier": 1.12553227,
+    "tier": 1.46698582,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -22074,9 +22074,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
-      "legArmor": 3,
+      "bodyArmor": 6,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -22679,9 +22679,9 @@
     "name": "Short Gambeson over Tunic",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 487,
+    "price": 1286,
     "weight": 3.140701,
-    "tier": 2.958742,
+    "tier": 3.99546623,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -22689,9 +22689,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 16,
+      "bodyArmor": 26,
       "armArmor": 3,
-      "legArmor": 6,
+      "legArmor": 3,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -22701,16 +22701,16 @@
     "name": "Huscarl Plated Boots",
     "culture": "Sturgia",
     "type": "LegArmor",
-    "price": 975,
+    "price": 6076,
     "weight": 1.197468,
-    "tier": 6.27545166,
+    "tier": 10.4590864,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 18,
+      "legArmor": 30,
       "materialType": "Plate"
     },
     "weapons": []
@@ -23198,9 +23198,9 @@
     "name": "Varyag Tunic",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 85,
+    "price": 90,
     "weight": 0.9561659,
-    "tier": 1.39096224,
+    "tier": 1.45361817,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -23209,8 +23209,8 @@
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
-      "armArmor": 2,
-      "legArmor": 3,
+      "armArmor": 3,
+      "legArmor": 2,
       "materialType": "Cloth"
     },
     "weapons": []
@@ -25752,9 +25752,9 @@
     "name": "Roughcloth Shortcoat",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 63,
+    "price": 92,
     "weight": 0.5716428,
-    "tier": 1.03155422,
+    "tier": 1.47728765,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -25762,8 +25762,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 5,
-      "armArmor": 1,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
@@ -29137,9 +29137,9 @@
     "name": "Stitched Leather Vest",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 272,
+    "price": 92,
     "weight": 2.290499,
-    "tier": 2.42538428,
+    "tier": 1.46956789,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -29147,9 +29147,9 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 12,
+      "bodyArmor": 6,
       "armArmor": 3,
-      "legArmor": 5,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -29996,9 +29996,9 @@
     "name": "Simple Leather Boots",
     "culture": "Sturgia",
     "type": "LegArmor",
-    "price": 62,
+    "price": 304,
     "weight": 0.1753114,
-    "tier": 1.82122278,
+    "tier": 4.37093449,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -30007,7 +30007,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 5,
+      "legArmor": 12,
       "materialType": "Leather"
     },
     "weapons": []
@@ -30017,9 +30017,9 @@
     "name": "Tied Leather Boots",
     "culture": "Sturgia",
     "type": "LegArmor",
-    "price": 73,
+    "price": 302,
     "weight": 0.2304528,
-    "tier": 2.17974019,
+    "tier": 4.35948038,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -30028,7 +30028,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 6,
+      "legArmor": 12,
       "materialType": "Leather"
     },
     "weapons": []
@@ -30038,9 +30038,9 @@
     "name": "Tied Boots",
     "culture": "Sturgia",
     "type": "LegArmor",
-    "price": 56,
+    "price": 52,
     "weight": 0.1254426,
-    "tier": 1.46048379,
+    "tier": 1.09536278,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -30049,7 +30049,7 @@
       "headArmor": 0,
       "bodyArmor": 0,
       "armArmor": 0,
-      "legArmor": 4,
+      "legArmor": 3,
       "materialType": "Leather"
     },
     "weapons": []
@@ -30804,15 +30804,15 @@
     "name": "Jeweled Fur Rimmed Helmet",
     "culture": "Sturgia",
     "type": "HeadArmor",
-    "price": 55,
+    "price": 936,
     "weight": 2.383009,
-    "tier": 0.9929408,
+    "tier": 4.63372374,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "armor": {
-      "headArmor": 6,
+      "headArmor": 28,
       "bodyArmor": 0,
       "armArmor": 0,
       "legArmor": 0,
@@ -32103,9 +32103,9 @@
     "name": "Belted Tunic",
     "culture": "Sturgia",
     "type": "BodyArmor",
-    "price": 63,
+    "price": 92,
     "weight": 0.6110581,
-    "tier": 1.04249811,
+    "tier": 1.47475338,
     "requirement": 0,
     "flags": [
       "UseTeamColor",
@@ -32113,8 +32113,8 @@
     ],
     "armor": {
       "headArmor": 0,
-      "bodyArmor": 4,
-      "armArmor": 2,
+      "bodyArmor": 6,
+      "armArmor": 3,
       "legArmor": 2,
       "materialType": "Cloth"
     },
