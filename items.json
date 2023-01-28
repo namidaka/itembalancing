@@ -5672,6 +5672,44 @@
     ]
   },
   {
+    "id": "crpg_bec_de_corbin",
+    "name": "Bec De Corbin",
+    "culture": "Neutral",
+    "type": "Polearm",
+    "price": 2404,
+    "weight": 2.4,
+    "tier": 3.2347157,
+    "requirement": 0,
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 141,
+        "balance": 0.0,
+        "handling": 59,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 35,
+        "swingDamageType": "Pierce",
+        "swingSpeed": 68
+      }
+    ]
+  },
+  {
     "id": "crpg_belted_leather_boots",
     "name": "Belted Leather Boots",
     "culture": "Battania",
@@ -6305,9 +6343,9 @@
     "name": "Boulder on a Stick",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 17345,
-    "weight": 2.6,
-    "tier": 11.2538586,
+    "price": 9080,
+    "weight": 3.1,
+    "tier": 7.84462643,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6318,8 +6356,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.2,
-        "handling": 70,
+        "balance": 0.1,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -6330,10 +6368,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 84,
         "swingDamage": 28,
         "swingDamageType": "Blunt",
-        "swingSpeed": 75
+        "swingSpeed": 72
       }
     ]
   },
@@ -7410,9 +7448,9 @@
     "name": "Claymore",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 16554,
+    "price": 14158,
     "weight": 2.6,
-    "tier": 10.9691048,
+    "tier": 10.0626392,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -7430,7 +7468,7 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 42,
@@ -7451,7 +7489,7 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 42,
@@ -7465,9 +7503,9 @@
     "name": "Harvesting Season",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 12070,
-    "weight": 2.85,
-    "tier": 9.208065,
+    "price": 13777,
+    "weight": 2.73,
+    "tier": 9.911543,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -7478,7 +7516,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 128,
-        "balance": 0.4,
+        "balance": 0.43,
         "handling": 67,
         "bodyArmor": 2,
         "flags": [
@@ -7488,10 +7526,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 47,
         "swingDamageType": "Cut",
-        "swingSpeed": 81
+        "swingSpeed": 82
       }
     ]
   },
@@ -9380,9 +9418,9 @@
     "name": "Long Steel Mace",
     "culture": "Khuzait",
     "type": "TwoHandedWeapon",
-    "price": 20358,
-    "weight": 1.89,
-    "tier": 12.2837963,
+    "price": 12373,
+    "weight": 1.96,
+    "tier": 9.33632851,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -9393,8 +9431,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 135,
-        "balance": 0.15,
-        "handling": 69,
+        "balance": 0.12,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -9404,9 +9442,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 92,
-        "swingDamage": 34,
+        "swingDamage": 33,
         "swingDamageType": "Blunt",
-        "swingSpeed": 74
+        "swingSpeed": 73
       }
     ]
   },
@@ -12327,9 +12365,9 @@
     "name": "Gada",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 15881,
-    "weight": 2.35,
-    "tier": 10.721365,
+    "price": 10786,
+    "weight": 2.42,
+    "tier": 8.645648,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -12340,8 +12378,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 110,
-        "balance": 0.21,
-        "handling": 73,
+        "balance": 0.15,
+        "handling": 72,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -12354,7 +12392,7 @@
         "thrustSpeed": 89,
         "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 76
+        "swingSpeed": 74
       }
     ]
   },
@@ -13115,9 +13153,9 @@
     "name": "Heavy Blacksmith Hammer",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 31111,
+    "price": 10763,
     "weight": 2.7,
-    "tier": 15.4458466,
+    "tier": 8.6355505,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -13143,7 +13181,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 86,
-        "swingDamage": 33,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
         "swingSpeed": 70
       },
@@ -13167,7 +13205,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 33,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
         "swingSpeed": 74
       }
@@ -15407,9 +15445,9 @@
     "name": "Black Katana",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 32123,
-    "weight": 1.65,
-    "tier": 15.7130718,
+    "price": 13923,
+    "weight": 2.03,
+    "tier": 9.969487,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15421,18 +15459,18 @@
         "stackAmount": 0,
         "length": 102,
         "balance": 1.0,
-        "handling": 90,
+        "handling": 80,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 35,
+        "thrustSpeed": 93,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 102
+        "swingSpeed": 100
       }
     ]
   },
@@ -15441,9 +15479,9 @@
     "name": "Blue Katana",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 32123,
-    "weight": 1.65,
-    "tier": 15.7130718,
+    "price": 13923,
+    "weight": 2.03,
+    "tier": 9.969487,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15455,18 +15493,18 @@
         "stackAmount": 0,
         "length": 102,
         "balance": 1.0,
-        "handling": 90,
+        "handling": 80,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 35,
+        "thrustSpeed": 93,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 102
+        "swingSpeed": 100
       }
     ]
   },
@@ -15475,9 +15513,9 @@
     "name": "Green Katana",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 32123,
-    "weight": 1.65,
-    "tier": 15.7130718,
+    "price": 13923,
+    "weight": 2.03,
+    "tier": 9.969487,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15489,18 +15527,18 @@
         "stackAmount": 0,
         "length": 102,
         "balance": 1.0,
-        "handling": 90,
+        "handling": 80,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 35,
+        "thrustSpeed": 93,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 102
+        "swingSpeed": 100
       }
     ]
   },
@@ -15509,9 +15547,9 @@
     "name": "Red Katana",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 32123,
-    "weight": 1.65,
-    "tier": 15.7130718,
+    "price": 13923,
+    "weight": 2.03,
+    "tier": 9.969487,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15523,18 +15561,18 @@
         "stackAmount": 0,
         "length": 102,
         "balance": 1.0,
-        "handling": 90,
+        "handling": 80,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 35,
+        "thrustSpeed": 93,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 102
+        "swingSpeed": 100
       }
     ]
   },
@@ -15543,9 +15581,9 @@
     "name": "Yellow Katana",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 32123,
-    "weight": 1.65,
-    "tier": 15.7130718,
+    "price": 13923,
+    "weight": 2.03,
+    "tier": 9.969487,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15557,18 +15595,18 @@
         "stackAmount": 0,
         "length": 102,
         "balance": 1.0,
-        "handling": 90,
+        "handling": 80,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 35,
+        "thrustSpeed": 93,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 102
+        "swingSpeed": 100
       }
     ]
   },
@@ -18223,9 +18261,9 @@
     "name": "Long Maul",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 31278,
+    "price": 11176,
     "weight": 1.68,
-    "tier": 15.4904222,
+    "tier": 8.8197,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18251,7 +18289,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 93,
-        "swingDamage": 34,
+        "swingDamage": 30,
         "swingDamageType": "Blunt",
         "swingSpeed": 65
       }
@@ -18947,9 +18985,9 @@
     "name": "Great Maul",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 60267,
+    "price": 11949,
     "weight": 2.7,
-    "tier": 21.9362831,
+    "tier": 9.156282,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18975,7 +19013,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 86,
-        "swingDamage": 34,
+        "swingDamage": 28,
         "swingDamageType": "Blunt",
         "swingSpeed": 71
       },
