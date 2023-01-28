@@ -5672,44 +5672,6 @@
     ]
   },
   {
-    "id": "crpg_bec_de_corbin",
-    "name": "Bec De Corbin",
-    "culture": "Neutral",
-    "type": "Polearm",
-    "price": 2404,
-    "weight": 2.4,
-    "tier": 3.2347157,
-    "requirement": 0,
-    "flags": [
-      "CanBePickedUpFromCorpse"
-    ],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 141,
-        "balance": 0.0,
-        "handling": 59,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 22,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 35,
-        "swingDamageType": "Pierce",
-        "swingSpeed": 68
-      }
-    ]
-  },
-  {
     "id": "crpg_belted_leather_boots",
     "name": "Belted Leather Boots",
     "culture": "Battania",
@@ -13252,9 +13214,9 @@
     "name": "Heavy Goedendag",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 770214,
-    "weight": 1.3,
-    "tier": 81.35886,
+    "price": 9658,
+    "weight": 2.6,
+    "tier": 8.123679,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -13267,8 +13229,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 74,
-        "balance": 1.0,
-        "handling": 92,
+        "balance": 0.61,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -13277,10 +13239,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
-        "swingDamage": 30,
+        "thrustSpeed": 89,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 105
+        "swingSpeed": 88
       }
     ]
   },
