@@ -901,7 +901,7 @@
   </Item>
   <Item id="crpg_stitched_leather_vest" name="{=xa7KRSCy}Stitched Leather Vest" mesh="armor_leather_chain_a" culture="Culture.sturgia" subtype="body_armor" weight="2.290499" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="6" leg_armor="3" arm_armor="3" covers_body="true" modifier_group="leather" material_type="Leather" />
+      <Armor body_armor="6" leg_armor="2" arm_armor="3" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
