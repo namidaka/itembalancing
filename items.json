@@ -5930,9 +5930,9 @@
     "name": "Light Bodkin Arrows",
     "culture": "Neutral",
     "type": "Arrows",
-    "price": 3296,
+    "price": 2931,
     "weight": 0.048,
-    "tier": 8.39045,
+    "tier": 7.846352,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -5949,8 +5949,8 @@
         "flags": [
           "Consumable"
         ],
-        "thrustDamage": 3,
-        "thrustDamageType": "Pierce",
+        "thrustDamage": 1,
+        "thrustDamageType": "Blunt",
         "thrustSpeed": 0,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
