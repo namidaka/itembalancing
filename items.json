@@ -543,9 +543,9 @@
     "name": "Imperial Arrows",
     "culture": "Empire",
     "type": "Arrows",
-    "price": 1616,
+    "price": 4382,
     "weight": 0.05,
-    "tier": 5.52546835,
+    "tier": 9.853169,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -554,7 +554,7 @@
         "itemUsage": "arrow_top",
         "accuracy": 100,
         "missileSpeed": 10,
-        "stackAmount": 30,
+        "stackAmount": 6,
         "length": 97,
         "balance": 0.0,
         "handling": 0,
@@ -562,7 +562,7 @@
         "flags": [
           "Consumable"
         ],
-        "thrustDamage": 0,
+        "thrustDamage": 7,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 0,
         "swingDamage": 0,

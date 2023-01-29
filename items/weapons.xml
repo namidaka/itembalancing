@@ -2164,7 +2164,7 @@
   </Item>
   <Item id="crpg_arrow_emp_1_a" name="{=K5XLb84w}Imperial Arrows" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" mesh="arrow_roman_a" holster_mesh="quiver_roman_a" holster_mesh_with_weapon="quiver_roman_a" culture="Culture.empire" weight="0.05" is_merchandise="false" flying_mesh="arrow_bl_flying" appearance="1" Type="Arrows" item_holsters="quiver_back_top:quiver_back_top_2" holster_position_shift="0.0,0.0,0.15">
     <ItemComponent>
-      <Weapon weapon_class="Arrow" stack_amount="30" physics_material="missile" thrust_speed="0" speed_rating="0" missile_speed="10" weapon_length="97" thrust_damage="0" thrust_damage_type="Pierce" item_usage="arrow_top" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" sticking_position="0,-0.97,0" sticking_rotation="90,0,0" center_of_mass="0,0.0,-0.13" modifier_group="arrow">
+      <Weapon weapon_class="Arrow" stack_amount="6" physics_material="missile" thrust_speed="0" speed_rating="0" missile_speed="10" weapon_length="97" thrust_damage="7" thrust_damage_type="Pierce" item_usage="arrow_top" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" sticking_position="0,-0.97,0" sticking_rotation="90,0,0" center_of_mass="0,0.0,-0.13" modifier_group="arrow">
         <WeaponFlags Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
       </Weapon>
     </ItemComponent>
