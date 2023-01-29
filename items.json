@@ -13345,9 +13345,9 @@
     "name": "Stacked Steppe Arrows",
     "culture": "Khuzait",
     "type": "Arrows",
-    "price": 3305,
+    "price": 4500,
     "weight": 0.036,
-    "tier": 8.403999,
+    "tier": 10.000165,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -13356,7 +13356,7 @@
         "itemUsage": "arrow_right",
         "accuracy": 100,
         "missileSpeed": 10,
-        "stackAmount": 36,
+        "stackAmount": 23,
         "length": 97,
         "balance": 0.0,
         "handling": 0,
@@ -13364,7 +13364,7 @@
         "flags": [
           "Consumable"
         ],
-        "thrustDamage": 2,
+        "thrustDamage": 4,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 0,
         "swingDamage": 0,
