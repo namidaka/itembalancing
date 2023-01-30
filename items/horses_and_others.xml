@@ -276,7 +276,7 @@
   </Item>
   <Item id="crpg_mount_greathorse_13" name="English Black Great Horse" mesh="horse_brown" is_merchandise="false" item_category="noble_horse" subtype="horse" culture="Culture.vlandia" weight="450" difficulty="0" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.horse" maneuver="84" speed="39" charge_damage="9" body_length="105" is_mountable="true" extra_health="37" modifier_group="horse">
+      <Horse monster="Monster.horse" maneuver="84" speed="39" charge_damage="8" body_length="105" is_mountable="true" extra_health="37" modifier_group="horse">
         <AdditionalMeshes>
           <Mesh name="horse_mane" affected_by_cover="true" />
         </AdditionalMeshes>
