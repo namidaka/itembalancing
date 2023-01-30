@@ -19762,6 +19762,27 @@
     "weapons": []
   },
   {
+    "id": "crpg_mount_greathorse_15",
+    "name": "Lionheart",
+    "culture": "Empire",
+    "type": "Mount",
+    "price": 27707,
+    "weight": 450.0,
+    "tier": 12.6679363,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 9,
+      "maneuver": 84,
+      "speed": 41,
+      "hitPoints": 243
+    },
+    "weapons": []
+  },
+  {
     "id": "crpg_mount_greathorse_5",
     "name": "Suffolk Punch Draught",
     "culture": "Khuzait",
@@ -19968,6 +19989,27 @@
       "maneuver": 78,
       "speed": 48,
       "hitPoints": 210
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount_rouncey_15",
+    "name": "Kehilan al-Khamsa",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 25150,
+    "weight": 420.0,
+    "tier": 12.0175943,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "mount": {
+      "bodyLength": 100,
+      "chargeDamage": 4,
+      "maneuver": 78,
+      "speed": 49,
+      "hitPoints": 213
     },
     "weapons": []
   },
@@ -20414,7 +20456,7 @@
   },
   {
     "id": "crpg_mount1_charger_13",
-    "name": "Lionheart",
+    "name": "Hengeron",
     "culture": "Vlandia",
     "type": "Mount",
     "price": 24943,
@@ -20624,7 +20666,7 @@
   },
   {
     "id": "crpg_mount1_fast_13",
-    "name": "Hengeron",
+    "name": "Muniqi al-Khamsa",
     "culture": "Neutral",
     "type": "Mount",
     "price": 23910,
