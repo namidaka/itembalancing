@@ -6562,11 +6562,11 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_warhammer_head" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.45" full_scale="true" >
+  <CraftingPiece id="crpg_warhammer_head" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.55" full_scale="true" >
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="2.3" />
-      <Swing damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.0" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
