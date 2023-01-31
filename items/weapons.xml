@@ -2580,8 +2580,8 @@
   </CraftedItem>
   <CraftedItem id="crpg_warhammer" name="{=}Warhammer" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_warhammer_head" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_warhammer_shaft" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_warhammer_head" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_warhammer_shaft" Type="Handle" scale_factor="140" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_spiked_polehammer" name="{=}Spiked Polehammer" crafting_template="crpg_TwoHandedPolearm">

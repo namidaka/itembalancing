@@ -33459,9 +33459,9 @@
     "name": "Warhammer",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 69598,
-    "weight": 0.69,
-    "tier": 32.78522,
+    "price": 7281,
+    "weight": 1.61,
+    "tier": 9.837123,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -33471,19 +33471,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 45,
-        "balance": 1.0,
-        "handling": 113,
+        "length": 83,
+        "balance": 0.49,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
-        "swingDamage": 23,
+        "thrustSpeed": 90,
+        "swingDamage": 26,
         "swingDamageType": "Pierce",
-        "swingSpeed": 117
+        "swingSpeed": 84
       }
     ]
   },
