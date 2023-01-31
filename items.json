@@ -17821,9 +17821,9 @@
     "name": "Light Goedendag",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 83049,
-    "weight": 0.69,
-    "tier": 35.9198227,
+    "price": 5656,
+    "weight": 1.66,
+    "tier": 8.537677,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -17833,19 +17833,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 42,
-        "balance": 1.0,
-        "handling": 113,
+        "length": 52,
+        "balance": 0.78,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
-        "swingDamage": 21,
+        "thrustSpeed": 90,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 117
+        "swingSpeed": 93
       }
     ]
   },
@@ -19010,9 +19010,9 @@
     "name": "Medium Goedendag",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 519364,
-    "weight": 0.69,
-    "tier": 91.56154,
+    "price": 5894,
+    "weight": 1.82,
+    "tier": 8.738513,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -19022,19 +19022,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 56,
-        "balance": 1.0,
-        "handling": 109,
+        "length": 71,
+        "balance": 0.48,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
-        "swingDamage": 25,
+        "thrustSpeed": 88,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 114
+        "swingSpeed": 84
       }
     ]
   },
