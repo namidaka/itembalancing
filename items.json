@@ -19234,31 +19234,34 @@
     "name": "Military Hammer",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 121901,
-    "weight": 0.69,
-    "tier": 43.7620239,
+    "price": 6756,
+    "weight": 1.54,
+    "tier": 9.434295,
     "requirement": 0,
-    "flags": [],
+    "flags": [
+      "Civilian"
+    ],
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 49,
-        "balance": 1.0,
-        "handling": 110,
+        "length": 78,
+        "balance": 0.42,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "MultiplePenetration"
         ],
-        "thrustDamage": 18,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 100,
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
         "swingDamage": 25,
         "swingDamageType": "Pierce",
-        "swingSpeed": 115
+        "swingSpeed": 82
       }
     ]
   },
@@ -33459,9 +33462,9 @@
     "name": "Warhammer",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 7281,
-    "weight": 1.61,
-    "tier": 9.837123,
+    "price": 7285,
+    "weight": 1.86,
+    "tier": 9.839974,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -33471,19 +33474,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 83,
-        "balance": 0.49,
-        "handling": 88,
+        "length": 70,
+        "balance": 0.52,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 26,
+        "thrustSpeed": 88,
+        "swingDamage": 27,
         "swingDamageType": "Pierce",
-        "swingSpeed": 84
+        "swingSpeed": 85
       }
     ]
   },
