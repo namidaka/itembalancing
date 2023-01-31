@@ -19234,9 +19234,9 @@
     "name": "Military Hammer",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 6756,
+    "price": 7324,
     "weight": 1.54,
-    "tier": 9.434295,
+    "tier": 9.869123,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19259,8 +19259,8 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 90,
-        "swingDamage": 25,
-        "swingDamageType": "Pierce",
+        "swingDamage": 22,
+        "swingDamageType": "Blunt",
         "swingSpeed": 82
       }
     ]
