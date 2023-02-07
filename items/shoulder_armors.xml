@@ -98,7 +98,7 @@
   </Item>
   <Item id="crpg_a_battania_cloak_a" name="{=Jm3AiUo3}Simple Cape" mesh="battania_cloak_a" culture="Culture.battania" weight="0.05929271" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="3" arm_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="3" arm_armor="0" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
