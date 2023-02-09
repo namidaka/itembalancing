@@ -713,7 +713,7 @@
       <Piece id="crpg_battania_polearm_1_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_vlandia_polearm_1_t5" name="{=zbsajPMp}Voulge" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_vlandia_polearm_1_t5" name="{=zbsajPMp}Not a Voulge" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_polearm_1_t5_blade" Type="Blade" scale_factor="99" />
       <Piece id="crpg_vlandia_polearm_1_t5_guard" Type="Guard" scale_factor="100" />
