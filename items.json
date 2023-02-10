@@ -11205,18 +11205,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.48,
-        "handling": 86,
+        "balance": 0.55,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 33,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
