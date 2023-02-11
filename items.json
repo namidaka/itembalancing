@@ -2334,6 +2334,27 @@
     "flags": [],
     "weapons": [
       {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 169,
+        "balance": 0.0,
+        "handling": 71,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 40
+      },
+      {
         "class": "TwoHandedPolearm",
         "itemUsage": "polearm_block_long_shield_thrust",
         "accuracy": 0,
@@ -10076,7 +10097,7 @@
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
+        "itemUsage": "polearm_pike",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -14076,7 +14097,7 @@
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
+        "itemUsage": "polearm_pike",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -23626,7 +23647,7 @@
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
+        "itemUsage": "polearm_pike",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -35278,7 +35299,7 @@
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
+        "itemUsage": "polearm_pike",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -35314,7 +35335,7 @@
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
+        "itemUsage": "polearm_pike",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -35471,7 +35492,7 @@
     "weapons": [
       {
         "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
+        "itemUsage": "polearm_pike",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
