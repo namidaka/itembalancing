@@ -1605,10 +1605,10 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_highland_spear_4_t4_blade" name="{=nRKOX66b}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.268" >
+  <CraftingPiece id="crpg_highland_spear_4_t4_blade" name="{=nRKOX66b}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.168" >
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.1" />
-      <Swing damage_type="Pierce" damage_factor="1.4" />
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Pierce" damage_factor="1.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
