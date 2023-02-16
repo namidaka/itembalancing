@@ -472,7 +472,7 @@
     <Pieces>
       <Piece id="crpg_highland_spear_t2_blade" Type="Blade" scale_factor="90" />
       <Piece id="crpg_highland_spear_t2_guard" Type="Guard" scale_factor="90" />
-      <Piece id="crpg_highland_spear_t2_handle" Type="Handle" scale_factor="90" />
+      <Piece id="crpg_highland_spear_t2_handle" Type="Handle" scale_factor="80" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_military_fork_t2" name="{=FbG3CW5p}Military Fork" crafting_template="crpg_TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
@@ -485,7 +485,7 @@
     <Pieces>
       <Piece id="crpg_western_spear_3_t3_blade" Type="Blade" scale_factor="90" />
       <Piece id="crpg_western_spear_3_t3_guard" Type="Guard" scale_factor="90" />
-      <Piece id="crpg_western_spear_3_t3_handle" Type="Handle" scale_factor="90" />
+      <Piece id="crpg_western_spear_3_t3_handle" Type="Handle" scale_factor="75" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_western_spear_4_t3" name="{=NFT4sLva}Tall Tipped Spear" crafting_template="crpg_Spear4DMode" culture="Culture.vlandia" modifier_group="polearm">
@@ -591,7 +591,7 @@
     <Pieces>
       <Piece id="crpg_southern_spear_3_t4_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_southern_spear_3_t4_guard" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_southern_spear_3_t4_handle" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_southern_spear_3_t4_handle" Type="Handle" scale_factor="115" />
       <Piece id="crpg_southern_spear_3_t4_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
