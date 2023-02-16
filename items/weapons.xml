@@ -528,11 +528,10 @@
       <Piece id="crpg_southern_spear_4_t3_handle" Type="Handle" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_northern_spear_2_t3" name="{=xTyib5ms}Broad Leaf Shaped Spear" crafting_template="crpg_Spear4DMode" culture="Culture.battania" modifier_group="polearm">
+  <CraftedItem id="crpg_short_leaf_spear_2_t3" name="{=xTyib5ms}Short Leaf Shaped Spear" crafting_template="crpg_Spear4DMode" culture="Culture.battania" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_northern_spear_2_t3_blade" Type="Blade" scale_factor="99" />
-      <Piece id="crpg_northern_spear_2_t3_guard" Type="Guard" scale_factor="90" />
-      <Piece id="crpg_northern_spear_2_t3_handle" Type="Handle" scale_factor="70" />
+      <Piece id="crpg_northern_spear_2_t3_handle" Type="Handle" scale_factor="80" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_eastern_throwing_spear_1_t3" name="{=EgrNdBct}Jagged Throwing Spear" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">

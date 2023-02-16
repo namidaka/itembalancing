@@ -23475,86 +23475,6 @@
     ]
   },
   {
-    "id": "crpg_northern_spear_2_t3",
-    "name": "Broad Leaf Shaped Spear",
-    "culture": "Battania",
-    "type": "Polearm",
-    "price": 11744,
-    "weight": 1.5,
-    "tier": 8.362599,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 149,
-        "balance": 0.0,
-        "handling": 69,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 26,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 40,
-        "swingDamageType": "Cut",
-        "swingSpeed": 42
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 149,
-        "balance": 0.42,
-        "handling": 66,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 26,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 95,
-        "swingDamage": 40,
-        "swingDamageType": "Cut",
-        "swingSpeed": 82
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 149,
-        "balance": 0.42,
-        "handling": 66,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 26,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 95,
-        "swingDamage": 40,
-        "swingDamageType": "Cut",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_northern_spear_3_t4",
     "name": "Jagged Fine Steel Spear",
     "culture": "Sturgia",
@@ -27579,6 +27499,86 @@
         "swingDamage": 17,
         "swingDamageType": "Blunt",
         "swingSpeed": 95
+      }
+    ]
+  },
+  {
+    "id": "crpg_short_leaf_spear_2_t3",
+    "name": "Short Leaf Shaped Spear",
+    "culture": "Battania",
+    "type": "Polearm",
+    "price": 14645,
+    "weight": 1.5,
+    "tier": 9.46328449,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 152,
+        "balance": 0.0,
+        "handling": 69,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 28,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 41
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 152,
+        "balance": 0.4,
+        "handling": 66,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 28,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 95,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 81
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 152,
+        "balance": 0.4,
+        "handling": 66,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 28,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 95,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 81
       }
     ]
   },
@@ -34050,7 +34050,7 @@
   },
   {
     "id": "crpg_vlandia_polearm_1_t5",
-    "name": "Voulge",
+    "name": "Early Halberd",
     "culture": "Vlandia",
     "type": "Polearm",
     "price": 15305,
