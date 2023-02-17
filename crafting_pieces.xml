@@ -6085,7 +6085,7 @@
 </CraftingPiece>
 <CraftingPiece id="crpg_winter_blade" name="{=}Ice Blade" tier="4" piece_type="Blade" mesh="ice_blade" culture="Culture.battania" length="81.1" weight="1.03">
 <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-<Thrust damage_type="Pierce" damage_factor="2.1"/>
+<Thrust damage_type="Pierce" damage_factor="2.6"/>
 <Swing damage_type="Cut" damage_factor="3.9"/>
 </BladeData>
 <Materials>
@@ -6232,7 +6232,7 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_heavy_blacksmith_hammer_handle" name="{=}Heavy Blacksmith Hammer Handle" tier="1" piece_type="Handle" mesh="heavy_blacksmith_hammer_handle" length="110" weight="1.0" item_holster_pos_shift="0,0,0.1" CraftingCost="75" is_default="true">
+  <CraftingPiece id="crpg_heavy_blacksmith_hammer_handle" name="{=}Heavy Blacksmith Hammer Handle" tier="1" piece_type="Handle" mesh="heavy_blacksmith_hammer_handle" length="90" weight="1.0" item_holster_pos_shift="0,0,0.1" CraftingCost="75" is_default="true">
     <BuildData piece_offset="30.0" />
     <Materials>
       <Material id="Wood" count="1" />
