@@ -790,7 +790,7 @@
   <CraftedItem id="crpg_khuzait_lance_3_t5" name="{=EBRG6qbv}Noble Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_khuzait_lance_3_t5_blade" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_khuzait_lance_4_t5_guard" Type="Guard" scale_factor="100" />
+      <Piece id="crpg_khuzait_lance_3_t5_guard" Type="Guard" scale_factor="100" />
       <Piece id="crpg_khuzait_lance_3_t5_handle" Type="Handle" scale_factor="100" />
       <Piece id="crpg_khuzait_lance_3_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
