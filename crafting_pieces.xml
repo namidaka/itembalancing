@@ -6509,9 +6509,9 @@
       <Material id="Wood" count="1"/>
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bec_de_corbin_blade" name="Bec De Corbin Blade" tier="3" piece_type="Blade" mesh="bec_head" culture="Culture.vlandia" length="104" weight="0.50">
+  <CraftingPiece id="crpg_bec_de_corbin_blade" name="Bec De Corbin Blade" tier="3" piece_type="Blade" mesh="bec_head" culture="Culture.vlandia" length="104" weight="0.52">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.3"/>
+      <Thrust damage_type="Pierce" damage_factor="2.5"/>
       <Swing damage_type="Pierce" damage_factor="2.9"/>
     </BladeData>
     <Flags>
