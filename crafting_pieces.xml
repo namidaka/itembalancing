@@ -6453,7 +6453,7 @@
   <CraftingPiece id="crpg_french_voulge_blade" name="French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.7">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.4"/>
-      <Swing damage_type="Cut" damage_factor="4.1"/>
+      <Swing damage_type="Cut" damage_factor="4.3"/>
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags"/>
@@ -6462,7 +6462,7 @@
       <Material id="Iron4" count="2"/>
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_handle" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="1.0" CraftingCost="120">
+  <CraftingPiece id="crpg_french_voulge_handle" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="1.3" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="30"/>
     <Materials>
       <Material id="Wood" count="1"/>
