@@ -5797,9 +5797,9 @@
     "name": "Bec De Corbin",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 15537,
-    "weight": 1.91,
-    "tier": 9.779432,
+    "price": 15629,
+    "weight": 1.62,
+    "tier": 9.811556,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -5811,9 +5811,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 124,
-        "balance": 0.47,
-        "handling": 70,
+        "length": 139,
+        "balance": 0.44,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -5823,10 +5823,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 30,
+        "thrustSpeed": 95,
+        "swingDamage": 29,
         "swingDamageType": "Pierce",
-        "swingSpeed": 84
+        "swingSpeed": 83
       }
     ]
   },
@@ -13364,9 +13364,9 @@
     "name": "Heavy Blacksmith Hammer",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 11124,
-    "weight": 2.82,
-    "tier": 8.79707,
+    "price": 12450,
+    "weight": 1.94,
+    "tier": 9.36895752,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -13378,9 +13378,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 84,
-        "balance": 0.15,
-        "handling": 74,
+        "length": 99,
+        "balance": 0.1,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -13391,10 +13391,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 92,
         "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 74
+        "swingSpeed": 72
       }
     ]
   },
