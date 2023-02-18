@@ -1165,6 +1165,11 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_khuzait_lance_4_t5_guard" name="{=}Double Hooks" tier="5" piece_type="Guard" mesh="spear_guard_13" culture="Culture.empire" length="11.3" weight="0">
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_khuzait_lance_3_t5_guard" name="{=mSplbvgI}Double Hooks" tier="5" piece_type="Guard" mesh="spear_guard_13" culture="Culture.empire" length="11.3" weight="0">
     <Materials>
       <Material id="Iron5" count="1" />
