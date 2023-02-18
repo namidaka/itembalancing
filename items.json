@@ -5797,9 +5797,9 @@
     "name": "Bec De Corbin",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 15629,
-    "weight": 1.62,
-    "tier": 9.811556,
+    "price": 14180,
+    "weight": 1.64,
+    "tier": 9.294715,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -5812,8 +5812,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 139,
-        "balance": 0.44,
-        "handling": 71,
+        "balance": 0.43,
+        "handling": 70,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -5821,12 +5821,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 95,
+        "thrustSpeed": 94,
         "swingDamage": 29,
         "swingDamageType": "Pierce",
-        "swingSpeed": 83
+        "swingSpeed": 82
       }
     ]
   },
@@ -15551,27 +15551,6 @@
       "CanBePickedUpFromCorpse"
     ],
     "weapons": [
-      {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 71,
-        "balance": 0.64,
-        "handling": 86,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "BonusAgainstShield"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 26,
-        "swingDamageType": "Pierce",
-        "swingSpeed": 89
-      },
       {
         "class": "OneHandedAxe",
         "itemUsage": "onehanded_shield_axe",
