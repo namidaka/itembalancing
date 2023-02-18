@@ -12113,9 +12113,9 @@
     "name": "French Voulge",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 15055,
-    "weight": 2.15,
-    "tier": 9.60979748,
+    "price": 15875,
+    "weight": 1.8,
+    "tier": 9.896847,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -12127,8 +12127,8 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 133,
-        "balance": 0.48,
+        "length": 163,
+        "balance": 0.36,
         "handling": 72,
         "bodyArmor": 0,
         "flags": [
@@ -12139,10 +12139,10 @@
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 94,
         "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 80
       }
     ]
   },
