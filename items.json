@@ -5970,8 +5970,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 75,
-        "balance": 0.44,
-        "handling": 88,
+        "balance": 0.32,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -5979,10 +5979,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
-        "swingDamage": 21,
+        "thrustSpeed": 85,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 79
       }
     ]
   },
