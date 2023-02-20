@@ -2589,4 +2589,20 @@
 			<Piece id="crpg_french_voulge_handle" Type="Handle" scale_factor="110"/>
 		</Pieces>
   </CraftedItem>
+  <Item multiplayer_item="false" id="crpg_onepiece_bec" name="{=}Test Bec" is_merchandise="false" body_name="bo_spear_b" recalculate_body="true" mesh="bec_de_corbin" subtype="two_handed_wpn" weight="2" difficulty="0" appearance="0.1" Type="Polearm" item_holsters="polearm_back:polearm_back_2" holster_position_shift="-0.0,0.05,-0.9">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedPolearm" weapon_balance="100" thrust_speed="94" speed_rating="82" physics_material="wood_weapon" weapon_length="139" swing_damage="29" thrust_damage="25" swing_damage_type="Pierce" thrust_damage_type="Pierce" item_usage="polearm_block_long_shield_swing_thrust">
+        <WeaponFlags MeleeWeapon="true" PenaltyWithShield="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" WideGrip="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" DropOnWeaponChange="false" DoNotScaleBodyAccordingToWeaponLength="true" QuickFadeOut="false" />
+  </Item>
+  <Item multiplayer_item="false" id="crpg_onepiece_bec" name="{=}Test Bec Rot" is_merchandise="false" body_name="bo_spear_b" recalculate_body="true" mesh="bec_de_corbin" subtype="two_handed_wpn" weight="2" difficulty="0" appearance="0.1" Type="Polearm" item_holsters="polearm_back:polearm_back_2" holster_position_shift="-0.0,0.05,-0.9">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedPolearm" weapon_balance="100" thrust_speed="94" speed_rating="82" physics_material="wood_weapon" weapon_length="139" swing_damage="29" thrust_damage="25" swing_damage_type="Blunt" thrust_damage_type="Pierce" item_usage="polearm_block_long_shield_swing_thrust" rotation="0.0,0.0,180.0">
+        <WeaponFlags MeleeWeapon="true" PenaltyWithShield="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" WideGrip="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" DropOnWeaponChange="false" DoNotScaleBodyAccordingToWeaponLength="true" QuickFadeOut="false" />
+  </Item>
 </Items>
