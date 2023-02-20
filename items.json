@@ -3114,9 +3114,9 @@
     "name": "Barmace",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 11559,
-    "weight": 2.0,
-    "tier": 8.987884,
+    "price": 13649,
+    "weight": 1.97,
+    "tier": 9.860466,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -3127,7 +3127,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 94,
-        "balance": 0.62,
+        "balance": 0.64,
         "handling": 85,
         "bodyArmor": 0,
         "flags": [
@@ -3139,7 +3139,7 @@
         "thrustSpeed": 94,
         "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
@@ -8513,9 +8513,9 @@
     "name": "Dawn",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 13600,
+    "price": 14092,
     "weight": 2.09,
-    "tier": 9.840521,
+    "tier": 10.0365343,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -8536,7 +8536,7 @@
         "thrustDamage": 30,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 38,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -13382,9 +13382,9 @@
     "name": "Heavy Executioner Long Sword",
     "culture": "Battania",
     "type": "TwoHandedWeapon",
-    "price": 13295,
-    "weight": 3.3,
-    "tier": 9.717611,
+    "price": 14085,
+    "weight": 3.33,
+    "tier": 10.033844,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -13404,7 +13404,7 @@
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 83,
         "swingDamage": 45,
@@ -19709,9 +19709,9 @@
     "name": "Barthais Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 8414,
+    "price": 14622,
     "weight": 450.0,
-    "tier": 6.503736,
+    "tier": 8.907614,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19731,9 +19731,9 @@
     "name": "Brabant Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 10056,
+    "price": 16031,
     "weight": 450.0,
-    "tier": 7.206992,
+    "tier": 9.376849,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19753,9 +19753,9 @@
     "name": "Comtois Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 13068,
+    "price": 18328,
     "weight": 450.0,
-    "tier": 8.362733,
+    "tier": 10.1007595,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19775,9 +19775,9 @@
     "name": "English Black Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 14754,
+    "price": 19495,
     "weight": 450.0,
-    "tier": 8.952493,
+    "tier": 10.4508572,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19797,9 +19797,9 @@
     "name": "Percheron Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 19233,
+    "price": 22288,
     "weight": 450.0,
-    "tier": 10.3731222,
+    "tier": 11.2495375,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19819,9 +19819,9 @@
     "name": "Lionheart",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 23284,
+    "price": 24534,
     "weight": 450.0,
-    "tier": 11.5219641,
+    "tier": 11.8561363,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19841,9 +19841,9 @@
     "name": "Suffolk Punch Draught",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 1799,
+    "price": 6346,
     "weight": 450.0,
-    "tier": 2.49147487,
+    "tier": 5.513256,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19863,9 +19863,9 @@
     "name": "Boulonnais Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 2565,
+    "price": 7751,
     "weight": 450.0,
-    "tier": 3.15131736,
+    "tier": 6.20048952,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19885,9 +19885,9 @@
     "name": "Galloway Great Horse",
     "culture": "Battania",
     "type": "Mount",
-    "price": 3689,
+    "price": 9458,
     "weight": 450.0,
-    "tier": 3.96811247,
+    "tier": 6.95779943,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19907,9 +19907,9 @@
     "name": "Poitevin Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 5121,
+    "price": 11275,
     "weight": 450.0,
-    "tier": 4.85076427,
+    "tier": 7.69281,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19929,9 +19929,9 @@
     "name": "Oberlander Great Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 6465,
+    "price": 12748,
     "weight": 450.0,
-    "tier": 5.57456732,
+    "tier": 8.2468,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19951,9 +19951,9 @@
     "name": "Black Forest Rouncey",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 7541,
+    "price": 13815,
     "weight": 420.0,
-    "tier": 6.10215759,
+    "tier": 8.628228,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19973,9 +19973,9 @@
     "name": "Bidet Breton Rouncey",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 9780,
+    "price": 15803,
     "weight": 420.0,
-    "tier": 7.09293365,
+    "tier": 9.302354,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19995,9 +19995,9 @@
     "name": "Dzhabe Rouncey",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 12687,
+    "price": 18054,
     "weight": 420.0,
-    "tier": 8.224431,
+    "tier": 10.0168886,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20017,9 +20017,9 @@
     "name": "Karachay Rouncey",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 14608,
+    "price": 19396,
     "weight": 420.0,
-    "tier": 8.902765,
+    "tier": 10.4217911,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20039,9 +20039,9 @@
     "name": "Unmol Rouncey",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 17907,
+    "price": 21501,
     "weight": 420.0,
-    "tier": 9.97162151,
+    "tier": 11.0296774,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20061,9 +20061,9 @@
     "name": "Kehilan al-Khamsa",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 21501,
+    "price": 23573,
     "weight": 420.0,
-    "tier": 11.0297079,
+    "tier": 11.6001053,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20083,9 +20083,9 @@
     "name": "Sumpter Horse",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 685,
+    "price": 3542,
     "weight": 420.0,
-    "tier": 1.22718561,
+    "tier": 3.86932349,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20105,9 +20105,9 @@
     "name": "Raymond Rouncey",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 1012,
+    "price": 4519,
     "weight": 420.0,
-    "tier": 1.657077,
+    "tier": 4.49625826,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20127,9 +20127,9 @@
     "name": "Fell Pony",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 1263,
+    "price": 5163,
     "weight": 420.0,
-    "tier": 1.94750786,
+    "tier": 4.87438154,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20149,9 +20149,9 @@
     "name": "Welsh Cob",
     "culture": "Battania",
     "type": "Mount",
-    "price": 1729,
+    "price": 6202,
     "weight": 420.0,
-    "tier": 2.42474222,
+    "tier": 5.4389205,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20171,9 +20171,9 @@
     "name": "Sanhe Rouncey",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 2446,
+    "price": 7549,
     "weight": 420.0,
-    "tier": 3.05597663,
+    "tier": 6.10597372,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20193,9 +20193,9 @@
     "name": "Megrelakaya Rouncey",
     "culture": "Empire",
     "type": "Mount",
-    "price": 3385,
+    "price": 9027,
     "weight": 420.0,
-    "tier": 3.76057076,
+    "tier": 6.77340126,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20215,9 +20215,9 @@
     "name": "East Anglis Rouncey",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 4703,
+    "price": 10775,
     "weight": 420.0,
-    "tier": 4.606884,
+    "tier": 7.49693155,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20237,9 +20237,9 @@
     "name": "Anadolu Rouncey",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 6553,
+    "price": 12839,
     "weight": 420.0,
-    "tier": 5.619284,
+    "tier": 8.279811,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20259,9 +20259,9 @@
     "name": "Yunnan Destrier",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 9692,
+    "price": 15730,
     "weight": 430.0,
-    "tier": 7.05631447,
+    "tier": 9.27831,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20281,9 +20281,9 @@
     "name": "Auvergne Destrier",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 11496,
+    "price": 17169,
     "weight": 430.0,
-    "tier": 7.77831554,
+    "tier": 9.741429,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20303,9 +20303,9 @@
     "name": "Lusitano Pureblood Destrier",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 14886,
+    "price": 19583,
     "weight": 430.0,
-    "tier": 8.997137,
+    "tier": 10.4768829,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20325,9 +20325,9 @@
     "name": "Bohemond",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 20216,
+    "price": 22855,
     "weight": 430.0,
-    "tier": 10.6623745,
+    "tier": 11.405304,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20347,9 +20347,9 @@
     "name": "Llamrei",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 24330,
+    "price": 25080,
     "weight": 430.0,
-    "tier": 11.8020506,
+    "tier": 11.9993753,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20369,9 +20369,9 @@
     "name": "Murgese Destrier",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 1915,
+    "price": 6576,
     "weight": 450.0,
-    "tier": 2.59895325,
+    "tier": 5.630917,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20391,9 +20391,9 @@
     "name": "Holsteiner Destrier",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 2635,
+    "price": 7868,
     "weight": 430.0,
-    "tier": 3.20696974,
+    "tier": 6.25500059,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20413,9 +20413,9 @@
     "name": "Kathiawadi Destrier",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 3756,
+    "price": 9551,
     "weight": 430.0,
-    "tier": 4.01302671,
+    "tier": 6.99706554,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20435,9 +20435,9 @@
     "name": "Friesian Destrier",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 5208,
+    "price": 11376,
     "weight": 430.0,
-    "tier": 4.90012932,
+    "tier": 7.73185444,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20457,9 +20457,9 @@
     "name": "Carthusian Destrier",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 7477,
+    "price": 13753,
     "weight": 430.0,
-    "tier": 6.071869,
+    "tier": 8.606788,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20479,9 +20479,9 @@
     "name": "Seleucid Light Camel",
     "culture": "Empire",
     "type": "Mount",
-    "price": 7458,
+    "price": 13735,
     "weight": 520.0,
-    "tier": 6.06284046,
+    "tier": 8.600387,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20501,9 +20501,9 @@
     "name": "Seleucid Heavy Camel",
     "culture": "Empire",
     "type": "Mount",
-    "price": 8502,
+    "price": 14701,
     "weight": 520.0,
-    "tier": 6.54287863,
+    "tier": 8.934379,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20523,9 +20523,9 @@
     "name": "Parthian Light Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 9246,
+    "price": 15352,
     "weight": 520.0,
-    "tier": 6.86758041,
+    "tier": 9.153386,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20545,9 +20545,9 @@
     "name": "Parthian Heavy Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 10599,
+    "price": 16469,
     "weight": 520.0,
-    "tier": 7.42690468,
+    "tier": 9.518836,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20567,9 +20567,9 @@
     "name": "Achaemenian Light Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 13891,
+    "price": 18907,
     "weight": 520.0,
-    "tier": 8.655123,
+    "tier": 10.2758207,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20589,9 +20589,9 @@
     "name": "Achaemenian Heavy Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 15893,
+    "price": 20243,
     "weight": 520.0,
-    "tier": 9.331944,
+    "tier": 10.6700382,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20611,9 +20611,9 @@
     "name": "Safinat al-Barr",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 18868,
+    "price": 22074,
     "weight": 520.0,
-    "tier": 10.26399,
+    "tier": 11.1902046,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20633,9 +20633,9 @@
     "name": "Padishah",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 23427,
+    "price": 24610,
     "weight": 520.0,
-    "tier": 11.5606194,
+    "tier": 11.8760071,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20655,9 +20655,9 @@
     "name": "Pack Camel",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 1010,
+    "price": 4514,
     "weight": 520.0,
-    "tier": 1.65485942,
+    "tier": 4.493249,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20677,9 +20677,9 @@
     "name": "Pratihara Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 1651,
+    "price": 6039,
     "weight": 520.0,
-    "tier": 2.349268,
+    "tier": 5.35360336,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20699,9 +20699,9 @@
     "name": "Qedarite Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 2329,
+    "price": 7344,
     "weight": 520.0,
-    "tier": 2.958975,
+    "tier": 6.00828552,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20721,9 +20721,9 @@
     "name": "Palmyrene Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 3296,
+    "price": 8897,
     "weight": 520.0,
-    "tier": 3.69804144,
+    "tier": 6.716852,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20743,9 +20743,9 @@
     "name": "Sargonid Light Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 4107,
+    "price": 10023,
     "weight": 520.0,
-    "tier": 4.24101257,
+    "tier": 7.19307661,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20765,9 +20765,9 @@
     "name": "Sargonid Heavy Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 4682,
+    "price": 10750,
     "weight": 520.0,
-    "tier": 4.59435368,
+    "tier": 7.486729,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20787,9 +20787,9 @@
     "name": "Nabatean Light Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 5084,
+    "price": 11232,
     "weight": 520.0,
-    "tier": 4.82953167,
+    "tier": 7.675955,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20809,9 +20809,9 @@
     "name": "Nabatean Heavy Camel",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 5832,
+    "price": 12076,
     "weight": 520.0,
-    "tier": 5.24347544,
+    "tier": 7.99815,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20831,9 +20831,9 @@
     "name": "Desert Norman Charger",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 10037,
+    "price": 16015,
     "weight": 450.0,
-    "tier": 7.199217,
+    "tier": 9.37179,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20853,9 +20853,9 @@
     "name": "Andravida Charger",
     "culture": "Empire",
     "type": "Mount",
-    "price": 12108,
+    "price": 17629,
     "weight": 450.0,
-    "tier": 8.010217,
+    "tier": 9.885577,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20875,9 +20875,9 @@
     "name": "Neapolitan Charger",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 15589,
+    "price": 20046,
     "weight": 450.0,
-    "tier": 9.231891,
+    "tier": 10.6126842,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20897,9 +20897,9 @@
     "name": "Hengeron",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 21470,
+    "price": 23556,
     "weight": 450.0,
-    "tier": 11.0211592,
+    "tier": 11.5956087,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20919,9 +20919,9 @@
     "name": "Bucephalus",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 25567,
+    "price": 25710,
     "weight": 450.0,
-    "tier": 12.12575,
+    "tier": 12.162818,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20941,9 +20941,9 @@
     "name": "Norwegian Fjord Draught",
     "culture": "Sturgia",
     "type": "Mount",
-    "price": 1832,
+    "price": 6413,
     "weight": 450.0,
-    "tier": 2.52271461,
+    "tier": 5.547713,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20963,9 +20963,9 @@
     "name": "Icelandic Charger",
     "culture": "Sturgia",
     "type": "Mount",
-    "price": 2606,
+    "price": 7819,
     "weight": 450.0,
-    "tier": 3.183634,
+    "tier": 6.23220158,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20985,9 +20985,9 @@
     "name": "Shire Charger",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 3725,
+    "price": 9509,
     "weight": 450.0,
-    "tier": 3.99263859,
+    "tier": 6.97926855,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21007,9 +21007,9 @@
     "name": "Ardennes Charger",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 5362,
+    "price": 11552,
     "weight": 450.0,
-    "tier": 4.98650551,
+    "tier": 7.799703,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21029,9 +21029,9 @@
     "name": "Andalusian Charger",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 7783,
+    "price": 14043,
     "weight": 450.0,
-    "tier": 6.215653,
+    "tier": 8.708097,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21051,9 +21051,9 @@
     "name": "Ahalteke Courser",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 9848,
+    "price": 15859,
     "weight": 420.0,
-    "tier": 7.121054,
+    "tier": 9.320776,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21073,9 +21073,9 @@
     "name": "Datong Courser",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 11374,
+    "price": 17075,
     "weight": 420.0,
-    "tier": 7.730953,
+    "tier": 9.711726,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21095,9 +21095,9 @@
     "name": "Darashouri Courser",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 14684,
+    "price": 19447,
     "weight": 420.0,
-    "tier": 8.928414,
+    "tier": 10.4367933,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21117,9 +21117,9 @@
     "name": "Muniqi al-Khamsa",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 19447,
+    "price": 22413,
     "weight": 420.0,
-    "tier": 10.4368391,
+    "tier": 11.2840347,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21139,9 +21139,9 @@
     "name": "Shadowfax",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 23155,
+    "price": 24466,
     "weight": 420.0,
-    "tier": 11.4871006,
+    "tier": 11.8381853,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21161,9 +21161,9 @@
     "name": "Turkoman Courser",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 1944,
+    "price": 6633,
     "weight": 420.0,
-    "tier": 2.62545538,
+    "tier": 5.65955448,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21183,9 +21183,9 @@
     "name": "Menorquín Courser",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 2687,
+    "price": 7953,
     "weight": 420.0,
-    "tier": 3.24756622,
+    "tier": 6.2944665,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21205,9 +21205,9 @@
     "name": "Nisean Courser",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 3831,
+    "price": 9653,
     "weight": 420.0,
-    "tier": 4.06239,
+    "tier": 7.03996849,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21227,9 +21227,9 @@
     "name": "Thessalian Courser",
     "culture": "Empire",
     "type": "Mount",
-    "price": 5333,
+    "price": 11519,
     "weight": 420.0,
-    "tier": 4.970368,
+    "tier": 7.7870717,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21249,9 +21249,9 @@
     "name": "Einsiedler Courser",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 7635,
+    "price": 13904,
     "weight": 420.0,
-    "tier": 6.14633,
+    "tier": 8.659401,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21271,9 +21271,9 @@
     "name": "Berber Jennet",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 9069,
+    "price": 15200,
     "weight": 300.0,
-    "tier": 6.791751,
+    "tier": 9.102712,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21293,9 +21293,9 @@
     "name": "Tchenarani Palfrey",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 10617,
+    "price": 16483,
     "weight": 300.0,
-    "tier": 7.43374968,
+    "tier": 9.523221,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21315,9 +21315,9 @@
     "name": "Asil Purebred Arabian Palfrey",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 13815,
+    "price": 18855,
     "weight": 300.0,
-    "tier": 8.628556,
+    "tier": 10.2600384,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21337,9 +21337,9 @@
     "name": "Marengo",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 17970,
+    "price": 21539,
     "weight": 300.0,
-    "tier": 9.99101,
+    "tier": 11.0403948,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21359,9 +21359,9 @@
     "name": "Baucent",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 22253,
+    "price": 23983,
     "weight": 300.0,
-    "tier": 11.2397976,
+    "tier": 11.7100611,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21381,9 +21381,9 @@
     "name": "Irish Hobby",
     "culture": "Battania",
     "type": "Mount",
-    "price": 1852,
+    "price": 6451,
     "weight": 300.0,
-    "tier": 2.540428,
+    "tier": 5.56715536,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21403,9 +21403,9 @@
     "name": "Caspian Palfrey",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 2548,
+    "price": 7722,
     "weight": 300.0,
-    "tier": 3.13779426,
+    "tier": 6.18717146,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21425,9 +21425,9 @@
     "name": "Marwari Palfrey",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 3525,
+    "price": 9229,
     "weight": 300.0,
-    "tier": 3.857515,
+    "tier": 6.860152,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21447,9 +21447,9 @@
     "name": "Moroccan Barb",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 4897,
+    "price": 11009,
     "weight": 300.0,
-    "tier": 4.72100544,
+    "tier": 7.58922052,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21469,9 +21469,9 @@
     "name": "Morvandiau Palfrey",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 6966,
+    "price": 13256,
     "weight": 300.0,
-    "tier": 5.825277,
+    "tier": 8.430206,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21598,9 +21598,9 @@
     "name": "Mule",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 383,
+    "price": 2393,
     "weight": 300.0,
-    "tier": 0.7438689,
+    "tier": 3.0125072,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21620,9 +21620,9 @@
     "name": "Chadz",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 1677,
+    "price": 6095,
     "weight": 300.0,
-    "tier": 2.37520838,
+    "tier": 5.383079,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -33115,9 +33115,9 @@
     "name": "Thamaskene Steel Two Hander",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 13175,
-    "weight": 1.99,
-    "tier": 9.668513,
+    "price": 13991,
+    "weight": 1.98,
+    "tier": 9.996628,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -33128,19 +33128,19 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 127,
-        "balance": 0.6,
+        "balance": 0.61,
         "handling": 72,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
         "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
