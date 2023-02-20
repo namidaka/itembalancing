@@ -2075,7 +2075,7 @@
       <Piece id="crpg_highland_throwing_axe_1_t2_handle" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_throwing_maul" name="{=GrfnpDxu}Throwing Hammers" crafting_template="crpg_ThrowingHammer" culture="Culture.battania">
+  <CraftedItem id="crpg_throwing_maul" name="{=GrfnpDxu}Throwing Hammers" crafting_template="crpg_ThrowingAxe" culture="Culture.battania">
     <Pieces>
       <Piece id="crpg_throwing_maul_blade" Type="Blade" scale_factor="75" />
       <Piece id="crpg_throwing_maul_handle" Type="Handle" scale_factor="50" />
