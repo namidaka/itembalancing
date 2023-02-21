@@ -3166,7 +3166,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_bastard_sword_t2_v2",
+    "id": "crpg_bastard_sword_t2",
     "name": "Simple Short Warsword",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
@@ -3185,18 +3185,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 84,
-        "balance": 0.63,
+        "balance": 0.6,
         "handling": 77,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 35,
+        "thrustSpeed": 88,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
@@ -4740,15 +4740,15 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 107,
-        "balance": 0.44,
-        "handling": 83,
+        "balance": 0.46,
+        "handling": 82,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 86,
         "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 83
@@ -4776,15 +4776,15 @@
         "stackAmount": 0,
         "length": 103,
         "balance": 0.48,
-        "handling": 89,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 30,
+        "thrustSpeed": 87,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -4810,13 +4810,13 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.32,
-        "handling": 82,
+        "balance": 0.3,
+        "handling": 81,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 39,
@@ -4997,16 +4997,16 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 85,
-        "balance": 0.6,
-        "handling": 85,
+        "balance": 0.58,
+        "handling": 82,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
-        "swingDamage": 35,
+        "thrustSpeed": 85,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 87
       }
@@ -5071,7 +5071,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 84,
         "swingDamage": 38,
@@ -5100,13 +5100,13 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 110,
-        "balance": 0.35,
-        "handling": 82,
+        "balance": 0.36,
+        "handling": 81,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 36,
@@ -6913,10 +6913,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 29,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
-        "swingDamage": 30,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -7012,7 +7012,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 31,
@@ -7050,7 +7050,7 @@
         "thrustDamage": 19,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 30,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 92
       }
@@ -7673,23 +7673,23 @@
     "weapons": [
       {
         "class": "OneHandedSword",
-        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "itemUsage": "onehanded_block_shield_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 99,
-        "balance": 0.33,
-        "handling": 85,
+        "balance": 0.37,
+        "handling": 74,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
-        "swingDamage": 35,
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -8543,7 +8543,7 @@
     ]
   },
   {
-    "id": "crpg_dawnbreaker_sword_t3",
+    "id": "crpg_dawnbreaker_sword_t3_v2",
     "name": "Dawnbreaker",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
@@ -8562,18 +8562,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.51,
-        "handling": 91,
+        "balance": 0.33,
+        "handling": 74,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 32,
+        "thrustSpeed": 83,
+        "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 80
       }
     ]
   },
@@ -11697,18 +11697,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 97,
-        "balance": 0.6,
+        "balance": 0.61,
         "handling": 86,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 30,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
@@ -16742,15 +16742,15 @@
         "stackAmount": 0,
         "length": 119,
         "balance": 0.25,
-        "handling": 85,
+        "handling": 88,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
-        "swingDamage": 35,
+        "thrustSpeed": 84,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
         "swingSpeed": 77
       }
@@ -16774,18 +16774,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 99,
-        "balance": 0.56,
-        "handling": 86,
+        "balance": 0.6,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 33,
+        "thrustSpeed": 87,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 87
       }
     ]
   },
@@ -16808,15 +16808,15 @@
         "stackAmount": 0,
         "length": 87,
         "balance": 0.72,
-        "handling": 91,
+        "handling": 95,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 31,
+        "thrustSpeed": 90,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 91
       }
@@ -16977,7 +16977,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
         "swingDamage": 29,
@@ -17006,23 +17006,23 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.21,
-        "handling": 82,
+        "balance": 0.25,
+        "handling": 84,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 85,
         "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 77
       }
     ]
   },
   {
-    "id": "crpg_khuzait_sword_4_t4",
+    "id": "crpg_khuzait_sword_4_t4_v2",
     "name": "Fine Steel Saber",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
@@ -17041,8 +17041,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 97,
-        "balance": 0.63,
-        "handling": 87,
+        "balance": 0.6,
+        "handling": 86,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
@@ -17052,7 +17052,7 @@
         "thrustSpeed": 87,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
@@ -17076,18 +17076,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.54,
-        "handling": 85,
+        "balance": 0.5,
+        "handling": 84,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 85
       }
     ]
   },
@@ -19478,16 +19478,16 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 100,
-        "balance": 0.45,
-        "handling": 80,
+        "balance": 0.44,
+        "handling": 75,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 37,
+        "thrustSpeed": 85,
+        "swingDamage": 38,
         "swingDamageType": "Cut",
         "swingSpeed": 83
       }
@@ -19711,7 +19711,7 @@
     "type": "Mount",
     "price": 7016,
     "weight": 450.0,
-    "tier": 6.503736,
+    "tier": 8.907614,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19733,7 +19733,7 @@
     "type": "Mount",
     "price": 8384,
     "weight": 450.0,
-    "tier": 7.206992,
+    "tier": 9.376849,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19755,7 +19755,7 @@
     "type": "Mount",
     "price": 10892,
     "weight": 450.0,
-    "tier": 8.362733,
+    "tier": 10.1007595,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19777,7 +19777,7 @@
     "type": "Mount",
     "price": 12297,
     "weight": 450.0,
-    "tier": 8.952493,
+    "tier": 10.4508572,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19799,7 +19799,7 @@
     "type": "Mount",
     "price": 16026,
     "weight": 450.0,
-    "tier": 10.3731222,
+    "tier": 11.2495375,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19821,7 +19821,7 @@
     "type": "Mount",
     "price": 19400,
     "weight": 450.0,
-    "tier": 11.5219641,
+    "tier": 11.8561363,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19843,7 +19843,7 @@
     "type": "Mount",
     "price": 1507,
     "weight": 450.0,
-    "tier": 2.49147487,
+    "tier": 5.513256,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19865,7 +19865,7 @@
     "type": "Mount",
     "price": 2145,
     "weight": 450.0,
-    "tier": 3.15131736,
+    "tier": 6.20048952,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19887,7 +19887,7 @@
     "type": "Mount",
     "price": 3080,
     "weight": 450.0,
-    "tier": 3.96811247,
+    "tier": 6.95779943,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19909,7 +19909,7 @@
     "type": "Mount",
     "price": 4274,
     "weight": 450.0,
-    "tier": 4.85076427,
+    "tier": 7.69281,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19931,7 +19931,7 @@
     "type": "Mount",
     "price": 5393,
     "weight": 450.0,
-    "tier": 5.57456732,
+    "tier": 8.2468,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19953,7 +19953,7 @@
     "type": "Mount",
     "price": 6289,
     "weight": 420.0,
-    "tier": 6.10215759,
+    "tier": 8.628228,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19975,7 +19975,7 @@
     "type": "Mount",
     "price": 8154,
     "weight": 420.0,
-    "tier": 7.09293365,
+    "tier": 9.302354,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19997,7 +19997,7 @@
     "type": "Mount",
     "price": 10575,
     "weight": 420.0,
-    "tier": 8.224431,
+    "tier": 10.0168886,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20019,7 +20019,7 @@
     "type": "Mount",
     "price": 12175,
     "weight": 420.0,
-    "tier": 8.902765,
+    "tier": 10.4217911,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20041,7 +20041,7 @@
     "type": "Mount",
     "price": 14923,
     "weight": 420.0,
-    "tier": 9.97162151,
+    "tier": 11.0296774,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20063,7 +20063,7 @@
     "type": "Mount",
     "price": 17916,
     "weight": 420.0,
-    "tier": 11.0297079,
+    "tier": 11.6001053,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20085,7 +20085,7 @@
     "type": "Mount",
     "price": 579,
     "weight": 420.0,
-    "tier": 1.22718561,
+    "tier": 3.86932349,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20107,7 +20107,7 @@
     "type": "Mount",
     "price": 851,
     "weight": 420.0,
-    "tier": 1.657077,
+    "tier": 4.49625826,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20129,7 +20129,7 @@
     "type": "Mount",
     "price": 1060,
     "weight": 420.0,
-    "tier": 1.94750786,
+    "tier": 4.87438154,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20151,7 +20151,7 @@
     "type": "Mount",
     "price": 1448,
     "weight": 420.0,
-    "tier": 2.42474222,
+    "tier": 5.4389205,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20173,7 +20173,7 @@
     "type": "Mount",
     "price": 2046,
     "weight": 420.0,
-    "tier": 3.05597663,
+    "tier": 6.10597372,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20195,7 +20195,7 @@
     "type": "Mount",
     "price": 2827,
     "weight": 420.0,
-    "tier": 3.76057076,
+    "tier": 6.77340126,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20217,7 +20217,7 @@
     "type": "Mount",
     "price": 3925,
     "weight": 420.0,
-    "tier": 4.606884,
+    "tier": 7.49693155,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20239,7 +20239,7 @@
     "type": "Mount",
     "price": 5466,
     "weight": 420.0,
-    "tier": 5.619284,
+    "tier": 8.279811,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20261,7 +20261,7 @@
     "type": "Mount",
     "price": 8081,
     "weight": 430.0,
-    "tier": 7.05631447,
+    "tier": 9.27831,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20283,7 +20283,7 @@
     "type": "Mount",
     "price": 9583,
     "weight": 430.0,
-    "tier": 7.77831554,
+    "tier": 9.741429,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20305,7 +20305,7 @@
     "type": "Mount",
     "price": 12406,
     "weight": 430.0,
-    "tier": 8.997137,
+    "tier": 10.4768829,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20327,7 +20327,7 @@
     "type": "Mount",
     "price": 16846,
     "weight": 430.0,
-    "tier": 10.6623745,
+    "tier": 11.405304,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20349,7 +20349,7 @@
     "type": "Mount",
     "price": 20272,
     "weight": 430.0,
-    "tier": 11.8020506,
+    "tier": 11.9993753,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20371,7 +20371,7 @@
     "type": "Mount",
     "price": 1603,
     "weight": 450.0,
-    "tier": 2.59895325,
+    "tier": 5.630917,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20393,7 +20393,7 @@
     "type": "Mount",
     "price": 2203,
     "weight": 430.0,
-    "tier": 3.20696974,
+    "tier": 6.25500059,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20415,7 +20415,7 @@
     "type": "Mount",
     "price": 3137,
     "weight": 430.0,
-    "tier": 4.01302671,
+    "tier": 6.99706554,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20437,7 +20437,7 @@
     "type": "Mount",
     "price": 4346,
     "weight": 430.0,
-    "tier": 4.90012932,
+    "tier": 7.73185444,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20459,7 +20459,7 @@
     "type": "Mount",
     "price": 6236,
     "weight": 430.0,
-    "tier": 6.071869,
+    "tier": 8.606788,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20481,7 +20481,7 @@
     "type": "Mount",
     "price": 6220,
     "weight": 520.0,
-    "tier": 6.06284046,
+    "tier": 8.600387,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20503,7 +20503,7 @@
     "type": "Mount",
     "price": 7089,
     "weight": 520.0,
-    "tier": 6.54287863,
+    "tier": 8.934379,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20525,7 +20525,7 @@
     "type": "Mount",
     "price": 7709,
     "weight": 520.0,
-    "tier": 6.86758041,
+    "tier": 9.153386,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20547,7 +20547,7 @@
     "type": "Mount",
     "price": 8836,
     "weight": 520.0,
-    "tier": 7.42690468,
+    "tier": 9.518836,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20569,7 +20569,7 @@
     "type": "Mount",
     "price": 11578,
     "weight": 520.0,
-    "tier": 8.655123,
+    "tier": 10.2758207,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20591,7 +20591,7 @@
     "type": "Mount",
     "price": 13245,
     "weight": 520.0,
-    "tier": 9.331944,
+    "tier": 10.6700382,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20613,7 +20613,7 @@
     "type": "Mount",
     "price": 15723,
     "weight": 520.0,
-    "tier": 10.26399,
+    "tier": 11.1902046,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20635,7 +20635,7 @@
     "type": "Mount",
     "price": 19520,
     "weight": 520.0,
-    "tier": 11.5606194,
+    "tier": 11.8760071,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20657,7 +20657,7 @@
     "type": "Mount",
     "price": 850,
     "weight": 520.0,
-    "tier": 1.65485942,
+    "tier": 4.493249,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20679,7 +20679,7 @@
     "type": "Mount",
     "price": 1383,
     "weight": 520.0,
-    "tier": 2.349268,
+    "tier": 5.35360336,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20701,7 +20701,7 @@
     "type": "Mount",
     "price": 1948,
     "weight": 520.0,
-    "tier": 2.958975,
+    "tier": 6.00828552,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20723,7 +20723,7 @@
     "type": "Mount",
     "price": 2753,
     "weight": 520.0,
-    "tier": 3.69804144,
+    "tier": 6.716852,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20745,7 +20745,7 @@
     "type": "Mount",
     "price": 3429,
     "weight": 520.0,
-    "tier": 4.24101257,
+    "tier": 7.19307661,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20767,7 +20767,7 @@
     "type": "Mount",
     "price": 3908,
     "weight": 520.0,
-    "tier": 4.59435368,
+    "tier": 7.486729,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20789,7 +20789,7 @@
     "type": "Mount",
     "price": 4243,
     "weight": 520.0,
-    "tier": 4.82953167,
+    "tier": 7.675955,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20811,7 +20811,7 @@
     "type": "Mount",
     "price": 4865,
     "weight": 520.0,
-    "tier": 5.24347544,
+    "tier": 7.99815,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20833,7 +20833,7 @@
     "type": "Mount",
     "price": 8368,
     "weight": 450.0,
-    "tier": 7.199217,
+    "tier": 9.37179,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20855,7 +20855,7 @@
     "type": "Mount",
     "price": 10093,
     "weight": 450.0,
-    "tier": 8.010217,
+    "tier": 9.885577,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20877,7 +20877,7 @@
     "type": "Mount",
     "price": 12992,
     "weight": 450.0,
-    "tier": 9.231891,
+    "tier": 10.6126842,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20899,7 +20899,7 @@
     "type": "Mount",
     "price": 17890,
     "weight": 450.0,
-    "tier": 11.0211592,
+    "tier": 11.5956087,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20921,7 +20921,7 @@
     "type": "Mount",
     "price": 21302,
     "weight": 450.0,
-    "tier": 12.12575,
+    "tier": 12.162818,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20943,7 +20943,7 @@
     "type": "Mount",
     "price": 1534,
     "weight": 450.0,
-    "tier": 2.52271461,
+    "tier": 5.547713,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20965,7 +20965,7 @@
     "type": "Mount",
     "price": 2179,
     "weight": 450.0,
-    "tier": 3.183634,
+    "tier": 6.23220158,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20987,7 +20987,7 @@
     "type": "Mount",
     "price": 3111,
     "weight": 450.0,
-    "tier": 3.99263859,
+    "tier": 6.97926855,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21009,7 +21009,7 @@
     "type": "Mount",
     "price": 4474,
     "weight": 450.0,
-    "tier": 4.98650551,
+    "tier": 7.799703,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21031,7 +21031,7 @@
     "type": "Mount",
     "price": 6491,
     "weight": 450.0,
-    "tier": 6.215653,
+    "tier": 8.708097,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21053,7 +21053,7 @@
     "type": "Mount",
     "price": 8210,
     "weight": 420.0,
-    "tier": 7.121054,
+    "tier": 9.320776,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21075,7 +21075,7 @@
     "type": "Mount",
     "price": 9481,
     "weight": 420.0,
-    "tier": 7.730953,
+    "tier": 9.711726,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21097,7 +21097,7 @@
     "type": "Mount",
     "price": 12238,
     "weight": 420.0,
-    "tier": 8.928414,
+    "tier": 10.4367933,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21119,7 +21119,7 @@
     "type": "Mount",
     "price": 16205,
     "weight": 420.0,
-    "tier": 10.4368391,
+    "tier": 11.2840347,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21141,7 +21141,7 @@
     "type": "Mount",
     "price": 19293,
     "weight": 420.0,
-    "tier": 11.4871006,
+    "tier": 11.8381853,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21163,7 +21163,7 @@
     "type": "Mount",
     "price": 1628,
     "weight": 420.0,
-    "tier": 2.62545538,
+    "tier": 5.65955448,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21185,7 +21185,7 @@
     "type": "Mount",
     "price": 2246,
     "weight": 420.0,
-    "tier": 3.24756622,
+    "tier": 6.2944665,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21207,7 +21207,7 @@
     "type": "Mount",
     "price": 3199,
     "weight": 420.0,
-    "tier": 4.06239,
+    "tier": 7.03996849,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21229,7 +21229,7 @@
     "type": "Mount",
     "price": 4450,
     "weight": 420.0,
-    "tier": 4.970368,
+    "tier": 7.7870717,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21251,7 +21251,7 @@
     "type": "Mount",
     "price": 6367,
     "weight": 420.0,
-    "tier": 6.14633,
+    "tier": 8.659401,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21273,7 +21273,7 @@
     "type": "Mount",
     "price": 7562,
     "weight": 300.0,
-    "tier": 6.791751,
+    "tier": 9.102712,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21295,7 +21295,7 @@
     "type": "Mount",
     "price": 8851,
     "weight": 300.0,
-    "tier": 7.43374968,
+    "tier": 9.523221,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21317,7 +21317,7 @@
     "type": "Mount",
     "price": 11515,
     "weight": 300.0,
-    "tier": 8.628556,
+    "tier": 10.2600384,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21339,7 +21339,7 @@
     "type": "Mount",
     "price": 14975,
     "weight": 300.0,
-    "tier": 9.99101,
+    "tier": 11.0403948,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21361,7 +21361,7 @@
     "type": "Mount",
     "price": 18542,
     "weight": 300.0,
-    "tier": 11.2397976,
+    "tier": 11.7100611,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21383,7 +21383,7 @@
     "type": "Mount",
     "price": 1550,
     "weight": 300.0,
-    "tier": 2.540428,
+    "tier": 5.56715536,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21405,7 +21405,7 @@
     "type": "Mount",
     "price": 2130,
     "weight": 300.0,
-    "tier": 3.13779426,
+    "tier": 6.18717146,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21427,7 +21427,7 @@
     "type": "Mount",
     "price": 2944,
     "weight": 300.0,
-    "tier": 3.857515,
+    "tier": 6.860152,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21449,7 +21449,7 @@
     "type": "Mount",
     "price": 4086,
     "weight": 300.0,
-    "tier": 4.72100544,
+    "tier": 7.58922052,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21471,7 +21471,7 @@
     "type": "Mount",
     "price": 5810,
     "weight": 300.0,
-    "tier": 5.825277,
+    "tier": 8.430206,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21600,7 +21600,7 @@
     "type": "Mount",
     "price": 327,
     "weight": 300.0,
-    "tier": 0.7438689,
+    "tier": 3.0125072,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21622,7 +21622,7 @@
     "type": "Mount",
     "price": 1405,
     "weight": 300.0,
-    "tier": 2.37520838,
+    "tier": 5.383079,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -25047,7 +25047,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 32,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
         "swingSpeed": 86
       }
@@ -27405,10 +27405,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 30,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
         "swingSpeed": 90
       }
@@ -27434,18 +27434,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 95,
-        "balance": 0.66,
-        "handling": 85,
+        "balance": 0.61,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 30,
+        "thrustSpeed": 85,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 88
       }
     ]
   },
@@ -27569,7 +27569,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 97,
-        "balance": 0.61,
+        "balance": 0.58,
         "handling": 87,
         "bodyArmor": 1,
         "flags": [
@@ -27580,7 +27580,7 @@
         "thrustSpeed": 85,
         "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
@@ -30630,7 +30630,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_sturgia_noble_sword_1_t5_v2",
+    "id": "crpg_sturgia_noble_sword_1_t5",
     "name": "Thamaskene Short Warsword",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
@@ -30649,18 +30649,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 82,
-        "balance": 0.61,
-        "handling": 87,
+        "balance": 0.58,
+        "handling": 83,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
@@ -30690,7 +30690,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 86,
         "swingDamage": 34,
@@ -30725,10 +30725,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
-        "swingDamage": 32,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
         "swingSpeed": 90
       }
@@ -30755,12 +30755,12 @@
         "stackAmount": 0,
         "length": 84,
         "balance": 0.56,
-        "handling": 86,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 36,
@@ -30905,7 +30905,7 @@
     ]
   },
   {
-    "id": "crpg_sturgia_sword_1_t2_v2",
+    "id": "crpg_sturgia_sword_1_t2",
     "name": "Iron Thegn Blade",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
@@ -30933,7 +30933,7 @@
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 32,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
         "swingSpeed": 89
       }
@@ -30960,15 +30960,15 @@
         "stackAmount": 0,
         "length": 87,
         "balance": 0.74,
-        "handling": 89,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 31,
+        "thrustSpeed": 89,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 92
       }
@@ -31000,7 +31000,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 29,
@@ -31035,10 +31035,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 33,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
         "swingSpeed": 83
       }
@@ -31064,18 +31064,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 85,
-        "balance": 0.7,
+        "balance": 0.66,
         "handling": 84,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 32,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 29,
+        "thrustSpeed": 87,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 89
       }
     ]
   },
@@ -31099,18 +31099,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.44,
-        "handling": 83,
+        "balance": 0.42,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 34,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 82
       }
     ]
   },
@@ -31747,18 +31747,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.46,
-        "handling": 82,
+        "balance": 0.48,
+        "handling": 76,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 88,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 84
       }
     ]
   },
@@ -31782,18 +31782,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 86,
-        "balance": 0.64,
+        "balance": 0.67,
         "handling": 87,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 33,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 90
       }
     ]
   },
@@ -32657,7 +32657,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_tyrhung_sword_t3",
+    "id": "crpg_tyrhung_sword_t3_v2",
     "name": "Tyrhung",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
@@ -32676,16 +32676,16 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 107,
-        "balance": 0.53,
-        "handling": 91,
+        "balance": 0.5,
+        "handling": 78,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 31,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 29,
+        "thrustSpeed": 89,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 85
       }
@@ -33678,16 +33678,16 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 96,
-        "balance": 0.52,
-        "handling": 84,
+        "balance": 0.51,
+        "handling": 85,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 35,
+        "thrustSpeed": 87,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 85
       }
@@ -33719,10 +33719,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 34,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -33749,17 +33749,17 @@
         "stackAmount": 0,
         "length": 98,
         "balance": 0.53,
-        "handling": 92,
+        "handling": 91,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 90,
         "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 86
       }
     ]
   },
@@ -33789,10 +33789,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 34,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
         "swingSpeed": 85
       }
@@ -33927,7 +33927,7 @@
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 86,
-        "swingDamage": 34,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
         "swingSpeed": 84
       }
@@ -33959,10 +33959,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 33,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 76
       }
@@ -33988,16 +33988,16 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.21,
+        "balance": 0.23,
         "handling": 83,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 35,
+        "thrustSpeed": 88,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 76
       }
@@ -34021,18 +34021,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 98,
-        "balance": 0.6,
-        "handling": 88,
+        "balance": 0.56,
+        "handling": 87,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 29,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
         "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 86
       }
     ]
   },
@@ -34055,15 +34055,15 @@
         "stackAmount": 0,
         "length": 117,
         "balance": 0.23,
-        "handling": 81,
+        "handling": 83,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 34,
+        "thrustSpeed": 86,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
         "swingSpeed": 76
       }
@@ -35390,18 +35390,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 97,
-        "balance": 0.56,
-        "handling": 81,
+        "balance": 0.59,
+        "handling": 76,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 87
       }
     ]
   },
