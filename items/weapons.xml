@@ -2329,7 +2329,7 @@
 	</CraftedItem>
 	<CraftedItem id="crpg_dawn" name="{=}Dawn" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
 		<Pieces>
-			<Piece id="crpg_dawn_blade" Type="Blade" scale_factor="135"/>
+			<Piece id="crpg_dawn_blade" Type="Blade" scale_factor="134"/>
 			<Piece id="crpg_dawn_guard" Type="Guard" scale_factor="125"/>
 			<Piece id="crpg_dawn_handle" Type="Handle" scale_factor="140"/>
 			<Piece id="crpg_dawn_pommel" Type="Pommel" scale_factor="140"/>
