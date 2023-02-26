@@ -1591,9 +1591,9 @@
     "name": "Heavy Horsemans Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 2985,
-    "weight": 1.68,
-    "tier": 5.90114069,
+    "price": 5324,
+    "weight": 1.6,
+    "tier": 8.249914,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1692,9 +1692,9 @@
     "name": "Decorated Elite Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 8089,
-    "weight": 2.45,
-    "tier": 10.4288578,
+    "price": 7968,
+    "weight": 2.42,
+    "tier": 10.342103,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -2099,9 +2099,9 @@
     "name": "Fine Steel Scimitar",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 7780,
-    "weight": 1.55,
-    "tier": 10.2060184,
+    "price": 7565,
+    "weight": 1.5,
+    "tier": 10.048089,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -5955,9 +5955,9 @@
     "name": "Blacksmith Warhammer",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6390,
-    "weight": 2.01,
-    "tier": 9.145045,
+    "price": 6944,
+    "weight": 2.15,
+    "tier": 9.580224,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -8548,9 +8548,9 @@
     "name": "Dawnbreaker",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6816,
-    "weight": 2.39,
-    "tier": 9.481055,
+    "price": 7683,
+    "weight": 2.36,
+    "tier": 10.1349392,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -8562,9 +8562,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 102,
-        "balance": 0.33,
-        "handling": 74,
+        "length": 99,
+        "balance": 0.39,
+        "handling": 75,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon"
@@ -8574,7 +8574,7 @@
         "thrustSpeed": 83,
         "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 81
       }
     ]
   },
@@ -11056,9 +11056,9 @@
     "name": "Decorated Short Spatha",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 8080,
+    "price": 7820,
     "weight": 1.85,
-    "tier": 10.4220381,
+    "tier": 10.2347546,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16667,9 +16667,9 @@
     "name": "Heavy Flanged Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 3003,
-    "weight": 2.09,
-    "tier": 5.921893,
+    "price": 7336,
+    "weight": 1.99,
+    "tier": 9.877777,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -19646,9 +19646,9 @@
     "name": "Military Hammer",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 7821,
-    "weight": 1.49,
-    "tier": 10.236001,
+    "price": 7032,
+    "weight": 1.45,
+    "tier": 9.6481905,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19743,7 +19743,7 @@
     "type": "Mount",
     "price": 7016,
     "weight": 450.0,
-    "tier": 8.907614,
+    "tier": 6.503736,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19765,7 +19765,7 @@
     "type": "Mount",
     "price": 8384,
     "weight": 450.0,
-    "tier": 9.376849,
+    "tier": 7.206992,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19787,7 +19787,7 @@
     "type": "Mount",
     "price": 10892,
     "weight": 450.0,
-    "tier": 10.1007595,
+    "tier": 8.362733,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19809,7 +19809,7 @@
     "type": "Mount",
     "price": 12297,
     "weight": 450.0,
-    "tier": 10.4508572,
+    "tier": 8.952493,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19831,7 +19831,7 @@
     "type": "Mount",
     "price": 16026,
     "weight": 450.0,
-    "tier": 11.2495375,
+    "tier": 10.3731222,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19853,7 +19853,7 @@
     "type": "Mount",
     "price": 19400,
     "weight": 450.0,
-    "tier": 11.8561363,
+    "tier": 11.5219641,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19875,7 +19875,7 @@
     "type": "Mount",
     "price": 1507,
     "weight": 450.0,
-    "tier": 5.513256,
+    "tier": 2.49147487,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19897,7 +19897,7 @@
     "type": "Mount",
     "price": 2145,
     "weight": 450.0,
-    "tier": 6.20048952,
+    "tier": 3.15131736,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19919,7 +19919,7 @@
     "type": "Mount",
     "price": 3080,
     "weight": 450.0,
-    "tier": 6.95779943,
+    "tier": 3.96811247,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19941,7 +19941,7 @@
     "type": "Mount",
     "price": 4274,
     "weight": 450.0,
-    "tier": 7.69281,
+    "tier": 4.85076427,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19963,7 +19963,7 @@
     "type": "Mount",
     "price": 5393,
     "weight": 450.0,
-    "tier": 8.2468,
+    "tier": 5.57456732,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19985,7 +19985,7 @@
     "type": "Mount",
     "price": 6289,
     "weight": 420.0,
-    "tier": 8.628228,
+    "tier": 6.10215759,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20007,7 +20007,7 @@
     "type": "Mount",
     "price": 8154,
     "weight": 420.0,
-    "tier": 9.302354,
+    "tier": 7.09293365,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20029,7 +20029,7 @@
     "type": "Mount",
     "price": 10575,
     "weight": 420.0,
-    "tier": 10.0168886,
+    "tier": 8.224431,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20051,7 +20051,7 @@
     "type": "Mount",
     "price": 12175,
     "weight": 420.0,
-    "tier": 10.4217911,
+    "tier": 8.902765,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20073,7 +20073,7 @@
     "type": "Mount",
     "price": 14923,
     "weight": 420.0,
-    "tier": 11.0296774,
+    "tier": 9.97162151,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20095,7 +20095,7 @@
     "type": "Mount",
     "price": 17916,
     "weight": 420.0,
-    "tier": 11.6001053,
+    "tier": 11.0297079,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20117,7 +20117,7 @@
     "type": "Mount",
     "price": 579,
     "weight": 420.0,
-    "tier": 3.86932349,
+    "tier": 1.22718561,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20139,7 +20139,7 @@
     "type": "Mount",
     "price": 851,
     "weight": 420.0,
-    "tier": 4.49625826,
+    "tier": 1.657077,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20161,7 +20161,7 @@
     "type": "Mount",
     "price": 1060,
     "weight": 420.0,
-    "tier": 4.87438154,
+    "tier": 1.94750786,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20183,7 +20183,7 @@
     "type": "Mount",
     "price": 1448,
     "weight": 420.0,
-    "tier": 5.4389205,
+    "tier": 2.42474222,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20205,7 +20205,7 @@
     "type": "Mount",
     "price": 2046,
     "weight": 420.0,
-    "tier": 6.10597372,
+    "tier": 3.05597663,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20227,7 +20227,7 @@
     "type": "Mount",
     "price": 2827,
     "weight": 420.0,
-    "tier": 6.77340126,
+    "tier": 3.76057076,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20249,7 +20249,7 @@
     "type": "Mount",
     "price": 3925,
     "weight": 420.0,
-    "tier": 7.49693155,
+    "tier": 4.606884,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20271,7 +20271,7 @@
     "type": "Mount",
     "price": 5466,
     "weight": 420.0,
-    "tier": 8.279811,
+    "tier": 5.619284,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20293,7 +20293,7 @@
     "type": "Mount",
     "price": 8081,
     "weight": 430.0,
-    "tier": 9.27831,
+    "tier": 7.05631447,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20315,7 +20315,7 @@
     "type": "Mount",
     "price": 9583,
     "weight": 430.0,
-    "tier": 9.741429,
+    "tier": 7.77831554,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20337,7 +20337,7 @@
     "type": "Mount",
     "price": 12406,
     "weight": 430.0,
-    "tier": 10.4768829,
+    "tier": 8.997137,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20359,7 +20359,7 @@
     "type": "Mount",
     "price": 16846,
     "weight": 430.0,
-    "tier": 11.405304,
+    "tier": 10.6623745,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20381,7 +20381,7 @@
     "type": "Mount",
     "price": 20272,
     "weight": 430.0,
-    "tier": 11.9993753,
+    "tier": 11.8020506,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20403,7 +20403,7 @@
     "type": "Mount",
     "price": 1603,
     "weight": 450.0,
-    "tier": 5.630917,
+    "tier": 2.59895325,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20425,7 +20425,7 @@
     "type": "Mount",
     "price": 2203,
     "weight": 430.0,
-    "tier": 6.25500059,
+    "tier": 3.20696974,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20447,7 +20447,7 @@
     "type": "Mount",
     "price": 3137,
     "weight": 430.0,
-    "tier": 6.99706554,
+    "tier": 4.01302671,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20469,7 +20469,7 @@
     "type": "Mount",
     "price": 4346,
     "weight": 430.0,
-    "tier": 7.73185444,
+    "tier": 4.90012932,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20491,7 +20491,7 @@
     "type": "Mount",
     "price": 6236,
     "weight": 430.0,
-    "tier": 8.606788,
+    "tier": 6.071869,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20513,7 +20513,7 @@
     "type": "Mount",
     "price": 6220,
     "weight": 520.0,
-    "tier": 8.600387,
+    "tier": 6.06284046,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20535,7 +20535,7 @@
     "type": "Mount",
     "price": 7089,
     "weight": 520.0,
-    "tier": 8.934379,
+    "tier": 6.54287863,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20557,7 +20557,7 @@
     "type": "Mount",
     "price": 7709,
     "weight": 520.0,
-    "tier": 9.153386,
+    "tier": 6.86758041,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20579,7 +20579,7 @@
     "type": "Mount",
     "price": 8836,
     "weight": 520.0,
-    "tier": 9.518836,
+    "tier": 7.42690468,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20601,7 +20601,7 @@
     "type": "Mount",
     "price": 11578,
     "weight": 520.0,
-    "tier": 10.2758207,
+    "tier": 8.655123,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20623,7 +20623,7 @@
     "type": "Mount",
     "price": 13245,
     "weight": 520.0,
-    "tier": 10.6700382,
+    "tier": 9.331944,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20645,7 +20645,7 @@
     "type": "Mount",
     "price": 15723,
     "weight": 520.0,
-    "tier": 11.1902046,
+    "tier": 10.26399,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20667,7 +20667,7 @@
     "type": "Mount",
     "price": 19520,
     "weight": 520.0,
-    "tier": 11.8760071,
+    "tier": 11.5606194,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20689,7 +20689,7 @@
     "type": "Mount",
     "price": 850,
     "weight": 520.0,
-    "tier": 4.493249,
+    "tier": 1.65485942,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20711,7 +20711,7 @@
     "type": "Mount",
     "price": 1383,
     "weight": 520.0,
-    "tier": 5.35360336,
+    "tier": 2.349268,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20733,7 +20733,7 @@
     "type": "Mount",
     "price": 1948,
     "weight": 520.0,
-    "tier": 6.00828552,
+    "tier": 2.958975,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20755,7 +20755,7 @@
     "type": "Mount",
     "price": 2753,
     "weight": 520.0,
-    "tier": 6.716852,
+    "tier": 3.69804144,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20777,7 +20777,7 @@
     "type": "Mount",
     "price": 3429,
     "weight": 520.0,
-    "tier": 7.19307661,
+    "tier": 4.24101257,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20799,7 +20799,7 @@
     "type": "Mount",
     "price": 3908,
     "weight": 520.0,
-    "tier": 7.486729,
+    "tier": 4.59435368,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20821,7 +20821,7 @@
     "type": "Mount",
     "price": 4243,
     "weight": 520.0,
-    "tier": 7.675955,
+    "tier": 4.82953167,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20843,7 +20843,7 @@
     "type": "Mount",
     "price": 4865,
     "weight": 520.0,
-    "tier": 7.99815,
+    "tier": 5.24347544,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20865,7 +20865,7 @@
     "type": "Mount",
     "price": 8368,
     "weight": 450.0,
-    "tier": 9.37179,
+    "tier": 7.199217,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20887,7 +20887,7 @@
     "type": "Mount",
     "price": 10093,
     "weight": 450.0,
-    "tier": 9.885577,
+    "tier": 8.010217,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20909,7 +20909,7 @@
     "type": "Mount",
     "price": 12992,
     "weight": 450.0,
-    "tier": 10.6126842,
+    "tier": 9.231891,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20931,7 +20931,7 @@
     "type": "Mount",
     "price": 17890,
     "weight": 450.0,
-    "tier": 11.5956087,
+    "tier": 11.0211592,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20953,7 +20953,7 @@
     "type": "Mount",
     "price": 21302,
     "weight": 450.0,
-    "tier": 12.162818,
+    "tier": 12.12575,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20975,7 +20975,7 @@
     "type": "Mount",
     "price": 1534,
     "weight": 450.0,
-    "tier": 5.547713,
+    "tier": 2.52271461,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -20997,7 +20997,7 @@
     "type": "Mount",
     "price": 2179,
     "weight": 450.0,
-    "tier": 6.23220158,
+    "tier": 3.183634,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21019,7 +21019,7 @@
     "type": "Mount",
     "price": 3111,
     "weight": 450.0,
-    "tier": 6.97926855,
+    "tier": 3.99263859,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21041,7 +21041,7 @@
     "type": "Mount",
     "price": 4474,
     "weight": 450.0,
-    "tier": 7.799703,
+    "tier": 4.98650551,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21063,7 +21063,7 @@
     "type": "Mount",
     "price": 6491,
     "weight": 450.0,
-    "tier": 8.708097,
+    "tier": 6.215653,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21085,7 +21085,7 @@
     "type": "Mount",
     "price": 8210,
     "weight": 420.0,
-    "tier": 9.320776,
+    "tier": 7.121054,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21107,7 +21107,7 @@
     "type": "Mount",
     "price": 9481,
     "weight": 420.0,
-    "tier": 9.711726,
+    "tier": 7.730953,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21129,7 +21129,7 @@
     "type": "Mount",
     "price": 12238,
     "weight": 420.0,
-    "tier": 10.4367933,
+    "tier": 8.928414,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21151,7 +21151,7 @@
     "type": "Mount",
     "price": 16205,
     "weight": 420.0,
-    "tier": 11.2840347,
+    "tier": 10.4368391,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21173,7 +21173,7 @@
     "type": "Mount",
     "price": 19293,
     "weight": 420.0,
-    "tier": 11.8381853,
+    "tier": 11.4871006,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21195,7 +21195,7 @@
     "type": "Mount",
     "price": 1628,
     "weight": 420.0,
-    "tier": 5.65955448,
+    "tier": 2.62545538,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21217,7 +21217,7 @@
     "type": "Mount",
     "price": 2246,
     "weight": 420.0,
-    "tier": 6.2944665,
+    "tier": 3.24756622,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21239,7 +21239,7 @@
     "type": "Mount",
     "price": 3199,
     "weight": 420.0,
-    "tier": 7.03996849,
+    "tier": 4.06239,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21261,7 +21261,7 @@
     "type": "Mount",
     "price": 4450,
     "weight": 420.0,
-    "tier": 7.7870717,
+    "tier": 4.970368,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21283,7 +21283,7 @@
     "type": "Mount",
     "price": 6367,
     "weight": 420.0,
-    "tier": 8.659401,
+    "tier": 6.14633,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21305,7 +21305,7 @@
     "type": "Mount",
     "price": 7562,
     "weight": 300.0,
-    "tier": 9.102712,
+    "tier": 6.791751,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21327,7 +21327,7 @@
     "type": "Mount",
     "price": 8851,
     "weight": 300.0,
-    "tier": 9.523221,
+    "tier": 7.43374968,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21349,7 +21349,7 @@
     "type": "Mount",
     "price": 11515,
     "weight": 300.0,
-    "tier": 10.2600384,
+    "tier": 8.628556,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21371,7 +21371,7 @@
     "type": "Mount",
     "price": 14975,
     "weight": 300.0,
-    "tier": 11.0403948,
+    "tier": 9.99101,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21393,7 +21393,7 @@
     "type": "Mount",
     "price": 18542,
     "weight": 300.0,
-    "tier": 11.7100611,
+    "tier": 11.2397976,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21415,7 +21415,7 @@
     "type": "Mount",
     "price": 1550,
     "weight": 300.0,
-    "tier": 5.56715536,
+    "tier": 2.540428,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21437,7 +21437,7 @@
     "type": "Mount",
     "price": 2130,
     "weight": 300.0,
-    "tier": 6.18717146,
+    "tier": 3.13779426,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21459,7 +21459,7 @@
     "type": "Mount",
     "price": 2944,
     "weight": 300.0,
-    "tier": 6.860152,
+    "tier": 3.857515,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21481,7 +21481,7 @@
     "type": "Mount",
     "price": 4086,
     "weight": 300.0,
-    "tier": 7.58922052,
+    "tier": 4.72100544,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21503,7 +21503,7 @@
     "type": "Mount",
     "price": 5810,
     "weight": 300.0,
-    "tier": 8.430206,
+    "tier": 5.825277,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21632,7 +21632,7 @@
     "type": "Mount",
     "price": 327,
     "weight": 300.0,
-    "tier": 3.0125072,
+    "tier": 0.7438689,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21654,7 +21654,7 @@
     "type": "Mount",
     "price": 1405,
     "weight": 300.0,
-    "tier": 5.383079,
+    "tier": 2.37520838,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -33662,9 +33662,9 @@
     "name": "Pernach",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 8991,
+    "price": 6782,
     "weight": 2.12,
-    "tier": 11.05542,
+    "tier": 9.454965,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -33695,9 +33695,9 @@
     "name": "Decorated Arming Sword",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 7207,
+    "price": 8111,
     "weight": 2.03,
-    "tier": 9.781045,
+    "tier": 10.4445753,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -33716,10 +33716,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 34,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
         "swingSpeed": 85
       }
