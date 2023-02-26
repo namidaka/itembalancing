@@ -27080,6 +27080,26 @@
         "swingDamage": 39,
         "swingDamageType": "Cut",
         "swingSpeed": 93
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.2,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 21,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 39,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
       }
     ]
   },
