@@ -19643,9 +19643,9 @@
     "name": "Military Hammer",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 7032,
+    "price": 7283,
     "weight": 1.45,
-    "tier": 9.6481905,
+    "tier": 9.838278,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -19662,13 +19662,12 @@
         "handling": 87,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
+          "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 91,
-        "swingDamage": 20,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
         "swingSpeed": 85
       }
