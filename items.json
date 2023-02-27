@@ -1762,9 +1762,9 @@
     "name": "Engraved Angular Kaskara",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 8047,
-    "weight": 2.16,
-    "tier": 10.398757,
+    "price": 7344,
+    "weight": 2.14,
+    "tier": 9.883899,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -1777,18 +1777,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 94,
-        "balance": 0.66,
+        "balance": 0.67,
         "handling": 92,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 31,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 90
       }
     ]
   },
