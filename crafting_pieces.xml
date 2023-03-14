@@ -785,7 +785,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_sturgia_lance_2_t4_handle" name="{=Telford}Hardened Pine Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_17" length="190" weight="1.6">
+  <CraftingPiece id="crpg_sturgia_lance_2_t4_handle" name="{=Telford}Hardened Pine Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_17" length="190" weight="1.8">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -797,7 +797,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_khuzait_lance_4_t5_handle" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.6">
+  <CraftingPiece id="crpg_khuzait_lance_4_t5_handle" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="2.0">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -809,7 +809,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_khuzait_lance_3_t4_handle" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.5">
+  <CraftingPiece id="crpg_khuzait_lance_3_t4_handle" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.8">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -888,7 +888,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_khuzait_lance_2_t3_handle" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.5">
+  <CraftingPiece id="crpg_khuzait_lance_2_t3_handle" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.9">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -902,7 +902,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_lance_2_t3_handle" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.6">
+  <CraftingPiece id="crpg_vlandia_lance_2_t3_handle" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="2.0">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -1622,7 +1622,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_sturgia_lance_2_t4_blade" name="{=Telford}Thamaskene Steel Leaf Shaped Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_41" length="53.2" weight="0.2792" excluded_item_usage_features="swing">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="2" />
@@ -1998,7 +1998,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_vlandia_lance_2_t3_blade" name="{=Telford}Long Grassland Spear" tier="3" piece_type="Blade" mesh="spear_blade_20" length="46" weight="0.3492" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />

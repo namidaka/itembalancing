@@ -1505,9 +1505,9 @@
     "name": "Az-zaġāyah",
     "culture": "Aserai",
     "type": "Polearm",
-    "price": 1319,
-    "weight": 2.01,
-    "tier": 2.3802824,
+    "price": 1159,
+    "weight": 1.89,
+    "tier": 2.17528749,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -1517,9 +1517,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 183,
+        "length": 174,
         "balance": 0.0,
-        "handling": 67,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -1527,10 +1527,10 @@
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 85,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 31
+        "swingSpeed": 36
       },
       {
         "class": "TwoHandedPolearm",
@@ -1538,9 +1538,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 183,
-        "balance": 0.19,
-        "handling": 64,
+        "length": 174,
+        "balance": 0.27,
+        "handling": 65,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -1550,10 +1550,10 @@
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 75
+        "swingSpeed": 78
       },
       {
         "class": "TwoHandedPolearm",
@@ -1561,9 +1561,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 183,
+        "length": 174,
         "balance": 0.0,
-        "handling": 67,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -1571,10 +1571,10 @@
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 85,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 31
+        "swingSpeed": 36
       }
     ]
   },
@@ -10685,9 +10685,9 @@
     "name": "Light Cavalry Lance",
     "culture": "Empire",
     "type": "Polearm",
-    "price": 790,
-    "weight": 1.97,
-    "tier": 1.64594328,
+    "price": 755,
+    "weight": 1.96,
+    "tier": 1.58943534,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10697,7 +10697,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 190,
+        "length": 188,
         "balance": 0.0,
         "handling": 63,
         "bodyArmor": 0,
@@ -10710,7 +10710,7 @@
         "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 24
       },
       {
         "class": "TwoHandedPolearm",
@@ -10718,8 +10718,8 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 190,
-        "balance": 0.04,
+        "length": 188,
+        "balance": 0.05,
         "handling": 60,
         "bodyArmor": 0,
         "flags": [
@@ -10741,7 +10741,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 190,
+        "length": 188,
         "balance": 0.0,
         "handling": 63,
         "bodyArmor": 0,
@@ -10754,7 +10754,7 @@
         "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 24
       }
     ]
   },
@@ -10763,9 +10763,9 @@
     "name": "Sasanian Light Lance",
     "culture": "Empire",
     "type": "Polearm",
-    "price": 705,
-    "weight": 1.85,
-    "tier": 1.50919855,
+    "price": 702,
+    "weight": 1.9,
+    "tier": 1.50341868,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10775,9 +10775,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 179,
+        "length": 183,
         "balance": 0.0,
-        "handling": 65,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -10788,7 +10788,7 @@
         "thrustSpeed": 84,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 29
+        "swingSpeed": 27
       },
       {
         "class": "TwoHandedPolearm",
@@ -10796,9 +10796,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 179,
-        "balance": 0.14,
-        "handling": 62,
+        "length": 183,
+        "balance": 0.1,
+        "handling": 61,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -10808,10 +10808,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 74
+        "swingSpeed": 73
       },
       {
         "class": "TwoHandedPolearm",
@@ -10819,9 +10819,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 179,
+        "length": 183,
         "balance": 0.0,
-        "handling": 65,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -10832,7 +10832,7 @@
         "thrustSpeed": 84,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 29
+        "swingSpeed": 27
       }
     ]
   },
@@ -16486,9 +16486,9 @@
     "name": "Decorated Steppe Lance",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 2243,
-    "weight": 1.71,
-    "tier": 3.388862,
+    "price": 1561,
+    "weight": 2.11,
+    "tier": 2.67008042,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16498,9 +16498,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 190,
+        "length": 192,
         "balance": 0.0,
-        "handling": 62,
+        "handling": 59,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16508,10 +16508,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 24
+        "swingSpeed": 18
       },
       {
         "class": "TwoHandedPolearm",
@@ -16519,9 +16519,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 190,
-        "balance": 0.05,
-        "handling": 59,
+        "length": 192,
+        "balance": 0.0,
+        "handling": 55,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16531,10 +16531,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 71
+        "swingSpeed": 66
       },
       {
         "class": "TwoHandedPolearm",
@@ -16542,9 +16542,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 190,
+        "length": 192,
         "balance": 0.0,
-        "handling": 62,
+        "handling": 59,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16552,10 +16552,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 24
+        "swingSpeed": 18
       }
     ]
   },
@@ -16639,12 +16639,12 @@
   },
   {
     "id": "crpg_khuzait_lance_3_t4",
-    "name": "Heavy Cavalry Lance",
+    "name": "Heavy Cavalry Lance 2",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 2522,
-    "weight": 1.94,
-    "tier": 3.652045,
+    "price": 1997,
+    "weight": 2.35,
+    "tier": 3.1432693,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16654,9 +16654,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 193,
+        "length": 198,
         "balance": 0.0,
-        "handling": 64,
+        "handling": 61,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16664,10 +16664,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 26
+        "swingSpeed": 18
       },
       {
         "class": "TwoHandedPolearm",
@@ -16675,9 +16675,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 193,
-        "balance": 0.08,
-        "handling": 61,
+        "length": 198,
+        "balance": 0.0,
+        "handling": 58,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16687,10 +16687,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 72
+        "swingSpeed": 67
       },
       {
         "class": "TwoHandedPolearm",
@@ -16698,9 +16698,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 193,
+        "length": 198,
         "balance": 0.0,
-        "handling": 64,
+        "handling": 61,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16708,10 +16708,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 26
+        "swingSpeed": 18
       }
     ]
   },
@@ -16800,9 +16800,9 @@
     "name": "Noble Cavalry Lance 2",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 2482,
-    "weight": 2.05,
-    "tier": 3.615607,
+    "price": 1710,
+    "weight": 2.45,
+    "tier": 2.83894968,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -16816,7 +16816,7 @@
         "stackAmount": 0,
         "length": 201,
         "balance": 0.0,
-        "handling": 61,
+        "handling": 59,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16824,7 +16824,7 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
+        "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 17
@@ -16837,7 +16837,7 @@
         "stackAmount": 0,
         "length": 201,
         "balance": 0.0,
-        "handling": 58,
+        "handling": 55,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16847,10 +16847,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 87,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 67
+        "swingSpeed": 64
       },
       {
         "class": "TwoHandedPolearm",
@@ -16860,7 +16860,7 @@
         "stackAmount": 0,
         "length": 201,
         "balance": 0.0,
-        "handling": 61,
+        "handling": 59,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16868,7 +16868,7 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
+        "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 17
@@ -30787,9 +30787,9 @@
     "name": "Druzhinnik Lance 2",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 999,
-    "weight": 2.12,
-    "tier": 1.95717943,
+    "price": 1352,
+    "weight": 2.35,
+    "tier": 2.42183948,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30801,18 +30801,18 @@
         "stackAmount": 0,
         "length": 189,
         "balance": 0.0,
-        "handling": 68,
+        "handling": 67,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 32
+        "swingSpeed": 29
       },
       {
         "class": "TwoHandedPolearm",
@@ -30821,8 +30821,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 189,
-        "balance": 0.19,
-        "handling": 66,
+        "balance": 0.13,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -30830,12 +30830,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 75
+        "swingSpeed": 73
       },
       {
         "class": "TwoHandedPolearm",
@@ -30845,18 +30845,18 @@
         "stackAmount": 0,
         "length": 189,
         "balance": 0.0,
-        "handling": 68,
+        "handling": 67,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 32
+        "swingSpeed": 29
       }
     ]
   },
@@ -33855,9 +33855,9 @@
     "name": "Knightly Full Lance",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 775,
-    "weight": 2.09,
-    "tier": 1.62244761,
+    "price": 901,
+    "weight": 2.53,
+    "tier": 1.81470335,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -33869,18 +33869,18 @@
         "stackAmount": 0,
         "length": 207,
         "balance": 0.0,
-        "handling": 57,
+        "handling": 54,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 80,
+        "thrustSpeed": 77,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 17
+        "swingSpeed": 16
       },
       {
         "class": "TwoHandedPolearm",
@@ -33890,7 +33890,7 @@
         "stackAmount": 0,
         "length": 207,
         "balance": 0.0,
-        "handling": 54,
+        "handling": 51,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -33898,12 +33898,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 86,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 63
+        "swingSpeed": 59
       },
       {
         "class": "TwoHandedPolearm",
@@ -33913,18 +33913,18 @@
         "stackAmount": 0,
         "length": 207,
         "balance": 0.0,
-        "handling": 57,
+        "handling": 54,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 80,
+        "thrustSpeed": 77,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 17
+        "swingSpeed": 16
       }
     ]
   },
@@ -34011,9 +34011,9 @@
     "name": "Cavalry Lance",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 1619,
-    "weight": 1.84,
-    "tier": 2.73683882,
+    "price": 1721,
+    "weight": 1.93,
+    "tier": 2.850289,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -34023,9 +34023,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 171,
+        "length": 179,
         "balance": 0.0,
-        "handling": 66,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -34033,10 +34033,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 84,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 32
+        "swingSpeed": 27
       },
       {
         "class": "TwoHandedPolearm",
@@ -34044,9 +34044,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 171,
-        "balance": 0.19,
-        "handling": 63,
+        "length": 179,
+        "balance": 0.12,
+        "handling": 61,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -34056,10 +34056,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 75
+        "swingSpeed": 73
       },
       {
         "class": "TwoHandedPolearm",
@@ -34067,9 +34067,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 171,
+        "length": 179,
         "balance": 0.0,
-        "handling": 66,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -34077,10 +34077,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 84,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 32
+        "swingSpeed": 27
       }
     ]
   },
