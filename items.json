@@ -749,7 +749,7 @@
   },
   {
     "id": "crpg_aserai_armor_02",
-    "name": "Aserai Chain Mail",
+    "name": "Southern Chain Mail",
     "culture": "Aserai",
     "type": "BodyArmor",
     "price": 11942,
@@ -1497,6 +1497,84 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 37
+      }
+    ]
+  },
+  {
+    "id": "crpg_aserai_lance_2_t5",
+    "name": "Az-zaġāyah",
+    "culture": "Aserai",
+    "type": "Polearm",
+    "price": 1319,
+    "weight": 2.01,
+    "tier": 2.3802824,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 183,
+        "balance": 0.0,
+        "handling": 67,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 31
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 183,
+        "balance": 0.19,
+        "handling": 64,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 75
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 183,
+        "balance": 0.0,
+        "handling": 67,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 31
       }
     ]
   },
@@ -2271,9 +2349,7 @@
     "weight": 27.0,
     "tier": 1.2833333,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 7,
@@ -2588,9 +2664,7 @@
     "weight": 21.0,
     "tier": 0.9166667,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 5,
@@ -2610,9 +2684,7 @@
     "weight": 23.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -2632,9 +2704,7 @@
     "weight": 24.0,
     "tier": 0.733333349,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 4,
@@ -4244,9 +4314,7 @@
     "weight": 30.0,
     "tier": 1.6500001,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 9,
@@ -4266,9 +4334,7 @@
     "weight": 76.0,
     "tier": 4.4,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 24,
@@ -4288,9 +4354,7 @@
     "weight": 125.0,
     "tier": 5.5,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 30,
@@ -7271,9 +7335,7 @@
     "weight": 130.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -7293,9 +7355,7 @@
     "weight": 130.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -7499,9 +7559,7 @@
     "weight": 130.0,
     "tier": 6.9666667,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 38,
@@ -7521,9 +7579,7 @@
     "weight": 120.0,
     "tier": 6.05,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 33,
@@ -8878,9 +8934,7 @@
     "weight": 22.5,
     "tier": 1.2833333,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 7,
@@ -10631,6 +10685,84 @@
     "name": "Light Cavalry Lance",
     "culture": "Empire",
     "type": "Polearm",
+    "price": 790,
+    "weight": 1.97,
+    "tier": 1.64594328,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 190,
+        "balance": 0.0,
+        "handling": 63,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 23
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 190,
+        "balance": 0.04,
+        "handling": 60,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 71
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 190,
+        "balance": 0.0,
+        "handling": 63,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 23
+      }
+    ]
+  },
+  {
+    "id": "crpg_empire_lance_2_t3",
+    "name": "Sasanian Light Lance",
+    "culture": "Empire",
+    "type": "Polearm",
     "price": 705,
     "weight": 1.85,
     "tier": 1.50919855,
@@ -11660,15 +11792,15 @@
     "name": "Legionary Padded Straps",
     "culture": "Empire",
     "type": "ShoulderArmor",
-    "price": 581,
+    "price": 745,
     "weight": 0.5544987,
-    "tier": 4.364077,
+    "tier": 4.71019363,
     "requirement": 0,
     "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 9,
-      "armArmor": 4,
+      "armArmor": 5,
       "legArmor": 0,
       "materialType": "Leather",
       "familyType": 0
@@ -13061,9 +13193,7 @@
     "weight": 90.0,
     "tier": 6.233333,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 34,
@@ -13083,9 +13213,7 @@
     "weight": 80.0,
     "tier": 6.60000038,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 36,
@@ -13105,9 +13233,7 @@
     "weight": 65.0,
     "tier": 5.683334,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 31,
@@ -14894,9 +15020,7 @@
     "weight": 22.0,
     "tier": 0.9166667,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 5,
@@ -14959,9 +15083,7 @@
     "weight": 135.0,
     "tier": 8.25,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 45,
@@ -16360,7 +16482,163 @@
     ]
   },
   {
+    "id": "crpg_khuzait_lance_2_t3",
+    "name": "Decorated Steppe Lance",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 2243,
+    "weight": 1.71,
+    "tier": 3.388862,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 190,
+        "balance": 0.0,
+        "handling": 62,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 24
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 190,
+        "balance": 0.05,
+        "handling": 59,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 92,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 71
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 190,
+        "balance": 0.0,
+        "handling": 62,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 24
+      }
+    ]
+  },
+  {
     "id": "crpg_khuzait_lance_2_t4",
+    "name": "Heavy Cavalry Lance",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 2522,
+    "weight": 1.94,
+    "tier": 3.652045,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 193,
+        "balance": 0.0,
+        "handling": 64,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 26
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 193,
+        "balance": 0.08,
+        "handling": 61,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 72
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 193,
+        "balance": 0.0,
+        "handling": 64,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 26
+      }
+    ]
+  },
+  {
+    "id": "crpg_khuzait_lance_3_t4",
     "name": "Heavy Cavalry Lance",
     "culture": "Khuzait",
     "type": "Polearm",
@@ -16514,6 +16792,86 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 18
+      }
+    ]
+  },
+  {
+    "id": "crpg_khuzait_lance_4_t5",
+    "name": "Noble Cavalry Lance 2",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 2482,
+    "weight": 2.05,
+    "tier": 3.615607,
+    "requirement": 0,
+    "flags": [
+      "NotStackable"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 201,
+        "balance": 0.0,
+        "handling": 61,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 17
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 201,
+        "balance": 0.0,
+        "handling": 58,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 90,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 67
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 201,
+        "balance": 0.0,
+        "handling": 61,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 17
       }
     ]
   },
@@ -18223,9 +18581,7 @@
     "weight": 20.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -18865,9 +19221,7 @@
     "weight": 145.0,
     "tier": 7.33333349,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 40,
@@ -19741,9 +20095,7 @@
     "weight": 450.0,
     "tier": 6.503736,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 7,
@@ -19763,9 +20115,7 @@
     "weight": 450.0,
     "tier": 7.206992,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 8,
@@ -19785,9 +20135,7 @@
     "weight": 450.0,
     "tier": 8.362733,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 8,
@@ -19807,9 +20155,7 @@
     "weight": 450.0,
     "tier": 8.952493,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 8,
@@ -19829,9 +20175,7 @@
     "weight": 450.0,
     "tier": 10.3731222,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 9,
@@ -19851,9 +20195,7 @@
     "weight": 450.0,
     "tier": 11.5219641,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 9,
@@ -19873,9 +20215,7 @@
     "weight": 450.0,
     "tier": 2.49147487,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 4,
@@ -19895,9 +20235,7 @@
     "weight": 450.0,
     "tier": 3.15131736,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 5,
@@ -19917,9 +20255,7 @@
     "weight": 450.0,
     "tier": 3.96811247,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 6,
@@ -19939,9 +20275,7 @@
     "weight": 450.0,
     "tier": 4.85076427,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 6,
@@ -19961,9 +20295,7 @@
     "weight": 450.0,
     "tier": 5.57456732,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 7,
@@ -19983,9 +20315,7 @@
     "weight": 420.0,
     "tier": 6.10215759,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20005,9 +20335,7 @@
     "weight": 420.0,
     "tier": 7.09293365,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20027,9 +20355,7 @@
     "weight": 420.0,
     "tier": 8.224431,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20049,9 +20375,7 @@
     "weight": 420.0,
     "tier": 8.902765,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20071,9 +20395,7 @@
     "weight": 420.0,
     "tier": 9.97162151,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 4,
@@ -20093,9 +20415,7 @@
     "weight": 420.0,
     "tier": 11.0297079,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 4,
@@ -20115,9 +20435,7 @@
     "weight": 420.0,
     "tier": 1.22718561,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 1,
@@ -20137,9 +20455,7 @@
     "weight": 420.0,
     "tier": 1.657077,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 1,
@@ -20159,9 +20475,7 @@
     "weight": 420.0,
     "tier": 1.94750786,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 2,
@@ -20181,9 +20495,7 @@
     "weight": 420.0,
     "tier": 2.42474222,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 2,
@@ -20203,9 +20515,7 @@
     "weight": 420.0,
     "tier": 3.05597663,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20225,9 +20535,7 @@
     "weight": 420.0,
     "tier": 3.76057076,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20247,9 +20555,7 @@
     "weight": 420.0,
     "tier": 4.606884,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20269,9 +20575,7 @@
     "weight": 420.0,
     "tier": 5.619284,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -20291,9 +20595,7 @@
     "weight": 430.0,
     "tier": 7.05631447,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
@@ -20313,9 +20615,7 @@
     "weight": 430.0,
     "tier": 7.77831554,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 7,
@@ -20335,9 +20635,7 @@
     "weight": 430.0,
     "tier": 8.997137,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 7,
@@ -20357,9 +20655,7 @@
     "weight": 430.0,
     "tier": 10.6623745,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 8,
@@ -20379,9 +20675,7 @@
     "weight": 430.0,
     "tier": 11.8020506,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 8,
@@ -20401,9 +20695,7 @@
     "weight": 450.0,
     "tier": 2.59895325,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 4,
@@ -20423,9 +20715,7 @@
     "weight": 430.0,
     "tier": 3.20696974,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 4,
@@ -20445,9 +20735,7 @@
     "weight": 430.0,
     "tier": 4.01302671,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 5,
@@ -20467,9 +20755,7 @@
     "weight": 430.0,
     "tier": 4.90012932,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 5,
@@ -20489,9 +20775,7 @@
     "weight": 430.0,
     "tier": 6.071869,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
@@ -20511,9 +20795,7 @@
     "weight": 520.0,
     "tier": 6.06284046,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 4,
@@ -20533,9 +20815,7 @@
     "weight": 520.0,
     "tier": 6.54287863,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 5,
@@ -20555,9 +20835,7 @@
     "weight": 520.0,
     "tier": 6.86758041,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 4,
@@ -20577,9 +20855,7 @@
     "weight": 520.0,
     "tier": 7.42690468,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 5,
@@ -20599,9 +20875,7 @@
     "weight": 520.0,
     "tier": 8.655123,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 5,
@@ -20621,9 +20895,7 @@
     "weight": 520.0,
     "tier": 9.331944,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 6,
@@ -20643,9 +20915,7 @@
     "weight": 520.0,
     "tier": 10.26399,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 7,
@@ -20665,9 +20935,7 @@
     "weight": 520.0,
     "tier": 11.5606194,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 7,
@@ -20687,9 +20955,7 @@
     "weight": 520.0,
     "tier": 1.65485942,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 2,
@@ -20709,9 +20975,7 @@
     "weight": 520.0,
     "tier": 2.349268,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 2,
@@ -20731,9 +20995,7 @@
     "weight": 520.0,
     "tier": 2.958975,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 3,
@@ -20753,9 +21015,7 @@
     "weight": 520.0,
     "tier": 3.69804144,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 4,
@@ -20775,9 +21035,7 @@
     "weight": 520.0,
     "tier": 4.24101257,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 4,
@@ -20797,9 +21055,7 @@
     "weight": 520.0,
     "tier": 4.59435368,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 5,
@@ -20819,9 +21075,7 @@
     "weight": 520.0,
     "tier": 4.82953167,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 4,
@@ -20841,9 +21095,7 @@
     "weight": 520.0,
     "tier": 5.24347544,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 110,
       "chargeDamage": 5,
@@ -20863,9 +21115,7 @@
     "weight": 450.0,
     "tier": 7.199217,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 7,
@@ -20885,9 +21135,7 @@
     "weight": 450.0,
     "tier": 8.010217,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 8,
@@ -20907,9 +21155,7 @@
     "weight": 450.0,
     "tier": 9.231891,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 8,
@@ -20929,9 +21175,7 @@
     "weight": 450.0,
     "tier": 11.0211592,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 9,
@@ -20951,9 +21195,7 @@
     "weight": 450.0,
     "tier": 12.12575,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 9,
@@ -20973,9 +21215,7 @@
     "weight": 450.0,
     "tier": 2.52271461,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 3,
@@ -20995,9 +21235,7 @@
     "weight": 450.0,
     "tier": 3.183634,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 4,
@@ -21017,9 +21255,7 @@
     "weight": 450.0,
     "tier": 3.99263859,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 5,
@@ -21039,9 +21275,7 @@
     "weight": 450.0,
     "tier": 4.98650551,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 6,
@@ -21061,9 +21295,7 @@
     "weight": 450.0,
     "tier": 6.215653,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 105,
       "chargeDamage": 7,
@@ -21083,9 +21315,7 @@
     "weight": 420.0,
     "tier": 7.121054,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 5,
@@ -21105,9 +21335,7 @@
     "weight": 420.0,
     "tier": 7.730953,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 5,
@@ -21127,9 +21355,7 @@
     "weight": 420.0,
     "tier": 8.928414,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 5,
@@ -21149,9 +21375,7 @@
     "weight": 420.0,
     "tier": 10.4368391,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
@@ -21171,9 +21395,7 @@
     "weight": 420.0,
     "tier": 11.4871006,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
@@ -21193,9 +21415,7 @@
     "weight": 420.0,
     "tier": 2.62545538,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -21215,9 +21435,7 @@
     "weight": 420.0,
     "tier": 3.24756622,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 3,
@@ -21237,9 +21455,7 @@
     "weight": 420.0,
     "tier": 4.06239,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 4,
@@ -21259,9 +21475,7 @@
     "weight": 420.0,
     "tier": 4.970368,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 4,
@@ -21281,9 +21495,7 @@
     "weight": 420.0,
     "tier": 6.14633,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 5,
@@ -21303,9 +21515,7 @@
     "weight": 300.0,
     "tier": 6.791751,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 3,
@@ -21325,9 +21535,7 @@
     "weight": 300.0,
     "tier": 7.43374968,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 4,
@@ -21347,9 +21555,7 @@
     "weight": 300.0,
     "tier": 8.628556,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 4,
@@ -21369,9 +21575,7 @@
     "weight": 300.0,
     "tier": 9.99101,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 4,
@@ -21391,9 +21595,7 @@
     "weight": 300.0,
     "tier": 11.2397976,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 5,
@@ -21413,9 +21615,7 @@
     "weight": 300.0,
     "tier": 2.540428,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 2,
@@ -21435,9 +21635,7 @@
     "weight": 300.0,
     "tier": 3.13779426,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 2,
@@ -21457,9 +21655,7 @@
     "weight": 300.0,
     "tier": 3.857515,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 2,
@@ -21479,9 +21675,7 @@
     "weight": 300.0,
     "tier": 4.72100544,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 2,
@@ -21501,9 +21695,7 @@
     "weight": 300.0,
     "tier": 5.825277,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 95,
       "chargeDamage": 3,
@@ -21564,9 +21756,7 @@
     "weight": 120.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -21586,9 +21776,7 @@
     "weight": 120.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -21608,9 +21796,7 @@
     "weight": 120.0,
     "tier": 1.1,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 6,
@@ -21630,9 +21816,7 @@
     "weight": 300.0,
     "tier": 0.7438689,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 92,
       "chargeDamage": 0,
@@ -21652,9 +21836,7 @@
     "weight": 300.0,
     "tier": 2.37520838,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "mount": {
       "bodyLength": 92,
       "chargeDamage": 1,
@@ -23057,9 +23239,7 @@
     "weight": 30.0,
     "tier": 2.2,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 12,
@@ -23079,9 +23259,7 @@
     "weight": 35.0,
     "tier": 1.6500001,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 9,
@@ -23187,9 +23365,7 @@
     "weight": 82.0,
     "tier": 4.4,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 24,
@@ -29207,9 +29383,7 @@
     "weight": 25.5,
     "tier": 1.6500001,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 9,
@@ -29267,9 +29441,7 @@
     "weight": 70.0,
     "tier": 4.0333333,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 22,
@@ -29289,9 +29461,7 @@
     "weight": 23.5,
     "tier": 1.2833333,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 7,
@@ -29745,9 +29915,7 @@
     "weight": 26.0,
     "tier": 1.6500001,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 9,
@@ -30091,9 +30259,7 @@
     "weight": 85.0,
     "tier": 5.683334,
     "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
+    "flags": [],
     "armor": {
       "headArmor": 0,
       "bodyArmor": 31,
@@ -30613,6 +30779,84 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 40
+      }
+    ]
+  },
+  {
+    "id": "crpg_sturgia_lance_2_t4",
+    "name": "Druzhinnik Lance 2",
+    "culture": "Sturgia",
+    "type": "Polearm",
+    "price": 999,
+    "weight": 2.12,
+    "tier": 1.95717943,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 189,
+        "balance": 0.0,
+        "handling": 68,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 32
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 189,
+        "balance": 0.19,
+        "handling": 66,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 75
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 189,
+        "balance": 0.0,
+        "handling": 68,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 32
       }
     ]
   },
@@ -31723,6 +31967,42 @@
     "weapons": []
   },
   {
+    "id": "crpg_testudo_standard_t3",
+    "name": "Testudo Standard",
+    "culture": "Empire",
+    "type": "Banner",
+    "price": 7000,
+    "weight": 0.2,
+    "tier": 10.0,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "DropOnWeaponChange",
+      "HeldInOffHand",
+      "HasToBeHeldUp"
+    ],
+    "weapons": [
+      {
+        "class": "Banner",
+        "itemUsage": "banner",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 150,
+        "balance": 1.0,
+        "handling": 78,
+        "bodyArmor": 0,
+        "flags": [],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 78,
+        "swingDamage": 6,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 97
+      }
+    ]
+  },
+  {
     "id": "crpg_thamaskene_pike_t4",
     "name": "Thamaskene Pike",
     "culture": "Neutral",
@@ -32029,9 +32309,9 @@
     "name": "Stone",
     "culture": "Neutral",
     "type": "Thrown",
-    "price": 200,
+    "price": 295,
     "weight": 0.1,
-    "tier": 1,
+    "tier": 1.17649007,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -32052,7 +32332,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 7,
         "thrustDamageType": "Blunt",
         "thrustSpeed": 102,
         "swingDamage": 0,
@@ -32544,7 +32824,7 @@
     ]
   },
   {
-    "id": "crpg_tug_of_the_endless _steppe_t3",
+    "id": "crpg_tug_of_the_endless_steppe_t3",
     "name": "Tug of the Endless Steppe",
     "culture": "Khuzait",
     "type": "Banner",
@@ -33571,6 +33851,84 @@
     ]
   },
   {
+    "id": "crpg_vlandia_lance_2_t3",
+    "name": "Knightly Full Lance",
+    "culture": "Vlandia",
+    "type": "Polearm",
+    "price": 775,
+    "weight": 2.09,
+    "tier": 1.62244761,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 207,
+        "balance": 0.0,
+        "handling": 57,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 17
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 207,
+        "balance": 0.0,
+        "handling": 54,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 89,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 63
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 207,
+        "balance": 0.0,
+        "handling": 57,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 17
+      }
+    ]
+  },
+  {
     "id": "crpg_vlandia_lance_2_t4",
     "name": "Knight Lance",
     "culture": "Vlandia",
@@ -33645,6 +34003,84 @@
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 24
+      }
+    ]
+  },
+  {
+    "id": "crpg_vlandia_lance_3_t4",
+    "name": "Cavalry Lance",
+    "culture": "Vlandia",
+    "type": "Polearm",
+    "price": 1619,
+    "weight": 1.84,
+    "tier": 2.73683882,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 171,
+        "balance": 0.0,
+        "handling": 66,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 32
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 171,
+        "balance": 0.19,
+        "handling": 63,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 92,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 75
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_couch",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 171,
+        "balance": 0.0,
+        "handling": 66,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 32
       }
     ]
   },
