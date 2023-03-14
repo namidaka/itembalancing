@@ -726,7 +726,7 @@
       <Piece id="crpg_vlandia_lance_1_t3_handle" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_vlandia_lance_2_t3" name="{=}Knightly Full Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_vlandia_lance_2_t3" name="{=Telford}Knightly Full Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_lance_2_t3_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_vlandia_lance_2_t3_handle" Type="Handle" scale_factor="109" />
@@ -738,7 +738,7 @@
       <Piece id="crpg_empire_lance_1_t3_handle" Type="Handle" scale_factor="108" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_empire_lance_2_t3" name="{=}Sasanian Light Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+  <CraftedItem id="crpg_empire_lance_2_t3" name="{=Telford}Sasanian Light Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_empire_lance_2_t3_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_empire_lance_2_t3_handle" Type="Handle" scale_factor="100" />
@@ -751,7 +751,7 @@
       <Piece id="crpg_khuzait_lance_1_t3_handle" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_khuzait_lance_2_t3" name="{=}Decorated Steppe Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_khuzait_lance_2_t3" name="{=Telford}Decorated Steppe Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_khuzait_lance_2_t3_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_khuzait_lance_2_t3_guard" Type="Guard" scale_factor="100" />
@@ -764,7 +764,7 @@
       <Piece id="crpg_aserai_lance_1_t5_handle" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_aserai_lance_2_t5" name="{=}Az-zaġāyah" crafting_template="crpg_TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+  <CraftedItem id="crpg_aserai_lance_2_t5" name="{=Telford}Az-zaġāyah" crafting_template="crpg_TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_aserai_lance_2_t5_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_aserai_lance_2_t5_handle" Type="Handle" scale_factor="110" />
@@ -776,7 +776,7 @@
       <Piece id="crpg_vlandia_lance_2_t4_handle" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_vlandia_lance_3_t4" name="{=}Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_vlandia_lance_3_t4" name="{=Telford}Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_lance_3_t4_blade" Type="Blade" scale_factor="110" />
       <Piece id="crpg_vlandia_lance_3_t4_handle" Type="Handle" scale_factor="100" />
@@ -794,7 +794,7 @@
       <Piece id="crpg_sturgia_lance_1_t4_handle" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_sturgia_lance_2_t4" name="{=}Druzhinnik Lance 2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
+  <CraftedItem id="crpg_sturgia_lance_2_t4" name="{=Telford}Druzhinnik Lance 2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_sturgia_lance_2_t4_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_sturgia_lance_2_t4_handle" Type="Handle" scale_factor="115" />
@@ -806,7 +806,7 @@
       <Piece id="crpg_khuzait_lance_2_t4_handle" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_khuzait_lance_3_t4" name="{=}Heavy Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_khuzait_lance_3_t4" name="{=Telford}Heavy Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_khuzait_lance_3_t4_blade" Type="Blade" scale_factor="110" />
       <Piece id="crpg_khuzait_lance_3_t4_handle" Type="Handle" scale_factor="110" />
@@ -838,7 +838,7 @@
       <Piece id="crpg_khuzait_lance_3_t5_pommel" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_khuzait_lance_4_t5" name="{=}Noble Cavalry Lance 2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_khuzait_lance_4_t5" name="{=Telford}Noble Cavalry Lance 2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_khuzait_lance_4_t5_blade" Type="Blade" scale_factor="110" />
       <Piece id="crpg_khuzait_lance_4_t5_guard" Type="Guard" scale_factor="100" />
