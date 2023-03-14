@@ -1495,8 +1495,8 @@
     <Flags UseTeamColor="true" />
   </Item>
   <Item id="crpg_heraldic_mail_with_tabbard" name="Mail With Tabard Heraldic" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="9.89492" difficulty="0" appearance="1" Type="BodyArmor">
-	<ItemComponent>
-	  <Armor body_armor="44" leg_armor="11" arm_armor="11" covers_body="true" modifier_group="Chainmail" material_type="Chainmail"/>
-	</ItemComponent>
+    <ItemComponent>
+      <Armor body_armor="44" leg_armor="11" arm_armor="11" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
   </Item>
 </Items>
