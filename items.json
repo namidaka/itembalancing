@@ -7080,7 +7080,7 @@
     ],
     "weapons": [
       {
-        "class": "SmallShield",
+        "class": "LargeShield",
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
@@ -18503,7 +18503,7 @@
     ],
     "weapons": [
       {
-        "class": "SmallShield",
+        "class": "LargeShield",
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
@@ -31636,42 +31636,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_testudo_standard_t3",
-    "name": "Testudo Standard",
-    "culture": "Empire",
-    "type": "Banner",
-    "price": 7000,
-    "weight": 0.2,
-    "tier": 10.0,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "DropOnWeaponChange",
-      "HeldInOffHand",
-      "HasToBeHeldUp"
-    ],
-    "weapons": [
-      {
-        "class": "Banner",
-        "itemUsage": "banner",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 150,
-        "balance": 1.0,
-        "handling": 78,
-        "bodyArmor": 0,
-        "flags": [],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 78,
-        "swingDamage": 6,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 97
-      }
-    ]
-  },
-  {
     "id": "crpg_thamaskene_pike_t4",
     "name": "Thamaskene Pike",
     "culture": "Neutral",
@@ -33543,9 +33507,9 @@
     "name": "Decorated Demilance",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 6840,
-    "weight": 1.47,
-    "tier": 6.66919565,
+    "price": 6089,
+    "weight": 1.57,
+    "tier": 6.23329,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -33557,7 +33521,7 @@
         "stackAmount": 0,
         "length": 168,
         "balance": 0.0,
-        "handling": 78,
+        "handling": 77,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -33565,10 +33529,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 51
+        "swingSpeed": 50
       },
       {
         "class": "TwoHandedPolearm",
@@ -33577,8 +33541,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 168,
-        "balance": 0.64,
-        "handling": 77,
+        "balance": 0.61,
+        "handling": 76,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -33588,10 +33552,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 97,
+        "thrustSpeed": 96,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 89
+        "swingSpeed": 88
       },
       {
         "class": "TwoHandedPolearm",
@@ -33601,7 +33565,7 @@
         "stackAmount": 0,
         "length": 168,
         "balance": 0.0,
-        "handling": 78,
+        "handling": 77,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -33609,10 +33573,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 51
+        "swingSpeed": 50
       }
     ]
   },
