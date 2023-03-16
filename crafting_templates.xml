@@ -1208,7 +1208,6 @@
 	  <UsablePiece piece_id="crpg_sherpherds_head"/>
       <UsablePiece piece_id="crpg_sherpherds_handle"/>
       <UsablePiece piece_id="crpg_kaskara_2hsword_t3_pommel" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_1_t2_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_4_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_noble_sword_1_t5_pommel" />
@@ -1410,7 +1409,6 @@
       <UsablePiece piece_id="crpg_iron_spatha_sword_t2_pommel" />
       <UsablePiece piece_id="crpg_justicier_2hsword_pommel" />
       <UsablePiece piece_id="crpg_kaskara_2hsword_t3_pommel" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_1_t2_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_4_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_noble_sword_1_t5_pommel" />
@@ -1562,9 +1560,7 @@
       <UsablePiece piece_id="crpg_spiked_polehammer_handle"/>
       <UsablePiece piece_id="crpg_bec_de_corbin_handle"/>
       <UsablePiece piece_id="crpg_bec_de_corbin_blade"/>
-      <UsablePiece piece_id="crpg_aserai_lance_1_t5_blade" />
       <UsablePiece piece_id="crpg_aserai_lance_2_t5_blade" />
-      <UsablePiece piece_id="crpg_aserai_lance_1_t5_handle" />
       <UsablePiece piece_id="crpg_aserai_lance_2_t5_handle" />
       <UsablePiece piece_id="crpg_battania_mace_1_t3_pommel" />
       <UsablePiece piece_id="crpg_battania_polearm_1_t5_blade" />
@@ -1638,23 +1634,15 @@
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_blade" />
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_guard" />
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_pommel" />
-      <UsablePiece piece_id="crpg_khuzait_lance_1_t3_blade" />
       <UsablePiece piece_id="crpg_khuzait_lance_2_t3_blade" />
-      <UsablePiece piece_id="crpg_khuzait_lance_1_t3_guard" />
       <UsablePiece piece_id="crpg_khuzait_lance_2_t3_guard" />
-      <UsablePiece piece_id="crpg_khuzait_lance_1_t3_handle" />
       <UsablePiece piece_id="crpg_khuzait_lance_2_t3_handle" />
-      <UsablePiece piece_id="crpg_khuzait_lance_2_t4_blade" />
       <UsablePiece piece_id="crpg_khuzait_lance_3_t4_blade" />
-      <UsablePiece piece_id="crpg_khuzait_lance_2_t4_handle" />
       <UsablePiece piece_id="crpg_khuzait_lance_3_t4_handle" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_blade" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_guard" />
+      <UsablePiece piece_id="crpg_khuzait_lance_2_t5_guard" />
       <UsablePiece piece_id="crpg_khuzait_lance_4_t5_blade" />
       <UsablePiece piece_id="crpg_khuzait_lance_4_t5_guard" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_handle" />
       <UsablePiece piece_id="crpg_khuzait_lance_4_t5_handle" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_lance_4_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_polearm_1_t4_blade" />
       <UsablePiece piece_id="crpg_khuzait_polearm_1_t4_guard" />
@@ -1717,9 +1705,7 @@
       <UsablePiece piece_id="crpg_southern_spear_4_t3_blade" />
       <UsablePiece piece_id="crpg_southern_spear_4_t3_guard" />
       <UsablePiece piece_id="crpg_southern_spear_4_t3_handle" />
-      <UsablePiece piece_id="crpg_sturgia_lance_1_t4_blade" />
       <UsablePiece piece_id="crpg_sturgia_lance_2_t4_blade" />
-      <UsablePiece piece_id="crpg_sturgia_lance_1_t4_handle" />
       <UsablePiece piece_id="crpg_sturgia_lance_2_t4_handle" />
       <UsablePiece piece_id="crpg_sturgia_lance_2_t5_blade" />
       <UsablePiece piece_id="crpg_sturgia_lance_2_t5_handle" />
@@ -1730,13 +1716,16 @@
       <UsablePiece piece_id="crpg_thamaskene_pike_t4_blade" />
       <UsablePiece piece_id="crpg_triangluar_spear_t3_blade" />
       <UsablePiece piece_id="crpg_triangluar_spear_t3_handle" />
-      <UsablePiece piece_id="crpg_vlandia_lance_1_t3_blade" />
+      <UsablePiece piece_id="crpg_vlandia_lance_1_t1_blade" />
+      <UsablePiece piece_id="crpg_vlandia_lance_1_t1_handle" />
+      <UsablePiece piece_id="crpg_vlandia_lance_2_t1_blade" />
+      <UsablePiece piece_id="crpg_vlandia_lance_2_t1_handle" />
+      <UsablePiece piece_id="crpg_vlandia_lance_2_t1_guard" />
       <UsablePiece piece_id="crpg_vlandia_lance_2_t3_blade" />
-      <UsablePiece piece_id="crpg_vlandia_lance_1_t3_handle" />
+      <UsablePiece piece_id="crpg_vlandia_lance_3_t3_blade" />
       <UsablePiece piece_id="crpg_vlandia_lance_2_t3_handle" />
-      <UsablePiece piece_id="crpg_vlandia_lance_2_t4_blade" />
+      <UsablePiece piece_id="crpg_vlandia_lance_3_t3_handle" />
       <UsablePiece piece_id="crpg_vlandia_lance_3_t4_blade" />
-      <UsablePiece piece_id="crpg_vlandia_lance_2_t4_handle" />
       <UsablePiece piece_id="crpg_vlandia_lance_3_t4_handle" />
       <UsablePiece piece_id="crpg_vlandia_lance_3_t5_blade" />
       <UsablePiece piece_id="crpg_vlandia_lance_3_t5_handle" />
@@ -1878,7 +1867,6 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
-      <UsablePiece piece_id="crpg_aserai_lance_1_t5_blade" />
       <UsablePiece piece_id="crpg_battania_polearm_1_t5_pommel" />
       <UsablePiece piece_id="crpg_billhook_polearm_t2_guard" />
       <UsablePiece piece_id="crpg_billhook_polearm_t2_pommel" />
@@ -1922,9 +1910,6 @@
       <UsablePiece piece_id="crpg_imperial_spear_t2_blade" />
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_blade" />
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_guard" />
-      <UsablePiece piece_id="crpg_khuzait_lance_1_t3_blade" />
-      <UsablePiece piece_id="crpg_khuzait_lance_2_t4_blade" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_blade" />
       <UsablePiece piece_id="crpg_khuzait_polearm_1_t4_blade" />
       <UsablePiece piece_id="crpg_khuzait_polearm_1_t4_pommel" />
       <UsablePiece piece_id="crpg_khuzait_polearm_2_t5_blade" />
@@ -1952,15 +1937,12 @@
       <UsablePiece piece_id="crpg_southern_spear_3_t4_blade" />
       <UsablePiece piece_id="crpg_southern_spear_4_t3_blade" />
       <UsablePiece piece_id="crpg_southern_spear_4_t3_guard" />
-      <UsablePiece piece_id="crpg_sturgia_lance_1_t4_blade" />
       <UsablePiece piece_id="crpg_sturgia_lance_2_t5_blade" />
       <UsablePiece piece_id="crpg_sturgia_polearm_1_t5_guard" />
       <UsablePiece piece_id="crpg_sturgia_polearm_1_t5_pommel" />
       <UsablePiece piece_id="crpg_thamaskene_pike_t4_blade" />
       <UsablePiece piece_id="crpg_thamaskene_pike_t4_handle" />
       <UsablePiece piece_id="crpg_triangluar_spear_t3_blade" />
-      <UsablePiece piece_id="crpg_vlandia_lance_1_t3_blade" />
-      <UsablePiece piece_id="crpg_vlandia_lance_2_t4_blade" />
       <UsablePiece piece_id="crpg_vlandia_lance_3_t5_blade" />
       <UsablePiece piece_id="crpg_vlandia_pike_1_t5_blade" />
       <UsablePiece piece_id="crpg_vlandia_pike_1_t5_handle" />
@@ -2030,7 +2012,6 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
-      <UsablePiece piece_id="crpg_aserai_lance_1_t5_blade" />
       <UsablePiece piece_id="crpg_battania_polearm_1_t5_guard" />
       <UsablePiece piece_id="crpg_battania_polearm_1_t5_pommel" />
       <UsablePiece piece_id="crpg_billhook_polearm_t2_guard" />
@@ -2075,7 +2056,6 @@
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_guard" />
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_handle" />
       <UsablePiece piece_id="crpg_imperial_throwing_spear_1_t4_pommel" />
-      <UsablePiece piece_id="crpg_khuzait_lance_1_t3_blade" />
       <UsablePiece piece_id="crpg_khuzait_polearm_1_t4_pommel" />
       <UsablePiece piece_id="crpg_khuzait_polearm_2_t5_guard" />
       <UsablePiece piece_id="crpg_khuzait_polearm_2_t5_pommel" />
@@ -2103,7 +2083,6 @@
       <UsablePiece piece_id="crpg_southern_spear_3_t4_guard" />
       <UsablePiece piece_id="crpg_southern_spear_4_t3_blade" />
       <UsablePiece piece_id="crpg_southern_spear_4_t3_guard" />
-      <UsablePiece piece_id="crpg_sturgia_lance_1_t4_blade" />
       <UsablePiece piece_id="crpg_sturgia_polearm_1_t5_guard" />
       <UsablePiece piece_id="crpg_sturgia_polearm_1_t5_pommel" />
       <UsablePiece piece_id="crpg_thamaskene_pike_t4_blade" />
@@ -2259,7 +2238,6 @@
       <UsablePiece piece_id="crpg_judgement_mace_t3_handle" />
       <UsablePiece piece_id="crpg_justicier_2hsword_pommel" />
       <UsablePiece piece_id="crpg_kaskara_2hsword_t3_pommel" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_1_t2_blade" />
       <UsablePiece piece_id="crpg_khuzait_mace_1_t2_handle" />
       <UsablePiece piece_id="crpg_khuzait_mace_1_t2_pommel" />
@@ -2479,7 +2457,6 @@
       <UsablePiece piece_id="crpg_iron_spatha_sword_t2_pommel" />
       <UsablePiece piece_id="crpg_justicier_2hsword_pommel" />
       <UsablePiece piece_id="crpg_kaskara_2hsword_t3_pommel" />
-      <UsablePiece piece_id="crpg_khuzait_lance_3_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_1_t2_pommel" />
       <UsablePiece piece_id="crpg_khuzait_mace_4_t5_pommel" />
       <UsablePiece piece_id="crpg_khuzait_noble_sword_1_t5_pommel" />
