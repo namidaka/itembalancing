@@ -720,7 +720,7 @@
       <Piece id="crpg_khuzait_polearm_2_t5_pommel" Type="Pommel" scale_factor="97" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_vlandia_lance_3_t3" name="{=Telford}Knightly Long Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_vlandia_lance_3_t3" name="{=Telford}Knightly Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_lance_3_t3_blade" Type="Blade" scale_factor="100" />
       <Piece id="crpg_vlandia_lance_3_t3_handle" Type="Handle" scale_factor="88" />
