@@ -732,12 +732,6 @@
       <Piece id="crpg_vlandia_lance_2_t3_handle" Type="Handle" scale_factor="99" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_empire_lance_1_t3" name="{=TQ1MVhIX}Light Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
-    <Pieces>
-      <Piece id="crpg_empire_lance_1_t3_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_empire_lance_1_t3_handle" Type="Handle" scale_factor="107" />
-    </Pieces>
-  </CraftedItem>
   <CraftedItem id="crpg_empire_lance_2_t3" name="{=Telford}Sasanian Light Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_empire_lance_2_t3_blade" Type="Blade" scale_factor="100" />

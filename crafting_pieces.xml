@@ -821,12 +821,6 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_empire_lance_1_t3_handle" name="{=pocRP9dq}Long Ash Staff" tier="3" piece_type="Handle" mesh="spear_handle_13" length="228" weight="1.55" CraftingCost="110">
-    <BuildData piece_offset="22.9" />
-    <Materials>
-      <Material id="Wood" count="1" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_empire_lance_2_t3_handle" name="{=Telford}Long Ash Staff" tier="3" piece_type="Handle" mesh="spear_handle_13" length="228" weight="1.2" CraftingCost="110">
     <BuildData piece_offset="26.9" />
     <Materials>
@@ -1489,14 +1483,6 @@
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_empire_lance_1_t3_blade" name="{=OryiZr9d}Kontarion" tier="3" piece_type="Blade" mesh="spear_blade_23" length="42" weight="0.30" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.3" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_lance_2_t3_blade" name="{=Telford}Kontarion" tier="3" piece_type="Blade" mesh="spear_blade_23" length="42" weight="0.30" excluded_item_usage_features="swing">
