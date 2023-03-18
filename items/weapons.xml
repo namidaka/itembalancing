@@ -720,6 +720,13 @@
       <Piece id="crpg_khuzait_polearm_2_t5_pommel" Type="Pommel" scale_factor="97" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_aserai_lance_5_t5" name="{=Telford}Mamluke Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.aserai" modifier_group="polearm">
+		<Pieces>
+			<Piece id="crpg_aserai_lance_5_t5_blade" Type="Blade" scale_factor="100" />
+			<Piece id="crpg_aserai_lance_5_t5_handle" Type="Handle" scale_factor="80" />
+			<Piece id="crpg_aserai_lance_5_t5_pommel" Type="Pommel" scale_factor="100" />
+		</Pieces>
+  </CraftedItem>
   <CraftedItem id="crpg_vlandia_lance_3_t3" name="{=Telford}Knightly Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_lance_3_t3_blade" Type="Blade" scale_factor="100" />
@@ -776,13 +783,13 @@
       <Piece id="crpg_khuzait_lance_3_t4_handle" Type="Handle" scale_factor="102" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_vlandia_lance_3_t5" name="{=sWUbsPty}Heavy Knight Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_vlandia_lance_3_t5" name="{=Telford}Heavy Knight Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_vlandia_lance_3_t5_blade" Type="Blade" scale_factor="140" />
       <Piece id="crpg_vlandia_lance_3_t5_handle" Type="Handle" scale_factor="138" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_sturgia_lance_2_t5" name="{=tzoARfAm}Heavy Druzhinnik Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
+  <CraftedItem id="crpg_sturgia_lance_2_t5" name="{=Telford}Heavy Druzhinnik Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_sturgia_lance_2_t5_blade" Type="Blade" scale_factor="148" />
       <Piece id="crpg_sturgia_lance_2_t5_handle" Type="Handle" scale_factor="148" />
