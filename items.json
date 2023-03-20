@@ -9634,9 +9634,9 @@
     "name": "Chinese War Lance",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 232,
-    "weight": 2.01,
-    "tier": 0.5579499,
+    "price": 254,
+    "weight": 1.88,
+    "tier": 0.614750564,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -9646,9 +9646,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 186,
+        "length": 189,
         "balance": 0.0,
-        "handling": 60,
+        "handling": 61,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -9656,7 +9656,7 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Cut",
-        "thrustSpeed": 82,
+        "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 18
@@ -9667,7 +9667,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 186,
+        "length": 189,
         "balance": 0.0,
         "handling": 57,
         "bodyArmor": 0,
@@ -9679,7 +9679,7 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Cut",
-        "thrustSpeed": 90,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 68
@@ -9690,9 +9690,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 186,
+        "length": 189,
         "balance": 0.0,
-        "handling": 60,
+        "handling": 61,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -9700,7 +9700,7 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Cut",
-        "thrustSpeed": 82,
+        "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 18
@@ -30514,9 +30514,9 @@
     "name": "Druzhinnik Lance",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 3919,
-    "weight": 2.41,
-    "tier": 4.79748631,
+    "price": 3593,
+    "weight": 2.37,
+    "tier": 4.55098629,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -30526,7 +30526,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 189,
+        "length": 186,
         "balance": 0.0,
         "handling": 67,
         "bodyArmor": 0,
@@ -30536,10 +30536,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 80,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 28
+        "swingSpeed": 29
       },
       {
         "class": "TwoHandedPolearm",
@@ -30547,8 +30547,8 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 189,
-        "balance": 0.12,
+        "length": 186,
+        "balance": 0.14,
         "handling": 64,
         "bodyArmor": 0,
         "flags": [
@@ -30562,7 +30562,7 @@
         "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 73
+        "swingSpeed": 74
       },
       {
         "class": "TwoHandedPolearm",
@@ -30570,7 +30570,7 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 189,
+        "length": 186,
         "balance": 0.0,
         "handling": 67,
         "bodyArmor": 0,
@@ -30580,10 +30580,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 80,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 28
+        "swingSpeed": 29
       }
     ]
   },

@@ -950,8 +950,8 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_eastern_lance_1_t3_handle" name="{=Telford}Reinforced Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_21" length="230" weight="1.65">
-    <BuildData piece_offset="17.9" />
+  <CraftingPiece id="crpg_eastern_lance_1_t3_handle" name="{=Telford}Reinforced Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_21" length="230" weight="1.45">
+    <BuildData piece_offset="16.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>

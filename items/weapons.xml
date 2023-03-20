@@ -773,7 +773,7 @@
   <CraftedItem id="crpg_sturgia_lance_2_t4" name="{=Telford}Druzhinnik Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.sturgia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_sturgia_lance_2_t4_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_sturgia_lance_2_t4_handle" Type="Handle" scale_factor="115" />
+      <Piece id="crpg_sturgia_lance_2_t4_handle" Type="Handle" scale_factor="113" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_khuzait_lance_3_t4" name="{=Telford}Heavy Cavalry Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
@@ -820,7 +820,7 @@
   <CraftedItem id="crpg_eastern_lance_1_t3" name="{=Telford}Chinese War Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_eastern_lance_1_t3_blade" Type="Blade" scale_factor="98" />
-			<Piece id="crpg_eastern_lance_1_t3_handle" Type="Handle" scale_factor="88" />
+			<Piece id="crpg_eastern_lance_1_t3_handle" Type="Handle" scale_factor="91" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_lance_1_t1" name="{=Telford}Wrapped Short Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.vlandia" modifier_group="polearm">
