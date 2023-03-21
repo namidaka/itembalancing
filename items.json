@@ -9634,9 +9634,9 @@
     "name": "Chinese War Lance",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 254,
+    "price": 1836,
     "weight": 1.88,
-    "tier": 0.614750564,
+    "tier": 2.97539377,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -9655,7 +9655,7 @@
           "WideGrip"
         ],
         "thrustDamage": 25,
-        "thrustDamageType": "Cut",
+        "thrustDamageType": "Pierce",
         "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
@@ -9678,7 +9678,7 @@
           "TwoHandIdleOnMount"
         ],
         "thrustDamage": 25,
-        "thrustDamageType": "Cut",
+        "thrustDamageType": "Pierce",
         "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
@@ -9699,7 +9699,7 @@
           "WideGrip"
         ],
         "thrustDamage": 25,
-        "thrustDamageType": "Cut",
+        "thrustDamageType": "Pierce",
         "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
