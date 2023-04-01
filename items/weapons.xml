@@ -488,7 +488,7 @@
       <Piece id="crpg_western_spear_3_t3_handle" Type="Handle" scale_factor="75" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_western_spear_4_t3" name="{=NFT4sLva}Tall Tipped Spear" crafting_template="crpg_Spear4DMode" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_western_spear_4_t3" name="{=NFT4sLva}Tall Tipped Light Spear" crafting_template="crpg_Spear4DMode" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_western_spear_4_t3_blade" Type="Blade" scale_factor="94" />
       <Piece id="crpg_western_spear_4_t3_handle" Type="Handle" scale_factor="90" />
