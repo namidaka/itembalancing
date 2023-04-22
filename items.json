@@ -16527,9 +16527,9 @@
     "name": "Heavy Cavalry Lance",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 2614,
-    "weight": 2.69,
-    "tier": 3.73619413,
+    "price": 2428,
+    "weight": 2.79,
+    "tier": 3.56542444,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -16541,7 +16541,7 @@
         "stackAmount": 0,
         "length": 198,
         "balance": 0.0,
-        "handling": 60,
+        "handling": 59,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16572,10 +16572,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 85,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 65
+        "swingSpeed": 64
       },
       {
         "class": "TwoHandedPolearm",
@@ -16585,7 +16585,7 @@
         "stackAmount": 0,
         "length": 198,
         "balance": 0.0,
-        "handling": 60,
+        "handling": 59,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
