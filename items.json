@@ -15221,9 +15221,9 @@
     "name": "Pilum",
     "culture": "Empire",
     "type": "Thrown",
-    "price": 6085,
+    "price": 2790,
     "weight": 2.53,
-    "tier": 8.974642,
+    "tier": 5.720597,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -15242,9 +15242,10 @@
           "Consumable",
           "UnloadWhenSheathed",
           "AutoReload",
+          "CanDismount",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 56,
+        "thrustDamage": 49,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 80,
         "swingDamage": 0,
@@ -15263,9 +15264,10 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "CanDismount"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 7,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 80,
         "swingDamage": 0,
