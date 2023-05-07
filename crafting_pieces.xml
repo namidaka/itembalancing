@@ -1519,7 +1519,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_generic_javelin_1_t3_blade" name="{=emUoygLE}Harpoon Head" tier="2" piece_type="Blade" mesh="spear_blade_10" length="39.775" weight="0.54" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_1" holster_body_name="bo_throwing_spear_quiver_1" holster_mesh_length="68.9">
-      <Thrust damage_type="Pierce" damage_factor="0.714" />
+      <Thrust damage_type="Pierce" damage_factor="0.63" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="1" />

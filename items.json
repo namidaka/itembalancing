@@ -12722,9 +12722,9 @@
     "name": "Harpoon",
     "culture": "Sturgia",
     "type": "Thrown",
-    "price": 7414,
+    "price": 2608,
     "weight": 1.35,
-    "tier": 10.0218868,
+    "tier": 5.49582338,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -12745,7 +12745,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 34,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
         "swingDamage": 0,
@@ -12766,7 +12766,7 @@
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 7,
+        "thrustDamage": 6,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 92,
         "swingDamage": 0,
