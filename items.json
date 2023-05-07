@@ -9494,9 +9494,9 @@
     "name": "Horseman Javelin",
     "culture": "Khuzait",
     "type": "Thrown",
-    "price": 3403,
+    "price": 4733,
     "weight": 1.11,
-    "tier": 6.43260336,
+    "tier": 7.78345251,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -9515,6 +9515,7 @@
           "Consumable",
           "UnloadWhenSheathed",
           "AutoReload",
+          "CanDismount",
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 31,
@@ -9536,7 +9537,8 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "CanDismount"
         ],
         "thrustDamage": 7,
         "thrustDamageType": "Pierce",
