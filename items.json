@@ -10288,9 +10288,9 @@
     "name": "Triangular Throwing Spear",
     "culture": "Khuzait",
     "type": "Thrown",
-    "price": 7083,
+    "price": 4548,
     "weight": 2.59,
-    "tier": 9.770434,
+    "tier": 7.60879755,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -10309,9 +10309,10 @@
           "Consumable",
           "UnloadWhenSheathed",
           "AutoReload",
+          "CanDismount",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 57,
+        "thrustDamage": 52,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 80,
         "swingDamage": 0,
@@ -10330,9 +10331,10 @@
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
-          "WideGrip"
+          "WideGrip",
+          "CanDismount"
         ],
-        "thrustDamage": 8,
+        "thrustDamage": 7,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 80,
         "swingDamage": 0,
