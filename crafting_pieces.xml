@@ -802,8 +802,8 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_vlandia_lance_3_t4_handle" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.0">
-    <BuildData piece_offset="26.9" />
+  <CraftingPiece id="crpg_vlandia_lance_3_t4_handle" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.4">
+    <BuildData piece_offset="27.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
@@ -827,7 +827,7 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_lance_2_t3_handle" name="{=Telford}Long Ash Staff" tier="3" piece_type="Handle" mesh="spear_handle_13" length="228" weight="1.1" CraftingCost="110">
-    <BuildData piece_offset="26.9" />
+    <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
@@ -844,7 +844,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_lance_2_t5_handle" name="{=Telford}Hardened Ashen Staff" tier="5" piece_type="Handle" mesh="spear_handle_19" length="210" weight="1.1">
+  <CraftingPiece id="crpg_aserai_lance_2_t5_handle" name="{=Telford}Hardened Ashen Staff" tier="5" piece_type="Handle" mesh="spear_handle_19" length="210" weight="1.6">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -1086,7 +1086,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_western_lance_1_t3_handle" name="{=Telford}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.65">
+  <CraftingPiece id="crpg_western_lance_1_t3_handle" name="{=Telford}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="2.05">
     <BuildData piece_offset="37.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -1390,7 +1390,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_vlandia_lance_3_t4_blade" name="{=Telford}Fine Steel Pike Head" tier="4" piece_type="Blade" mesh="spear_blade_11" length="34.56" weight="0.3096" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Thrust damage_type="Pierce" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
@@ -1665,7 +1665,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_western_lance_1_t3_blade" name="{=Telford}Short Simple Pike Head" tier="1" piece_type="Blade" mesh="spear_blade_9" length="23.328" weight="0.204" is_default="true" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_3_1" holster_body_name="bo_throwing_spear_quiver_3_1" holster_mesh_length="96.8">
-      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Thrust damage_type="Pierce" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -1797,7 +1797,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_aserai_lance_2_t5_blade" name="{=Telford}Fine Steel Leaf Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_42" length="42" weight="0.2456" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4_1" holster_body_name="bo_throwing_spear_quiver_4_1" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
