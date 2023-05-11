@@ -1848,7 +1848,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_empire_lance_2_t4_blade" name="{=ZcUNAfKT}Extra Long Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_4" length="72.558" weight="0.4168" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
