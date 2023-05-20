@@ -393,7 +393,7 @@
   <CraftedItem id="crpg_northern_axe_t3v2" name="{=QnyD1yWB}Broad Two Handed Axe" crafting_template="crpg_TwoHandedAxe" modifier_group="axe">
     <Pieces>
       <Piece id="crpg_northern_axe_t3_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_northern_axe_t3_handle" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_northern_axe_t3_handle" Type="Handle" scale_factor="104" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_vlandia_2haxe_1_t4" name="{=K2Xtca1a}Short Bill" crafting_template="crpg_TwoHandedAxe" culture="Culture.vlandia" modifier_group="axe">
