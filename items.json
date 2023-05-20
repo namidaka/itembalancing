@@ -33207,9 +33207,9 @@
     "name": "Short Bill",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
-    "price": 5495,
-    "weight": 1.36,
-    "tier": 5.86925459,
+    "price": 7954,
+    "weight": 1.35,
+    "tier": 7.274298,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -33222,7 +33222,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 138,
-        "balance": 0.53,
+        "balance": 0.55,
         "handling": 76,
         "bodyArmor": 0,
         "flags": [
@@ -33235,9 +33235,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 97,
-        "swingDamage": 38,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 86
       }
     ]
   },
