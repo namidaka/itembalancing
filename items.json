@@ -14411,7 +14411,7 @@
     "weapons": []
   },
   {
-    "id": "crpg_hooked_axe_t4",
+    "id": "crpg_hooked_axe_t4v2",
     "name": "Hooked Two Handed Axe",
     "culture": "Vlandia",
     "type": "TwoHandedWeapon",
@@ -24176,9 +24176,9 @@
     "name": "Hoe",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 582,
-    "weight": 1.41,
-    "tier": 1.29684281,
+    "price": 442,
+    "weight": 1.2,
+    "tier": 1.03199649,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -24191,9 +24191,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 92,
-        "balance": 0.17,
-        "handling": 74,
+        "length": 134,
+        "balance": 0.1,
+        "handling": 70,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -24201,10 +24201,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 29,
+        "thrustSpeed": 93,
+        "swingDamage": 22,
         "swingDamageType": "Cut",
-        "swingSpeed": 75
+        "swingSpeed": 72
       },
       {
         "class": "TwoHandedAxe",
@@ -24212,9 +24212,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 92,
-        "balance": 0.76,
-        "handling": 82,
+        "length": 134,
+        "balance": 0.71,
+        "handling": 80,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -24224,10 +24224,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 98,
-        "swingDamage": 29,
+        "thrustSpeed": 99,
+        "swingDamage": 22,
         "swingDamageType": "Cut",
-        "swingSpeed": 92
+        "swingSpeed": 91
       },
       {
         "class": "OneHandedAxe",
@@ -24235,9 +24235,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 92,
-        "balance": 0.17,
-        "handling": 74,
+        "length": 134,
+        "balance": 0.1,
+        "handling": 70,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -24245,10 +24245,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 29,
+        "thrustSpeed": 93,
+        "swingDamage": 22,
         "swingDamageType": "Cut",
-        "swingSpeed": 75
+        "swingSpeed": 72
       }
     ]
   },
