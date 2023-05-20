@@ -2416,10 +2416,10 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_sturgia_2haxe_1_t4_blade" name="{=NfPgejKk}Drilled Sparth Blade" tier="4" piece_type="Blade" mesh="axe_craft_1_head" distance_to_next_piece="5.402" distance_to_previous_piece="2.747" weight="0.825">
+  <CraftingPiece id="crpg_sturgia_2haxe_1_t4_blade" name="{=NfPgejKk}Drilled Sparth Blade" tier="4" piece_type="Blade" mesh="axe_craft_1_head" distance_to_next_piece="5.402" distance_to_previous_piece="2.747" weight="0.7">
     <BuildData piece_offset="-8.241" />
     <BladeData stack_amount="2" blade_length="16.651" blade_width="26.744" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.7" />
+      <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
