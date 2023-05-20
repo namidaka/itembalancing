@@ -2179,7 +2179,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_2haxe_1_t3_handle" name="{=XxhFx0yw}Short Leather Wrapped Great Axe Handle" tier="3" piece_type="Handle" mesh="axe_craft_8_handle" length="116" weight="2.1" excluded_item_usage_features="widegrip">
+  <CraftingPiece id="crpg_aserai_2haxe_1_t3_handle" name="{=XxhFx0yw}Short Leather Wrapped Great Axe Handle" tier="3" piece_type="Handle" mesh="axe_craft_8_handle" length="116" weight="3.0" excluded_item_usage_features="widegrip">
     <BuildData piece_offset="23.86" next_piece_offset="1" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -2454,10 +2454,10 @@
       <Material id="Iron4" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_aserai_2haxe_1_t3_blade" name="{=0gteBOD7}Bardiche Head" tier="4" piece_type="Blade" mesh="axe_craft_16_head" distance_to_next_piece="28.8" distance_to_previous_piece="6" weight="0.425">
+  <CraftingPiece id="crpg_aserai_2haxe_1_t3_blade" name="{=0gteBOD7}Bardiche Head" tier="4" piece_type="Blade" mesh="axe_craft_16_head" distance_to_next_piece="28.8" distance_to_previous_piece="6" weight="0.15">
     <BuildData piece_offset="-12" />
     <BladeData stack_amount="2" blade_length="57.435" blade_width="23.337" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="4.3" />
+      <Swing damage_type="Cut" damage_factor="4.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
