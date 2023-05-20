@@ -5742,9 +5742,9 @@
     "name": "Dane Axe",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 6749,
-    "weight": 1.4,
-    "tier": 6.61742544,
+    "price": 9637,
+    "weight": 1.38,
+    "tier": 8.113654,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -5757,8 +5757,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 95,
-        "balance": 0.31,
-        "handling": 78,
+        "balance": 0.34,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -5766,10 +5766,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
-        "swingDamage": 38,
+        "thrustSpeed": 92,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 80
       },
       {
         "class": "TwoHandedAxe",
@@ -5778,7 +5778,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 95,
-        "balance": 0.85,
+        "balance": 0.88,
         "handling": 86,
         "bodyArmor": 0,
         "flags": [
@@ -5790,9 +5790,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 98,
-        "swingDamage": 38,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 95
+        "swingSpeed": 96
       },
       {
         "class": "OneHandedAxe",
@@ -5801,8 +5801,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 95,
-        "balance": 0.31,
-        "handling": 78,
+        "balance": 0.34,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -5810,10 +5810,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 91,
-        "swingDamage": 38,
+        "thrustSpeed": 92,
+        "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 80
       }
     ]
   },
