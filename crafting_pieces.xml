@@ -2353,10 +2353,10 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_black_heart_2haxe_t3_blade" name="{=a0erBuF1}Hooked Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_34_head" distance_to_next_piece="8.8" distance_to_previous_piece="4" weight="0.75">
+  <CraftingPiece id="crpg_black_heart_2haxe_t3_blade" name="{=a0erBuF1}Hooked Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_34_head" distance_to_next_piece="8.8" distance_to_previous_piece="4" weight="0.55">
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="2" blade_length="20.281" blade_width="19.8" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="4.1" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

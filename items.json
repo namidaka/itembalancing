@@ -5981,9 +5981,9 @@
     "name": "Black Heart Axe",
     "culture": "Neutral",
     "type": "TwoHandedWeapon",
-    "price": 3587,
-    "weight": 1.4,
-    "tier": 4.54630756,
+    "price": 5630,
+    "weight": 1.2,
+    "tier": 5.95338249,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -5996,8 +5996,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 119,
-        "balance": 0.48,
-        "handling": 75,
+        "balance": 0.69,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -6007,10 +6007,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 96,
-        "swingDamage": 41,
+        "thrustSpeed": 99,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 90
       }
     ]
   },
