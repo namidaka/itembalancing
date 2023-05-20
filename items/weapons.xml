@@ -423,7 +423,7 @@
   <CraftedItem id="crpg_hooked_axe_t4" name="{=P9PcIk4q}Hooked Two Handed Axe" crafting_template="crpg_TwoHandedAxe" culture="Culture.vlandia" modifier_group="axe">
     <Pieces>
       <Piece id="crpg_hooked_axe_t4_blade" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_hooked_axe_t4_handle" Type="Handle" scale_factor="134" />
+      <Piece id="crpg_hooked_axe_t4_handle" Type="Handle" scale_factor="106" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_aserai_2haxe_3_t5" name="{=hTPJXK1w}Chainbreaker" crafting_template="crpg_TwoHandedAxe" culture="Culture.aserai" modifier_group="axe">
