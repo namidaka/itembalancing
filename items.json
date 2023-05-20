@@ -30208,9 +30208,9 @@
     "name": "Northlander Decorated Two Handed Axe",
     "culture": "Sturgia",
     "type": "TwoHandedWeapon",
-    "price": 7183,
-    "weight": 1.26,
-    "tier": 6.860324,
+    "price": 11177,
+    "weight": 1.2,
+    "tier": 8.820229,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -30223,8 +30223,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 121,
-        "balance": 0.6,
-        "handling": 77,
+        "balance": 0.65,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -30234,10 +30234,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 98,
+        "thrustSpeed": 99,
         "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 89
       }
     ]
   },
