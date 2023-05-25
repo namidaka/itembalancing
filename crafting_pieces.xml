@@ -3678,19 +3678,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_demilance_handle_h1" name="{=Telford}Decorated Pine Shaft" tier="4" piece_type="Handle" mesh="spear_handle_16" length="180" weight="1.45">
+  <CraftingPiece id="crpg_decorated_demilance_handle_h1" name="{=Telford}Decorated Pine Shaft" tier="4" piece_type="Handle" mesh="spear_handle_16" length="180" weight="1.40">
     <BuildData piece_offset="23.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_demilance_handle_h2" name="{=Telford}Decorated Pine Shaft" tier="4" piece_type="Handle" mesh="spear_handle_16" length="180" weight="1.45">
+  <CraftingPiece id="crpg_decorated_demilance_handle_h2" name="{=Telford}Decorated Pine Shaft" tier="4" piece_type="Handle" mesh="spear_handle_16" length="180" weight="1.15">
     <BuildData piece_offset="23.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_demilance_handle_h3" name="{=Telford}Decorated Pine Shaft" tier="4" piece_type="Handle" mesh="spear_handle_16" length="180" weight="1.45">
+  <CraftingPiece id="crpg_decorated_demilance_handle_h3" name="{=Telford}Decorated Pine Shaft" tier="4" piece_type="Handle" mesh="spear_handle_16" length="180" weight="1.15">
     <BuildData piece_offset="23.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -3966,7 +3966,7 @@
       <Material id="Wood" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wrapped_short_lance_handle_h1" name="{=Telford}Wrapped Oaken Long Shaft" tier="3" piece_type="Handle" mesh="spear_handle_18" excluded_item_usage_features="long" length="200" weight="1.0">
+  <CraftingPiece id="crpg_wrapped_short_lance_handle_h1" name="{=Telford}Wrapped Oaken Long Shaft" tier="3" piece_type="Handle" mesh="spear_handle_18" excluded_item_usage_features="long" length="200" weight="0.9">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="4" />
@@ -6630,7 +6630,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_decorated_demilance_blade_h0" name="{=Telford}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.168" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -6638,7 +6638,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_decorated_demilance_blade_h1" name="{=Telford}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.168" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -6646,7 +6646,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_decorated_demilance_blade_h2" name="{=Telford}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.168" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
