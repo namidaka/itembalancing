@@ -4226,19 +4226,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_triangular_headed_spear_handle_h1" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.0">
+  <CraftingPiece id="crpg_triangular_headed_spear_handle_h1" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="0.9">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_triangular_headed_spear_handle_h2" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.0">
+  <CraftingPiece id="crpg_triangular_headed_spear_handle_h2" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="0.9">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_triangular_headed_spear_handle_h3" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.0">
+  <CraftingPiece id="crpg_triangular_headed_spear_handle_h3" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="0.8">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -5256,8 +5256,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_triangular_headed_spear_blade_h2" name="{=U30HpvtI}Triangular Iron Northern Spear Head" tier="3" piece_type="Blade" mesh="spear_blade_2" length="47.843" weight="0.3912">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Blunt" damage_factor="1.4" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="1.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -5265,8 +5265,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_triangular_headed_spear_blade_h3" name="{=U30HpvtI}Triangular Iron Northern Spear Head" tier="3" piece_type="Blade" mesh="spear_blade_2" length="47.843" weight="0.3912">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Blunt" damage_factor="1.4" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="1.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
