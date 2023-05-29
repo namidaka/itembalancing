@@ -57621,10 +57621,10 @@
     "name": "Highland War Spear +1",
     "culture": "Battania",
     "type": "Polearm",
-    "price": 8857,
-    "weight": 1.44,
+    "price": 11118,
+    "weight": 1.32,
     "heirloomLevel": 1,
-    "tier": 7.734166,
+    "tier": 8.794301,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -57638,7 +57638,7 @@
         "stackAmount": 0,
         "length": 167,
         "balance": 0.0,
-        "handling": 69,
+        "handling": 70,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57646,10 +57646,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
+        "thrustSpeed": 89,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 40
+        "swingSpeed": 42
       },
       {
         "class": "TwoHandedPolearm",
@@ -57658,8 +57658,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 167,
-        "balance": 0.36,
-        "handling": 66,
+        "balance": 0.42,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57669,10 +57669,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 97,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 82
       },
       {
         "class": "TwoHandedPolearm",
@@ -57681,8 +57681,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 167,
-        "balance": 0.36,
-        "handling": 66,
+        "balance": 0.42,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57692,10 +57692,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 97,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -57704,10 +57704,10 @@
     "name": "Highland War Spear +2",
     "culture": "Battania",
     "type": "Polearm",
-    "price": 6542,
-    "weight": 1.44,
+    "price": 13766,
+    "weight": 1.32,
     "heirloomLevel": 2,
-    "tier": 6.49884939,
+    "tier": 9.907216,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -57721,18 +57721,18 @@
         "stackAmount": 0,
         "length": 167,
         "balance": 0.0,
-        "handling": 69,
+        "handling": 70,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 21,
+        "thrustSpeed": 89,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 40
+        "swingSpeed": 42
       },
       {
         "class": "TwoHandedPolearm",
@@ -57741,8 +57741,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 167,
-        "balance": 0.36,
-        "handling": 66,
+        "balance": 0.42,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57750,12 +57750,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 21,
+        "thrustSpeed": 97,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 82
       },
       {
         "class": "TwoHandedPolearm",
@@ -57764,8 +57764,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 167,
-        "balance": 0.36,
-        "handling": 66,
+        "balance": 0.42,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57773,12 +57773,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 21,
+        "thrustSpeed": 97,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -57787,10 +57787,10 @@
     "name": "Highland War Spear +3",
     "culture": "Battania",
     "type": "Polearm",
-    "price": 4979,
-    "weight": 1.44,
+    "price": 11325,
+    "weight": 1.28,
     "heirloomLevel": 3,
-    "tier": 5.53748226,
+    "tier": 8.885646,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -57804,18 +57804,18 @@
         "stackAmount": 0,
         "length": 167,
         "balance": 0.0,
-        "handling": 69,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 21,
+        "thrustSpeed": 90,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 40
+        "swingSpeed": 43
       },
       {
         "class": "TwoHandedPolearm",
@@ -57824,8 +57824,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 167,
-        "balance": 0.36,
-        "handling": 66,
+        "balance": 0.43,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57833,12 +57833,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 21,
+        "thrustSpeed": 98,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 83
       },
       {
         "class": "TwoHandedPolearm",
@@ -57847,8 +57847,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 167,
-        "balance": 0.36,
-        "handling": 66,
+        "balance": 0.43,
+        "handling": 68,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -57856,12 +57856,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
-        "swingDamage": 21,
+        "thrustSpeed": 98,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 83
       }
     ]
   },
