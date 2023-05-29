@@ -106687,10 +106687,10 @@
     "name": "Reinforced Highland Spear +1",
     "culture": "Battania",
     "type": "Polearm",
-    "price": 4940,
-    "weight": 2.46,
+    "price": 5753,
+    "weight": 2.35,
     "heirloomLevel": 1,
-    "tier": 5.511588,
+    "tier": 6.02941036,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -106702,7 +106702,7 @@
         "stackAmount": 0,
         "length": 239,
         "balance": 0.0,
-        "handling": 46,
+        "handling": 47,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -106713,7 +106713,7 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 49
@@ -106726,7 +106726,7 @@
         "stackAmount": 0,
         "length": 239,
         "balance": 0.0,
-        "handling": 46,
+        "handling": 47,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -106737,7 +106737,7 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 49
@@ -106749,10 +106749,10 @@
     "name": "Reinforced Highland Spear +2",
     "culture": "Battania",
     "type": "Polearm",
-    "price": 3698,
-    "weight": 2.46,
+    "price": 7277,
+    "weight": 2.35,
     "heirloomLevel": 2,
-    "tier": 4.63126469,
+    "tier": 6.911635,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -106764,7 +106764,7 @@
         "stackAmount": 0,
         "length": 239,
         "balance": 0.0,
-        "handling": 46,
+        "handling": 47,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -106773,9 +106773,9 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 49
@@ -106788,7 +106788,7 @@
         "stackAmount": 0,
         "length": 239,
         "balance": 0.0,
-        "handling": 46,
+        "handling": 47,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -106797,9 +106797,9 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 49
@@ -106811,10 +106811,10 @@
     "name": "Reinforced Highland Spear +3",
     "culture": "Battania",
     "type": "Polearm",
-    "price": 2852,
-    "weight": 2.46,
+    "price": 6428,
+    "weight": 2.13,
     "heirloomLevel": 3,
-    "tier": 3.94616652,
+    "tier": 6.43318939,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -106826,7 +106826,7 @@
         "stackAmount": 0,
         "length": 239,
         "balance": 0.0,
-        "handling": 46,
+        "handling": 48,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -106835,12 +106835,12 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 87,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 49
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -106850,7 +106850,7 @@
         "stackAmount": 0,
         "length": 239,
         "balance": 0.0,
-        "handling": 46,
+        "handling": 48,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -106859,12 +106859,12 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 87,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 49
+        "swingSpeed": 51
       }
     ]
   },

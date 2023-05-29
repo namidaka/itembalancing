@@ -3435,21 +3435,21 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_reinforced_highland_spear_handle_h1" name="{=GsBQCQEF}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.6">
+  <CraftingPiece id="crpg_reinforced_highland_spear_handle_h1" name="{=GsBQCQEF}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.5">
     <BuildData piece_offset="37.9" />
     <Materials>
       <Material id="Iron3" count="1" />
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_reinforced_highland_spear_handle_h2" name="{=GsBQCQEF}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.6">
+  <CraftingPiece id="crpg_reinforced_highland_spear_handle_h2" name="{=GsBQCQEF}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.5">
     <BuildData piece_offset="37.9" />
     <Materials>
       <Material id="Iron3" count="1" />
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_reinforced_highland_spear_handle_h3" name="{=GsBQCQEF}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.6">
+  <CraftingPiece id="crpg_reinforced_highland_spear_handle_h3" name="{=GsBQCQEF}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.3">
     <BuildData piece_offset="37.9" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -7332,7 +7332,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_reinforced_highland_spear_blade_h2" name="{=CdBAvJdP}Kontos Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.7" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -7343,7 +7343,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_reinforced_highland_spear_blade_h3" name="{=CdBAvJdP}Kontos Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.7" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
