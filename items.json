@@ -91019,10 +91019,10 @@
     "name": "Narrow Long Headed Spear +1",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 5416,
-    "weight": 2.17,
+    "price": 6216,
+    "weight": 2.06,
     "heirloomLevel": 1,
-    "tier": 5.819216,
+    "tier": 6.308864,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -91034,7 +91034,7 @@
         "stackAmount": 0,
         "length": 186,
         "balance": 0.0,
-        "handling": 64,
+        "handling": 65,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91045,7 +91045,7 @@
         "thrustSpeed": 82,
         "swingDamage": 15,
         "swingDamageType": "Blunt",
-        "swingSpeed": 24
+        "swingSpeed": 26
       },
       {
         "class": "TwoHandedPolearm",
@@ -91054,8 +91054,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.05,
-        "handling": 61,
+        "balance": 0.08,
+        "handling": 62,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91065,10 +91065,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 91,
         "swingDamage": 15,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 72
       },
       {
         "class": "TwoHandedPolearm",
@@ -91077,8 +91077,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.05,
-        "handling": 61,
+        "balance": 0.08,
+        "handling": 62,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91088,10 +91088,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 91,
         "swingDamage": 15,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 72
       }
     ]
   },
@@ -91100,10 +91100,10 @@
     "name": "Narrow Long Headed Spear +2",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 4044,
-    "weight": 2.17,
+    "price": 7850,
+    "weight": 2.06,
     "heirloomLevel": 2,
-    "tier": 4.889758,
+    "tier": 7.21951962,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -91115,18 +91115,18 @@
         "stackAmount": 0,
         "length": 186,
         "balance": 0.0,
-        "handling": 64,
+        "handling": 65,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 82,
-        "swingDamage": 15,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 24
+        "swingSpeed": 26
       },
       {
         "class": "TwoHandedPolearm",
@@ -91135,8 +91135,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.05,
-        "handling": 61,
+        "balance": 0.08,
+        "handling": 62,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91144,12 +91144,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 15,
+        "thrustSpeed": 91,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 72
       },
       {
         "class": "TwoHandedPolearm",
@@ -91158,8 +91158,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.05,
-        "handling": 61,
+        "balance": 0.08,
+        "handling": 62,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91167,12 +91167,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 15,
+        "thrustSpeed": 91,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 72
       }
     ]
   },
@@ -91181,10 +91181,10 @@
     "name": "Narrow Long Headed Spear +3",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 3113,
-    "weight": 2.17,
+    "price": 6359,
+    "weight": 1.95,
     "heirloomLevel": 3,
-    "tier": 4.166421,
+    "tier": 6.392777,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -91196,18 +91196,18 @@
         "stackAmount": 0,
         "length": 186,
         "balance": 0.0,
-        "handling": 64,
+        "handling": 66,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
-        "swingDamage": 15,
+        "thrustSpeed": 84,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 24
+        "swingSpeed": 28
       },
       {
         "class": "TwoHandedPolearm",
@@ -91216,8 +91216,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.05,
-        "handling": 61,
+        "balance": 0.12,
+        "handling": 63,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91225,12 +91225,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 15,
+        "thrustSpeed": 91,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 73
       },
       {
         "class": "TwoHandedPolearm",
@@ -91239,8 +91239,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.05,
-        "handling": 61,
+        "balance": 0.12,
+        "handling": 63,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91248,12 +91248,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 15,
+        "thrustSpeed": 91,
+        "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 73
       }
     ]
   },
