@@ -116857,10 +116857,10 @@
     "name": "Simple Pike +1",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 77,
-    "weight": 1.28,
+    "price": 80,
+    "weight": 1.22,
     "heirloomLevel": 1,
-    "tier": 0.100987747,
+    "tier": 0.109220006,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -116874,7 +116874,7 @@
         "stackAmount": 0,
         "length": 305,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -116884,10 +116884,10 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 56
+        "swingSpeed": 57
       },
       {
         "class": "TwoHandedPolearm",
@@ -116897,7 +116897,7 @@
         "stackAmount": 0,
         "length": 305,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -116907,10 +116907,10 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 56
+        "swingSpeed": 57
       }
     ]
   },
@@ -116919,10 +116919,10 @@
     "name": "Simple Pike +2",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 73,
-    "weight": 1.28,
+    "price": 98,
+    "weight": 1.16,
     "heirloomLevel": 2,
-    "tier": 0.08485777,
+    "tier": 0.172504991,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -116936,7 +116936,7 @@
         "stackAmount": 0,
         "length": 305,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -116944,12 +116944,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 96,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 56
+        "swingSpeed": 58
       },
       {
         "class": "TwoHandedPolearm",
@@ -116959,7 +116959,7 @@
         "stackAmount": 0,
         "length": 305,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -116967,12 +116967,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 96,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 56
+        "swingSpeed": 58
       }
     ]
   },
@@ -116981,10 +116981,10 @@
     "name": "Simple Pike +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 69,
-    "weight": 1.28,
+    "price": 127,
+    "weight": 1.1,
     "heirloomLevel": 3,
-    "tier": 0.0723048449,
+    "tier": 0.264250964,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -116998,7 +116998,7 @@
         "stackAmount": 0,
         "length": 305,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 57,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117006,12 +117006,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 96,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 56
+        "swingSpeed": 59
       },
       {
         "class": "TwoHandedPolearm",
@@ -117021,7 +117021,7 @@
         "stackAmount": 0,
         "length": 305,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 57,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117029,12 +117029,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 96,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 56
+        "swingSpeed": 59
       }
     ]
   },
