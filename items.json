@@ -102301,10 +102301,10 @@
     "name": "Pike +1",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 4503,
-    "weight": 1.07,
+    "price": 5908,
+    "weight": 0.96,
     "heirloomLevel": 1,
-    "tier": 5.21573544,
+    "tier": 6.12414837,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -102318,7 +102318,7 @@
         "stackAmount": 0,
         "length": 501,
         "balance": 0.0,
-        "handling": 34,
+        "handling": 36,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102328,10 +102328,10 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 22
+        "swingSpeed": 25
       },
       {
         "class": "TwoHandedPolearm",
@@ -102341,7 +102341,7 @@
         "stackAmount": 0,
         "length": 501,
         "balance": 0.0,
-        "handling": 34,
+        "handling": 36,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102351,10 +102351,10 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 22
+        "swingSpeed": 25
       }
     ]
   },
@@ -102363,10 +102363,10 @@
     "name": "Pike +2",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 3379,
-    "weight": 1.07,
+    "price": 5213,
+    "weight": 0.93,
     "heirloomLevel": 2,
-    "tier": 4.382666,
+    "tier": 5.690112,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -102380,7 +102380,7 @@
         "stackAmount": 0,
         "length": 501,
         "balance": 0.0,
-        "handling": 34,
+        "handling": 37,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102390,10 +102390,10 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 22
+        "swingSpeed": 26
       },
       {
         "class": "TwoHandedPolearm",
@@ -102403,7 +102403,7 @@
         "stackAmount": 0,
         "length": 501,
         "balance": 0.0,
-        "handling": 34,
+        "handling": 37,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102413,10 +102413,10 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 22
+        "swingSpeed": 26
       }
     ]
   },
@@ -102425,10 +102425,10 @@
     "name": "Pike +3",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 2612,
-    "weight": 1.07,
+    "price": 8483,
+    "weight": 0.85,
     "heirloomLevel": 3,
-    "tier": 3.73434377,
+    "tier": 7.5468,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -102442,7 +102442,7 @@
         "stackAmount": 0,
         "length": 501,
         "balance": 0.0,
-        "handling": 34,
+        "handling": 37,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102450,12 +102450,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 22
+        "swingSpeed": 28
       },
       {
         "class": "TwoHandedPolearm",
@@ -102465,7 +102465,7 @@
         "stackAmount": 0,
         "length": 501,
         "balance": 0.0,
-        "handling": 34,
+        "handling": 37,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102473,12 +102473,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 22
+        "swingSpeed": 28
       }
     ]
   },
