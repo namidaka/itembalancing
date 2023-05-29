@@ -4298,19 +4298,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_tall_tipped_war_spear_handle_h1" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.2">
+  <CraftingPiece id="crpg_tall_tipped_war_spear_handle_h1" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.05">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_tall_tipped_war_spear_handle_h2" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.2">
+  <CraftingPiece id="crpg_tall_tipped_war_spear_handle_h2" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.05">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_tall_tipped_war_spear_handle_h3" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.2">
+  <CraftingPiece id="crpg_tall_tipped_war_spear_handle_h3" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="0.95">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -7408,8 +7408,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_tall_tipped_war_spear_blade_h2" name="{=CdBAvJdP}Kontos Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.62">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Blunt" damage_factor="1.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Swing damage_type="Blunt" damage_factor="1.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -7417,8 +7417,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_tall_tipped_war_spear_blade_h3" name="{=CdBAvJdP}Kontos Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.62">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Blunt" damage_factor="1.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Swing damage_type="Blunt" damage_factor="1.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
