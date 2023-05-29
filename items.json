@@ -63016,10 +63016,10 @@
     "name": "Iron Pitchfork +1",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 1066,
-    "weight": 2.77,
+    "price": 1137,
+    "weight": 2.72,
     "heirloomLevel": 1,
-    "tier": 2.0497756,
+    "tier": 2.14565539,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -63053,7 +63053,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 122,
-        "balance": 0.36,
+        "balance": 0.39,
         "handling": 68,
         "bodyArmor": 0,
         "flags": [
@@ -63064,10 +63064,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 80
+        "swingSpeed": 81
       }
     ]
   },
@@ -63136,10 +63136,10 @@
     "name": "Iron Pitchfork +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 1648,
-    "weight": 2.72,
+    "price": 1128,
+    "weight": 2.62,
     "heirloomLevel": 3,
-    "tier": 2.76913857,
+    "tier": 2.13446283,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -63159,12 +63159,12 @@
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 30,
+        "thrustDamage": 29,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 40
+        "swingSpeed": 42
       },
       {
         "class": "TwoHandedPolearm",
@@ -63173,8 +63173,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 122,
-        "balance": 0.39,
-        "handling": 68,
+        "balance": 0.41,
+        "handling": 69,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -63182,12 +63182,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 30,
+        "thrustDamage": 29,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 81
+        "swingSpeed": 82
       }
     ]
   },
