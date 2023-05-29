@@ -58748,10 +58748,10 @@
     "name": "Hoplite Spear +1",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 3930,
-    "weight": 0.87,
+    "price": 4109,
+    "weight": 0.83,
     "heirloomLevel": 1,
-    "tier": 4.80577374,
+    "tier": 4.936537,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -58773,10 +58773,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 57
+        "swingSpeed": 58
       },
       {
         "class": "TwoHandedPolearm",
@@ -58785,8 +58785,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 152,
-        "balance": 0.79,
-        "handling": 74,
+        "balance": 0.81,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -58801,7 +58801,7 @@
         "thrustSpeed": 102,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 93
+        "swingSpeed": 94
       }
     ]
   },
@@ -58810,10 +58810,10 @@
     "name": "Hoplite Spear +2",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 2960,
-    "weight": 0.87,
+    "price": 5269,
+    "weight": 0.83,
     "heirloomLevel": 2,
-    "tier": 4.03818369,
+    "tier": 5.72557926,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -58833,12 +58833,12 @@
           "CanDismount",
           "MissileWithPhysics"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 57
+        "swingSpeed": 58
       },
       {
         "class": "TwoHandedPolearm",
@@ -58847,8 +58847,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 152,
-        "balance": 0.79,
-        "handling": 74,
+        "balance": 0.81,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -58858,12 +58858,12 @@
           "CanDismount",
           "MissileWithPhysics"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 102,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 93
+        "swingSpeed": 94
       }
     ]
   },
@@ -58872,10 +58872,10 @@
     "name": "Hoplite Spear +3",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 2297,
-    "weight": 0.87,
+    "price": 2547,
+    "weight": 0.8,
     "heirloomLevel": 3,
-    "tier": 3.4408195,
+    "tier": 3.67510152,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -58887,7 +58887,7 @@
         "stackAmount": 0,
         "length": 152,
         "balance": 0.0,
-        "handling": 76,
+        "handling": 77,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -58897,10 +58897,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 96,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 57
+        "swingSpeed": 58
       },
       {
         "class": "TwoHandedPolearm",
@@ -58909,8 +58909,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 152,
-        "balance": 0.79,
-        "handling": 74,
+        "balance": 0.83,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -58922,10 +58922,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 102,
+        "thrustSpeed": 103,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 93
+        "swingSpeed": 94
       }
     ]
   },
