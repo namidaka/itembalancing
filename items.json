@@ -6107,10 +6107,10 @@
     "name": "Awlpike +1",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 9707,
-    "weight": 2.35,
+    "price": 10507,
+    "weight": 2.3,
     "heirloomLevel": 1,
-    "tier": 8.14696,
+    "tier": 8.519331,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6133,7 +6133,7 @@
         ],
         "thrustDamage": 29,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 90,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 78
@@ -6145,10 +6145,10 @@
     "name": "Awlpike +2",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 7157,
-    "weight": 2.35,
+    "price": 12916,
+    "weight": 2.3,
     "heirloomLevel": 2,
-    "tier": 6.84571075,
+    "tier": 9.562359,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6169,9 +6169,9 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 29,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 90,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 78
@@ -6183,10 +6183,10 @@
     "name": "Awlpike +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 5437,
-    "weight": 2.35,
+    "price": 10500,
+    "weight": 2.25,
     "heirloomLevel": 3,
-    "tier": 5.83303261,
+    "tier": 8.516016,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6197,7 +6197,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 169,
-        "balance": 0.29,
+        "balance": 0.31,
         "handling": 67,
         "bodyArmor": 0,
         "flags": [
@@ -6207,12 +6207,12 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 29,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 78
+        "swingSpeed": 79
       }
     ]
   },
