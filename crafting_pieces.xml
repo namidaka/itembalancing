@@ -3042,19 +3042,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_pitchfork_handle_h1" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="2.1" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
+  <CraftingPiece id="crpg_iron_pitchfork_handle_h1" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="2.05" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
     <BuildData piece_offset="14.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_pitchfork_handle_h2" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="2.1" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
+  <CraftingPiece id="crpg_iron_pitchfork_handle_h2" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="2.0" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
     <BuildData piece_offset="14.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_pitchfork_handle_h3" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="2.1" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
+  <CraftingPiece id="crpg_iron_pitchfork_handle_h3" name="{=Uhc0KIdz}Pine Spear Staff" tier="1" piece_type="Handle" mesh="spear_handle_1" length="149" weight="2.0" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
     <BuildData piece_offset="14.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -7732,7 +7732,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_iron_pitchfork_blade_h2" name="{=SVBYn9KW}Iron Fork" tier="1" piece_type="Blade" mesh="spear_blade_32" length="32.7" weight="0.7176" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -7743,7 +7743,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_iron_pitchfork_blade_h3" name="{=SVBYn9KW}Iron Fork" tier="1" piece_type="Blade" mesh="spear_blade_32" length="32.7" weight="0.7176" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
+      <Thrust damage_type="Pierce" damage_factor="3.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />

@@ -63017,7 +63017,7 @@
     "culture": "Neutral",
     "type": "Polearm",
     "price": 1066,
-    "weight": 2.82,
+    "weight": 2.77,
     "heirloomLevel": 1,
     "tier": 2.0497756,
     "requirement": 0,
@@ -63033,7 +63033,7 @@
         "stackAmount": 0,
         "length": 122,
         "balance": 0.0,
-        "handling": 70,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -63044,7 +63044,7 @@
         "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 39
+        "swingSpeed": 40
       },
       {
         "class": "TwoHandedPolearm",
@@ -63076,10 +63076,10 @@
     "name": "Iron Pitchfork +2",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 840,
-    "weight": 2.82,
+    "price": 1361,
+    "weight": 2.72,
     "heirloomLevel": 2,
-    "tier": 1.72238064,
+    "tier": 2.43294477,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -63093,18 +63093,18 @@
         "stackAmount": 0,
         "length": 122,
         "balance": 0.0,
-        "handling": 70,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 28,
+        "thrustDamage": 29,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 39
+        "swingSpeed": 40
       },
       {
         "class": "TwoHandedPolearm",
@@ -63113,7 +63113,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 122,
-        "balance": 0.36,
+        "balance": 0.39,
         "handling": 68,
         "bodyArmor": 0,
         "flags": [
@@ -63122,12 +63122,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 28,
+        "thrustDamage": 29,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 80
+        "swingSpeed": 81
       }
     ]
   },
@@ -63136,10 +63136,10 @@
     "name": "Iron Pitchfork +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 680,
-    "weight": 2.82,
+    "price": 1648,
+    "weight": 2.72,
     "heirloomLevel": 3,
-    "tier": 1.46759081,
+    "tier": 2.76913857,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -63153,18 +63153,18 @@
         "stackAmount": 0,
         "length": 122,
         "balance": 0.0,
-        "handling": 70,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 28,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 39
+        "swingSpeed": 40
       },
       {
         "class": "TwoHandedPolearm",
@@ -63173,7 +63173,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 122,
-        "balance": 0.36,
+        "balance": 0.39,
         "handling": 68,
         "bodyArmor": 0,
         "flags": [
@@ -63182,12 +63182,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 28,
+        "thrustDamage": 30,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 80
+        "swingSpeed": 81
       }
     ]
   },
