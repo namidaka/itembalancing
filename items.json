@@ -133164,10 +133164,10 @@
     "name": "Thamaskene Pike +1",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 4000,
-    "weight": 2.83,
+    "price": 4349,
+    "weight": 2.66,
     "heirloomLevel": 1,
-    "tier": 4.857526,
+    "tier": 5.108186,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -133191,10 +133191,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 24
       },
       {
         "class": "TwoHandedPolearm",
@@ -133214,10 +133214,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 24
       }
     ]
   },
@@ -133226,10 +133226,10 @@
     "name": "Thamaskene Pike +2",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 3011,
-    "weight": 2.83,
+    "price": 5990,
+    "weight": 2.66,
     "heirloomLevel": 2,
-    "tier": 4.08167076,
+    "tier": 6.173589,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -133251,12 +133251,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 24
       },
       {
         "class": "TwoHandedPolearm",
@@ -133274,12 +133274,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 24
       }
     ]
   },
@@ -133288,10 +133288,10 @@
     "name": "Thamaskene Pike +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 2335,
-    "weight": 2.83,
+    "price": 5448,
+    "weight": 2.49,
     "heirloomLevel": 3,
-    "tier": 3.47787356,
+    "tier": 5.83972454,
     "requirement": 0,
     "flags": [
       "DropOnWeaponChange"
@@ -133305,7 +133305,7 @@
         "stackAmount": 0,
         "length": 423,
         "balance": 0.0,
-        "handling": 36,
+        "handling": 37,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -133313,12 +133313,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 25
       },
       {
         "class": "TwoHandedPolearm",
@@ -133328,7 +133328,7 @@
         "stackAmount": 0,
         "length": 423,
         "balance": 0.0,
-        "handling": 36,
+        "handling": 37,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -133336,12 +133336,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 79,
+        "thrustSpeed": 81,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 23
+        "swingSpeed": 25
       }
     ]
   },
