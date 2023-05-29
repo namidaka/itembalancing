@@ -98326,10 +98326,10 @@
     "name": "Notched Military Fork +1",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 9640,
-    "weight": 3.35,
+    "price": 10551,
+    "weight": 3.26,
     "heirloomLevel": 1,
-    "tier": 8.115084,
+    "tier": 8.539312,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -98351,10 +98351,10 @@
         ],
         "thrustDamage": 33,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
+        "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 43
+        "swingSpeed": 44
       },
       {
         "class": "TwoHandedPolearm",
@@ -98374,10 +98374,10 @@
         ],
         "thrustDamage": 33,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
+        "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 43
+        "swingSpeed": 44
       }
     ]
   },
@@ -98386,10 +98386,10 @@
     "name": "Notched Military Fork +2",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 7108,
-    "weight": 3.35,
+    "price": 12190,
+    "weight": 3.26,
     "heirloomLevel": 2,
-    "tier": 6.818925,
+    "tier": 9.259055,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -98409,12 +98409,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 33,
+        "thrustDamage": 34,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
+        "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 43
+        "swingSpeed": 44
       },
       {
         "class": "TwoHandedPolearm",
@@ -98432,12 +98432,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 33,
+        "thrustDamage": 34,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
+        "thrustSpeed": 79,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 43
+        "swingSpeed": 44
       }
     ]
   },
@@ -98446,10 +98446,10 @@
     "name": "Notched Military Fork +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 5401,
-    "weight": 3.35,
+    "price": 10944,
+    "weight": 3.13,
     "heirloomLevel": 3,
-    "tier": 5.81020832,
+    "tier": 8.716494,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -98461,7 +98461,7 @@
         "stackAmount": 0,
         "length": 194,
         "balance": 0.0,
-        "handling": 40,
+        "handling": 41,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -98469,12 +98469,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 33,
+        "thrustDamage": 34,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 43
+        "swingSpeed": 45
       },
       {
         "class": "TwoHandedPolearm",
@@ -98484,7 +98484,7 @@
         "stackAmount": 0,
         "length": 194,
         "balance": 0.0,
-        "handling": 40,
+        "handling": 41,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -98492,12 +98492,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 33,
+        "thrustDamage": 34,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 78,
+        "thrustSpeed": 80,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 43
+        "swingSpeed": 45
       }
     ]
   },
