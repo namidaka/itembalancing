@@ -117572,10 +117572,10 @@
     "name": "Simple Short Spear +1",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 1431,
-    "weight": 1.08,
+    "price": 1782,
+    "weight": 0.99,
     "heirloomLevel": 1,
-    "tier": 2.51722,
+    "tier": 2.91742,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -117587,7 +117587,7 @@
         "stackAmount": 0,
         "length": 156,
         "balance": 0.0,
-        "handling": 72,
+        "handling": 74,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117595,10 +117595,10 @@
         ],
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 49
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -117607,8 +117607,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.63,
+        "handling": 72,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117618,10 +117618,10 @@
         ],
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
+        "thrustSpeed": 100,
         "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       },
       {
         "class": "TwoHandedPolearm",
@@ -117630,8 +117630,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.63,
+        "handling": 72,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117641,10 +117641,10 @@
         ],
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
+        "thrustSpeed": 100,
         "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
@@ -117653,10 +117653,10 @@
     "name": "Simple Short Spear +2",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 1114,
-    "weight": 1.08,
+    "price": 2094,
+    "weight": 0.99,
     "heirloomLevel": 2,
-    "tier": 2.11516428,
+    "tier": 3.241551,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -117668,18 +117668,18 @@
         "stackAmount": 0,
         "length": 156,
         "balance": 0.0,
-        "handling": 72,
+        "handling": 74,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 16,
+        "thrustSpeed": 93,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 49
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -117688,8 +117688,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.63,
+        "handling": 72,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117697,12 +117697,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 16,
+        "thrustSpeed": 100,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       },
       {
         "class": "TwoHandedPolearm",
@@ -117711,8 +117711,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.63,
+        "handling": 72,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117720,12 +117720,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 16,
+        "thrustSpeed": 100,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
@@ -117734,10 +117734,10 @@
     "name": "Simple Short Spear +3",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 893,
-    "weight": 1.08,
+    "price": 2230,
+    "weight": 0.9,
     "heirloomLevel": 3,
-    "tier": 1.80227053,
+    "tier": 3.37600946,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -117749,18 +117749,18 @@
         "stackAmount": 0,
         "length": 156,
         "balance": 0.0,
-        "handling": 72,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 16,
+        "thrustSpeed": 94,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 49
+        "swingSpeed": 53
       },
       {
         "class": "TwoHandedPolearm",
@@ -117769,8 +117769,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.69,
+        "handling": 73,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117778,12 +117778,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 16,
+        "thrustSpeed": 101,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 90
       },
       {
         "class": "TwoHandedPolearm",
@@ -117792,8 +117792,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 156,
-        "balance": 0.58,
-        "handling": 70,
+        "balance": 0.69,
+        "handling": 73,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -117801,12 +117801,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 16,
+        "thrustSpeed": 101,
+        "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 90
       }
     ]
   },
