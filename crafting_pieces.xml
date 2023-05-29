@@ -4346,19 +4346,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_raider_spear_handle_h1" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="1.1" CraftingCost="120">
+  <CraftingPiece id="crpg_short_raider_spear_handle_h1" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="1.0" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_raider_spear_handle_h2" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="1.1" CraftingCost="120">
+  <CraftingPiece id="crpg_short_raider_spear_handle_h2" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="1.0" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_raider_spear_handle_h3" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="1.1" CraftingCost="120">
+  <CraftingPiece id="crpg_short_raider_spear_handle_h3" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="0.9" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -6512,8 +6512,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_short_raider_spear_blade_h2" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_15" length="22.862" weight="0.2136">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_1_1" holster_body_name="bo_throwing_spear_quiver_1_1" holster_mesh_length="68.9">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Blunt" damage_factor="2.1" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -6521,8 +6521,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_short_raider_spear_blade_h3" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_15" length="22.862" weight="0.2136">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_1_1" holster_body_name="bo_throwing_spear_quiver_1_1" holster_mesh_length="68.9">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Blunt" damage_factor="2.1" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
