@@ -102924,10 +102924,10 @@
     "name": "Pitchfork +1",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 381,
-    "weight": 2.47,
+    "price": 422,
+    "weight": 2.42,
     "heirloomLevel": 1,
-    "tier": 0.905656,
+    "tier": 0.9898485,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -102941,7 +102941,7 @@
         "stackAmount": 0,
         "length": 132,
         "balance": 0.0,
-        "handling": 75,
+        "handling": 76,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -102952,7 +102952,7 @@
         "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 50
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -102972,7 +102972,7 @@
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 88
@@ -102984,10 +102984,10 @@
     "name": "Pitchfork +2",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 316,
-    "weight": 2.47,
+    "price": 535,
+    "weight": 2.37,
     "heirloomLevel": 2,
-    "tier": 0.761002541,
+    "tier": 1.2107501,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -103001,18 +103001,18 @@
         "stackAmount": 0,
         "length": 132,
         "balance": 0.0,
-        "handling": 75,
+        "handling": 76,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 50
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -103021,8 +103021,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 132,
-        "balance": 0.61,
-        "handling": 74,
+        "balance": 0.63,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -103030,9 +103030,9 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 88
@@ -103044,10 +103044,10 @@
     "name": "Pitchfork +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 268,
-    "weight": 2.47,
+    "price": 665,
+    "weight": 2.32,
     "heirloomLevel": 3,
-    "tier": 0.6484283,
+    "tier": 1.4420985,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -103061,18 +103061,18 @@
         "stackAmount": 0,
         "length": 132,
         "balance": 0.0,
-        "handling": 75,
+        "handling": 76,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "WideGrip"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 82,
+        "thrustSpeed": 83,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 50
+        "swingSpeed": 52
       },
       {
         "class": "TwoHandedPolearm",
@@ -103081,8 +103081,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 132,
-        "balance": 0.61,
-        "handling": 74,
+        "balance": 0.65,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -103090,12 +103090,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
