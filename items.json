@@ -134600,10 +134600,10 @@
     "name": "Thin Fine Steel Hewing Spear +1",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 5380,
-    "weight": 2.3,
+    "price": 5816,
+    "weight": 2.2,
     "heirloomLevel": 1,
-    "tier": 5.79694271,
+    "tier": 6.0681,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -134626,10 +134626,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 51
+        "swingSpeed": 52
       }
     ]
   },
@@ -134638,10 +134638,10 @@
     "name": "Thin Fine Steel Hewing Spear +2",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 4019,
-    "weight": 2.3,
+    "price": 7677,
+    "weight": 2.2,
     "heirloomLevel": 2,
-    "tier": 4.8710413,
+    "tier": 7.1275506,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -134662,12 +134662,12 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 51
+        "swingSpeed": 52
       }
     ]
   },
@@ -134676,10 +134676,10 @@
     "name": "Thin Fine Steel Hewing Spear +3",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 3093,
-    "weight": 2.3,
+    "price": 6720,
+    "weight": 2.1,
     "heirloomLevel": 3,
-    "tier": 4.15047359,
+    "tier": 6.600709,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -134691,7 +134691,7 @@
         "stackAmount": 0,
         "length": 266,
         "balance": 0.0,
-        "handling": 52,
+        "handling": 53,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -134700,12 +134700,12 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 51
+        "swingSpeed": 53
       }
     ]
   },

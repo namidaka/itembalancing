@@ -3918,19 +3918,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_handle_h1" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.8" CraftingCost="110">
+  <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_handle_h1" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.7" CraftingCost="110">
     <BuildData piece_offset="75.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_handle_h2" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.8" CraftingCost="110">
+  <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_handle_h2" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.7" CraftingCost="110">
     <BuildData piece_offset="75.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_handle_h3" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.8" CraftingCost="110">
+  <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_handle_h3" name="{=aQa3tp6Q}Decorated Long Pine Shaft" tier="5" piece_type="Handle" mesh="spear_handle_8" length="230" weight="1.6" CraftingCost="110">
     <BuildData piece_offset="75.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -6752,7 +6752,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_blade_h2" name="{=1rGNXUaJ}Thin Fine Steel Hewing Spear Head" tier="5" piece_type="Blade" mesh="spear_blade_27" length="69.5" weight="0.5" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_2" holster_body_name="bo_throwing_spear_quiver_2" holster_mesh_length="94.6">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="2" />
@@ -6763,7 +6763,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_thin_fine_steel_hewing_spear_blade_h3" name="{=1rGNXUaJ}Thin Fine Steel Hewing Spear Head" tier="5" piece_type="Blade" mesh="spear_blade_27" length="69.5" weight="0.5" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_2" holster_body_name="bo_throwing_spear_quiver_2" holster_mesh_length="94.6">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="2" />
