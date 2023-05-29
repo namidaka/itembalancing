@@ -4322,19 +4322,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_military_fork_handle_h1" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.4" CraftingCost="120">
+  <CraftingPiece id="crpg_military_fork_handle_h1" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.25" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_military_fork_handle_h2" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.4" CraftingCost="120">
+  <CraftingPiece id="crpg_military_fork_handle_h2" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.25" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_military_fork_handle_h3" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.4" CraftingCost="120">
+  <CraftingPiece id="crpg_military_fork_handle_h3" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.1" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -5294,7 +5294,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_military_fork_blade_h2" name="{=Y0gbKTgZ}Sturgian Military Fork Head" tier="2" piece_type="Blade" mesh="spear_blade_26" length="29.8" weight="0.4584" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Thrust damage_type="Pierce" damage_factor="3.3" />
     </BladeData>
     <Flags>
     </Flags>
@@ -5304,7 +5304,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_military_fork_blade_h3" name="{=Y0gbKTgZ}Sturgian Military Fork Head" tier="2" piece_type="Blade" mesh="spear_blade_26" length="29.8" weight="0.4584" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Thrust damage_type="Pierce" damage_factor="3.3" />
     </BladeData>
     <Flags>
     </Flags>
