@@ -41859,10 +41859,10 @@
     "name": "Fine Steel Hewing Spear +1",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 1544,
-    "weight": 1.62,
+    "price": 1647,
+    "weight": 1.52,
     "heirloomLevel": 1,
-    "tier": 2.65144563,
+    "tier": 2.768619,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -41886,10 +41886,10 @@
         ],
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 59
       },
       {
         "class": "TwoHandedPolearm",
@@ -41909,10 +41909,10 @@
         ],
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 59
       }
     ]
   },
@@ -41921,10 +41921,10 @@
     "name": "Fine Steel Hewing Spear +2",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 1199,
-    "weight": 1.62,
+    "price": 2255,
+    "weight": 1.52,
     "heirloomLevel": 2,
-    "tier": 2.22795057,
+    "tier": 3.40057373,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -41946,12 +41946,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 59
       },
       {
         "class": "TwoHandedPolearm",
@@ -41969,12 +41969,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 59
       }
     ]
   },
@@ -41983,10 +41983,10 @@
     "name": "Fine Steel Hewing Spear +3",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 958,
-    "weight": 1.62,
+    "price": 1989,
+    "weight": 1.42,
     "heirloomLevel": 3,
-    "tier": 1.89837265,
+    "tier": 3.13514972,
     "requirement": 0,
     "flags": [
       "NotStackable"
@@ -42000,7 +42000,7 @@
         "stackAmount": 0,
         "length": 264,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -42008,12 +42008,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 60
       },
       {
         "class": "TwoHandedPolearm",
@@ -42023,7 +42023,7 @@
         "stackAmount": 0,
         "length": 264,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -42031,12 +42031,12 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 58
+        "swingSpeed": 60
       }
     ]
   },

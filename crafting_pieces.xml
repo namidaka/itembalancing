@@ -3630,19 +3630,19 @@
       <Material id="Wood" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_fine_steel_hewing_spear_handle_h1" name="{=ELpWa0K5}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="1.3">
+  <CraftingPiece id="crpg_fine_steel_hewing_spear_handle_h1" name="{=ELpWa0K5}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="1.2">
     <BuildData piece_offset="70.9" />
     <Materials>
       <Material id="Wood" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_fine_steel_hewing_spear_handle_h2" name="{=ELpWa0K5}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="1.3">
+  <CraftingPiece id="crpg_fine_steel_hewing_spear_handle_h2" name="{=ELpWa0K5}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="1.2">
     <BuildData piece_offset="70.9" />
     <Materials>
       <Material id="Wood" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_fine_steel_hewing_spear_handle_h3" name="{=ELpWa0K5}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="1.3">
+  <CraftingPiece id="crpg_fine_steel_hewing_spear_handle_h3" name="{=ELpWa0K5}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="1.1">
     <BuildData piece_offset="70.9" />
     <Materials>
       <Material id="Wood" count="3" />
@@ -5776,7 +5776,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_fine_steel_hewing_spear_blade_h2" name="{=MpVC0RXl}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.3592" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.2" />
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
     </BladeData>
     <Flags>
       <Flag name="NotStackable" type="ItemFlags" />
@@ -5787,7 +5787,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_fine_steel_hewing_spear_blade_h3" name="{=MpVC0RXl}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.3592" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.2" />
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
     </BladeData>
     <Flags>
       <Flag name="NotStackable" type="ItemFlags" />
