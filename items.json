@@ -76523,86 +76523,10 @@
     "name": "Long Fine Steel Spear +1",
     "culture": "Empire",
     "type": "Polearm",
-    "price": 10229,
-    "weight": 1.88,
-    "heirloomLevel": 1,
-    "tier": 8.391522,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_pike",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 281,
-        "balance": 0.0,
-        "handling": 47,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount",
-          "CanDismount"
-        ],
-        "thrustDamage": 26,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 47
-      }
-    ]
-  },
-  {
-    "id": "crpg_long_fine_steel_spear_h2",
-    "name": "Long Fine Steel Spear +2",
-    "culture": "Empire",
-    "type": "Polearm",
-    "price": 13333,
-    "weight": 1.88,
-    "heirloomLevel": 2,
-    "tier": 9.732804,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_pike",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 281,
-        "balance": 0.0,
-        "handling": 47,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount",
-          "CanDismount"
-        ],
-        "thrustDamage": 27,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 0,
-        "swingDamageType": "Undefined",
-        "swingSpeed": 47
-      }
-    ]
-  },
-  {
-    "id": "crpg_long_fine_steel_spear_h3",
-    "name": "Long Fine Steel Spear +3",
-    "culture": "Empire",
-    "type": "Polearm",
-    "price": 11701,
+    "price": 11951,
     "weight": 1.79,
-    "heirloomLevel": 3,
-    "tier": 9.049611,
+    "heirloomLevel": 1,
+    "tier": 9.15708,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -76623,12 +76547,88 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
         "swingSpeed": 48
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_fine_steel_spear_h2",
+    "name": "Long Fine Steel Spear +2",
+    "culture": "Empire",
+    "type": "Polearm",
+    "price": 11050,
+    "weight": 1.61,
+    "heirloomLevel": 2,
+    "tier": 8.763852,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_pike",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 281,
+        "balance": 0.0,
+        "handling": 49,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount",
+          "CanDismount"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 50
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_fine_steel_spear_h3",
+    "name": "Long Fine Steel Spear +3",
+    "culture": "Empire",
+    "type": "Polearm",
+    "price": 14786,
+    "weight": 1.61,
+    "heirloomLevel": 3,
+    "tier": 10.3073063,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_pike",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 281,
+        "balance": 0.0,
+        "handling": 49,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount",
+          "CanDismount"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 91,
+        "swingDamage": 0,
+        "swingDamageType": "Undefined",
+        "swingSpeed": 50
       }
     ]
   },
