@@ -132113,10 +132113,10 @@
     "name": "Tall Tipped Long Spear +3",
     "culture": "Vlandia",
     "type": "Polearm",
-    "price": 1307,
-    "weight": 1.92,
+    "price": 1594,
+    "weight": 1.74,
     "heirloomLevel": 3,
-    "tier": 2.36612582,
+    "tier": 2.70849061,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -132128,7 +132128,7 @@
         "stackAmount": 0,
         "length": 199,
         "balance": 0.0,
-        "handling": 55,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -132136,7 +132136,7 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 81,
+        "thrustSpeed": 82,
         "swingDamage": 13,
         "swingDamageType": "Blunt",
         "swingSpeed": 17
@@ -132149,7 +132149,7 @@
         "stackAmount": 0,
         "length": 199,
         "balance": 0.0,
-        "handling": 51,
+        "handling": 52,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -132159,10 +132159,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 13,
         "swingDamageType": "Blunt",
-        "swingSpeed": 59
+        "swingSpeed": 62
       },
       {
         "class": "TwoHandedPolearm",
@@ -132172,7 +132172,7 @@
         "stackAmount": 0,
         "length": 199,
         "balance": 0.0,
-        "handling": 51,
+        "handling": 52,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -132182,10 +132182,10 @@
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 91,
         "swingDamage": 13,
         "swingDamageType": "Blunt",
-        "swingSpeed": 59
+        "swingSpeed": 62
       }
     ]
   },
