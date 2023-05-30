@@ -7743,7 +7743,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_iron_pitchfork_blade_h3" name="{=SVBYn9KW}Iron Fork" tier="1" piece_type="Blade" mesh="spear_blade_32" length="32.7" weight="0.7176" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Thrust damage_type="Pierce" damage_factor="3.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
