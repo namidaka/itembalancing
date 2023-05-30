@@ -25122,7 +25122,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_hoplite_spear_handle_h3" name="{=}Hoplite Ash Shaft" tier="2" piece_type="Handle" mesh="spear_handle_5" length="229" weight="0.85" CraftingCost="110">
+  <CraftingPiece id="crpg_hoplite_spear_handle_h3" name="{=}Hoplite Ash Shaft" tier="2" piece_type="Handle" mesh="spear_handle_5" length="229" weight="0.60" CraftingCost="110">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -25154,7 +25154,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_hoplite_spear_blade_h3" name="{=}Hoplite Leaf Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_42" length="42" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4_1" holster_body_name="bo_throwing_spear_quiver_4_1" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
