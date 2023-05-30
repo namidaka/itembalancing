@@ -115844,10 +115844,10 @@
     "name": "Short Raider Spear +1",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 13377,
-    "weight": 1.01,
+    "price": 10960,
+    "weight": 1.05,
     "heirloomLevel": 1,
-    "tier": 9.750952,
+    "tier": 8.723657,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -115859,7 +115859,7 @@
         "stackAmount": 0,
         "length": 143,
         "balance": 0.0,
-        "handling": 74,
+        "handling": 73,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -115870,7 +115870,7 @@
         "thrustSpeed": 93,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 53
+        "swingSpeed": 52
       },
       {
         "class": "TwoHandedPolearm",
@@ -115879,8 +115879,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 143,
-        "balance": 0.68,
-        "handling": 72,
+        "balance": 0.65,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -115893,7 +115893,7 @@
         "thrustSpeed": 100,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 90
+        "swingSpeed": 89
       },
       {
         "class": "TwoHandedPolearm",
@@ -115902,8 +115902,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 143,
-        "balance": 0.68,
-        "handling": 72,
+        "balance": 0.65,
+        "handling": 71,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -115916,7 +115916,7 @@
         "thrustSpeed": 100,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 90
+        "swingSpeed": 89
       }
     ]
   },
@@ -115925,10 +115925,91 @@
     "name": "Short Raider Spear +2",
     "culture": "Sturgia",
     "type": "Polearm",
-    "price": 14501,
-    "weight": 1.01,
+    "price": 11887,
+    "weight": 1.05,
     "heirloomLevel": 2,
-    "tier": 10.1969633,
+    "tier": 9.129912,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedPolearm",
+        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 143,
+        "balance": 0.0,
+        "handling": 73,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "WideGrip"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 93,
+        "swingDamage": 22,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 52
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 143,
+        "balance": 0.65,
+        "handling": 71,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 100,
+        "swingDamage": 22,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 89
+      },
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 143,
+        "balance": 0.65,
+        "handling": 71,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 100,
+        "swingDamage": 22,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
+    "id": "crpg_short_raider_spear_h3",
+    "name": "Short Raider Spear +3",
+    "culture": "Sturgia",
+    "type": "Polearm",
+    "price": 13246,
+    "weight": 0.97,
+    "heirloomLevel": 3,
+    "tier": 9.697516,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -115941,87 +116022,6 @@
         "length": 143,
         "balance": 0.0,
         "handling": 74,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "WideGrip"
-        ],
-        "thrustDamage": 27,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 22,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 53
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 143,
-        "balance": 0.68,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 27,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
-        "swingDamage": 22,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 90
-      },
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 143,
-        "balance": 0.68,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 27,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
-        "swingDamage": 22,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 90
-      }
-    ]
-  },
-  {
-    "id": "crpg_short_raider_spear_h3",
-    "name": "Short Raider Spear +3",
-    "culture": "Sturgia",
-    "type": "Polearm",
-    "price": 15522,
-    "weight": 0.93,
-    "heirloomLevel": 3,
-    "tier": 10.5872593,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "OneHandedPolearm",
-        "itemUsage": "onehanded_polearm_block_long_rshield_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 143,
-        "balance": 0.0,
-        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -116032,7 +116032,7 @@
         "thrustSpeed": 94,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 55
+        "swingSpeed": 54
       },
       {
         "class": "TwoHandedPolearm",
@@ -116041,7 +116041,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 143,
-        "balance": 0.74,
+        "balance": 0.71,
         "handling": 73,
         "bodyArmor": 0,
         "flags": [
@@ -116052,10 +116052,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 101,
+        "thrustSpeed": 100,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 92
+        "swingSpeed": 91
       },
       {
         "class": "TwoHandedPolearm",
@@ -116064,7 +116064,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 143,
-        "balance": 0.74,
+        "balance": 0.71,
         "handling": 73,
         "bodyArmor": 0,
         "flags": [
@@ -116075,10 +116075,10 @@
         ],
         "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 101,
+        "thrustSpeed": 100,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 92
+        "swingSpeed": 91
       }
     ]
   },
