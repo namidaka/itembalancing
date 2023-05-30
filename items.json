@@ -6183,10 +6183,10 @@
     "name": "Awlpike +3",
     "culture": "Neutral",
     "type": "Polearm",
-    "price": 10500,
-    "weight": 2.25,
+    "price": 13630,
+    "weight": 1.95,
     "heirloomLevel": 3,
-    "tier": 8.516016,
+    "tier": 9.852612,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -6197,8 +6197,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 169,
-        "balance": 0.31,
-        "handling": 67,
+        "balance": 0.39,
+        "handling": 69,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -6209,10 +6209,10 @@
         ],
         "thrustDamage": 30,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },

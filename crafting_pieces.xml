@@ -24898,7 +24898,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_awlpike_handle_h3" name="{=}Awlpike Handle" tier="4" piece_type="Handle" mesh="awlpike_handle" length="160" weight="1.8" is_default="true">
+  <CraftingPiece id="crpg_awlpike_handle_h3" name="{=}Awlpike Handle" tier="4" piece_type="Handle" mesh="awlpike_handle" length="160" weight="1.50" is_default="true">
     <BuildData piece_offset="10.0" next_piece_offset="7.0" previous_piece_offset="0" />
     <Materials>
       <Material id="Wood" count="1" />
