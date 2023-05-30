@@ -4430,7 +4430,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_militia_spear_handle_h3" name="{=baQ99nza}Long Ash Shaft" tier="2" piece_type="Handle" mesh="spear_handle_5" length="229" weight="0.9" CraftingCost="110">
+  <CraftingPiece id="crpg_short_militia_spear_handle_h3" name="{=baQ99nza}Long Ash Shaft" tier="2" piece_type="Handle" mesh="spear_handle_5" length="229" weight="0.85" CraftingCost="110">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
