@@ -76561,10 +76561,10 @@
     "name": "Long Fine Steel Spear +2",
     "culture": "Empire",
     "type": "Polearm",
-    "price": 11050,
-    "weight": 1.61,
+    "price": 14465,
+    "weight": 1.83,
     "heirloomLevel": 2,
-    "tier": 8.763852,
+    "tier": 10.1828022,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -76576,7 +76576,7 @@
         "stackAmount": 0,
         "length": 281,
         "balance": 0.0,
-        "handling": 49,
+        "handling": 47,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -76585,12 +76585,12 @@
           "TwoHandIdleOnMount",
           "CanDismount"
         ],
-        "thrustDamage": 26,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 89,
         "swingDamage": 0,
         "swingDamageType": "Undefined",
-        "swingSpeed": 50
+        "swingSpeed": 48
       }
     ]
   },
