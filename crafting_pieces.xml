@@ -4334,7 +4334,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_military_fork_handle_h3" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="2.1" CraftingCost="120">
+  <CraftingPiece id="crpg_military_fork_handle_h3" name="{=RXjhTS9s}Long Wrapped Oak Shaft" tier="2" piece_type="Handle" mesh="spear_handle_6" length="250" weight="1.90" CraftingCost="120">
     <BuildData piece_offset="24.9" />
     <Materials>
       <Material id="Wood" count="1" />
