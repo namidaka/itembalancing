@@ -91181,10 +91181,10 @@
     "name": "Narrow Long Headed Spear +3",
     "culture": "Khuzait",
     "type": "Polearm",
-    "price": 6359,
-    "weight": 1.95,
+    "price": 7832,
+    "weight": 1.79,
     "heirloomLevel": 3,
-    "tier": 6.392777,
+    "tier": 7.20975876,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -91196,7 +91196,7 @@
         "stackAmount": 0,
         "length": 186,
         "balance": 0.0,
-        "handling": 66,
+        "handling": 67,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91204,10 +91204,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
+        "thrustSpeed": 85,
         "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 28
+        "swingSpeed": 30
       },
       {
         "class": "TwoHandedPolearm",
@@ -91216,8 +91216,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.12,
-        "handling": 63,
+        "balance": 0.16,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91227,10 +91227,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 93,
         "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 73
+        "swingSpeed": 74
       },
       {
         "class": "TwoHandedPolearm",
@@ -91239,8 +91239,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 186,
-        "balance": 0.12,
-        "handling": 63,
+        "balance": 0.16,
+        "handling": 64,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -91250,10 +91250,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 91,
+        "thrustSpeed": 93,
         "swingDamage": 16,
         "swingDamageType": "Blunt",
-        "swingSpeed": 73
+        "swingSpeed": 74
       }
     ]
   },

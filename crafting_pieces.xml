@@ -3954,7 +3954,7 @@
       <Material id="Wood" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_narrow_long_headed_spear_handle_h3" name="{=ow1aK4DJ}Wrapped Oaken Long Shaft" tier="3" piece_type="Handle" mesh="spear_handle_18" excluded_item_usage_features="long" length="200" weight="1.4">
+  <CraftingPiece id="crpg_narrow_long_headed_spear_handle_h3" name="{=ow1aK4DJ}Wrapped Oaken Long Shaft" tier="3" piece_type="Handle" mesh="spear_handle_18" excluded_item_usage_features="long" length="200" weight="1.25">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="4" />
