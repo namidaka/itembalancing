@@ -65339,10 +65339,10 @@
     "name": "Jagged Spear +3",
     "culture": "Aserai",
     "type": "Polearm",
-    "price": 4854,
-    "weight": 1.53,
+    "price": 6161,
+    "weight": 1.38,
     "heirloomLevel": 3,
-    "tier": 5.45453167,
+    "tier": 6.27593374,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -65354,7 +65354,7 @@
         "stackAmount": 0,
         "length": 141,
         "balance": 0.0,
-        "handling": 74,
+        "handling": 75,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -65362,10 +65362,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
+        "thrustSpeed": 90,
         "swingDamage": 19,
         "swingDamageType": "Blunt",
-        "swingSpeed": 49
+        "swingSpeed": 51
       },
       {
         "class": "TwoHandedPolearm",
@@ -65374,8 +65374,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 141,
-        "balance": 0.58,
-        "handling": 72,
+        "balance": 0.62,
+        "handling": 74,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -65385,10 +65385,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 98,
         "swingDamage": 19,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       },
       {
         "class": "TwoHandedPolearm",
@@ -65397,8 +65397,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 141,
-        "balance": 0.58,
-        "handling": 72,
+        "balance": 0.62,
+        "handling": 74,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -65408,10 +65408,10 @@
         ],
         "thrustDamage": 28,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 98,
         "swingDamage": 19,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
