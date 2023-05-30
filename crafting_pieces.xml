@@ -4238,7 +4238,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_triangular_headed_spear_handle_h3" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="0.8">
+  <CraftingPiece id="crpg_triangular_headed_spear_handle_h3" name="{=nGP3FlHm}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="0.75">
     <BuildData piece_offset="22.9" />
     <Materials>
       <Material id="Wood" count="1" />
