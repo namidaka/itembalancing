@@ -41400,10 +41400,17 @@
     "name": "Engraved Thegn Blade +1",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4997,
     "weight": 1.93,
     "rank": 1,
     "tier": 7.95805073,
+=======
+    "price": 6956,
+    "weight": 1.81,
+    "heirloomLevel": 1,
+    "tier": 9.589299,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41416,7 +41423,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 86,
-        "balance": 0.64,
+        "balance": 0.71,
         "handling": 87,
         "bodyArmor": 1,
         "flags": [
@@ -41424,10 +41431,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 91
       }
     ]
   },
@@ -41437,10 +41444,17 @@
     "name": "Engraved Thegn Blade +2",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3693,
     "weight": 1.93,
     "rank": 2,
     "tier": 6.686969,
+=======
+    "price": 7497,
+    "weight": 1.76,
+    "heirloomLevel": 2,
+    "tier": 9.998379,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41453,7 +41467,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 86,
-        "balance": 0.64,
+        "balance": 0.74,
         "handling": 87,
         "bodyArmor": 1,
         "flags": [
@@ -41461,10 +41475,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 32,
+        "thrustSpeed": 88,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 92
       }
     ]
   },
@@ -41474,10 +41488,17 @@
     "name": "Engraved Thegn Blade +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2814,
     "weight": 1.93,
     "rank": 3,
     "tier": 5.69777536,
+=======
+    "price": 8668,
+    "weight": 1.76,
+    "heirloomLevel": 3,
+    "tier": 10.83528,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41490,7 +41511,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 86,
-        "balance": 0.64,
+        "balance": 0.74,
         "handling": 87,
         "bodyArmor": 1,
         "flags": [
@@ -41498,10 +41519,10 @@
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 32,
+        "thrustSpeed": 88,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 92
       }
     ]
   },
@@ -43150,10 +43171,17 @@
     "name": "Fine Steel Cavalry Sword +1",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3702,
     "weight": 2.04,
     "rank": 1,
     "tier": 6.6959815,
+=======
+    "price": 5547,
+    "weight": 1.95,
+    "heirloomLevel": 1,
+    "tier": 8.444318,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43164,18 +43192,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.23,
-        "handling": 83,
+        "balance": 0.29,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 78
       }
     ]
   },
@@ -43185,10 +43213,17 @@
     "name": "Fine Steel Cavalry Sword +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2755,
     "weight": 2.04,
     "rank": 2,
     "tier": 5.62648439,
+=======
+    "price": 6125,
+    "weight": 1.9,
+    "heirloomLevel": 2,
+    "tier": 8.93003,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43199,18 +43234,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.23,
-        "handling": 83,
+        "balance": 0.32,
+        "handling": 85,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 36,
+        "thrustSpeed": 87,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 79
       }
     ]
   },
@@ -43220,10 +43255,17 @@
     "name": "Fine Steel Cavalry Sword +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2114,
     "weight": 2.04,
     "rank": 3,
     "tier": 4.79416466,
+=======
+    "price": 6913,
+    "weight": 1.85,
+    "heirloomLevel": 3,
+    "tier": 9.556135,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43234,18 +43276,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.23,
-        "handling": 83,
+        "balance": 0.36,
+        "handling": 86,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 36,
+        "thrustSpeed": 87,
+        "swingDamage": 38,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 80
       }
     ]
   },
@@ -64211,10 +64253,17 @@
     "name": "Iron Cavalry Sword +1",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2098,
     "weight": 2.16,
     "rank": 1,
     "tier": 4.77212048,
+=======
+    "price": 3235,
+    "weight": 2.05,
+    "heirloomLevel": 1,
+    "tier": 6.18787766,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -64227,18 +64276,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 115,
-        "balance": 0.21,
-        "handling": 83,
+        "balance": 0.29,
+        "handling": 85,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 78
       }
     ]
   },
@@ -64248,10 +64297,17 @@
     "name": "Iron Cavalry Sword +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1586,
     "weight": 2.16,
     "rank": 2,
     "tier": 4.00990629,
+=======
+    "price": 3647,
+    "weight": 1.99,
+    "heirloomLevel": 2,
+    "tier": 6.63873672,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -64264,18 +64320,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 115,
-        "balance": 0.21,
-        "handling": 83,
+        "balance": 0.33,
+        "handling": 86,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 34,
+        "thrustSpeed": 87,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 79
       }
     ]
   },
@@ -64285,10 +64341,17 @@
     "name": "Iron Cavalry Sword +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1236,
     "weight": 2.16,
     "rank": 3,
     "tier": 3.41672635,
+=======
+    "price": 4005,
+    "weight": 1.97,
+    "heirloomLevel": 3,
+    "tier": 7.00923443,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -64301,18 +64364,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 115,
-        "balance": 0.21,
-        "handling": 83,
+        "balance": 0.35,
+        "handling": 86,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 34,
+        "thrustSpeed": 87,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 76
+        "swingSpeed": 80
       }
     ]
   },
@@ -124585,10 +124648,17 @@
     "name": "Spatha Blade with Ring Pommel +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4996,
     "weight": 2.51,
     "rank": 1,
     "tier": 7.95747232,
+=======
+    "price": 7597,
+    "weight": 2.42,
+    "heirloomLevel": 1,
+    "tier": 10.0722523,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -124599,18 +124669,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.56,
-        "handling": 89,
+        "balance": 0.63,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 84,
         "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -124620,10 +124690,17 @@
     "name": "Spatha Blade with Ring Pommel +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3693,
     "weight": 2.51,
     "rank": 2,
     "tier": 6.68648767,
+=======
+    "price": 8262,
+    "weight": 2.38,
+    "heirloomLevel": 2,
+    "tier": 10.5513067,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -124634,18 +124711,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.56,
-        "handling": 89,
+        "balance": 0.66,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
-        "swingDamage": 31,
+        "thrustSpeed": 84,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 89
       }
     ]
   },
@@ -124655,10 +124732,17 @@
     "name": "Spatha Blade with Ring Pommel +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2813,
     "weight": 2.51,
     "rank": 3,
     "tier": 5.69736242,
+=======
+    "price": 8047,
+    "weight": 2.38,
+    "heirloomLevel": 3,
+    "tier": 10.398489,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -124669,18 +124753,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.56,
-        "handling": 89,
+        "balance": 0.66,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
-        "swingDamage": 31,
+        "thrustSpeed": 84,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 89
       }
     ]
   },
@@ -130391,10 +130475,17 @@
     "name": "Straight Saber +1",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3003,
     "weight": 1.41,
     "rank": 1,
     "tier": 5.923041,
+=======
+    "price": 4308,
+    "weight": 1.31,
+    "heirloomLevel": 1,
+    "tier": 7.310702,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -130407,18 +130498,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.53,
-        "handling": 88,
+        "balance": 0.6,
+        "handling": 89,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 87
       }
     ]
   },
@@ -130428,10 +130519,17 @@
     "name": "Straight Saber +2",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2247,
     "weight": 1.41,
     "rank": 2,
     "tier": 4.97699833,
+=======
+    "price": 4879,
+    "weight": 1.26,
+    "heirloomLevel": 2,
+    "tier": 7.85113525,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -130444,18 +130542,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.53,
-        "handling": 88,
+        "balance": 0.62,
+        "handling": 90,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 29,
+        "thrustSpeed": 93,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 88
       }
     ]
   },
@@ -130465,10 +130563,17 @@
     "name": "Straight Saber +3",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1734,
     "weight": 1.41,
     "rank": 3,
     "tier": 4.24075651,
+=======
+    "price": 5673,
+    "weight": 1.22,
+    "heirloomLevel": 3,
+    "tier": 8.552039,
+>>>>>>> 050a4f8 (0130)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -130481,18 +130586,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.53,
-        "handling": 88,
+        "balance": 0.66,
+        "handling": 91,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
-        "swingDamage": 29,
+        "thrustSpeed": 94,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 85
+        "swingSpeed": 89
       }
     ]
   },
