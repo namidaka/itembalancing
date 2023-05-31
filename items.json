@@ -41104,10 +41104,17 @@
     "name": "Engraved Backsword +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5094,
     "weight": 2.03,
     "rank": 1,
     "tier": 8.045635,
+=======
+    "price": 7580,
+    "weight": 1.93,
+    "heirloomLevel": 1,
+    "tier": 10.0598507,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41120,18 +41127,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 107,
-        "balance": 0.46,
-        "handling": 82,
+        "balance": 0.53,
+        "handling": 83,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
+        "thrustSpeed": 87,
         "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 85
       }
     ]
   },
@@ -41141,10 +41148,17 @@
     "name": "Engraved Backsword +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3763,
     "weight": 2.03,
     "rank": 2,
     "tier": 6.76056576,
+=======
+    "price": 8153,
+    "weight": 1.89,
+    "heirloomLevel": 2,
+    "tier": 10.4744015,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41157,18 +41171,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 107,
-        "balance": 0.46,
-        "handling": 82,
+        "balance": 0.55,
+        "handling": 83,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 34,
+        "thrustSpeed": 87,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 86
       }
     ]
   },
@@ -41178,10 +41192,17 @@
     "name": "Engraved Backsword +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2866,
     "weight": 2.03,
     "rank": 3,
     "tier": 5.760485,
+=======
+    "price": 9197,
+    "weight": 1.89,
+    "heirloomLevel": 3,
+    "tier": 11.1944332,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41194,18 +41215,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 107,
-        "balance": 0.46,
-        "handling": 82,
+        "balance": 0.55,
+        "handling": 83,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 86,
-        "swingDamage": 34,
+        "thrustSpeed": 87,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 86
       }
     ]
   },
@@ -41326,10 +41347,15 @@
     "name": "Engraved Pointed Sword +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 8098,
+    "price": 8791,
     "weight": 1.6,
+<<<<<<< HEAD
     "rank": 3,
     "tier": 10.4352427,
+=======
+    "heirloomLevel": 3,
+    "tier": 10.9196434,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41348,7 +41374,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 31,
+        "thrustDamage": 32,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
         "swingDamage": 32,
@@ -71460,10 +71486,15 @@
     "name": "Knightly Cavalry Sword +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5888,
+    "price": 7699,
     "weight": 1.66,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 8.733721,
+=======
+    "heirloomLevel": 2,
+    "tier": 10.14724,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -71482,7 +71513,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 30,
+        "thrustDamage": 31,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
         "swingDamage": 35,
@@ -71497,10 +71528,15 @@
     "name": "Knightly Cavalry Sword +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 7494,
+    "price": 8199,
     "weight": 1.59,
+<<<<<<< HEAD
     "rank": 3,
     "tier": 9.99612,
+=======
+    "heirloomLevel": 3,
+    "tier": 10.5068913,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -71519,7 +71555,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 30,
+        "thrustDamage": 31,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
         "swingDamage": 37,
@@ -116864,10 +116900,17 @@
     "name": "Scalpel +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5125,
     "weight": 1.74,
     "rank": 1,
     "tier": 8.073632,
+=======
+    "price": 7631,
+    "weight": 1.64,
+    "heirloomLevel": 1,
+    "tier": 10.0973539,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -116878,18 +116921,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.48,
-        "handling": 76,
+        "balance": 0.53,
+        "handling": 77,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
+        "thrustSpeed": 89,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -116899,10 +116942,17 @@
     "name": "Scalpel +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3786,
     "weight": 1.74,
     "rank": 2,
     "tier": 6.78409338,
+=======
+    "price": 6857,
+    "weight": 1.64,
+    "heirloomLevel": 2,
+    "tier": 9.513441,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -116913,18 +116963,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.48,
-        "handling": 76,
+        "balance": 0.53,
+        "handling": 77,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 35,
+        "thrustSpeed": 89,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -116934,10 +116984,17 @@
     "name": "Scalpel +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2883,
     "weight": 1.74,
     "rank": 3,
     "tier": 5.7805295,
+=======
+    "price": 7508,
+    "weight": 1.57,
+    "heirloomLevel": 3,
+    "tier": 10.0059519,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -116948,18 +117005,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.48,
-        "handling": 76,
+        "balance": 0.59,
+        "handling": 77,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 35,
+        "thrustSpeed": 90,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 87
       }
     ]
   },
@@ -118798,10 +118855,17 @@
     "name": "Short Arming Sword +1",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3208,
     "weight": 1.97,
     "rank": 1,
     "tier": 6.15762472,
+=======
+    "price": 4581,
+    "weight": 1.83,
+    "heirloomLevel": 1,
+    "tier": 7.572674,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -118814,18 +118878,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.67,
-        "handling": 89,
+        "balance": 0.74,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
+        "thrustSpeed": 88,
         "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 92
       }
     ]
   },
@@ -118835,10 +118899,17 @@
     "name": "Short Arming Sword +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2396,
     "weight": 1.97,
     "rank": 2,
     "tier": 5.1741147,
+=======
+    "price": 5053,
+    "weight": 1.73,
+    "heirloomLevel": 2,
+    "tier": 8.008871,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -118851,18 +118922,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.67,
-        "handling": 89,
+        "balance": 0.8,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 29,
+        "thrustSpeed": 89,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 93
       }
     ]
   },
@@ -118872,10 +118943,17 @@
     "name": "Short Arming Sword +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1845,
     "weight": 1.97,
     "rank": 3,
     "tier": 4.40871429,
+=======
+    "price": 5670,
+    "weight": 1.65,
+    "heirloomLevel": 3,
+    "tier": 8.549845,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -118888,18 +118966,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.67,
-        "handling": 89,
+        "balance": 0.83,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 29,
+        "thrustSpeed": 90,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 94
       }
     ]
   },
@@ -143543,10 +143621,15 @@
     "name": "Tyrhung +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6082,
+    "price": 6662,
     "weight": 1.43,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 8.894467,
+=======
+    "heirloomLevel": 2,
+    "tier": 9.361227,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -143565,7 +143648,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 31,
+        "thrustDamage": 32,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 90,
         "swingDamage": 31,
@@ -143580,10 +143663,17 @@
     "name": "Tyrhung +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 6810,
     "weight": 1.43,
     "rank": 3,
     "tier": 9.476263,
+=======
+    "price": 8411,
+    "weight": 1.34,
+    "heirloomLevel": 3,
+    "tier": 10.6564846,
+>>>>>>> e19d1a9 (fixes)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -143596,18 +143686,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 107,
-        "balance": 0.61,
-        "handling": 78,
+        "balance": 0.65,
+        "handling": 77,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 31,
+        "thrustDamage": 32,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
+        "thrustSpeed": 92,
         "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
