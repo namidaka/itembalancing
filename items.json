@@ -112593,10 +112593,17 @@
     "name": "Ridged Iron Broadsword +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2525,
     "weight": 2.26,
     "rank": 1,
     "tier": 5.340885,
+=======
+    "price": 4000,
+    "weight": 2.13,
+    "heirloomLevel": 1,
+    "tier": 7.00439835,
+>>>>>>> 8655046 (2158)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -112609,18 +112616,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 100,
-        "balance": 0.33,
-        "handling": 83,
+        "balance": 0.42,
+        "handling": 85,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -112630,10 +112637,17 @@
     "name": "Ridged Iron Broadsword +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1899,
     "weight": 2.26,
     "rank": 2,
     "tier": 4.48782635,
+=======
+    "price": 3712,
+    "weight": 2.13,
+    "heirloomLevel": 2,
+    "tier": 6.70670033,
+>>>>>>> 8655046 (2158)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -112646,18 +112660,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 100,
-        "balance": 0.33,
-        "handling": 83,
+        "balance": 0.42,
+        "handling": 85,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 35,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -112667,10 +112681,17 @@
     "name": "Ridged Iron Broadsword +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1472,
     "weight": 2.26,
     "rank": 3,
     "tier": 3.82394743,
+=======
+    "price": 4193,
+    "weight": 2.09,
+    "heirloomLevel": 3,
+    "tier": 7.19720936,
+>>>>>>> 8655046 (2158)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -112683,18 +112704,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 100,
-        "balance": 0.33,
-        "handling": 83,
+        "balance": 0.44,
+        "handling": 85,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 35,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 83
       }
     ]
   },
