@@ -50377,6 +50377,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 5208,
     "weight": 2.13,
     "rank": 1,
@@ -50387,6 +50388,12 @@
     "heirloomLevel": 1,
     "tier": 10.1876535,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 7889,
+    "weight": 2.02,
+    "heirloomLevel": 1,
+    "tier": 10.2847309,
+>>>>>>> 609634a (2xbroughtdowntier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -50405,7 +50412,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 36,
@@ -50421,6 +50428,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 3846,
     "weight": 2.13,
     "rank": 2,
@@ -50431,6 +50439,12 @@
     "heirloomLevel": 2,
     "tier": 10.5928211,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 8995,
+    "weight": 1.94,
+    "heirloomLevel": 2,
+    "tier": 11.0583,
+>>>>>>> 609634a (2xbroughtdowntier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -50449,7 +50463,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 37,
@@ -50465,6 +50479,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2928,
     "weight": 2.13,
     "rank": 3,
@@ -50475,6 +50490,12 @@
     "heirloomLevel": 3,
     "tier": 11.1268253,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 8432,
+    "weight": 1.94,
+    "heirloomLevel": 3,
+    "tier": 10.6707478,
+>>>>>>> 609634a (2xbroughtdowntier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -50487,18 +50508,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 84,
-        "balance": 0.67,
+        "balance": 0.66,
         "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 38,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 89
       }
     ]
   },
@@ -57567,6 +57588,7 @@
     "culture": "Battania",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 3118,
     "weight": 2.1,
     "rank": 2,
@@ -57577,6 +57599,12 @@
     "heirloomLevel": 2,
     "tier": 9.554945,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 6043,
+    "weight": 2.01,
+    "heirloomLevel": 2,
+    "tier": 8.862477,
+>>>>>>> 609634a (2xbroughtdowntier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -57589,18 +57617,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 110,
-        "balance": 0.44,
+        "balance": 0.41,
         "handling": 82,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 83
+        "swingSpeed": 82
       }
     ]
   },
@@ -57610,6 +57638,7 @@
     "name": "Highland Broad Blade +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 2385,
     "weight": 2.1,
@@ -57621,6 +57650,12 @@
     "heirloomLevel": 3,
     "tier": 10.1506023,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 7049,
+    "weight": 1.95,
+    "heirloomLevel": 3,
+    "tier": 9.661266,
+>>>>>>> 609634a (2xbroughtdowntier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -57639,10 +57674,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 39,
+        "swingDamage": 38,
         "swingDamageType": "Cut",
         "swingSpeed": 83
       }
