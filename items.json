@@ -44800,10 +44800,17 @@
     "name": "Fine Steel Paramerion +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5289,
     "weight": 2.47,
     "rank": 1,
     "tier": 8.219167,
+=======
+    "price": 7929,
+    "weight": 2.39,
+    "heirloomLevel": 1,
+    "tier": 10.31418,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -44814,18 +44821,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.49,
-        "handling": 85,
+        "balance": 0.55,
+        "handling": 86,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 84,
         "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -44835,10 +44842,17 @@
     "name": "Fine Steel Paramerion +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3904,
     "weight": 2.47,
     "rank": 2,
     "tier": 6.90638256,
+=======
+    "price": 7346,
+    "weight": 2.39,
+    "heirloomLevel": 2,
+    "tier": 9.885995,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -44849,18 +44863,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.49,
-        "handling": 85,
+        "balance": 0.55,
+        "handling": 86,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
-        "swingDamage": 34,
+        "thrustSpeed": 84,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -44870,10 +44884,17 @@
     "name": "Fine Steel Paramerion +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2971,
     "weight": 2.47,
     "rank": 3,
     "tier": 5.884727,
+=======
+    "price": 8654,
+    "weight": 2.35,
+    "heirloomLevel": 3,
+    "tier": 10.8255053,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -44884,18 +44905,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 104,
-        "balance": 0.49,
-        "handling": 85,
+        "balance": 0.59,
+        "handling": 87,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
-        "swingDamage": 34,
+        "thrustSpeed": 84,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 87
       }
     ]
   },
@@ -66612,10 +66633,17 @@
     "name": "Iron Thegn Blade +1",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2824,
     "weight": 2.0,
     "rank": 1,
     "tier": 5.710654,
+=======
+    "price": 3907,
+    "weight": 1.85,
+    "heirloomLevel": 1,
+    "tier": 6.90969372,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -66628,7 +66656,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 83,
-        "balance": 0.64,
+        "balance": 0.72,
         "handling": 85,
         "bodyArmor": 1,
         "flags": [
@@ -66639,7 +66667,7 @@
         "thrustSpeed": 87,
         "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 91
       }
     ]
   },
@@ -66649,10 +66677,17 @@
     "name": "Iron Thegn Blade +2",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2117,
     "weight": 2.0,
     "rank": 2,
     "tier": 4.798536,
+=======
+    "price": 4293,
+    "weight": 1.8,
+    "heirloomLevel": 2,
+    "tier": 7.29556942,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -66665,7 +66700,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 83,
-        "balance": 0.64,
+        "balance": 0.75,
         "handling": 85,
         "bodyArmor": 1,
         "flags": [
@@ -66673,10 +66708,10 @@
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 31,
+        "thrustSpeed": 88,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 92
       }
     ]
   },
@@ -66686,10 +66721,17 @@
     "name": "Iron Thegn Blade +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1636,
     "weight": 2.0,
     "rank": 3,
     "tier": 4.08869267,
+=======
+    "price": 4788,
+    "weight": 1.75,
+    "heirloomLevel": 3,
+    "tier": 7.766935,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -66702,7 +66744,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 83,
-        "balance": 0.64,
+        "balance": 0.77,
         "handling": 85,
         "bodyArmor": 1,
         "flags": [
@@ -66710,10 +66752,10 @@
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 31,
+        "thrustSpeed": 88,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 93
       }
     ]
   },
@@ -127518,10 +127560,17 @@
     "name": "Steel Broadsword +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3039,
     "weight": 2.18,
     "rank": 1,
     "tier": 5.964445,
+=======
+    "price": 4556,
+    "weight": 2.09,
+    "heirloomLevel": 1,
+    "tier": 7.54939651,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -127534,8 +127583,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.36,
-        "handling": 83,
+        "balance": 0.41,
+        "handling": 84,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
@@ -127545,7 +127594,7 @@
         "thrustSpeed": 85,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -127555,10 +127604,17 @@
     "name": "Steel Broadsword +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2273,
     "weight": 2.18,
     "rank": 2,
     "tier": 5.01179,
+=======
+    "price": 4314,
+    "weight": 2.09,
+    "heirloomLevel": 2,
+    "tier": 7.31625462,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -127571,18 +127627,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.36,
-        "handling": 83,
+        "balance": 0.41,
+        "handling": 84,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 35,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -127592,10 +127648,17 @@
     "name": "Steel Broadsword +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1753,
     "weight": 2.18,
     "rank": 3,
     "tier": 4.270402,
+=======
+    "price": 5104,
+    "weight": 2.04,
+    "heirloomLevel": 3,
+    "tier": 8.05456,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -127608,18 +127671,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.36,
-        "handling": 83,
+        "balance": 0.44,
+        "handling": 85,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 35,
+        "thrustSpeed": 86,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 80
+        "swingSpeed": 83
       }
     ]
   },
@@ -137250,10 +137313,17 @@
     "name": "Tall Gripped Ild +1",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5201,
     "weight": 1.71,
     "rank": 1,
     "tier": 8.141615,
+=======
+    "price": 7830,
+    "weight": 1.61,
+    "heirloomLevel": 1,
+    "tier": 10.2421312,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -137264,18 +137334,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.71,
-        "handling": 94,
+        "balance": 0.79,
+        "handling": 96,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 90,
         "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 91
+        "swingSpeed": 93
       }
     ]
   },
@@ -137285,10 +137355,17 @@
     "name": "Tall Gripped Ild +2",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3841,
     "weight": 1.71,
     "rank": 2,
     "tier": 6.841217,
+=======
+    "price": 7479,
+    "weight": 1.61,
+    "heirloomLevel": 2,
+    "tier": 9.984653,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -137299,18 +137376,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.71,
-        "handling": 94,
+        "balance": 0.79,
+        "handling": 96,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 30,
+        "thrustSpeed": 90,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 91
+        "swingSpeed": 93
       }
     ]
   },
@@ -137320,10 +137397,17 @@
     "name": "Tall Gripped Ild +3",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2924,
     "weight": 1.71,
     "rank": 3,
     "tier": 5.82920265,
+=======
+    "price": 8573,
+    "weight": 1.57,
+    "heirloomLevel": 3,
+    "tier": 10.76921,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -137334,18 +137418,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 87,
-        "balance": 0.71,
-        "handling": 94,
+        "balance": 0.82,
+        "handling": 96,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 30,
+        "thrustSpeed": 90,
+        "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 91
+        "swingSpeed": 94
       }
     ]
   },
@@ -139296,10 +139380,17 @@
     "name": "Thamaskene Short Warsword +1",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4252,
     "weight": 2.15,
     "rank": 1,
     "tier": 7.255455,
+=======
+    "price": 6018,
+    "weight": 2.0,
+    "heirloomLevel": 1,
+    "tier": 8.841901,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -139312,7 +139403,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 82,
-        "balance": 0.58,
+        "balance": 0.66,
         "handling": 83,
         "bodyArmor": 0,
         "flags": [
@@ -139320,10 +139411,10 @@
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 87,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 89
       }
     ]
   },
@@ -139333,10 +139424,17 @@
     "name": "Thamaskene Short Warsword +2",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3154,
     "weight": 2.15,
     "rank": 2,
     "tier": 6.09659624,
+=======
+    "price": 6476,
+    "weight": 1.95,
+    "heirloomLevel": 2,
+    "tier": 9.213385,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -139349,7 +139447,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 82,
-        "balance": 0.58,
+        "balance": 0.68,
         "handling": 83,
         "bodyArmor": 0,
         "flags": [
@@ -139357,10 +139455,10 @@
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 35,
+        "thrustSpeed": 87,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 90
       }
     ]
   },
@@ -139370,10 +139468,17 @@
     "name": "Thamaskene Short Warsword +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2412,
     "weight": 2.15,
     "rank": 3,
     "tier": 5.19473362,
+=======
+    "price": 7097,
+    "weight": 1.87,
+    "heirloomLevel": 3,
+    "tier": 9.697372,
+>>>>>>> 9954479 (2154)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -139386,7 +139491,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 82,
-        "balance": 0.58,
+        "balance": 0.71,
         "handling": 83,
         "bodyArmor": 0,
         "flags": [
@@ -139394,10 +139499,10 @@
         ],
         "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 35,
+        "thrustSpeed": 87,
+        "swingDamage": 37,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 91
       }
     ]
   },
