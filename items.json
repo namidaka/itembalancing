@@ -41294,6 +41294,7 @@
     "culture": "Battania",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 5094,
     "weight": 2.03,
     "rank": 1,
@@ -41304,6 +41305,48 @@
     "heirloomLevel": 1,
     "tier": 10.0598507,
 >>>>>>> e19d1a9 (fixes)
+=======
+    "price": 6364,
+    "weight": 1.98,
+    "heirloomLevel": 1,
+    "tier": 9.124187,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.49,
+        "handling": 82,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_engraved_backsword_h2",
+    "name": "Engraved Backsword +2",
+    "culture": "Battania",
+    "type": "OneHandedWeapon",
+    "price": 7440,
+    "weight": 1.93,
+    "heirloomLevel": 2,
+    "tier": 9.955603,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41322,6 +41365,7 @@
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
@@ -41367,11 +41411,14 @@
           "MeleeWeapon"
         ],
         "thrustDamage": 24,
+=======
+        "thrustDamage": 26,
+>>>>>>> 3b551c9 (bringingsomedownintier)
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 85
       }
     ]
   },
@@ -41381,6 +41428,7 @@
     "name": "Engraved Backsword +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 2866,
     "weight": 2.03,
@@ -41392,6 +41440,12 @@
     "heirloomLevel": 3,
     "tier": 11.1944332,
 >>>>>>> e19d1a9 (fixes)
+=======
+    "price": 8471,
+    "weight": 1.89,
+    "heirloomLevel": 3,
+    "tier": 10.6980534,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -41410,10 +41464,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
-        "swingDamage": 37,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
         "swingSpeed": 86
       }
@@ -42849,6 +42903,7 @@
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 3256,
     "weight": 2.11,
     "rank": 2,
@@ -42859,6 +42914,48 @@
     "heirloomLevel": 2,
     "tier": 9.709291,
 >>>>>>> 150f2d5 (0203)
+=======
+    "price": 6156,
+    "weight": 2.01,
+    "heirloomLevel": 2,
+    "tier": 8.95559,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 105,
+        "balance": 0.54,
+        "handling": 84,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_fine_steel_arming_sword_h3",
+    "name": "Fine Steel Arming Sword +3",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 7268,
+    "weight": 1.92,
+    "heirloomLevel": 3,
+    "tier": 9.827183,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -42877,6 +42974,7 @@
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
@@ -42922,11 +43020,14 @@
           "MeleeWeapon"
         ],
         "thrustDamage": 22,
+=======
+        "thrustDamage": 25,
+>>>>>>> 3b551c9 (bringingsomedownintier)
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
@@ -43141,6 +43242,7 @@
     "culture": "Battania",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 3646,
     "weight": 2.33,
     "rank": 1,
@@ -43151,6 +43253,12 @@
     "heirloomLevel": 1,
     "tier": 8.687544,
 >>>>>>> 8c8f0e2 (1723)
+=======
+    "price": 6089,
+    "weight": 2.23,
+    "heirloomLevel": 1,
+    "tier": 8.900615,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43167,7 +43275,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 38,
@@ -43183,6 +43291,7 @@
     "culture": "Battania",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2714,
     "weight": 2.33,
     "rank": 2,
@@ -43193,6 +43302,12 @@
     "heirloomLevel": 2,
     "tier": 9.025386,
 >>>>>>> 8c8f0e2 (1723)
+=======
+    "price": 5377,
+    "weight": 2.23,
+    "heirloomLevel": 2,
+    "tier": 8.297085,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43203,18 +43318,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 120,
-        "balance": 0.28,
+        "balance": 0.25,
         "handling": 82,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 39,
         "swingDamageType": "Cut",
-        "swingSpeed": 78
+        "swingSpeed": 77
       }
     ]
   },
@@ -43224,6 +43339,7 @@
     "name": "Fine Steel Cavalry Broadsword +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 2083,
     "weight": 2.33,
@@ -43235,6 +43351,12 @@
     "heirloomLevel": 3,
     "tier": 9.428659,
 >>>>>>> 8c8f0e2 (1723)
+=======
+    "price": 6027,
+    "weight": 2.23,
+    "heirloomLevel": 3,
+    "tier": 8.849361,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43245,18 +43367,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 120,
-        "balance": 0.28,
+        "balance": 0.25,
         "handling": 82,
         "bodyArmor": 2,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
         "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 78
+        "swingSpeed": 77
       }
     ]
   },
@@ -43513,6 +43635,7 @@
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2755,
     "weight": 2.04,
     "rank": 2,
@@ -43523,6 +43646,12 @@
     "heirloomLevel": 2,
     "tier": 8.93003,
 >>>>>>> 050a4f8 (0130)
+=======
+    "price": 5873,
+    "weight": 1.93,
+    "heirloomLevel": 2,
+    "tier": 8.721147,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43533,8 +43662,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.32,
-        "handling": 85,
+        "balance": 0.3,
+        "handling": 84,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
@@ -43555,6 +43684,7 @@
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2114,
     "weight": 2.04,
     "rank": 3,
@@ -43565,6 +43695,12 @@
     "heirloomLevel": 3,
     "tier": 9.556135,
 >>>>>>> 050a4f8 (0130)
+=======
+    "price": 6629,
+    "weight": 1.89,
+    "heirloomLevel": 3,
+    "tier": 9.335194,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -43575,8 +43711,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 117,
-        "balance": 0.36,
-        "handling": 86,
+        "balance": 0.34,
+        "handling": 85,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
@@ -108087,6 +108223,7 @@
     "culture": "Neutral",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2681,
     "weight": 1.96,
     "rank": 2,
@@ -108097,6 +108234,46 @@
     "heirloomLevel": 2,
     "tier": 8.839773,
 >>>>>>> 150f2d5 (0203)
+=======
+    "price": 5043,
+    "weight": 1.86,
+    "heirloomLevel": 2,
+    "tier": 8.000357,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 108,
+        "balance": 0.55,
+        "handling": 86,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_pointed_falchion_h3",
+    "name": "Pointed Falchion +3",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 6105,
+    "weight": 1.82,
+    "heirloomLevel": 3,
+    "tier": 8.91323948,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -108113,6 +108290,7 @@
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
@@ -108156,11 +108334,14 @@
           "MeleeWeapon"
         ],
         "thrustDamage": 23,
+=======
+        "thrustDamage": 25,
+>>>>>>> 3b551c9 (bringingsomedownintier)
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
         "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 87
       }
     ]
   },
@@ -127553,6 +127734,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2532,
     "weight": 1.98,
     "rank": 2,
@@ -127563,6 +127745,48 @@
     "heirloomLevel": 2,
     "tier": 8.575342,
 >>>>>>> 150f2d5 (0203)
+=======
+    "price": 4730,
+    "weight": 1.88,
+    "heirloomLevel": 2,
+    "tier": 7.71264124,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 105,
+        "balance": 0.48,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_long_warsword_h3",
+    "name": "Steel Long Warsword +3",
+    "culture": "Sturgia",
+    "type": "OneHandedWeapon",
+    "price": 5659,
+    "weight": 1.83,
+    "heirloomLevel": 3,
+    "tier": 8.540301,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -127581,6 +127805,7 @@
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
@@ -127626,11 +127851,14 @@
           "MeleeWeapon"
         ],
         "thrustDamage": 22,
+=======
+        "thrustDamage": 24,
+>>>>>>> 3b551c9 (bringingsomedownintier)
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
         "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 85
       }
     ]
   },
@@ -131176,6 +131404,7 @@
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 3003,
     "weight": 1.41,
     "rank": 1,
@@ -131186,6 +131415,48 @@
     "heirloomLevel": 1,
     "tier": 7.310702,
 >>>>>>> 050a4f8 (0130)
+=======
+    "price": 3892,
+    "weight": 1.36,
+    "heirloomLevel": 1,
+    "tier": 6.89428425,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 104,
+        "balance": 0.55,
+        "handling": 89,
+        "bodyArmor": 2,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 92,
+        "swingDamage": 29,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_straight_saber_h2",
+    "name": "Straight Saber +2",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 4245,
+    "weight": 1.31,
+    "heirloomLevel": 2,
+    "tier": 7.24904871,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -131204,16 +131475,17 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 93,
-        "swingDamage": 29,
+        "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 87
       }
     ]
   },
   {
+<<<<<<< HEAD
     "id": "crpg_straight_saber_h2",
     "baseId": "crpg_straight_saber",
     "name": "Straight Saber +2",
@@ -131230,6 +131502,16 @@
     "heirloomLevel": 2,
     "tier": 7.85113525,
 >>>>>>> 050a4f8 (0130)
+=======
+    "id": "crpg_straight_saber_h3",
+    "name": "Straight Saber +3",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 5171,
+    "weight": 1.26,
+    "heirloomLevel": 3,
+    "tier": 8.11458,
+>>>>>>> 3b551c9 (bringingsomedownintier)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -131248,9 +131530,10 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 25,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 93,
+<<<<<<< HEAD
         "swingDamage": 30,
         "swingDamageType": "Cut",
         "swingSpeed": 88
@@ -131295,9 +131578,11 @@
         "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
+=======
+>>>>>>> 3b551c9 (bringingsomedownintier)
         "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 88
       }
     ]
   },
