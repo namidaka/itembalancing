@@ -45252,6 +45252,7 @@
     "culture": "Empire",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2110,
     "weight": 1.91,
     "rank": 1,
@@ -45262,6 +45263,12 @@
     "heirloomLevel": 1,
     "tier": 5.995843,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 3174,
+    "weight": 1.84,
+    "heirloomLevel": 1,
+    "tier": 6.119334,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -45280,7 +45287,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
         "swingDamage": 30,
@@ -45296,6 +45303,7 @@
     "culture": "Empire",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 1595,
     "weight": 1.91,
     "rank": 2,
@@ -45306,6 +45314,12 @@
     "heirloomLevel": 2,
     "tier": 6.508357,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 3770,
+    "weight": 1.8,
+    "heirloomLevel": 2,
+    "tier": 6.76727057,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -45324,7 +45338,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
         "swingDamage": 31,
@@ -45340,6 +45354,7 @@
     "culture": "Empire",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 1243,
     "weight": 1.91,
     "rank": 3,
@@ -45350,6 +45365,12 @@
     "heirloomLevel": 3,
     "tier": 7.143512,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 3710,
+    "weight": 1.8,
+    "heirloomLevel": 3,
+    "tier": 6.705321,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -45362,18 +45383,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 105,
-        "balance": 0.57,
-        "handling": 89,
+        "balance": 0.54,
+        "handling": 88,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 88,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 86
       }
     ]
   },
@@ -65593,6 +65614,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2793,
     "weight": 2.11,
     "rank": 1,
@@ -65603,6 +65625,12 @@
     "heirloomLevel": 1,
     "tier": 7.2975297,
 >>>>>>> 9e69aca (0231)
+=======
+    "price": 4427,
+    "weight": 1.98,
+    "heirloomLevel": 1,
+    "tier": 7.42545557,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -65621,7 +65649,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 32,
@@ -65637,6 +65665,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2094,
     "weight": 2.11,
     "rank": 2,
@@ -65647,6 +65676,48 @@
     "heirloomLevel": 2,
     "tier": 7.6900177,
 >>>>>>> 9e69aca (0231)
+=======
+    "price": 4208,
+    "weight": 1.98,
+    "heirloomLevel": 2,
+    "tier": 7.21247,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 103,
+        "balance": 0.53,
+        "handling": 86,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_iron_long_warsword_h3",
+    "name": "Iron Long Warsword +3",
+    "culture": "Sturgia",
+    "type": "OneHandedWeapon",
+    "price": 4826,
+    "weight": 1.92,
+    "heirloomLevel": 3,
+    "tier": 7.802027,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -65665,6 +65736,7 @@
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
@@ -65710,11 +65782,14 @@
           "MeleeWeapon"
         ],
         "thrustDamage": 21,
+=======
+        "thrustDamage": 24,
+>>>>>>> d2d2909 (afewmorebroughtdown)
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 86
       }
     ]
   },
@@ -66167,6 +66242,7 @@
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 2564,
     "weight": 2.12,
     "rank": 1,
@@ -66177,6 +66253,12 @@
     "heirloomLevel": 1,
     "tier": 6.70851231,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 3826,
+    "weight": 1.99,
+    "heirloomLevel": 1,
+    "tier": 6.82574749,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -66195,7 +66277,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 29,
@@ -66211,6 +66293,7 @@
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 1927,
     "weight": 2.12,
     "rank": 2,
@@ -66221,6 +66304,48 @@
     "heirloomLevel": 2,
     "tier": 7.13018656,
 >>>>>>> cbed0ab (1808)
+=======
+    "price": 3719,
+    "weight": 1.99,
+    "heirloomLevel": 2,
+    "tier": 6.714681,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 99,
+        "balance": 0.66,
+        "handling": 87,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 30,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
+    "id": "crpg_iron_saber_h3",
+    "name": "Iron Saber +3",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 4316,
+    "weight": 1.92,
+    "heirloomLevel": 3,
+    "tier": 7.318255,
+>>>>>>> d2d2909 (afewmorebroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -66239,6 +66364,7 @@
         "flags": [
           "MeleeWeapon"
         ],
+<<<<<<< HEAD
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
@@ -66284,11 +66410,14 @@
           "MeleeWeapon"
         ],
         "thrustDamage": 21,
+=======
+        "thrustDamage": 24,
+>>>>>>> d2d2909 (afewmorebroughtdown)
         "thrustDamageType": "Pierce",
         "thrustSpeed": 87,
         "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 91
+        "swingSpeed": 90
       }
     ]
   },
