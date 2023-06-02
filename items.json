@@ -123870,6 +123870,7 @@
     "culture": "Aserai",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 5140,
     "weight": 2.4,
     "rank": 1,
@@ -123880,6 +123881,12 @@
     "heirloomLevel": 1,
     "tier": 9.135182,
 >>>>>>> a1592ae (1433)
+=======
+    "price": 7917,
+    "weight": 2.32,
+    "heirloomLevel": 1,
+    "tier": 10.30562,
+>>>>>>> 1559a20 (1543)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -123890,8 +123897,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 98,
-        "balance": 0.63,
-        "handling": 90,
+        "balance": 0.66,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
@@ -123901,7 +123908,7 @@
         "thrustSpeed": 84,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
@@ -123911,6 +123918,7 @@
     "name": "Slightly Ridged Flyssa +2",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 3797,
     "weight": 2.4,
@@ -123922,6 +123930,12 @@
     "heirloomLevel": 2,
     "tier": 10.8876095,
 >>>>>>> a1592ae (1433)
+=======
+    "price": 7328,
+    "weight": 2.32,
+    "heirloomLevel": 2,
+    "tier": 9.872506,
+>>>>>>> 1559a20 (1543)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -123932,7 +123946,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 98,
-        "balance": 0.67,
+        "balance": 0.66,
         "handling": 91,
         "bodyArmor": 5,
         "flags": [
@@ -123940,10 +123954,10 @@
         ],
         "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 84,
         "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 89
       }
     ]
   },
