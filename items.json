@@ -32593,6 +32593,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 5191,
     "weight": 1.86,
     "rank": 1,
@@ -32603,6 +32604,12 @@
     "heirloomLevel": 1,
     "tier": 9.801615,
 >>>>>>> 150f2d5 (0203)
+=======
+    "price": 7464,
+    "weight": 1.76,
+    "heirloomLevel": 1,
+    "tier": 9.973673,
+>>>>>>> f87d5c5 (DNBbroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -32621,7 +32628,7 @@
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
         "swingDamage": 31,
@@ -32637,6 +32644,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 3833,
     "weight": 1.86,
     "rank": 2,
@@ -32647,6 +32655,12 @@
     "heirloomLevel": 2,
     "tier": 10.2837458,
 >>>>>>> 150f2d5 (0203)
+=======
+    "price": 7125,
+    "weight": 1.76,
+    "heirloomLevel": 2,
+    "tier": 9.718939,
+>>>>>>> f87d5c5 (DNBbroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -32659,18 +32673,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 88,
-        "balance": 0.8,
+        "balance": 0.75,
         "handling": 89,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 93
+        "swingSpeed": 92
       }
     ]
   },
@@ -32680,6 +32694,7 @@
     "name": "Decorated Northern Backsword +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 2918,
     "weight": 1.86,
@@ -32691,6 +32706,12 @@
     "heirloomLevel": 3,
     "tier": 11.161087,
 >>>>>>> 150f2d5 (0203)
+=======
+    "price": 8609,
+    "weight": 1.76,
+    "heirloomLevel": 3,
+    "tier": 10.7944517,
+>>>>>>> f87d5c5 (DNBbroughtdown)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -32703,18 +32724,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 88,
-        "balance": 0.83,
-        "handling": 90,
+        "balance": 0.75,
+        "handling": 89,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 90,
-        "swingDamage": 33,
+        "thrustSpeed": 89,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 94
+        "swingSpeed": 92
       }
     ]
   },
