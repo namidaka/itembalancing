@@ -23353,7 +23353,7 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_slightly_ridged_flyssa_blade_h1" name="{=v22onVb2}Slightly Ridged Flyssa Blade" tier="3" piece_type="Blade" mesh="aserai_blade_2" culture="Culture.aserai" length="105.6" weight="1.03">
+  <CraftingPiece id="crpg_slightly_ridged_flyssa_blade_h1" name="{=v22onVb2}Slightly Ridged Flyssa Blade" tier="3" piece_type="Blade" mesh="aserai_blade_2" culture="Culture.aserai" length="105.6" weight="0.96">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_2_scabbard_2">
       <Thrust damage_type="Pierce" damage_factor="1.6" />
       <Swing damage_type="Cut" damage_factor="3.2" />
@@ -23362,19 +23362,19 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_slightly_ridged_flyssa_blade_h2" name="{=v22onVb2}Slightly Ridged Flyssa Blade" tier="3" piece_type="Blade" mesh="aserai_blade_2" culture="Culture.aserai" length="105.6" weight="1.03">
+  <CraftingPiece id="crpg_slightly_ridged_flyssa_blade_h2" name="{=v22onVb2}Slightly Ridged Flyssa Blade" tier="3" piece_type="Blade" mesh="aserai_blade_2" culture="Culture.aserai" length="105.6" weight="0.9">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_2_scabbard_2">
       <Thrust damage_type="Pierce" damage_factor="1.6" />
-      <Swing damage_type="Cut" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="3.3" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_slightly_ridged_flyssa_blade_h3" name="{=v22onVb2}Slightly Ridged Flyssa Blade" tier="3" piece_type="Blade" mesh="aserai_blade_2" culture="Culture.aserai" length="105.6" weight="1.03">
+  <CraftingPiece id="crpg_slightly_ridged_flyssa_blade_h3" name="{=v22onVb2}Slightly Ridged Flyssa Blade" tier="3" piece_type="Blade" mesh="aserai_blade_2" culture="Culture.aserai" length="105.6" weight="0.86">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_2_scabbard_2">
       <Thrust damage_type="Pierce" damage_factor="1.6" />
-      <Swing damage_type="Cut" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="3" />
@@ -23756,9 +23756,9 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_blade_h1" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.18">
+  <CraftingPiece id="crpg_spatha_blade_h1" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.09">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.8" />
+      <Thrust damage_type="Pierce" damage_factor="1.9" />
       <Swing damage_type="Cut" damage_factor="2.7" />
     </BladeData>
     <Flags>
@@ -23768,10 +23768,58 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_blade_h2" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.18">
+  <CraftingPiece id="crpg_spatha_blade_h2" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.09">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="2.0" />
+      <Swing damage_type="Cut" damage_factor="2.8" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_spatha_blade_h3" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.04">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="2.1" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h0" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.2">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="1.7" />
+      <Swing damage_type="Cut" damage_factor="3.0" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h1" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.1">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="1.7" />
+      <Swing damage_type="Cut" damage_factor="3.0" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h2" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.1">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -23780,58 +23828,10 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_blade_h3" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.18">
+  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h3" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.1">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="2.7" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h0" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.20">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
-      <Swing damage_type="Cut" damage_factor="3.0" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h1" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.20">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
-      <Swing damage_type="Cut" damage_factor="3.0" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h2" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.20">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
-      <Swing damage_type="Cut" damage_factor="3.0" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_spatha_with_narrow_fuller_blade_h3" name="{=iuQE1xwL}Narrow Fullered Spatha Blade" tier="3" piece_type="Blade" mesh="empire_blade_1" culture="Culture.empire" length="92.4" weight="1.20">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
-      <Swing damage_type="Cut" damage_factor="3.0" />
+      <Thrust damage_type="Pierce" damage_factor="1.9" />
+      <Swing damage_type="Cut" damage_factor="3.3" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />

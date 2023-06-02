@@ -123869,10 +123869,17 @@
     "name": "Slightly Ridged Flyssa +1",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5140,
     "weight": 2.4,
     "rank": 1,
     "tier": 8.08698,
+=======
+    "price": 6378,
+    "weight": 2.34,
+    "heirloomLevel": 1,
+    "tier": 9.135182,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -123883,8 +123890,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 98,
-        "balance": 0.6,
-        "handling": 89,
+        "balance": 0.63,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
@@ -123894,7 +123901,7 @@
         "thrustSpeed": 84,
         "swingDamage": 32,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
@@ -123904,10 +123911,17 @@
     "name": "Slightly Ridged Flyssa +2",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3797,
     "weight": 2.4,
     "rank": 2,
     "tier": 6.795307,
+=======
+    "price": 8745,
+    "weight": 2.29,
+    "heirloomLevel": 2,
+    "tier": 10.8876095,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -123918,18 +123932,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 98,
-        "balance": 0.6,
-        "handling": 89,
+        "balance": 0.67,
+        "handling": 91,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
-        "swingDamage": 32,
+        "thrustSpeed": 85,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 90
       }
     ]
   },
@@ -123939,10 +123953,17 @@
     "name": "Slightly Ridged Flyssa +3",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2891,
     "weight": 2.4,
     "rank": 3,
     "tier": 5.7900877,
+=======
+    "price": 8573,
+    "weight": 2.26,
+    "heirloomLevel": 3,
+    "tier": 10.7690277,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -123953,18 +123974,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 98,
-        "balance": 0.6,
-        "handling": 89,
+        "balance": 0.7,
+        "handling": 92,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 84,
-        "swingDamage": 32,
+        "thrustSpeed": 85,
+        "swingDamage": 34,
         "swingDamageType": "Cut",
-        "swingSpeed": 87
+        "swingSpeed": 90
       }
     ]
   },
@@ -126024,10 +126045,17 @@
     "name": "Spatha +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1577,
     "weight": 1.65,
     "rank": 1,
     "tier": 3.9958005,
+=======
+    "price": 2390,
+    "weight": 1.56,
+    "heirloomLevel": 1,
+    "tier": 5.16677,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -126040,18 +126068,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.54,
-        "handling": 88,
+        "balance": 0.61,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
+        "thrustSpeed": 90,
         "swingDamage": 27,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -126061,10 +126089,17 @@
     "name": "Spatha +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1204,
     "weight": 1.65,
     "rank": 2,
     "tier": 3.35758138,
+=======
+    "price": 2362,
+    "weight": 1.56,
+    "heirloomLevel": 2,
+    "tier": 5.129491,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -126077,18 +126112,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.54,
-        "handling": 88,
+        "balance": 0.61,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 27,
+        "thrustSpeed": 90,
+        "swingDamage": 28,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -126098,10 +126133,17 @@
     "name": "Spatha +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 947,
     "weight": 1.65,
     "rank": 3,
     "tier": 2.860899,
+=======
+    "price": 2776,
+    "weight": 1.51,
+    "heirloomLevel": 3,
+    "tier": 5.652436,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -126114,18 +126156,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.54,
-        "handling": 88,
+        "balance": 0.65,
+        "handling": 90,
         "bodyArmor": 5,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 27,
+        "thrustSpeed": 90,
+        "swingDamage": 29,
         "swingDamageType": "Cut",
-        "swingSpeed": 86
+        "swingSpeed": 89
       }
     ]
   },
@@ -126172,10 +126214,17 @@
     "name": "Spatha With Narrow Fuller +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2190,
     "weight": 1.78,
     "rank": 1,
     "tier": 4.899188,
+=======
+    "price": 3198,
+    "weight": 1.68,
+    "heirloomLevel": 1,
+    "tier": 6.146165,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -126188,18 +126237,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.49,
-        "handling": 87,
+        "balance": 0.56,
+        "handling": 88,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 17,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
+        "thrustSpeed": 89,
         "swingDamage": 30,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -126209,10 +126258,17 @@
     "name": "Spatha With Narrow Fuller +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1653,
     "weight": 1.78,
     "rank": 2,
     "tier": 4.116679,
+=======
+    "price": 3060,
+    "weight": 1.68,
+    "heirloomLevel": 2,
+    "tier": 5.98894453,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -126225,18 +126281,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.49,
-        "handling": 87,
+        "balance": 0.56,
+        "handling": 88,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 30,
+        "thrustSpeed": 89,
+        "swingDamage": 31,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -126246,10 +126302,17 @@
     "name": "Spatha With Narrow Fuller +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1287,
     "weight": 1.78,
     "rank": 3,
     "tier": 3.507703,
+=======
+    "price": 3712,
+    "weight": 1.68,
+    "heirloomLevel": 3,
+    "tier": 6.70715332,
+>>>>>>> a1592ae (1433)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -126262,18 +126325,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 103,
-        "balance": 0.49,
-        "handling": 87,
+        "balance": 0.56,
+        "handling": 88,
         "bodyArmor": 1,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 19,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 30,
+        "thrustSpeed": 89,
+        "swingDamage": 33,
         "swingDamageType": "Cut",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
