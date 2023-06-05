@@ -84759,10 +84759,17 @@
     "name": "Menavlion +3",
     "culture": "Empire",
     "type": "Polearm",
+<<<<<<< HEAD
     "price": 4941,
     "weight": 1.84,
     "rank": 3,
     "tier": 5.512123,
+=======
+    "price": 12905,
+    "weight": 1.78,
+    "heirloomLevel": 3,
+    "tier": 9.557808,
+>>>>>>> 1d6ecc9 (updated two weapons error from last request)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -84782,10 +84789,10 @@
           "WideGrip",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 27,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 94,
-        "swingDamage": 43,
+        "swingDamage": 44,
         "swingDamageType": "Cut",
         "swingSpeed": 81
       }
@@ -111320,10 +111327,17 @@
     "name": "Rhomphaia +3",
     "culture": "Battania",
     "type": "Polearm",
+<<<<<<< HEAD
     "price": 10629,
     "weight": 1.41,
     "rank": 3,
     "tier": 5.00597525,
+=======
+    "price": 10107,
+    "weight": 1.37,
+    "heirloomLevel": 3,
+    "tier": 8.334774,
+>>>>>>> 1d6ecc9 (updated two weapons error from last request)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -111334,8 +111348,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 184,
-        "balance": 0.23,
-        "handling": 66,
+        "balance": 0.27,
+        "handling": 67,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -111347,9 +111361,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 96,
-        "swingDamage": 51,
+        "swingDamage": 49,
         "swingDamageType": "Cut",
-        "swingSpeed": 77
+        "swingSpeed": 78
       }
     ]
   },
