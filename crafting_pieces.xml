@@ -968,7 +968,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_morningstar_blade_h1" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_morningstar_blade_h1" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.32" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
@@ -980,9 +980,9 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_morningstar_blade_h2" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_morningstar_blade_h2" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.32" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Pierce" damage_factor="2.8" />
+      <Swing damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -992,9 +992,9 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_morningstar_blade_h3" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_morningstar_blade_h3" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.32" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Pierce" damage_factor="2.8" />
+      <Swing damage_type="Pierce" damage_factor="3.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -1728,7 +1728,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_cataphract_mace_blade_h1" name="{=IR8UeIRp}Cataphracts Mace Head" tier="5" piece_type="Blade" mesh="mace_head_7" length="22" weight="0.35" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_cataphract_mace_blade_h1" name="{=IR8UeIRp}Cataphracts Mace Head" tier="5" piece_type="Blade" mesh="mace_head_7" length="22" weight="0.33" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.9" />
     </BladeData>
@@ -1736,17 +1736,17 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_cataphract_mace_blade_h2" name="{=IR8UeIRp}Cataphracts Mace Head" tier="5" piece_type="Blade" mesh="mace_head_7" length="22" weight="0.35" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_cataphract_mace_blade_h2" name="{=IR8UeIRp}Cataphracts Mace Head" tier="5" piece_type="Blade" mesh="mace_head_7" length="22" weight="0.33" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.9" />
+      <Swing damage_type="Blunt" damage_factor="3.0" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_cataphract_mace_blade_h3" name="{=IR8UeIRp}Cataphracts Mace Head" tier="5" piece_type="Blade" mesh="mace_head_7" length="22" weight="0.35" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_cataphract_mace_blade_h3" name="{=IR8UeIRp}Cataphracts Mace Head" tier="5" piece_type="Blade" mesh="mace_head_7" length="22" weight="0.31" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.9" />
+      <Swing damage_type="Blunt" damage_factor="3.1" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -1856,7 +1856,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_judgement_blade_h1" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.27" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_judgement_blade_h1" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.25" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.9" />
     </BladeData>
@@ -1864,17 +1864,17 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_judgement_blade_h2" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.27" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_judgement_blade_h2" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.25" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.9" />
+      <Swing damage_type="Blunt" damage_factor="3.0" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_judgement_blade_h3" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.27" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_judgement_blade_h3" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.24" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.9" />
+      <Swing damage_type="Blunt" damage_factor="3.1" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1924,7 +1924,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_pernach_blade_h1" name="{=cag70E1F}Pernach Head" tier="5" piece_type="Blade" mesh="mace_head_2" length="17" weight="0.17" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_pernach_blade_h1" name="{=cag70E1F}Pernach Head" tier="5" piece_type="Blade" mesh="mace_head_2" length="17" weight="0.14" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
@@ -1932,17 +1932,17 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_pernach_blade_h2" name="{=cag70E1F}Pernach Head" tier="5" piece_type="Blade" mesh="mace_head_2" length="17" weight="0.17" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_pernach_blade_h2" name="{=cag70E1F}Pernach Head" tier="5" piece_type="Blade" mesh="mace_head_2" length="17" weight="0.14" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_pernach_blade_h3" name="{=cag70E1F}Pernach Head" tier="5" piece_type="Blade" mesh="mace_head_2" length="17" weight="0.17" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_pernach_blade_h3" name="{=cag70E1F}Pernach Head" tier="5" piece_type="Blade" mesh="mace_head_2" length="17" weight="0.1" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.9" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -2021,7 +2021,7 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spiked_mace_blade_h1" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.475" full_scale="true">
+  <CraftingPiece id="crpg_spiked_mace_blade_h1" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.44" full_scale="true">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="0.9" />
       <Swing damage_type="Pierce" damage_factor="2.6" />
@@ -2030,19 +2030,19 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spiked_mace_blade_h2" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.475" full_scale="true">
+  <CraftingPiece id="crpg_spiked_mace_blade_h2" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.44" full_scale="true">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="0.9" />
-      <Swing damage_type="Pierce" damage_factor="2.6" />
+      <Swing damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spiked_mace_blade_h3" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.475" full_scale="true">
+  <CraftingPiece id="crpg_spiked_mace_blade_h3" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.44" full_scale="true">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="0.9" />
-      <Swing damage_type="Pierce" damage_factor="2.6" />
+      <Swing damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
@@ -10796,7 +10796,7 @@
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="0" blade_length="25.328" blade_width="31.023" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
-      <Swing damage_type="Cut" damage_factor="3.40" />
+      <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10805,11 +10805,11 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knightly_spiked_battle_axe_blade_h1" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.46">
+  <CraftingPiece id="crpg_knightly_spiked_battle_axe_blade_h1" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.43">
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="0" blade_length="25.328" blade_width="31.023" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="2.1" />
-      <Swing damage_type="Cut" damage_factor="3.40" />
+      <Thrust damage_type="Pierce" damage_factor="2.2" />
+      <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10818,11 +10818,11 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knightly_spiked_battle_axe_blade_h2" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.46">
+  <CraftingPiece id="crpg_knightly_spiked_battle_axe_blade_h2" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.43">
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="0" blade_length="25.328" blade_width="31.023" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="2.1" />
-      <Swing damage_type="Cut" damage_factor="3.40" />
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10831,11 +10831,11 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knightly_spiked_battle_axe_blade_h3" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.46">
+  <CraftingPiece id="crpg_knightly_spiked_battle_axe_blade_h3" name="{=m6CVEgTU}Spiked Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_25_head" distance_to_next_piece="13.9" distance_to_previous_piece="4" weight="0.43">
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="0" blade_length="25.328" blade_width="31.023" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="2.1" />
-      <Swing damage_type="Cut" damage_factor="3.40" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -26798,7 +26798,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_warhammer_blade_h1" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.49" full_scale="true">
+  <CraftingPiece id="crpg_warhammer_blade_h1" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.44" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
@@ -26808,21 +26808,21 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_warhammer_blade_h2" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.49" full_scale="true">
+  <CraftingPiece id="crpg_warhammer_blade_h2" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.44" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
-      <Swing damage_type="Blunt" damage_factor="2.6" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_warhammer_blade_h3" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.49" full_scale="true">
+  <CraftingPiece id="crpg_warhammer_blade_h3" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.4" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
-      <Swing damage_type="Blunt" damage_factor="2.6" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
