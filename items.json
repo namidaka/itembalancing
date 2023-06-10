@@ -16957,10 +16957,17 @@
     "name": "Blacksmith Warhammer +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4952,
     "weight": 2.15,
     "rank": 1,
     "tier": 7.91753864,
+=======
+    "price": 7967,
+    "weight": 2.06,
+    "heirloomLevel": 1,
+    "tier": 10.3413792,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -16973,8 +16980,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 75,
-        "balance": 0.32,
-        "handling": 84,
+        "balance": 0.39,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -16982,10 +16989,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -16995,10 +17002,17 @@
     "name": "Blacksmith Warhammer +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3661,
     "weight": 2.15,
     "rank": 2,
     "tier": 6.65293264,
+=======
+    "price": 7989,
+    "weight": 2.06,
+    "heirloomLevel": 2,
+    "tier": 10.3570261,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -17011,8 +17025,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 75,
-        "balance": 0.32,
-        "handling": 84,
+        "balance": 0.39,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -17020,10 +17034,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 24,
+        "thrustSpeed": 86,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -17033,10 +17047,17 @@
     "name": "Blacksmith Warhammer +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2790,
     "weight": 2.15,
     "rank": 3,
     "tier": 5.66877174,
+=======
+    "price": 8113,
+    "weight": 2.06,
+    "heirloomLevel": 3,
+    "tier": 10.4461021,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -17049,8 +17070,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 75,
-        "balance": 0.32,
-        "handling": 84,
+        "balance": 0.39,
+        "handling": 86,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -17058,10 +17079,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 24,
+        "thrustSpeed": 86,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -44655,10 +44676,17 @@
     "name": "Fine Steel Mace +1",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4242,
     "weight": 1.37,
     "rank": 1,
     "tier": 7.24529552,
+=======
+    "price": 6660,
+    "weight": 1.27,
+    "heirloomLevel": 1,
+    "tier": 9.359575,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -44669,18 +44697,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 91,
-        "balance": 0.44,
-        "handling": 85,
+        "balance": 0.53,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 85
       }
     ]
   },
@@ -44690,10 +44718,17 @@
     "name": "Fine Steel Mace +2",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3146,
     "weight": 1.37,
     "rank": 2,
     "tier": 6.088062,
+=======
+    "price": 6678,
+    "weight": 1.27,
+    "heirloomLevel": 2,
+    "tier": 9.373738,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -44704,18 +44739,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 91,
-        "balance": 0.44,
-        "handling": 85,
+        "balance": 0.53,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 24,
+        "thrustSpeed": 93,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 85
       }
     ]
   },
@@ -44725,10 +44760,17 @@
     "name": "Fine Steel Mace +3",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2406,
     "weight": 1.37,
     "rank": 3,
     "tier": 5.18746042,
+=======
+    "price": 8504,
+    "weight": 1.25,
+    "heirloomLevel": 3,
+    "tier": 10.7215729,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -44739,18 +44781,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 91,
-        "balance": 0.44,
-        "handling": 85,
+        "balance": 0.55,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 24,
+        "thrustSpeed": 93,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 86
       }
     ]
   },
@@ -48494,10 +48536,15 @@
     "name": "Fullered Western Mace +1",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5031,
+    "price": 6869,
     "weight": 1.92,
+<<<<<<< HEAD
     "rank": 1,
     "tier": 7.98907375,
+=======
+    "heirloomLevel": 1,
+    "tier": 9.522043,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -48517,7 +48564,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 24,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
         "swingSpeed": 86
       }
@@ -48529,10 +48576,15 @@
     "name": "Fullered Western Mace +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3718,
+    "price": 6803,
     "weight": 1.92,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 6.71304035,
+=======
+    "heirloomLevel": 2,
+    "tier": 9.47101,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -48552,7 +48604,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 24,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
         "swingSpeed": 86
       }
@@ -48564,10 +48616,17 @@
     "name": "Fullered Western Mace +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2832,
     "weight": 1.92,
     "rank": 3,
     "tier": 5.719989,
+=======
+    "price": 8201,
+    "weight": 1.88,
+    "heirloomLevel": 3,
+    "tier": 10.5083361,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -48578,7 +48637,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 85,
-        "balance": 0.55,
+        "balance": 0.58,
         "handling": 82,
         "bodyArmor": 0,
         "flags": [
@@ -48587,9 +48646,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 24,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 87
       }
     ]
   },
@@ -55140,10 +55199,15 @@
     "name": "Heavy Flanged Mace +1",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 5226,
+    "price": 7140,
     "weight": 1.99,
+<<<<<<< HEAD
     "rank": 1,
     "tier": 8.163455,
+=======
+    "heirloomLevel": 1,
+    "tier": 9.729882,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -55163,7 +55227,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 24,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
         "swingSpeed": 88
       }
@@ -55175,10 +55239,15 @@
     "name": "Heavy Flanged Mace +2",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 3859,
+    "price": 7071,
     "weight": 1.99,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 6.8595705,
+=======
+    "heirloomLevel": 2,
+    "tier": 9.677736,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -55198,7 +55267,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 24,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
         "swingSpeed": 88
       }
@@ -55210,10 +55279,17 @@
     "name": "Heavy Flanged Mace +3",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2937,
     "weight": 1.99,
     "rank": 3,
     "tier": 5.84484,
+=======
+    "price": 8856,
+    "weight": 1.94,
+    "heirloomLevel": 3,
+    "tier": 10.9636345,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -55224,8 +55300,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 74,
-        "balance": 0.61,
-        "handling": 86,
+        "balance": 0.64,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -55233,9 +55309,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 87,
-        "swingDamage": 24,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 88
+        "swingSpeed": 89
       }
     ]
   },
@@ -55791,10 +55867,15 @@
     "name": "Heavy Horsemans Mace +2",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 2840,
+    "price": 3828,
     "weight": 1.6,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 5.729106,
+=======
+    "heirloomLevel": 2,
+    "tier": 6.82842731,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -55814,7 +55895,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 90,
-        "swingDamage": 24,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
         "swingSpeed": 82
       }
@@ -55826,10 +55907,17 @@
     "name": "Heavy Horsemans Mace +3",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2177,
     "weight": 1.6,
     "rank": 3,
     "tier": 4.881606,
+=======
+    "price": 6494,
+    "weight": 1.58,
+    "heirloomLevel": 3,
+    "tier": 9.228334,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -55840,8 +55928,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 94,
-        "balance": 0.43,
-        "handling": 84,
+        "balance": 0.45,
+        "handling": 85,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -55849,9 +55937,9 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 90,
-        "swingDamage": 24,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 83
       }
     ]
   },
@@ -59813,10 +59901,17 @@
     "name": "Highland Spiked Club +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1644,
     "weight": 2.19,
     "rank": 1,
     "tier": 4.10250139,
+=======
+    "price": 2501,
+    "weight": 2.12,
+    "heirloomLevel": 1,
+    "tier": 5.30998373,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -59827,8 +59922,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 92,
-        "balance": 0.38,
-        "handling": 87,
+        "balance": 0.45,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -59838,7 +59933,7 @@
         "thrustSpeed": 85,
         "swingDamage": 25,
         "swingDamageType": "Pierce",
-        "swingSpeed": 81
+        "swingSpeed": 83
       }
     ]
   },
@@ -59848,10 +59943,17 @@
     "name": "Highland Spiked Club +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1253,
     "weight": 2.19,
     "rank": 2,
     "tier": 3.447242,
+=======
+    "price": 2473,
+    "weight": 2.12,
+    "heirloomLevel": 2,
+    "tier": 5.273571,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -59862,8 +59964,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 92,
-        "balance": 0.38,
-        "handling": 87,
+        "balance": 0.45,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -59871,9 +59973,9 @@
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 25,
+        "swingDamage": 26,
         "swingDamageType": "Pierce",
-        "swingSpeed": 81
+        "swingSpeed": 83
       }
     ]
   },
@@ -59883,10 +59985,17 @@
     "name": "Highland Spiked Club +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 985,
     "weight": 2.19,
     "rank": 3,
     "tier": 2.93729448,
+=======
+    "price": 3214,
+    "weight": 2.12,
+    "heirloomLevel": 3,
+    "tier": 6.16421652,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -59897,8 +60006,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 92,
-        "balance": 0.38,
-        "handling": 87,
+        "balance": 0.45,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -59906,9 +60015,9 @@
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 85,
-        "swingDamage": 25,
+        "swingDamage": 28,
         "swingDamageType": "Pierce",
-        "swingSpeed": 81
+        "swingSpeed": 83
       }
     ]
   },
@@ -78365,10 +78474,15 @@
     "name": "Light Goedendag +1",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 4177,
+    "price": 5722,
     "weight": 1.69,
+<<<<<<< HEAD
     "rank": 1,
     "tier": 7.18120337,
+=======
+    "heirloomLevel": 1,
+    "tier": 8.59388,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -78388,7 +78502,7 @@
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
-        "swingDamage": 23,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
         "swingSpeed": 92
       }
@@ -78400,10 +78514,15 @@
     "name": "Light Goedendag +2",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
-    "price": 3099,
+    "price": 5707,
     "weight": 1.69,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 6.034205,
+=======
+    "heirloomLevel": 2,
+    "tier": 8.58104,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -78423,7 +78542,7 @@
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 89,
-        "swingDamage": 23,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
         "swingSpeed": 92
       }
@@ -78435,10 +78554,17 @@
     "name": "Light Goedendag +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2371,
     "weight": 1.69,
     "rank": 3,
     "tier": 5.14157343,
+=======
+    "price": 6822,
+    "weight": 1.66,
+    "heirloomLevel": 3,
+    "tier": 9.486297,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -78449,7 +78575,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 52,
-        "balance": 0.76,
+        "balance": 0.78,
         "handling": 97,
         "bodyArmor": 0,
         "flags": [
@@ -78457,10 +78583,10 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 89,
-        "swingDamage": 23,
+        "thrustSpeed": 90,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 92
+        "swingSpeed": 93
       }
     ]
   },
@@ -78896,10 +79022,15 @@
     "name": "Light Morningstar +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 4338,
+    "price": 5906,
     "weight": 1.79,
+<<<<<<< HEAD
     "rank": 1,
     "tier": 7.340049,
+=======
+    "heirloomLevel": 1,
+    "tier": 8.748481,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -78922,7 +79053,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 88,
-        "swingDamage": 24,
+        "swingDamage": 25,
         "swingDamageType": "Pierce",
         "swingSpeed": 90
       }
@@ -78934,10 +79065,15 @@
     "name": "Light Morningstar +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
-    "price": 3217,
+    "price": 5850,
     "weight": 1.79,
+<<<<<<< HEAD
     "rank": 2,
     "tier": 6.16768,
+=======
+    "heirloomLevel": 2,
+    "tier": 8.701598,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -78960,7 +79096,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 88,
-        "swingDamage": 24,
+        "swingDamage": 26,
         "swingDamageType": "Pierce",
         "swingSpeed": 90
       }
@@ -78972,10 +79108,17 @@
     "name": "Light Morningstar +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2459,
     "weight": 1.79,
     "rank": 3,
     "tier": 5.255302,
+=======
+    "price": 7533,
+    "weight": 1.72,
+    "heirloomLevel": 3,
+    "tier": 10.0246773,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -78988,8 +79131,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.67,
-        "handling": 94,
+        "balance": 0.73,
+        "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
@@ -78997,10 +79140,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 88,
-        "swingDamage": 24,
+        "thrustSpeed": 89,
+        "swingDamage": 27,
         "swingDamageType": "Pierce",
-        "swingSpeed": 90
+        "swingSpeed": 91
       }
     ]
   },
@@ -79045,10 +79188,17 @@
     "name": "Light Royal Mace +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2140,
     "weight": 2.42,
     "rank": 1,
     "tier": 4.831107,
+=======
+    "price": 3168,
+    "weight": 2.32,
+    "heirloomLevel": 1,
+    "tier": 6.112012,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79059,18 +79209,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 71,
-        "balance": 0.42,
-        "handling": 86,
+        "balance": 0.49,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
+        "thrustSpeed": 84,
         "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 84
       }
     ]
   },
@@ -79080,10 +79230,17 @@
     "name": "Light Royal Mace +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1617,
     "weight": 2.42,
     "rank": 2,
     "tier": 4.059472,
+=======
+    "price": 3139,
+    "weight": 2.32,
+    "heirloomLevel": 2,
+    "tier": 6.079256,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79094,18 +79251,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 71,
-        "balance": 0.42,
-        "handling": 86,
+        "balance": 0.49,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 25,
+        "thrustSpeed": 84,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 84
       }
     ]
   },
@@ -79115,10 +79272,17 @@
     "name": "Light Royal Mace +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1260,
     "weight": 2.42,
     "rank": 3,
     "tier": 3.45896,
+=======
+    "price": 3915,
+    "weight": 2.28,
+    "heirloomLevel": 3,
+    "tier": 6.917684,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79129,18 +79293,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 71,
-        "balance": 0.42,
-        "handling": 86,
+        "balance": 0.53,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 25,
+        "thrustSpeed": 85,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 85
       }
     ]
   },
@@ -86744,10 +86908,17 @@
     "name": "Militia Mace +1",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 588,
     "weight": 2.48,
     "rank": 1,
     "tier": 2.03992414,
+=======
+    "price": 847,
+    "weight": 2.35,
+    "heirloomLevel": 1,
+    "tier": 2.65025067,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86758,18 +86929,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 52,
-        "balance": 0.33,
-        "handling": 89,
+        "balance": 0.4,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
+        "thrustSpeed": 84,
         "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 82
       }
     ]
   },
@@ -86779,10 +86950,17 @@
     "name": "Militia Mace +2",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 469,
     "weight": 2.48,
     "rank": 2,
     "tier": 1.7141031,
+=======
+    "price": 992,
+    "weight": 2.28,
+    "heirloomLevel": 2,
+    "tier": 2.95303679,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86793,18 +86971,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 52,
-        "balance": 0.33,
-        "handling": 89,
+        "balance": 0.43,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 24,
+        "thrustSpeed": 85,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 83
       }
     ]
   },
@@ -86814,10 +86992,17 @@
     "name": "Militia Mace +3",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 384,
     "weight": 2.48,
     "rank": 3,
     "tier": 1.46053755,
+=======
+    "price": 1285,
+    "weight": 2.28,
+    "heirloomLevel": 3,
+    "tier": 3.50321651,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86828,18 +87013,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 52,
-        "balance": 0.33,
-        "handling": 89,
+        "balance": 0.43,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 24,
+        "thrustSpeed": 85,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 83
       }
     ]
   },
@@ -86884,10 +87069,17 @@
     "name": "Militia Pernach +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2886,
     "weight": 2.58,
     "rank": 1,
     "tier": 5.78435564,
+=======
+    "price": 4271,
+    "weight": 2.5,
+    "heirloomLevel": 1,
+    "tier": 7.274137,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86898,18 +87090,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.49,
-        "handling": 90,
+        "balance": 0.54,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 82,
+        "thrustSpeed": 83,
         "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -86919,10 +87111,17 @@
     "name": "Militia Pernach +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2162,
     "weight": 2.58,
     "rank": 2,
     "tier": 4.860465,
+=======
+    "price": 4282,
+    "weight": 2.5,
+    "heirloomLevel": 2,
+    "tier": 7.28514338,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86933,18 +87132,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.49,
-        "handling": 90,
+        "balance": 0.54,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 82,
-        "swingDamage": 24,
+        "thrustSpeed": 83,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 86
       }
     ]
   },
@@ -86954,10 +87153,17 @@
     "name": "Militia Pernach +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1669,
     "weight": 2.58,
     "rank": 3,
     "tier": 4.141461,
+=======
+    "price": 5397,
+    "weight": 2.45,
+    "heirloomLevel": 3,
+    "tier": 8.314444,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86968,18 +87174,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.49,
-        "handling": 90,
+        "balance": 0.57,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 82,
-        "swingDamage": 24,
+        "thrustSpeed": 84,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 87
       }
     ]
   },
@@ -129412,10 +129618,17 @@
     "name": "Steel Shestopyor +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5194,
     "weight": 1.39,
     "rank": 1,
     "tier": 8.135389,
+=======
+    "price": 8073,
+    "weight": 1.29,
+    "heirloomLevel": 1,
+    "tier": 10.4173927,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -129426,18 +129639,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 80,
-        "balance": 0.53,
-        "handling": 88,
+        "balance": 0.62,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
+        "thrustSpeed": 93,
         "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -129447,10 +129660,17 @@
     "name": "Steel Shestopyor +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3836,
     "weight": 1.39,
     "rank": 2,
     "tier": 6.83598328,
+=======
+    "price": 8095,
+    "weight": 1.29,
+    "heirloomLevel": 2,
+    "tier": 10.4331493,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -129461,18 +129681,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 80,
-        "balance": 0.53,
-        "handling": 88,
+        "balance": 0.62,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 24,
+        "thrustSpeed": 93,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -129482,10 +129702,17 @@
     "name": "Steel Shestopyor +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2920,
     "weight": 1.39,
     "rank": 3,
     "tier": 5.824744,
+=======
+    "price": 8221,
+    "weight": 1.29,
+    "heirloomLevel": 3,
+    "tier": 10.5228825,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -129496,18 +129723,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 80,
-        "balance": 0.53,
-        "handling": 88,
+        "balance": 0.62,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 24,
+        "thrustSpeed": 93,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 88
       }
     ]
   },
@@ -131472,10 +131699,17 @@
     "name": "Steppe Light Mace +1",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1327,
     "weight": 2.15,
     "rank": 1,
     "tier": 3.5771594,
+=======
+    "price": 1949,
+    "weight": 2.05,
+    "heirloomLevel": 1,
+    "tier": 4.561429,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -131486,18 +131720,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.31,
-        "handling": 86,
+        "balance": 0.38,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 8,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
+        "thrustSpeed": 87,
         "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -131507,10 +131741,17 @@
     "name": "Steppe Light Mace +2",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1019,
     "weight": 2.15,
     "rank": 2,
     "tier": 3.005807,
+=======
+    "price": 1932,
+    "weight": 2.05,
+    "heirloomLevel": 2,
+    "tier": 4.53660965,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -131521,18 +131762,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.31,
-        "handling": 86,
+        "balance": 0.38,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 8,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
+        "thrustSpeed": 87,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -131542,10 +131783,17 @@
     "name": "Steppe Light Mace +3",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 807,
     "weight": 2.15,
     "rank": 3,
     "tier": 2.56116247,
+=======
+    "price": 2505,
+    "weight": 2.05,
+    "heirloomLevel": 3,
+    "tier": 5.315473,
+>>>>>>> 617d082 (1507)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -131556,18 +131804,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.31,
-        "handling": 86,
+        "balance": 0.38,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 8,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
+        "thrustSpeed": 87,
+        "swingDamage": 28,
         "swingDamageType": "Blunt",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
