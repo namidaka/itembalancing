@@ -129236,6 +129236,7 @@
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 4272,
     "weight": 2.31,
     "rank": 1,
@@ -129246,6 +129247,12 @@
     "heirloomLevel": 1,
     "tier": 9.250165,
 >>>>>>> 1597247 (0046)
+=======
+    "price": 5679,
+    "weight": 2.31,
+    "heirloomLevel": 1,
+    "tier": 8.55744648,
+>>>>>>> 5ff5dd5 (sortedwarhammer)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -129256,6 +129263,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 93,
+<<<<<<< HEAD
         "balance": 0.45,
         "handling": 79,
         "bodyArmor": 0,
@@ -129300,6 +129308,10 @@
         "length": 93,
         "balance": 0.45,
         "handling": 79,
+=======
+        "balance": 0.39,
+        "handling": 78,
+>>>>>>> 5ff5dd5 (sortedwarhammer)
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -129309,11 +129321,12 @@
         "thrustSpeed": 84,
         "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 81
       }
     ]
   },
   {
+<<<<<<< HEAD
     "id": "crpg_steel_mace_h3",
     "baseId": "crpg_steel_mace",
     "name": "Steel Mace +3",
@@ -129330,6 +129343,16 @@
     "heirloomLevel": 3,
     "tier": 10.1207523,
 >>>>>>> 1597247 (0046)
+=======
+    "id": "crpg_steel_mace_h2",
+    "name": "Steel Mace +2",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 5505,
+    "weight": 2.31,
+    "heirloomLevel": 2,
+    "tier": 8.407801,
+>>>>>>> 5ff5dd5 (sortedwarhammer)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -129340,7 +129363,41 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 93,
-        "balance": 0.48,
+        "balance": 0.39,
+        "handling": 78,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 84,
+        "swingDamage": 28,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_mace_h3",
+    "name": "Steel Mace +3",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 6866,
+    "weight": 2.27,
+    "heirloomLevel": 3,
+    "tier": 9.520258,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 93,
+        "balance": 0.43,
         "handling": 79,
         "bodyArmor": 0,
         "flags": [
@@ -129348,10 +129405,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 28,
+        "thrustSpeed": 84,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 82
       }
     ]
   },
@@ -149397,6 +149454,7 @@
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "price": 4866,
     "weight": 1.91,
     "rank": 1,
@@ -149407,6 +149465,12 @@
     "heirloomLevel": 1,
     "tier": 9.827833,
 >>>>>>> 825a77b (startedonmaces)
+=======
+    "price": 6544,
+    "weight": 1.91,
+    "heirloomLevel": 1,
+    "tier": 9.267763,
+>>>>>>> 5ff5dd5 (sortedwarhammer)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -149417,18 +149481,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.53,
-        "handling": 91,
+        "balance": 0.48,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 26,
+        "thrustSpeed": 87,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 84
       }
     ]
   },
@@ -149438,6 +149502,7 @@
     "name": "Warhammer +2",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 3598,
     "weight": 1.91,
@@ -149449,6 +149514,12 @@
     "heirloomLevel": 2,
     "tier": 9.686204,
 >>>>>>> 825a77b (startedonmaces)
+=======
+    "price": 6405,
+    "weight": 1.91,
+    "heirloomLevel": 2,
+    "tier": 9.156638,
+>>>>>>> 5ff5dd5 (sortedwarhammer)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -149459,18 +149530,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.53,
-        "handling": 91,
+        "balance": 0.48,
+        "handling": 90,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 22,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 88,
-        "swingDamage": 27,
+        "thrustSpeed": 87,
+        "swingDamage": 28,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 84
       }
     ]
   },
@@ -149480,6 +149551,7 @@
     "name": "Warhammer +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
 <<<<<<< HEAD
     "price": 2743,
     "weight": 1.91,
@@ -149491,6 +149563,12 @@
     "heirloomLevel": 3,
     "tier": 10.8765373,
 >>>>>>> 825a77b (startedonmaces)
+=======
+    "price": 7963,
+    "weight": 1.87,
+    "heirloomLevel": 3,
+    "tier": 10.33864,
+>>>>>>> 5ff5dd5 (sortedwarhammer)
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -149501,18 +149579,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.59,
-        "handling": 92,
+        "balance": 0.52,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 20,
+        "thrustDamage": 23,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 88,
-        "swingDamage": 28,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 85
       }
     ]
   },
