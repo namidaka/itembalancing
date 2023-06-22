@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Items>
-  <Item id="crpg_takeocrown_noglow_h0" name="Takeo's Crown No Glow" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+  <Item id="crpg_takeocrown_noglow_h0" name="Takeo's Crown No Glow" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="2.164452" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_takeocrown_noglow_h1" name="Takeo's Crown No Glow +1" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+  <Item id="crpg_takeocrown_noglow_h1" name="Takeo's Crown No Glow +1" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="2.164452" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_takeocrown_noglow_h2" name="Takeo's Crown No Glow +2" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+  <Item id="crpg_takeocrown_noglow_h2" name="Takeo's Crown No Glow +2" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="2.164452" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="34" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_takeocrown_noglow_h3" name="Takeo's Crown No Glow +3" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="1.28961" difficulty="0" appearance="1" Type="HeadArmor">
+  <Item id="crpg_takeocrown_noglow_h3" name="Takeo's Crown No Glow +3" subtype="head_armor" mesh="takeocrown_noglow" culture="Culture.vlandia" weight="2.164452" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="none" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
