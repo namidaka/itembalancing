@@ -21759,10 +21759,10 @@
     "name": "Broad Bladed Throwing Knives",
     "culture": "Empire",
     "type": "Thrown",
-    "price": 2430,
+    "price": 52,
     "weight": 0.15,
     "rank": 0,
-    "tier": 5.266772,
+    "tier": 0.0198072661,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21785,7 +21785,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 16,
+        "thrustDamage": 5,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -21800,10 +21800,10 @@
     "name": "Broad Bladed Throwing Knives +1",
     "culture": "Empire",
     "type": "Thrown",
-    "price": 2874,
+    "price": 73,
     "weight": 0.15,
     "rank": 1,
-    "tier": 5.822881,
+    "tier": 0.156248212,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21826,7 +21826,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 17,
+        "thrustDamage": 8,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -21841,10 +21841,10 @@
     "name": "Broad Bladed Throwing Knives +2",
     "culture": "Empire",
     "type": "Thrown",
-    "price": 3407,
+    "price": 155,
     "weight": 0.15,
     "rank": 2,
-    "tier": 6.43745565,
+    "tier": 0.6054676,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21867,7 +21867,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 18,
+        "thrustDamage": 11,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -21882,10 +21882,10 @@
     "name": "Broad Bladed Throwing Knives +3",
     "culture": "Empire",
     "type": "Thrown",
-    "price": 4043,
+    "price": 288,
     "weight": 0.15,
     "rank": 3,
-    "tier": 7.110485,
+    "tier": 1.150297,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -21908,7 +21908,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 19,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -27795,7 +27795,7 @@
     "weight": 1.0,
     "rank": 2,
     "tier": 1.313482,
-    "requirement": 3,
+    "requirement": 0,
     "flags": [],
     "weapons": [
       {
@@ -27834,7 +27834,7 @@
     "weight": 1.0,
     "rank": 3,
     "tier": 1.4109453,
-    "requirement": 3,
+    "requirement": 0,
     "flags": [],
     "weapons": [
       {
@@ -28033,7 +28033,7 @@
     "weight": 4.0,
     "rank": 0,
     "tier": 4.19670057,
-    "requirement": 9,
+    "requirement": 6,
     "flags": [],
     "weapons": [
       {
@@ -28073,7 +28073,7 @@
     "weight": 4.0,
     "rank": 1,
     "tier": 4.20090151,
-    "requirement": 9,
+    "requirement": 6,
     "flags": [],
     "weapons": [
       {
@@ -28193,7 +28193,7 @@
     "weight": 5.0,
     "rank": 0,
     "tier": 7.62141562,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -28234,7 +28234,7 @@
     "weight": 5.0,
     "rank": 1,
     "tier": 7.557624,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -28275,7 +28275,7 @@
     "weight": 5.0,
     "rank": 2,
     "tier": 7.728811,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -28316,7 +28316,7 @@
     "weight": 5.0,
     "rank": 3,
     "tier": 7.73388433,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -28357,7 +28357,7 @@
     "weight": 1.5,
     "rank": 0,
     "tier": 4.009727,
-    "requirement": 9,
+    "requirement": 6,
     "flags": [],
     "weapons": [
       {
@@ -28396,7 +28396,7 @@
     "weight": 1.5,
     "rank": 1,
     "tier": 4.011671,
-    "requirement": 9,
+    "requirement": 6,
     "flags": [],
     "weapons": [
       {
@@ -28435,7 +28435,7 @@
     "weight": 1.5,
     "rank": 2,
     "tier": 4.17155933,
-    "requirement": 9,
+    "requirement": 6,
     "flags": [],
     "weapons": [
       {
@@ -28513,7 +28513,7 @@
     "weight": 5.5,
     "rank": 0,
     "tier": 10.0880566,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -28554,7 +28554,7 @@
     "weight": 5.5,
     "rank": 1,
     "tier": 10.0068417,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -28595,7 +28595,7 @@
     "weight": 5.5,
     "rank": 2,
     "tier": 10.2298059,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -28636,7 +28636,7 @@
     "weight": 5.5,
     "rank": 3,
     "tier": 10.1835146,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -28677,7 +28677,7 @@
     "weight": 2.2,
     "rank": 0,
     "tier": 8.476203,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -28833,7 +28833,7 @@
     "weight": 2.8,
     "rank": 0,
     "tier": 5.13243628,
-    "requirement": 12,
+    "requirement": 9,
     "flags": [],
     "weapons": [
       {
@@ -28873,7 +28873,7 @@
     "weight": 2.8,
     "rank": 1,
     "tier": 5.14496946,
-    "requirement": 12,
+    "requirement": 9,
     "flags": [],
     "weapons": [
       {
@@ -28913,7 +28913,7 @@
     "weight": 2.8,
     "rank": 2,
     "tier": 5.13787746,
-    "requirement": 12,
+    "requirement": 9,
     "flags": [],
     "weapons": [
       {
@@ -28953,7 +28953,7 @@
     "weight": 2.8,
     "rank": 3,
     "tier": 5.02590132,
-    "requirement": 12,
+    "requirement": 9,
     "flags": [],
     "weapons": [
       {
@@ -28993,7 +28993,7 @@
     "weight": 6.5,
     "rank": 0,
     "tier": 10.1620722,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -29034,7 +29034,7 @@
     "weight": 6.5,
     "rank": 1,
     "tier": 10.0073042,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -29075,7 +29075,7 @@
     "weight": 6.5,
     "rank": 2,
     "tier": 10.16823,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -29116,7 +29116,7 @@
     "weight": 6.5,
     "rank": 3,
     "tier": 10.1222954,
-    "requirement": 24,
+    "requirement": 21,
     "flags": [],
     "weapons": [
       {
@@ -29198,7 +29198,7 @@
     "weight": 6.0,
     "rank": 1,
     "tier": 7.04869843,
-    "requirement": 15,
+    "requirement": 12,
     "flags": [],
     "weapons": [
       {
@@ -29321,7 +29321,7 @@
     "weight": 3.1,
     "rank": 0,
     "tier": 7.892029,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -29361,7 +29361,7 @@
     "weight": 3.1,
     "rank": 1,
     "tier": 7.824341,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -29401,7 +29401,7 @@
     "weight": 3.1,
     "rank": 2,
     "tier": 7.763874,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
@@ -29441,7 +29441,7 @@
     "weight": 3.1,
     "rank": 3,
     "tier": 7.56281948,
-    "requirement": 18,
+    "requirement": 15,
     "flags": [],
     "weapons": [
       {
