@@ -91383,17 +91383,17 @@
     "name": "Shadowfax +1",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 22763,
+    "price": 18805,
     "weight": 420.0,
     "rank": 1,
-    "tier": 12.5716076,
+    "tier": 11.32676,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
       "maneuver": 74,
-      "speed": 65,
+      "speed": 63,
       "hitPoints": 152,
       "familyType": 1
     },
@@ -91405,17 +91405,17 @@
     "name": "Shadowfax +2",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 22638,
+    "price": 18705,
     "weight": 420.0,
     "rank": 2,
-    "tier": 12.5341187,
+    "tier": 11.2938871,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
       "maneuver": 75,
-      "speed": 65,
+      "speed": 63,
       "hitPoints": 162,
       "familyType": 1
     },
@@ -91427,17 +91427,17 @@
     "name": "Shadowfax +3",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 22693,
+    "price": 18752,
     "weight": 420.0,
     "rank": 3,
-    "tier": 12.5505352,
+    "tier": 11.3094835,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 100,
       "chargeDamage": 6,
       "maneuver": 76,
-      "speed": 65,
+      "speed": 63,
       "hitPoints": 172,
       "familyType": 1
     },
@@ -91842,7 +91842,7 @@
   {
     "id": "crpg_mount1_courser_13_h1",
     "baseId": "crpg_mount1_courser_13",
-    "name": "Muniqi al-Khamsa +1",
+    "name": "Sanfratellano Courser +1",
     "culture": "Neutral",
     "type": "Mount",
     "price": 17305,
@@ -91864,7 +91864,7 @@
   {
     "id": "crpg_mount1_courser_13_h2",
     "baseId": "crpg_mount1_courser_13",
-    "name": "Muniqi al-Khamsa +2",
+    "name": "Sanfratellano Courser +2",
     "culture": "Neutral",
     "type": "Mount",
     "price": 17137,
@@ -91886,7 +91886,7 @@
   {
     "id": "crpg_mount1_courser_13_h3",
     "baseId": "crpg_mount1_courser_13",
-    "name": "Muniqi al-Khamsa +3",
+    "name": "Sanfratellano Courser +3",
     "culture": "Neutral",
     "type": "Mount",
     "price": 17111,
@@ -91940,8 +91940,12 @@
 =======
     "id": "crpg_mount1_courser_14_h1",
     "baseId": "crpg_mount1_courser_14",
+<<<<<<< HEAD
 >>>>>>> f312035 (courierversion)
     "name": "Courser +1",
+=======
+    "name": "Muniqi al-Khamsa +1",
+>>>>>>> e148eb3 (computedandexported)
     "culture": "Neutral",
     "type": "Mount",
     "price": 20164,
@@ -91967,8 +91971,12 @@
 =======
     "id": "crpg_mount1_courser_14_h2",
     "baseId": "crpg_mount1_courser_14",
+<<<<<<< HEAD
 >>>>>>> f312035 (courierversion)
     "name": "Courser +2",
+=======
+    "name": "Muniqi al-Khamsa +2",
+>>>>>>> e148eb3 (computedandexported)
     "culture": "Neutral",
     "type": "Mount",
     "price": 19924,
@@ -91994,8 +92002,12 @@
 =======
     "id": "crpg_mount1_courser_14_h3",
     "baseId": "crpg_mount1_courser_14",
+<<<<<<< HEAD
 >>>>>>> f312035 (courierversion)
     "name": "Courser +3",
+=======
+    "name": "Muniqi al-Khamsa +3",
+>>>>>>> e148eb3 (computedandexported)
     "culture": "Neutral",
     "type": "Mount",
     "price": 20078,
