@@ -936,4 +936,16 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
+  <Item id="crpg_eba_14_decor_paltedboots_noble1_h0" name="[Legs] Decorated Plate Leggings (EBA)" mesh="14_decor_paltedboots_noble1" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="1" Type="LegArmor">
+	 <ItemComponent>
+		<Armor leg_armor="23" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+	 </ItemComponent>
+	 <Flags UseTeamColor="true" Civilian="true"/>
+  </Item>
+  <Item id="crpg_eba_14_midsplinted_greaves_h0" name="[Legs] Splinted Plate Leggings (EBA)" mesh="14_midsplinted_greaves" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="1" Type="LegArmor">
+	 <ItemComponent>
+		<Armor leg_armor="20" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+	 </ItemComponent>
+	<Flags UseTeamColor="true" Civilian="true"/>
+</Item>
 </Items>
