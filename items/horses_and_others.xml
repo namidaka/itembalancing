@@ -3640,7 +3640,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_5_h0" name="Mérengais Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_5_h0" name="Mérengais Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="62" speed="54" charge_damage="2" body_length="96" is_mountable="true" is_pack_animal="true" extra_health="-84" modifier_group="horse">
         <AdditionalMeshes>
@@ -3656,7 +3656,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_5_h1" name="Mérengais Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_5_h1" name="Mérengais Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="62" speed="55" charge_damage="2" body_length="96" is_mountable="true" is_pack_animal="true" extra_health="-76" modifier_group="horse">
         <AdditionalMeshes>
@@ -3672,7 +3672,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_5_h2" name="Mérengais Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_5_h2" name="Mérengais Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="63" speed="55" charge_damage="2" body_length="96" is_mountable="true" is_pack_animal="true" extra_health="-68" modifier_group="horse">
         <AdditionalMeshes>
@@ -3688,7 +3688,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_5_h3" name="Mérengais Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_5_h3" name="Mérengais Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="64" speed="55" charge_damage="2" body_length="96" is_mountable="true" is_pack_animal="true" extra_health="-61" modifier_group="horse">
         <AdditionalMeshes>
@@ -3704,7 +3704,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_6_h0" name="Galician Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_6_h0" name="Galician Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="64" speed="55" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-81" modifier_group="horse">
         <AdditionalMeshes>
@@ -3720,7 +3720,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_6_h1" name="Galician Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_6_h1" name="Galician Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="64" speed="56" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-73" modifier_group="horse">
         <AdditionalMeshes>
@@ -3736,7 +3736,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_6_h2" name="Galician Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_6_h2" name="Galician Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="65" speed="56" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-65" modifier_group="horse">
         <AdditionalMeshes>
@@ -3752,7 +3752,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_6_h3" name="Galician Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_6_h3" name="Galician Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="66" speed="56" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-57" modifier_group="horse">
         <AdditionalMeshes>
@@ -3768,7 +3768,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_7_h0" name="Lichuan Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_7_h0" name="Lichuan Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="66" speed="56" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-78" modifier_group="horse">
         <AdditionalMeshes>
@@ -3784,7 +3784,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_7_h1" name="Lichuan Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_7_h1" name="Lichuan Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="66" speed="57" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-70" modifier_group="horse">
         <AdditionalMeshes>
@@ -3800,7 +3800,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_7_h2" name="Lichuan Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_7_h2" name="Lichuan Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="67" speed="57" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-62" modifier_group="horse">
         <AdditionalMeshes>
@@ -3816,7 +3816,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_7_h3" name="Lichuan Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_7_h3" name="Lichuan Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="68" speed="57" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-53" modifier_group="horse">
         <AdditionalMeshes>
@@ -3832,7 +3832,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_8_h0" name="Dongolawi Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_8_h0" name="Dongolawi Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="68" speed="57" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-75" modifier_group="horse">
         <AdditionalMeshes>
@@ -3848,7 +3848,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_8_h1" name="Dongolawi Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_8_h1" name="Dongolawi Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="68" speed="58" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-67" modifier_group="horse">
         <AdditionalMeshes>
@@ -3864,7 +3864,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_8_h2" name="Dongolawi Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_8_h2" name="Dongolawi Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="69" speed="58" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-58" modifier_group="horse">
         <AdditionalMeshes>
@@ -3880,7 +3880,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_8_h3" name="Dongolawi Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_8_h3" name="Dongolawi Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.aserai" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="70" speed="58" charge_damage="2" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-50" modifier_group="horse">
         <AdditionalMeshes>
@@ -3896,7 +3896,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_9_h0" name="Kyrgyz Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_9_h0" name="Kyrgyz Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="70" speed="58" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-72" modifier_group="horse">
         <AdditionalMeshes>
@@ -3912,7 +3912,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_9_h1" name="Kyrgyz Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_9_h1" name="Kyrgyz Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="70" speed="59" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-64" modifier_group="horse">
         <AdditionalMeshes>
@@ -3928,7 +3928,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_9_h2" name="Kyrgyz Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_9_h2" name="Kyrgyz Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="71" speed="59" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-55" modifier_group="horse">
         <AdditionalMeshes>
@@ -3944,7 +3944,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_9_h3" name="Kyrgyz Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_9_h3" name="Kyrgyz Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.khuzait" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="72" speed="59" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-46" modifier_group="horse">
         <AdditionalMeshes>
@@ -3960,7 +3960,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_10_h0" name="Maremmano Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_10_h0" name="Maremmano Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="71" speed="59" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-69" modifier_group="horse">
         <AdditionalMeshes>
@@ -3976,7 +3976,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_10_h1" name="Maremmano Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_10_h1" name="Maremmano Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="71" speed="60" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-60" modifier_group="horse">
         <AdditionalMeshes>
@@ -3992,7 +3992,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_10_h2" name="Maremmano Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_10_h2" name="Maremmano Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="72" speed="60" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-51" modifier_group="horse">
         <AdditionalMeshes>
@@ -4008,7 +4008,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_10_h3" name="Maremmano Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_10_h3" name="Maremmano Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="73" speed="60" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-43" modifier_group="horse">
         <AdditionalMeshes>
@@ -4024,7 +4024,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_11_h0" name="Lipizzana Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_11_h0" name="Lipizzana Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="72" speed="60" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-66" modifier_group="horse">
         <AdditionalMeshes>
@@ -4040,7 +4040,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_11_h1" name="Lipizzana Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_11_h1" name="Lipizzana Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="72" speed="61" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-57" modifier_group="horse">
         <AdditionalMeshes>
@@ -4056,7 +4056,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_11_h2" name="Lipizzana Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_11_h2" name="Lipizzana Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="73" speed="61" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-48" modifier_group="horse">
         <AdditionalMeshes>
@@ -4072,7 +4072,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_11_h3" name="Lipizzana Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_11_h3" name="Lipizzana Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="61" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-39" modifier_group="horse">
         <AdditionalMeshes>
@@ -4088,7 +4088,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_12_h0" name="Charollais Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_12_h0" name="Charollais Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="73" speed="61" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-63" modifier_group="horse">
         <AdditionalMeshes>
@@ -4104,7 +4104,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_12_h1" name="Charollais Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_12_h1" name="Charollais Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="73" speed="62" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-54" modifier_group="horse">
         <AdditionalMeshes>
@@ -4120,7 +4120,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_12_h2" name="Charollais Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_12_h2" name="Charollais Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="62" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-45" modifier_group="horse">
         <AdditionalMeshes>
@@ -4136,7 +4136,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_12_h3" name="Charollais Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_12_h3" name="Charollais Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="62" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-35" modifier_group="horse">
         <AdditionalMeshes>
@@ -4152,7 +4152,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_13_h0" name="Senne Courier" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_13_h0" name="Senne Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="62" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-60" modifier_group="horse">
         <AdditionalMeshes>
@@ -4168,7 +4168,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_13_h1" name="Senne Courier +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_13_h1" name="Senne Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="63" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-51" modifier_group="horse">
         <AdditionalMeshes>
@@ -4184,7 +4184,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_13_h2" name="Senne Courier +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_13_h2" name="Senne Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="63" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-41" modifier_group="horse">
         <AdditionalMeshes>
@@ -4200,7 +4200,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_13_h3" name="Senne Courier +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_13_h3" name="Senne Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" culture="Culture.vlandia" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="76" speed="63" charge_damage="3" body_length="98" is_mountable="true" is_pack_animal="true" extra_health="-32" modifier_group="horse">
         <AdditionalMeshes>
@@ -4216,7 +4216,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_14_h0" name="Shadowfax" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_h0" name="Shadowfax" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="63" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-57" modifier_group="horse">
         <AdditionalMeshes>
@@ -4232,7 +4232,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_14_h1" name="Shadowfax +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_h1" name="Shadowfax +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="74" speed="64" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-48" modifier_group="horse">
         <AdditionalMeshes>
@@ -4248,7 +4248,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_14_h2" name="Shadowfax +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_h2" name="Shadowfax +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="75" speed="64" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-38" modifier_group="horse">
         <AdditionalMeshes>
@@ -4264,7 +4264,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_courier_14_h3" name="Shadowfax +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_h3" name="Shadowfax +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse" maneuver="76" speed="64" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-28" modifier_group="horse">
         <AdditionalMeshes>
