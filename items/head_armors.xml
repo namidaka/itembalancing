@@ -6768,4 +6768,37 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
+  <Item id="crpg_eba_fullmailcoif1_h0" name="Full Faced Mail Coif (EBA)" mesh="fullmailcoif1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+	  <ItemComponent>
+		  <Armor head_armor="12" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="chain" material_type="Chainmail"/>
+	  </ItemComponent>
+	  <Flags UseTeamColor="true" Civilian="true"/>
+  </Item>
+  <Item id="crpg_eba_landsknechthat_1_h0" name="[16th Century] Landsknechts Hat, Decorated (EBA)" mesh="landsknechthat_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+	  <ItemComponent>
+	   	<Armor head_armor="45" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+	  </ItemComponent>
+	  <Flags UseTeamColor="true" Civilian="true"/>
+  </Item>
+  <Item id="crpg_eba_velvet_sallet_gold_1" name="[15th Century] Velvet Sallet Golden, Primary Colour (EBA)" mesh="velvet_sallet_gold_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="crpg_eba_14th_noble_greathelmet1" name="[14th Century] Great Helmet, Decorated and Crown (EBA)" mesh="14th_noble_greathelmet1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="crpg_eba_bretache_n1" name="[14th Century] Bretache, Decorated (EBA)" mesh="bretache_n1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="39" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item> 
 </Items>

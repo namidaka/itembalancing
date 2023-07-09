@@ -5996,4 +5996,56 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
+    <Item id="crpg_eba_late_brig_armor1_h0" name="[15th Century] Heavy Brigandine (EBA)" subtype="body_armor" mesh="late_brig_armor1" culture="Culture.neutral_culture" weight="2" appearance="1.5" Type="BodyArmor">
+	  <ItemComponent>
+		<Armor body_armor="55" leg_armor="15" arm_armor="36" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
+	  </ItemComponent>
+	  <Flags UseTeamColor="true" Civilian="true"/>
+  </Item>
+  <Item id="crpg_eba_strapped_brigandine_1_h0" name="[15th Century] Strapped Brigandine, Splinted (EBA)" subtype="body_armor" mesh="strapped_brigandine_1" culture="Culture.neutral_culture" weight="2" appearance="1.5" Type="BodyArmor">
+	 <ItemComponent>
+		<Armor body_armor="50" leg_armor="10" arm_armor="15" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
+	</ItemComponent>
+	<Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_eba_giornea_tableau1_h0" name="15th Century] Giornea Plate Armor, Tableau Clan Banner (EBA)" subtype="body_armor" mesh="giornea_tableau1" using_tableau="true" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="1.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="64" leg_armor="15" arm_armor="30" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+</Item>
+<Item id="crpg_eba_ren_armor_cloth1_h0" name="[16th Century] Plate Armor, Clothing (EBA)" subtype="body_armor" mesh="ren_armor_cloth1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="1.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="80" leg_armor="45" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="crpg_eba_heavytabard_tableau_1_h0" name="[15th Century] Tabarded Heavy Plate Armor, Tableau Clan Banner (EBA)" subtype="body_armor" mesh="heavytabard_tableau_1" using_tableau="true" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="1.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="68" leg_armor="15" arm_armor="30" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_eba_gambvest_cross_1" name="Universal] Padded Vest over Mail, Cross (EBA)" subtype="body_armor" mesh="gambvest_cross_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="1.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="42" leg_armor="15" arm_armor="19"  has_gender_variations="false" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="crpg_eba_15th_heavypalte_1" name="[15th Century] Heavy Plate Armor, Swordbreaker (EBA)" subtype="body_armor" mesh="15th_heavypalte_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="1.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="65" leg_armor="20" arm_armor="30" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="crpg_eba_breastplate_shash1" name="EABL_[15th Century] Breastplate with Shash" subtype="body_armor" mesh="breastplate_shash1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="1.5" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="35" leg_armor="15" arm_armor="36" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
 </Items>
