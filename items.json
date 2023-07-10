@@ -93086,19 +93086,24 @@
     "name": "Maremmano Saddle Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 7689,
+    "price": 7353,
     "weight": 420.0,
     "rank": 0,
-    "tier": 6.85712051,
+    "tier": 6.68252659,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 3,
       "maneuver": 71,
+<<<<<<< HEAD
       "speed": 59,
       "hitPoints": 131,
 >>>>>>> 2475f06 (changetoSaddleHorse)
+=======
+      "speed": 56,
+      "hitPoints": 144,
+>>>>>>> 139da9e (speeddebuff?)
       "familyType": 1
     },
     "weapons": []
@@ -93186,18 +93191,18 @@
     "name": "Lipizzana Saddle Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 9869,
+    "price": 9431,
     "weight": 420.0,
     "rank": 0,
-    "tier": 7.90916061,
+    "tier": 7.70767,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 3,
       "maneuver": 72,
-      "speed": 60,
-      "hitPoints": 134,
+      "speed": 57,
+      "hitPoints": 147,
       "familyType": 1
     },
     "weapons": []
@@ -93274,18 +93279,18 @@
     "name": "Charollais Saddle Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 12664,
+    "price": 12094,
     "weight": 420.0,
     "rank": 0,
-    "tier": 9.101284,
+    "tier": 8.869449,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 3,
       "maneuver": 73,
-      "speed": 61,
-      "hitPoints": 137,
+      "speed": 58,
+      "hitPoints": 150,
       "familyType": 1
     },
     "weapons": []
@@ -93362,18 +93367,18 @@
     "name": "Senne Saddle Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 16241,
+    "price": 15500,
     "weight": 420.0,
     "rank": 0,
-    "tier": 10.4494257,
+    "tier": 10.1834269,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 3,
       "maneuver": 74,
-      "speed": 62,
-      "hitPoints": 140,
+      "speed": 59,
+      "hitPoints": 153,
       "familyType": 1
     },
     "weapons": []
@@ -93450,11 +93455,15 @@
     "name": "Shadowfax",
     "culture": "Neutral",
     "type": "Mount",
-    "price": 18996,
+    "price": 18121,
     "weight": 420.0,
     "rank": 0,
+<<<<<<< HEAD
     "tier": 11.3897371,
 >>>>>>> 2475f06 (changetoSaddleHorse)
+=======
+    "tier": 11.09903,
+>>>>>>> 139da9e (speeddebuff?)
     "requirement": 0,
     "flags": [],
     "mount": {
@@ -93466,8 +93475,8 @@
 =======
       "chargeDamage": 3,
       "maneuver": 74,
-      "speed": 63,
-      "hitPoints": 143,
+      "speed": 60,
+      "hitPoints": 156,
       "familyType": 1
     },
     "weapons": []
@@ -93544,18 +93553,18 @@
     "name": "Mérengais Saddle Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 1520,
+    "price": 1468,
     "weight": 420.0,
     "rank": 0,
-    "tier": 2.50598979,
+    "tier": 2.44723725,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 96,
       "chargeDamage": 2,
       "maneuver": 62,
-      "speed": 54,
-      "hitPoints": 116,
+      "speed": 51,
+      "hitPoints": 129,
       "familyType": 1
     },
     "weapons": []
@@ -93632,18 +93641,18 @@
     "name": "Galician Saddle Horse",
     "culture": "Vlandia",
     "type": "Mount",
-    "price": 2110,
+    "price": 2034,
     "weight": 420.0,
     "rank": 0,
-    "tier": 3.11771774,
+    "tier": 3.04436183,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 2,
       "maneuver": 64,
-      "speed": 55,
-      "hitPoints": 119,
+      "speed": 52,
+      "hitPoints": 132,
       "familyType": 1
     },
     "weapons": []
@@ -93720,18 +93729,18 @@
     "name": "Lichuan Saddle Horse",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 2944,
+    "price": 2835,
     "weight": 420.0,
     "rank": 0,
-    "tier": 3.85761881,
+    "tier": 3.76656342,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 2,
       "maneuver": 66,
-      "speed": 56,
-      "hitPoints": 122,
+      "speed": 53,
+      "hitPoints": 135,
       "familyType": 1
     },
     "weapons": []
@@ -93808,18 +93817,18 @@
     "name": "Dongolawi Saddle Horse",
     "culture": "Aserai",
     "type": "Mount",
-    "price": 4126,
+    "price": 3966,
     "weight": 420.0,
     "rank": 0,
-    "tier": 4.74835348,
+    "tier": 4.635964,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 2,
       "maneuver": 68,
-      "speed": 57,
-      "hitPoints": 125,
+      "speed": 54,
+      "hitPoints": 138,
       "familyType": 1
     },
     "weapons": []
@@ -93916,18 +93925,18 @@
     "name": "Kyrgyz Saddle Horse",
     "culture": "Khuzait",
     "type": "Mount",
-    "price": 5990,
+    "price": 5734,
     "weight": 420.0,
     "rank": 0,
-    "tier": 5.930644,
+    "tier": 5.77982855,
     "requirement": 0,
     "flags": [],
     "mount": {
       "bodyLength": 98,
       "chargeDamage": 3,
       "maneuver": 70,
-      "speed": 58,
-      "hitPoints": 128,
+      "speed": 55,
+      "hitPoints": 141,
       "familyType": 1
     },
     "weapons": []
