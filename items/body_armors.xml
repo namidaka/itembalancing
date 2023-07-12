@@ -5995,7 +5995,8 @@
       <Armor body_armor="33" leg_armor="10" arm_armor="10" covers_body="true" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
-  <Item id="crpg_late_brig_armor1_h0" name="[15th Century] Heavy Brigandine" subtype="body_armor" mesh="late_brig_armor1" culture="Culture.neutral_culture" weight="2" appearance="10" Type="BodyArmor">
+   </Item> 
+<Item id="crpg_late_brig_armor1_h0" name="[15th Century] Heavy Brigandine" subtype="body_armor" mesh="late_brig_armor1" culture="Culture.neutral_culture" weight="2" appearance="10" Type="BodyArmor">
     <ItemComponent>
         <Armor body_armor="55" leg_armor="15" arm_armor="36" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
