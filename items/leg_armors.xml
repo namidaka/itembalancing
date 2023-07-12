@@ -936,7 +936,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-<Item id="crpg_eba_14_decor_paltedboots_noble1_h0" name="Decorated Plate Leggings" mesh="14_decor_paltedboots_noble1" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
+<Item id="crpg_14_decor_paltedboots_noble1_h0" name="Decorated Plate Leggings" mesh="14_decor_paltedboots_noble1" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
     <ItemComponent>
         <Armor leg_armor="23" covers_legs="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
@@ -972,19 +972,19 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
 </Item>
-<Item id="crpg_eba_hosen_2_h0" name="Hosen (Primary Color)" mesh="hosen_2" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
+<Item id="crpg_hosen_2_h0" name="Hosen (Primary Color)" mesh="hosen_2" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
     <ItemComponent>
         <Armor leg_armor="16" covers_legs="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
 </Item>
-<Item id="crpg_eba_hosen_3_h0" name="Hosen (Secondary Color)" mesh="hosen_3" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
+<Item id="crpg_hosen_3_h0" name="Hosen (Secondary Color)" mesh="hosen_3" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
     <ItemComponent>
         <Armor leg_armor="16" covers_legs="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
 </Item>
-<Item id="crpg_eba_hosen_1_h0" name="Hosen (Split Color)" mesh="hosen_1" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
+<Item id="crpg_hosen_1_h0" name="Hosen (Split Color)" mesh="hosen_1" culture="Culture.neutral_culture" weight="0.9" difficulty="0" appearance="10" Type="LegArmor">
     <ItemComponent>
         <Armor leg_armor="16" covers_legs="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
