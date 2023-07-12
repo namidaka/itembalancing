@@ -768,28 +768,34 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_hourglasss_1n_h0" name="Noble Hourglass Gauntlets" mesh="hourglasss_1n" culture="Culture.neutral_culture" weight="3" difficulty="0" appearance="10" Type="HandArmor">
-	<ItemComponent>
-		<Armor arm_armor="10" covers_hands="true" modifier_group="plate" material_type="Plate"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-  <Item id="crpg_hourglasss_1_h0" name="Plated Hourglass Gauntlets" mesh="hourglasss_1" culture="Culture.neutral_culture" weight="3" difficulty="0" appearance="10" Type="HandArmor">
-	<ItemComponent>
-		<Armor arm_armor="10" covers_hands="true" modifier_group="plate" material_type="Plate"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-  <Item id="crpg_leathergloves_1_h0" name="Leather Gloves" mesh="leathergloves_1" culture="Culture.neutral_culture" weight="1" difficulty="0" appearance="10" Type="HandArmor">
-	<ItemComponent>
-		<Armor arm_armor="10" covers_hands="true" modifier_group="cloth_unarmoured" material_type="Cloth"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-    <Item id="crpg_mailgloves_1_h0" name="Mail Gloves" mesh="mailgloves_1" culture="Culture.neutral_culture" weight="3" difficulty="0" appearance="10" Type="HandArmor">
-	<ItemComponent>
-		<Armor arm_armor="10" covers_hands="true" modifier_group="chain" material_type="Chainmail"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
+<Item id="crpg_hourglasss_1n_h0" name="Noble Hourglass Gauntlets" mesh="hourglasss_1n" culture="Culture.neutral_culture" weight="3" difficulty="0" appearance="10" Type="HandArmor">
+    <ItemComponent>
+        <Armor arm_armor="10" covers_hands="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_hourglasss_1_h0" name="Plated Hourglass Gauntlets" mesh="hourglasss_1" culture="Culture.neutral_culture" weight="3" difficulty="0" appearance="10" Type="HandArmor">
+    <ItemComponent>
+        <Armor arm_armor="10" covers_hands="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_leathergloves_1_h0" name="Leather Gloves" mesh="leathergloves_1" culture="Culture.neutral_culture" weight="1" difficulty="0" appearance="10" Type="HandArmor">
+    <ItemComponent>
+        <Armor arm_armor="10" covers_hands="true" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_mailgloves_1_h0" name="Mail Gloves" mesh="mailgloves_1" culture="Culture.neutral_culture" weight="3" difficulty="0" appearance="10" Type="HandArmor">
+    <ItemComponent>
+        <Armor arm_armor="10" covers_hands="true" modifier_group="chain" material_type="Chainmail"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_khuzait_heavy_armor_bracer_h0" name="{=NfFAgMUE}Khan's Plated Bracers" mesh="khuzait_heavy_armor_bracer" culture="Culture.vlandia" weight="2.2" appearance="10" Type="HandArmor">
+    <ItemComponent>
+        <Armor arm_armor="23" covers_hands="false" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+</Item>
 </Items>

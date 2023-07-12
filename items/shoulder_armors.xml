@@ -2064,46 +2064,46 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_eyepatch_1_h0" name="Eyepatch (EBA)" mesh="eyepatch_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="10" Type="Cape">
-	  <ItemComponent>
-		  <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
-	  </ItemComponent>
-	  <Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-  <Item id="crpg_heavybevor_late1_h0" name="[15th Century] Standalone Bevor" mesh="heavybevor_late1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="10" Type="Cape">
-	<ItemComponent>
-		<Armor body_armor="25" modifier_group="plate" material_type="Plate"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-  <Item id="crpg_noble_bevor_1_h0" name="[15th Century] Standalone Noble Bevor" mesh="noble_bevor_1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="10" Type="Cape">
-	<ItemComponent>
-		<Armor body_armor="25" modifier_group="plate" material_type="Plate"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-  <Item id="crpg_rhkt_cape_h0" name="{=}Long Cape (primary color)" mesh="rhkt_cape" culture="Culture.battania" weight="0.05668779" appearance="10" Type="Cape" subtype="body_armor" difficulty="0">
+<Item id="crpg_eyepatch_1_h0" name="Eyepatch" mesh="eyepatch_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="10" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="4" modifier_group="cloth_unarmoured" material_type="Cloth" />
+        <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
     </ItemComponent>
-	<Flags UseTeamColor="true" />
-  </Item>
-  <Item id="crpg_rhkt_cape_sec_h0" name="{=}Long Cape (secondary color)" mesh="rhkt_cape_sec" culture="Culture.battania" weight="0.05668779" appearance="10" Type="Cape" subtype="body_armor" difficulty="0">
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_heavybevor_late1_h0" name="[15th Century] Standalone Bevor" mesh="heavybevor_late1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="10" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="4" modifier_group="cloth_unarmoured" material_type="Cloth" />
+        <Armor body_armor="25" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>
-	<Flags UseTeamColor="true" />
-  </Item>
-  <Item id="crpg_shoulder_cloth1_h0" name="Hood, Split" mesh="shoulder_cloth1" culture="Culture.neutral_culture" subtype="body_armor" weight="5" difficulty="0" appearance="10" Type="Cape">
-	<ItemComponent>
-		<Armor body_armor="10" modifier_group="cloth_unarmoured" material_type="Cloth"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
-  <Item id="crpg_cape_1_h0" name="Cape, Main Colour" mesh="cape_1" culture="Culture.neutral_culture" subtype="body_armor" weight="4" difficulty="0" appearance="10" Type="Cape">
-	<ItemComponent>
-		<Armor body_armor="10" modifier_group="cloth_unarmoured" material_type="Cloth"/>
-	</ItemComponent>
-	<Flags UseTeamColor="true" Civilian="true"/>
-  </Item>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_noble_bevor_1_h0" name="[15th Century] Standalone Noble Bevor" mesh="noble_bevor_1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="10" Type="Cape">
+    <ItemComponent>
+        <Armor body_armor="25" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_rhkt_cape_h0" name="{=}Long Cape (primary color)" mesh="rhkt_cape" culture="Culture.battania" weight="0.05668779" appearance="10" Type="Cape" subtype="body_armor" difficulty="0">
+    <ItemComponent>
+        <Armor body_armor="4" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true"/>
+</Item>
+<Item id="crpg_rhkt_cape_sec_h0" name="{=}Long Cape (secondary color)" mesh="rhkt_cape_sec" culture="Culture.battania" weight="0.05668779" appearance="10" Type="Cape" subtype="body_armor" difficulty="0">
+    <ItemComponent>
+        <Armor body_armor="4" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true"/>
+</Item>
+<Item id="crpg_shoulder_cloth1_h0" name="Hood, Split" mesh="shoulder_cloth1" culture="Culture.neutral_culture" subtype="body_armor" weight="5" difficulty="0" appearance="10" Type="Cape">
+    <ItemComponent>
+        <Armor body_armor="10" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
+<Item id="crpg_cape_1_h0" name="Cape, Main Colour" mesh="cape_1" culture="Culture.neutral_culture" subtype="body_armor" weight="4" difficulty="0" appearance="10" Type="Cape">
+    <ItemComponent>
+        <Armor body_armor="10" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+</Item>
 </Items>
