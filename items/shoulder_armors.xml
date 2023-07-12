@@ -2106,4 +2106,22 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
 </Item>
+<Item id="crpg_fur_cloak_a_h0" name="{=ujntvg7M}Fur Cloak With Round Plate" mesh="fur_cloak_a" culture="Culture.battania" weight="7.6" appearance="6" Type="Cape">
+	<ItemComponent>
+		<Armor body_armor="13" arm_armor="6" modifier_group="leather" material_type="Leather"/>
+	</ItemComponent>
+	<Flags/>
+</Item>
+<Item id="crpg_fur_cloak_b_h0" name="{=mTsEaNKb}Fur Cloak" mesh="fur_cloak_b" culture="Culture.battania" weight="2.7" appearance="4" Type="Cape">
+	<ItemComponent>
+		<Armor body_armor="5" arm_armor="1" modifier_group="leather" material_type="Leather"/>
+	</ItemComponent>
+	<Flags/>
+</Item>
+<Item id="crpg_fur_cloak_c_h0" name="{=p0Xgt48l}Large Fur Cloak With Round Plate" mesh="fur_cloak_c" culture="Culture.battania" weight="8.3" appearance="3" Type="Cape">
+	<ItemComponent>
+		<Armor body_armor="14" arm_armor="7" modifier_group="leather" material_type="Leather"/>
+	</ItemComponent>
+	<Flags/>
+</Item>
 </Items>
