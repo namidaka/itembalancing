@@ -1,25 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Items>
-  <Item id="crpg_heraldic_mail_with_tabbard_v1_h0" name="Mail With Tabard Heraldic" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="11.77339" difficulty="0" appearance="1" Type="BodyArmor">
-    <ItemComponent>
-      <Armor body_armor="44" leg_armor="11" arm_armor="11" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
-    </ItemComponent>
-  </Item>
-  <Item id="crpg_heraldic_mail_with_tabbard_v1_h1" name="Mail With Tabard Heraldic +1" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="11.77339" difficulty="0" appearance="1" Type="BodyArmor">
-    <ItemComponent>
-      <Armor body_armor="46" leg_armor="12" arm_armor="12" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
-    </ItemComponent>
-  </Item>
-  <Item id="crpg_heraldic_mail_with_tabbard_v1_h2" name="Mail With Tabard Heraldic +2" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="11.77339" difficulty="0" appearance="1" Type="BodyArmor">
-    <ItemComponent>
-      <Armor body_armor="48" leg_armor="13" arm_armor="13" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
-    </ItemComponent>
-  </Item>
-  <Item id="crpg_heraldic_mail_with_tabbard_v1_h3" name="Mail With Tabard Heraldic +3" mesh="mail_with_tabbard_heraldic" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" using_tableau="true" weight="11.77339" difficulty="0" appearance="1" Type="BodyArmor">
-    <ItemComponent>
-      <Armor body_armor="50" leg_armor="14" arm_armor="14" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
-    </ItemComponent>
-  </Item>
   <Item id="crpg_woven_leather_vest_v1_h0" name="{=LgftnHPs}Woven Leather Vest" mesh="archers_leather_vest" culture="Culture.vlandia" weight="7.048351" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0">
     <ItemComponent>
       <Armor body_armor="29" leg_armor="5" arm_armor="11" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
