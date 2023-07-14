@@ -11798,6 +11798,30 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_seax_blade_h0" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.2" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="">
+      <Thrust damage_type="Pierce" damage_factor="3.5" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_seax_blade_h1" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.05" excluded_item_usage_features="swing">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="">
+      <Thrust damage_type="Pierce" damage_factor="3.5" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_seax_blade_h2" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.05" excluded_item_usage_features="swing">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="">
       <Thrust damage_type="Pierce" damage_factor="3.6" />
     </BladeData>
     <Flags>
@@ -11808,33 +11832,9 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_seax_blade_h1" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.2" excluded_item_usage_features="swing">
+  <CraftingPiece id="crpg_seax_blade_h3" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.05" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="">
       <Thrust damage_type="Pierce" damage_factor="3.7" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_seax_blade_h2" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.2" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_seax_blade_h3" name="{=aBnaaaHv}Long Seax Blade" tier="3" piece_type="Blade" mesh="dagger_blade_3" length="47" weight="0.2" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="">
-      <Thrust damage_type="Pierce" damage_factor="3.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
