@@ -20392,6 +20392,258 @@
     "weapons": []
   },
   {
+    "id": "crpg_bone_breaker_h0",
+    "baseId": "crpg_bone_breaker",
+    "name": "Bone Breaker",
+    "culture": "Neutral",
+    "type": "TwoHandedWeapon",
+    "price": 10207,
+    "weight": 1.95,
+    "rank": 0,
+    "tier": 8.381186,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.44,
+        "handling": 78,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 93,
+        "swingDamage": 33,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 83
+      },
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.44,
+        "handling": 78,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 93,
+        "swingDamage": 33,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_bone_breaker_h1",
+    "baseId": "crpg_bone_breaker",
+    "name": "Bone Breaker +1",
+    "culture": "Neutral",
+    "type": "TwoHandedWeapon",
+    "price": 11045,
+    "weight": 1.85,
+    "rank": 1,
+    "tier": 8.761618,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.5,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 33,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      },
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.5,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 33,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_bone_breaker_h2",
+    "baseId": "crpg_bone_breaker",
+    "name": "Bone Breaker +2",
+    "culture": "Neutral",
+    "type": "TwoHandedWeapon",
+    "price": 10184,
+    "weight": 1.85,
+    "rank": 2,
+    "tier": 8.3706,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.5,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 34,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      },
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.5,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 34,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_bone_breaker_h3",
+    "baseId": "crpg_bone_breaker",
+    "name": "Bone Breaker +3",
+    "culture": "Neutral",
+    "type": "TwoHandedWeapon",
+    "price": 11863,
+    "weight": 1.85,
+    "rank": 3,
+    "tier": 9.119562,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.5,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 36,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      },
+      {
+        "class": "TwoHandedMace",
+        "itemUsage": "twohanded_axe",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.5,
+        "handling": 79,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 36,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
     "id": "crpg_bone_crusher_h0",
     "baseId": "crpg_bone_crusher",
     "name": "Bone Crusher",
@@ -44371,10 +44623,17 @@
     "name": "Falx Knife",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4377,
     "weight": 0.53,
     "rank": 0,
     "tier": 7.377295,
+=======
+    "price": 315,
+    "weight": 0.82,
+    "rank": 0,
+    "tier": 1.23381877,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -44408,10 +44667,17 @@
     "name": "Falx Knife +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4834,
     "weight": 0.53,
     "rank": 1,
     "tier": 7.809491,
+=======
+    "price": 363,
+    "weight": 0.78,
+    "rank": 1,
+    "tier": 1.39416718,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -44445,10 +44711,17 @@
     "name": "Falx Knife +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5435,
     "weight": 0.53,
     "rank": 2,
     "tier": 8.346952,
+=======
+    "price": 476,
+    "weight": 0.74,
+    "rank": 2,
+    "tier": 1.73625124,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -44482,10 +44755,17 @@
     "name": "Falx Knife +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 6195,
     "weight": 0.53,
     "rank": 3,
     "tier": 8.987175,
+=======
+    "price": 934,
+    "weight": 0.7,
+    "rank": 3,
+    "tier": 2.833798,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -62757,10 +63037,17 @@
     "name": "Highland Dagger",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2294,
     "weight": 1.65,
     "rank": 0,
     "tier": 5.038997,
+=======
+    "price": 3264,
+    "weight": 1.65,
+    "rank": 0,
+    "tier": 6.220983,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -62818,10 +63105,17 @@
     "name": "Highland Dagger +1",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1936,
     "weight": 1.65,
     "rank": 1,
     "tier": 4.5428915,
+=======
+    "price": 2740,
+    "weight": 1.65,
+    "rank": 1,
+    "tier": 5.608511,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -62879,10 +63173,17 @@
     "name": "Highland Dagger +2",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2199,
     "weight": 1.56,
     "rank": 2,
     "tier": 4.91145039,
+=======
+    "price": 3125,
+    "weight": 1.56,
+    "rank": 2,
+    "tier": 6.06351948,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -62940,10 +63241,17 @@
     "name": "Highland Dagger +3",
     "culture": "Battania",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3284,
     "weight": 1.51,
     "rank": 3,
     "tier": 6.24297237,
+=======
+    "price": 4724,
+    "weight": 1.51,
+    "rank": 3,
+    "tier": 7.707372,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -117325,10 +117633,17 @@
     "name": "Pugio",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2337,
     "weight": 1.64,
     "rank": 0,
     "tier": 5.096213,
+=======
+    "price": 3327,
+    "weight": 1.64,
+    "rank": 0,
+    "tier": 6.2916193,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -117386,10 +117701,17 @@
     "name": "Pugio +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1972,
     "weight": 1.64,
     "rank": 1,
     "tier": 4.594449,
+=======
+    "price": 2792,
+    "weight": 1.64,
+    "rank": 1,
+    "tier": 5.67215967,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -117447,10 +117769,17 @@
     "name": "Pugio +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2301,
     "weight": 1.59,
     "rank": 2,
     "tier": 5.049335,
+=======
+    "price": 3275,
+    "weight": 1.59,
+    "rank": 2,
+    "tier": 6.233747,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -117508,10 +117837,17 @@
     "name": "Pugio +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 3438,
     "weight": 1.55,
     "rank": 3,
     "tier": 6.41317368,
+=======
+    "price": 4952,
+    "weight": 1.55,
+    "rank": 3,
+    "tier": 7.917498,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -127285,10 +127621,17 @@
     "name": "Seax",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5216,
     "weight": 0.63,
     "rank": 0,
     "tier": 8.155311,
+=======
+    "price": 3892,
+    "weight": 2.84,
+    "rank": 0,
+    "tier": 6.893443,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -127323,10 +127666,17 @@
     "name": "Seax +1",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4416,
     "weight": 0.49,
     "rank": 1,
     "tier": 7.41499329,
+=======
+    "price": 3573,
+    "weight": 2.84,
+    "rank": 1,
+    "tier": 6.559542,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -127361,10 +127711,17 @@
     "name": "Seax +2",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 4961,
     "weight": 0.49,
     "rank": 2,
     "tier": 7.925307,
+=======
+    "price": 3937,
+    "weight": 2.78,
+    "rank": 2,
+    "tier": 6.93976068,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -127399,10 +127756,17 @@
     "name": "Seax +3",
     "culture": "Sturgia",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 5651,
     "weight": 0.49,
     "rank": 3,
     "tier": 8.533185,
+=======
+    "price": 5562,
+    "weight": 2.69,
+    "rank": 3,
+    "tier": 8.457094,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse",
@@ -128514,258 +128878,6 @@
         "swingDamage": 6,
         "swingDamageType": "Blunt",
         "swingSpeed": 97
-      }
-    ]
-  },
-  {
-    "id": "crpg_shieldsplitter_h0",
-    "baseId": "crpg_shieldsplitter",
-    "name": "Shieldsplitter",
-    "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 10207,
-    "weight": 1.95,
-    "rank": 0,
-    "tier": 8.381186,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.44,
-        "handling": 78,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 33,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 83
-      },
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.44,
-        "handling": 78,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 33,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 83
-      }
-    ]
-  },
-  {
-    "id": "crpg_shieldsplitter_h1",
-    "baseId": "crpg_shieldsplitter",
-    "name": "Shieldsplitter +1",
-    "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 11045,
-    "weight": 1.85,
-    "rank": 1,
-    "tier": 8.761618,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.5,
-        "handling": 79,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 33,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
-      },
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.5,
-        "handling": 79,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 33,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
-      }
-    ]
-  },
-  {
-    "id": "crpg_shieldsplitter_h2",
-    "baseId": "crpg_shieldsplitter",
-    "name": "Shieldsplitter +2",
-    "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 10184,
-    "weight": 1.85,
-    "rank": 2,
-    "tier": 8.3706,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.5,
-        "handling": 79,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 34,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
-      },
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.5,
-        "handling": 79,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 34,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
-      }
-    ]
-  },
-  {
-    "id": "crpg_shieldsplitter_h3",
-    "baseId": "crpg_shieldsplitter",
-    "name": "Shieldsplitter +3",
-    "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 11863,
-    "weight": 1.85,
-    "rank": 3,
-    "tier": 9.119562,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.5,
-        "handling": 79,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 36,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
-      },
-      {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 81,
-        "balance": 0.5,
-        "handling": 79,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "BonusAgainstShield",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 36,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
       }
     ]
   },
@@ -165005,10 +165117,17 @@
     "name": "Xiphos",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1551,
     "weight": 1.91,
     "rank": 0,
     "tier": 3.95441866,
+=======
+    "price": 2177,
+    "weight": 1.91,
+    "rank": 0,
+    "tier": 4.881998,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -165042,10 +165161,17 @@
     "name": "Xiphos +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1512,
     "weight": 1.86,
     "rank": 1,
     "tier": 3.89060736,
+=======
+    "price": 2120,
+    "weight": 1.86,
+    "rank": 1,
+    "tier": 4.80322,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -165079,10 +165205,17 @@
     "name": "Xiphos +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 1772,
     "weight": 1.78,
     "rank": 2,
     "tier": 4.299712,
+=======
+    "price": 2500,
+    "weight": 1.78,
+    "rank": 2,
+    "tier": 5.30828667,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -165116,10 +165249,17 @@
     "name": "Xiphos +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
+<<<<<<< HEAD
     "price": 2638,
     "weight": 1.69,
     "rank": 3,
     "tier": 5.482981,
+=======
+    "price": 3771,
+    "weight": 1.69,
+    "rank": 3,
+    "tier": 6.76911449,
+>>>>>>> 920080a (rename)
     "requirement": 0,
     "flags": [
       "Civilian"
