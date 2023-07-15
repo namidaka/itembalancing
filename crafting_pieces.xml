@@ -27883,7 +27883,7 @@
   <CraftingPiece id="crpg_throwingclub_head_h0" name="Throwing Club Head" tier="4" piece_type="Blade" mesh="throwing_club_head" distance_to_next_piece="5.787" distance_to_previous_piece="1.483" weight="0.453" is_default="true">
     <BuildData piece_offset="0" />
     <BladeData stack_amount="3" blade_length="12.0" blade_width="9.5" physics_material="wood_weapon" body_name="bo_mace_b" holster_mesh="throwing_axe_quiver_1">
-      <Swing damage_type="Blunt" damage_factor="1.1" />
+      <Swing damage_type="Blunt" damage_factor="0.95" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -27892,7 +27892,7 @@
   <CraftingPiece id="crpg_throwingclub_head_h1" name="Throwing Club Head" tier="4" piece_type="Blade" mesh="throwing_club_head" distance_to_next_piece="5.787" distance_to_previous_piece="1.483" weight="0.453" is_default="true">
     <BuildData piece_offset="0" />
     <BladeData stack_amount="3" blade_length="12.0" blade_width="9.5" physics_material="wood_weapon" body_name="bo_mace_b" holster_mesh="throwing_axe_quiver_1">
-      <Swing damage_type="Blunt" damage_factor="1.1" />
+      <Swing damage_type="Blunt" damage_factor="1.0" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -27910,7 +27910,7 @@
   <CraftingPiece id="crpg_throwingclub_head_h3" name="Throwing Club Head" tier="4" piece_type="Blade" mesh="throwing_club_head" distance_to_next_piece="5.787" distance_to_previous_piece="1.483" weight="0.453" is_default="true">
     <BuildData piece_offset="0" />
     <BladeData stack_amount="3" blade_length="12.0" blade_width="9.5" physics_material="wood_weapon" body_name="bo_mace_b" holster_mesh="throwing_axe_quiver_1">
-      <Swing damage_type="Blunt" damage_factor="1.1" />
+      <Swing damage_type="Blunt" damage_factor="1.15" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
