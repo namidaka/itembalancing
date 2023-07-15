@@ -11320,7 +11320,7 @@
       <Piece id="crpg_makeshift_sledgehammer_handle_h3" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-    <CraftedItem id="crpg_tri_shuriken_h0" name="Trishape Shuriken" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_tri_shuriken_h0" name="Trishape Shuriken" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_tri_shuriken_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_tri_shuriken_handle_h0" Type="Handle" scale_factor="100" />
