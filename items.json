@@ -152354,13 +152354,13 @@
   {
     "id": "crpg_throwing_spike_h0",
     "baseId": "crpg_throwing_spike",
-    "name": "Throwing Spike",
+    "name": "Throwing Dart",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 16961,
-    "weight": 0.15,
+    "price": 45971,
+    "weight": 0.45,
     "rank": 0,
-    "tier": 15.73643,
+    "tier": 26.64529,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152370,11 +152370,11 @@
         "class": "ThrowingKnife",
         "itemUsage": "throwing_knife",
         "accuracy": 95,
-        "missileSpeed": 36,
+        "missileSpeed": 34,
         "stackAmount": 9,
         "length": 50,
         "balance": 1.0,
-        "handling": 121,
+        "handling": 118,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -152383,25 +152383,25 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 24,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 108,
+        "thrustSpeed": 103,
         "swingDamage": 0,
         "swingDamageType": "Cut",
-        "swingSpeed": 133
+        "swingSpeed": 126
       }
     ]
   },
   {
     "id": "crpg_throwing_spike_h1",
     "baseId": "crpg_throwing_spike",
-    "name": "Throwing Spike",
+    "name": "Throwing Dart +1",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 11913,
-    "weight": 0.15,
+    "price": 46443,
+    "weight": 0.45,
     "rank": 1,
-    "tier": 13.0053129,
+    "tier": 26.7875633,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152411,11 +152411,11 @@
         "class": "ThrowingKnife",
         "itemUsage": "throwing_knife",
         "accuracy": 95,
-        "missileSpeed": 36,
+        "missileSpeed": 34,
         "stackAmount": 9,
         "length": 50,
         "balance": 1.0,
-        "handling": 121,
+        "handling": 118,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -152424,25 +152424,25 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 108,
+        "thrustSpeed": 103,
         "swingDamage": 0,
         "swingDamageType": "Cut",
-        "swingSpeed": 133
+        "swingSpeed": 126
       }
     ]
   },
   {
     "id": "crpg_throwing_spike_h2",
     "baseId": "crpg_throwing_spike",
-    "name": "Throwing Spike",
+    "name": "Throwing Dart +2",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 8668,
-    "weight": 0.15,
+    "price": 47729,
+    "weight": 0.45,
     "rank": 2,
-    "tier": 10.9280758,
+    "tier": 27.1716518,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152452,11 +152452,11 @@
         "class": "ThrowingKnife",
         "itemUsage": "throwing_knife",
         "accuracy": 95,
-        "missileSpeed": 36,
+        "missileSpeed": 34,
         "stackAmount": 9,
         "length": 50,
         "balance": 1.0,
-        "handling": 121,
+        "handling": 118,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -152465,25 +152465,25 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 108,
+        "thrustSpeed": 103,
         "swingDamage": 0,
         "swingDamageType": "Cut",
-        "swingSpeed": 133
+        "swingSpeed": 126
       }
     ]
   },
   {
     "id": "crpg_throwing_spike_h3",
     "baseId": "crpg_throwing_spike",
-    "name": "Throwing Spike",
+    "name": "Throwing Dart +3",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 6498,
-    "weight": 0.15,
+    "price": 49699,
+    "weight": 0.45,
     "rank": 3,
-    "tier": 9.311499,
+    "tier": 27.7501774,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152493,11 +152493,11 @@
         "class": "ThrowingKnife",
         "itemUsage": "throwing_knife",
         "accuracy": 95,
-        "missileSpeed": 36,
+        "missileSpeed": 34,
         "stackAmount": 9,
         "length": 50,
         "balance": 1.0,
-        "handling": 121,
+        "handling": 118,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -152506,12 +152506,12 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 108,
+        "thrustSpeed": 103,
         "swingDamage": 0,
         "swingDamageType": "Cut",
-        "swingSpeed": 133
+        "swingSpeed": 126
       }
     ]
   },

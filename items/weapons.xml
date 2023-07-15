@@ -11344,25 +11344,25 @@
       <Piece id="crpg_tri_shuriken_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_throwing_spike_h0" name="Throwing Spike" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_throwing_spike_h0" name="{=Diggles}Throwing Dart" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_throwing_spike_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_throwing_spike_handle_h0" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_throwing_spike_h1" name="Throwing Spike" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_throwing_spike_h1" name="{=Diggles}Throwing Dart +1" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_throwing_spike_blade_h1" Type="Blade" scale_factor="100" />
       <Piece id="crpg_throwing_spike_handle_h1" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_throwing_spike_h2" name="Throwing Spike" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_throwing_spike_h2" name="{=Diggles}Throwing Dart +2" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_throwing_spike_blade_h2" Type="Blade" scale_factor="100" />
       <Piece id="crpg_throwing_spike_handle_h2" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_throwing_spike_h3" name="Throwing Spike" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_throwing_spike_h3" name="{=Diggles}Throwing Dart +3" crafting_template="crpg_ThrowingKnife" culture="Culture.aserai" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_throwing_spike_blade_h3" Type="Blade" scale_factor="100" />
       <Piece id="crpg_throwing_spike_handle_h3" Type="Handle" scale_factor="100" />
