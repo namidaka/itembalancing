@@ -79693,10 +79693,10 @@
     "name": "Langes Messer",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 161,
-    "weight": 1.32,
+    "price": 14127,
+    "weight": 3.66,
     "rank": 0,
-    "tier": 0.364677876,
+    "tier": 10.0502071,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79706,19 +79706,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.08,
+        "handling": 65,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 75,
+        "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 72
       },
       {
         "class": "TwoHandedSword",
@@ -79726,20 +79726,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 1.0,
-        "handling": 92,
+        "length": 113,
+        "balance": 0.69,
+        "handling": 76,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 13,
+        "thrustSpeed": 83,
+        "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 103
+        "swingSpeed": 90
       },
       {
         "class": "OneHandedSword",
@@ -79747,19 +79747,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.08,
+        "handling": 65,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 75,
+        "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 72
       }
     ]
   },
@@ -79769,10 +79769,10 @@
     "name": "Langes Messer",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 139,
-    "weight": 1.32,
+    "price": 14320,
+    "weight": 3.34,
     "rank": 1,
-    "tier": 0.3013868,
+    "tier": 10.12611,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79782,19 +79782,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 65,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 77,
+        "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 73
       },
       {
         "class": "TwoHandedSword",
@@ -79802,20 +79802,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 1.0,
-        "handling": 92,
+        "length": 113,
+        "balance": 0.71,
+        "handling": 76,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 13,
+        "thrustSpeed": 84,
+        "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 103
+        "swingSpeed": 91
       },
       {
         "class": "OneHandedSword",
@@ -79823,19 +79823,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 65,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 77,
+        "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 73
       }
     ]
   },
@@ -79845,10 +79845,10 @@
     "name": "Langes Messer",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 124,
-    "weight": 1.32,
+    "price": 14160,
+    "weight": 3.34,
     "rank": 2,
-    "tier": 0.253248572,
+    "tier": 10.0633287,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79858,19 +79858,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 65,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 77,
+        "swingDamage": 42,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 73
       },
       {
         "class": "TwoHandedSword",
@@ -79878,20 +79878,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 1.0,
-        "handling": 92,
+        "length": 113,
+        "balance": 0.71,
+        "handling": 76,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 13,
+        "thrustSpeed": 84,
+        "swingDamage": 42,
         "swingDamageType": "Cut",
-        "swingSpeed": 103
+        "swingSpeed": 91
       },
       {
         "class": "OneHandedSword",
@@ -79899,19 +79899,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 65,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 25,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 77,
+        "swingDamage": 42,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 73
       }
     ]
   },
@@ -79921,10 +79921,10 @@
     "name": "Langes Messer",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 112,
-    "weight": 1.32,
+    "price": 13897,
+    "weight": 3.14,
     "rank": 3,
-    "tier": 0.215785772,
+    "tier": 9.959512,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79934,19 +79934,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.13,
+        "handling": 66,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 78,
+        "swingDamage": 43,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 74
       },
       {
         "class": "TwoHandedSword",
@@ -79954,20 +79954,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 1.0,
-        "handling": 92,
+        "length": 113,
+        "balance": 0.73,
+        "handling": 77,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 99,
-        "swingDamage": 13,
+        "thrustSpeed": 86,
+        "swingDamage": 43,
         "swingDamageType": "Cut",
-        "swingSpeed": 103
+        "swingSpeed": 91
       },
       {
         "class": "OneHandedSword",
@@ -79975,19 +79975,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 109,
-        "balance": 0.66,
-        "handling": 89,
+        "length": 113,
+        "balance": 0.13,
+        "handling": 66,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 10,
+        "thrustDamage": 26,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 93,
-        "swingDamage": 13,
+        "thrustSpeed": 78,
+        "swingDamage": 43,
         "swingDamageType": "Cut",
-        "swingSpeed": 89
+        "swingSpeed": 74
       }
     ]
   },
