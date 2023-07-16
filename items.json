@@ -152357,10 +152357,10 @@
     "name": "Throwing Dart",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 45971,
+    "price": 3653,
     "weight": 0.45,
     "rank": 0,
-    "tier": 26.64529,
+    "tier": 6.70432425,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152371,7 +152371,48 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 34,
-        "stackAmount": 9,
+        "stackAmount": 5,
+        "length": 50,
+        "balance": 1.0,
+        "handling": 118,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "Consumable",
+          "UnloadWhenSheathed",
+          "AutoReload",
+          "AmmoBreaksOnBounceBack"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 103,
+        "swingDamage": 0,
+        "swingDamageType": "Cut",
+        "swingSpeed": 126
+      }
+    ]
+  },
+  {
+    "id": "crpg_throwing_spike_h1",
+    "baseId": "crpg_throwing_spike",
+    "name": "Throwing Dart +1",
+    "culture": "Aserai",
+    "type": "Thrown",
+    "price": 3740,
+    "weight": 0.45,
+    "rank": 1,
+    "tier": 6.79657459,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "ThrowingKnife",
+        "itemUsage": "throwing_knife",
+        "accuracy": 95,
+        "missileSpeed": 34,
+        "stackAmount": 5,
         "length": 50,
         "balance": 1.0,
         "handling": 118,
@@ -152393,15 +152434,15 @@
     ]
   },
   {
-    "id": "crpg_throwing_spike_h1",
+    "id": "crpg_throwing_spike_h2",
     "baseId": "crpg_throwing_spike",
-    "name": "Throwing Dart +1",
+    "name": "Throwing Dart +2",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 46443,
+    "price": 3884,
     "weight": 0.45,
-    "rank": 1,
-    "tier": 26.7875633,
+    "rank": 2,
+    "tier": 6.947219,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152412,7 +152453,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 34,
-        "stackAmount": 9,
+        "stackAmount": 5,
         "length": 50,
         "balance": 1.0,
         "handling": 118,
@@ -152434,15 +152475,15 @@
     ]
   },
   {
-    "id": "crpg_throwing_spike_h2",
+    "id": "crpg_throwing_spike_h3",
     "baseId": "crpg_throwing_spike",
-    "name": "Throwing Dart +2",
+    "name": "Throwing Dart +3",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 47729,
+    "price": 4078,
     "weight": 0.45,
-    "rank": 2,
-    "tier": 27.1716518,
+    "rank": 3,
+    "tier": 7.14573526,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -152453,7 +152494,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 34,
-        "stackAmount": 9,
+        "stackAmount": 5,
         "length": 50,
         "balance": 1.0,
         "handling": 118,
@@ -152466,47 +152507,6 @@
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 26,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 103,
-        "swingDamage": 0,
-        "swingDamageType": "Cut",
-        "swingSpeed": 126
-      }
-    ]
-  },
-  {
-    "id": "crpg_throwing_spike_h3",
-    "baseId": "crpg_throwing_spike",
-    "name": "Throwing Dart +3",
-    "culture": "Aserai",
-    "type": "Thrown",
-    "price": 49699,
-    "weight": 0.45,
-    "rank": 3,
-    "tier": 27.7501774,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "ThrowingKnife",
-        "itemUsage": "throwing_knife",
-        "accuracy": 95,
-        "missileSpeed": 34,
-        "stackAmount": 9,
-        "length": 50,
-        "balance": 1.0,
-        "handling": 118,
-        "bodyArmor": 0,
-        "flags": [
-          "RangedWeapon",
-          "Consumable",
-          "UnloadWhenSheathed",
-          "AutoReload",
-          "AmmoBreaksOnBounceBack"
-        ],
-        "thrustDamage": 27,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 103,
         "swingDamage": 0,
