@@ -153850,13 +153850,13 @@
   {
     "id": "crpg_tri_shuriken_h0",
     "baseId": "crpg_tri_shuriken",
-    "name": "Trishape Shuriken",
+    "name": "Throwing Star Triangle",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 16961,
+    "price": 1474,
     "weight": 0.15,
     "rank": 0,
-    "tier": 15.73643,
+    "tier": 3.86372876,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -153867,7 +153867,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -153879,7 +153879,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -153891,13 +153891,13 @@
   {
     "id": "crpg_tri_shuriken_h1",
     "baseId": "crpg_tri_shuriken",
-    "name": "Trishape Shuriken",
+    "name": "Throwing Star Triangle +1",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 11913,
+    "price": 1780,
     "weight": 0.15,
     "rank": 1,
-    "tier": 13.0053129,
+    "tier": 4.35270357,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -153908,7 +153908,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -153920,7 +153920,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -153932,13 +153932,13 @@
   {
     "id": "crpg_tri_shuriken_h2",
     "baseId": "crpg_tri_shuriken",
-    "name": "Trishape Shuriken",
+    "name": "Throwing Star Triangle +2",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 8668,
+    "price": 2152,
     "weight": 0.15,
     "rank": 2,
-    "tier": 10.9280758,
+    "tier": 4.89283752,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -153949,7 +153949,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -153961,7 +153961,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 17,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -153973,13 +153973,13 @@
   {
     "id": "crpg_tri_shuriken_h3",
     "baseId": "crpg_tri_shuriken",
-    "name": "Trishape Shuriken",
+    "name": "Throwing Star Triangle +3",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 6498,
+    "price": 2600,
     "weight": 0.15,
     "rank": 3,
-    "tier": 9.311499,
+    "tier": 5.48517,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -153990,7 +153990,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -154002,7 +154002,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 18,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
