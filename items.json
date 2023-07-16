@@ -79693,10 +79693,10 @@
     "name": "Langes Messer",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 14127,
-    "weight": 3.66,
+    "price": 14084,
+    "weight": 3.71,
     "rank": 0,
-    "tier": 10.0502071,
+    "tier": 10.0332727,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -79707,8 +79707,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.08,
-        "handling": 65,
+        "balance": 0.05,
+        "handling": 64,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
@@ -79718,7 +79718,7 @@
         "thrustSpeed": 75,
         "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 72
+        "swingSpeed": 71
       },
       {
         "class": "TwoHandedSword",
@@ -79727,7 +79727,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.69,
+        "balance": 0.67,
         "handling": 76,
         "bodyArmor": 3,
         "flags": [
@@ -79736,7 +79736,7 @@
         ],
         "thrustDamage": 21,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 83,
+        "thrustSpeed": 82,
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 90
@@ -79748,8 +79748,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.08,
-        "handling": 65,
+        "balance": 0.05,
+        "handling": 64,
         "bodyArmor": 3,
         "flags": [
           "MeleeWeapon"
@@ -79759,7 +79759,7 @@
         "thrustSpeed": 75,
         "swingDamage": 40,
         "swingDamageType": "Cut",
-        "swingSpeed": 72
+        "swingSpeed": 71
       }
     ]
   },
@@ -79770,7 +79770,7 @@
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
     "price": 14320,
-    "weight": 3.34,
+    "weight": 3.29,
     "rank": 1,
     "tier": 10.12611,
     "requirement": 0,
@@ -79783,7 +79783,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.1,
+        "balance": 0.09,
         "handling": 65,
         "bodyArmor": 3,
         "flags": [
@@ -79794,7 +79794,7 @@
         "thrustSpeed": 77,
         "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 73
+        "swingSpeed": 72
       },
       {
         "class": "TwoHandedSword",
@@ -79824,7 +79824,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.1,
+        "balance": 0.09,
         "handling": 65,
         "bodyArmor": 3,
         "flags": [
@@ -79835,7 +79835,7 @@
         "thrustSpeed": 77,
         "swingDamage": 41,
         "swingDamageType": "Cut",
-        "swingSpeed": 73
+        "swingSpeed": 72
       }
     ]
   },
@@ -79846,7 +79846,7 @@
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
     "price": 14160,
-    "weight": 3.34,
+    "weight": 3.29,
     "rank": 2,
     "tier": 10.0633287,
     "requirement": 0,
@@ -79859,7 +79859,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.1,
+        "balance": 0.09,
         "handling": 65,
         "bodyArmor": 3,
         "flags": [
@@ -79870,7 +79870,7 @@
         "thrustSpeed": 77,
         "swingDamage": 42,
         "swingDamageType": "Cut",
-        "swingSpeed": 73
+        "swingSpeed": 72
       },
       {
         "class": "TwoHandedSword",
@@ -79900,7 +79900,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 113,
-        "balance": 0.1,
+        "balance": 0.09,
         "handling": 65,
         "bodyArmor": 3,
         "flags": [
@@ -79911,7 +79911,7 @@
         "thrustSpeed": 77,
         "swingDamage": 42,
         "swingDamageType": "Cut",
-        "swingSpeed": 73
+        "swingSpeed": 72
       }
     ]
   },
@@ -79922,7 +79922,7 @@
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
     "price": 13897,
-    "weight": 3.14,
+    "weight": 3.16,
     "rank": 3,
     "tier": 9.959512,
     "requirement": 0,
