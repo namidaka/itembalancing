@@ -137076,13 +137076,13 @@
   {
     "id": "crpg_square_shuriken_h0",
     "baseId": "crpg_square_shuriken",
-    "name": "Squareshape Shuriken",
+    "name": "Throwing Star Diamond",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 16961,
+    "price": 544,
     "weight": 0.15,
     "rank": 0,
-    "tier": 15.73643,
+    "tier": 1.94400191,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -137093,7 +137093,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -137105,7 +137105,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 13,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -137117,13 +137117,13 @@
   {
     "id": "crpg_square_shuriken_h1",
     "baseId": "crpg_square_shuriken",
-    "name": "Squareshape Shuriken",
+    "name": "Throwing Star Diamond +1",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 11913,
+    "price": 680,
     "weight": 0.15,
     "rank": 1,
-    "tier": 13.0053129,
+    "tier": 2.2929666,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -137134,7 +137134,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -137146,7 +137146,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -137158,13 +137158,13 @@
   {
     "id": "crpg_square_shuriken_h2",
     "baseId": "crpg_square_shuriken",
-    "name": "Squareshape Shuriken",
+    "name": "Throwing Star Diamond +2",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 8668,
+    "price": 850,
     "weight": 0.15,
     "rank": 2,
-    "tier": 10.9280758,
+    "tier": 2.683145,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -137175,7 +137175,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -137187,7 +137187,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
@@ -137199,13 +137199,13 @@
   {
     "id": "crpg_square_shuriken_h3",
     "baseId": "crpg_square_shuriken",
-    "name": "Squareshape Shuriken",
+    "name": "Throwing Star Diamond +3",
     "culture": "Aserai",
     "type": "Thrown",
-    "price": 6498,
+    "price": 1060,
     "weight": 0.15,
     "rank": 3,
-    "tier": 9.311499,
+    "tier": 3.11643338,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -137216,7 +137216,7 @@
         "itemUsage": "throwing_knife",
         "accuracy": 95,
         "missileSpeed": 36,
-        "stackAmount": 9,
+        "stackAmount": 10,
         "length": 23,
         "balance": 1.0,
         "handling": 121,
@@ -137228,7 +137228,7 @@
           "AutoReload",
           "AmmoBreaksOnBounceBack"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
         "thrustSpeed": 108,
         "swingDamage": 0,
