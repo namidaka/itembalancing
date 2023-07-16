@@ -28350,7 +28350,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_blade_h2" name="{=}Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade" full_scale="true" length="31.4" weight="0.05" excluded_item_usage_features="swing">
+  <CraftingPiece id="crpg_rondel_blade_h2" name="{=}Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade" full_scale="true" length="31.4" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
       <Thrust damage_type="Pierce" damage_factor="3.9" />
     </BladeData>
