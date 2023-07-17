@@ -61595,6 +61595,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 117
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 28,
+        "balance": 1.0,
+        "handling": 116,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 10,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 117
       }
     ]
   },
@@ -61632,6 +61652,26 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 94,
         "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 117
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 28,
+        "balance": 1.0,
+        "handling": 116,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 10,
         "swingDamageType": "Blunt",
         "swingSpeed": 117
       }
@@ -61673,6 +61713,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 117
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 28,
+        "balance": 1.0,
+        "handling": 116,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 11,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 117
       }
     ]
   },
@@ -61710,6 +61770,26 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 94,
         "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 117
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 28,
+        "balance": 1.0,
+        "handling": 116,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 11,
         "swingDamageType": "Blunt",
         "swingSpeed": 117
       }
@@ -151653,10 +151733,10 @@
     "name": "Militia Throwing Club",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 175,
+    "price": 282,
     "weight": 0.8,
     "rank": 0,
-    "tier": 0.6952956,
+    "tier": 1.13019407,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -151683,6 +151763,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 98,
+        "swingDamage": 9,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
       }
     ]
   },
@@ -151692,10 +151792,10 @@
     "name": "Militia Throwing Club +1",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 195,
+    "price": 292,
     "weight": 0.8,
     "rank": 1,
-    "tier": 0.7832888,
+    "tier": 1.16454482,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -151722,6 +151822,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 98,
+        "swingDamage": 10,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
       }
     ]
   },
@@ -151731,10 +151851,10 @@
     "name": "Militia Throwing Club +2",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 218,
+    "price": 383,
     "weight": 0.8,
     "rank": 2,
-    "tier": 0.880488753,
+    "tier": 1.47423816,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -151761,6 +151881,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 98,
+        "swingDamage": 11,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
       }
     ]
   },
@@ -151770,10 +151910,10 @@
     "name": "Militia Throwing Club +3",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 244,
+    "price": 398,
     "weight": 0.8,
     "rank": 3,
-    "tier": 0.9870814,
+    "tier": 1.52074265,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -151798,6 +151938,26 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 98,
         "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 98,
+        "swingDamage": 11,
         "swingDamageType": "Blunt",
         "swingSpeed": 127
       }
@@ -152231,6 +152391,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 121
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 97,
+        "swingDamage": 9,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
       }
     ]
   },
@@ -152268,6 +152448,26 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 97,
         "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 97,
+        "swingDamage": 10,
         "swingDamageType": "Blunt",
         "swingSpeed": 121
       }
@@ -152309,6 +152509,26 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 121
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 97,
+        "swingDamage": 10,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
       }
     ]
   },
@@ -152346,6 +152566,26 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 97,
         "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 97,
+        "swingDamage": 11,
         "swingDamageType": "Blunt",
         "swingSpeed": 121
       }
