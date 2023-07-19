@@ -1936,7 +1936,7 @@
       <Piece id="crpg_tribesman_throwing_daggers_pommel_h3" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h0" name="{=te48yHa8}Leafblade Throwing Knife" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h0" name="{=Diggles}Leafblade Throwing Daggers" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_leafblade_throwing_knife_blade_h0" Type="Blade" scale_factor="90" />
       <Piece id="crpg_leafblade_throwing_knife_guard_h0" Type="Guard" scale_factor="110" />
@@ -1944,7 +1944,7 @@
       <Piece id="crpg_leafblade_throwing_knife_pommel_h0" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h1" name="{=te48yHa8}Leafblade Throwing Knife +1" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h1" name="{=Diggles}Leafblade Throwing Daggers +1" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_leafblade_throwing_knife_blade_h1" Type="Blade" scale_factor="90" />
       <Piece id="crpg_leafblade_throwing_knife_guard_h1" Type="Guard" scale_factor="110" />
@@ -1952,7 +1952,7 @@
       <Piece id="crpg_leafblade_throwing_knife_pommel_h1" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h2" name="{=te48yHa8}Leafblade Throwing Knife +2" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h2" name="{=Diggles}Leafblade Throwing Daggers +2" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_leafblade_throwing_knife_blade_h2" Type="Blade" scale_factor="90" />
       <Piece id="crpg_leafblade_throwing_knife_guard_h2" Type="Guard" scale_factor="110" />
@@ -1960,7 +1960,7 @@
       <Piece id="crpg_leafblade_throwing_knife_pommel_h2" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h3" name="{=te48yHa8}Leafblade Throwing Knife +3" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
+  <CraftedItem id="crpg_leafblade_throwing_knife_v1_h3" name="{=Diggles}Leafblade Throwing Daggers +3" culture="Culture.battania" crafting_template="crpg_ThrowingKnife" modifier_group="knife_throwing">
     <Pieces>
       <Piece id="crpg_leafblade_throwing_knife_blade_h3" Type="Blade" scale_factor="90" />
       <Piece id="crpg_leafblade_throwing_knife_guard_h3" Type="Guard" scale_factor="110" />
