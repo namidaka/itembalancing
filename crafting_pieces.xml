@@ -27375,7 +27375,7 @@
   <CraftingPiece id="crpg_tri_shuriken_blade_h0" name="Trishaped Shuriken Blade" tier="2" piece_type="Blade" mesh="tri_shuriken" length="20" weight="0.03">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="10" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_1" holster_mesh_length="35.8">
-      <Thrust damage_type="Pierce" damage_factor="5.75" />
+      <Thrust damage_type="Pierce" damage_factor="6.45" />
       <Swing damage_type="Cut" damage_factor="2.45" />
     </BladeData>
     <Flags>
@@ -27388,7 +27388,7 @@
   <CraftingPiece id="crpg_tri_shuriken_blade_h1" name="Trishaped Shuriken Blade" tier="2" piece_type="Blade" mesh="tri_shuriken" length="20" weight="0.03">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="10" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_1" holster_mesh_length="35.8">
-      <Thrust damage_type="Pierce" damage_factor="6.2" />
+      <Thrust damage_type="Pierce" damage_factor="6.75" />
       <Swing damage_type="Cut" damage_factor="2.45" />
     </BladeData>
     <Flags>
@@ -27401,7 +27401,7 @@
   <CraftingPiece id="crpg_tri_shuriken_blade_h2" name="Trishaped Shuriken Blade" tier="2" piece_type="Blade" mesh="tri_shuriken" length="20" weight="0.03">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="10" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_1" holster_mesh_length="35.8">
-      <Thrust damage_type="Pierce" damage_factor="6.45" />
+      <Thrust damage_type="Pierce" damage_factor="7.0" />
       <Swing damage_type="Cut" damage_factor="2.45" />
     </BladeData>
     <Flags>
@@ -27414,7 +27414,7 @@
   <CraftingPiece id="crpg_tri_shuriken_blade_h3" name="Trishaped Shuriken Blade" tier="2" piece_type="Blade" mesh="tri_shuriken" length="20" weight="0.03">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="10" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_1" holster_mesh_length="35.8">
-      <Thrust damage_type="Pierce" damage_factor="6.75" />
+      <Thrust damage_type="Pierce" damage_factor="7.45" />
       <Swing damage_type="Cut" damage_factor="2.45" />
     </BladeData>
     <Flags>
