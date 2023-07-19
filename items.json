@@ -89844,13 +89844,13 @@
   {
     "id": "crpg_lowland_throwing_knife_v1_h0",
     "baseId": "crpg_lowland_throwing_knife_v1",
-    "name": "Lowland Throwing Knife",
+    "name": "Militia Throwing Knife",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 1439,
+    "price": 463,
     "weight": 0.38,
     "rank": 0,
-    "tier": 3.80524254,
+    "tier": 1.71546531,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -89874,7 +89874,7 @@
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 16,
-        "thrustDamageType": "Pierce",
+        "thrustDamageType": "Cut",
         "thrustSpeed": 104,
         "swingDamage": 0,
         "swingDamageType": "Cut",
@@ -89885,13 +89885,13 @@
   {
     "id": "crpg_lowland_throwing_knife_v1_h1",
     "baseId": "crpg_lowland_throwing_knife_v1",
-    "name": "Lowland Throwing Knife +1",
+    "name": "Militia Throwing Knife +1",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 1686,
+    "price": 527,
     "weight": 0.38,
     "rank": 1,
-    "tier": 4.207032,
+    "tier": 1.89659882,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -89915,7 +89915,7 @@
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 17,
-        "thrustDamageType": "Pierce",
+        "thrustDamageType": "Cut",
         "thrustSpeed": 104,
         "swingDamage": 0,
         "swingDamageType": "Cut",
@@ -89926,13 +89926,13 @@
   {
     "id": "crpg_lowland_throwing_knife_v1_h2",
     "baseId": "crpg_lowland_throwing_knife_v1",
-    "name": "Lowland Throwing Knife +2",
+    "name": "Militia Throwing Knife +2",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 1981,
+    "price": 602,
     "weight": 0.38,
     "rank": 2,
-    "tier": 4.651061,
+    "tier": 2.09677386,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -89956,7 +89956,7 @@
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 18,
-        "thrustDamageType": "Pierce",
+        "thrustDamageType": "Cut",
         "thrustSpeed": 104,
         "swingDamage": 0,
         "swingDamageType": "Cut",
@@ -89967,13 +89967,13 @@
   {
     "id": "crpg_lowland_throwing_knife_v1_h3",
     "baseId": "crpg_lowland_throwing_knife_v1",
-    "name": "Lowland Throwing Knife +3",
+    "name": "Militia Throwing Knife +3",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 2332,
+    "price": 690,
     "weight": 0.38,
     "rank": 3,
-    "tier": 5.137325,
+    "tier": 2.31598949,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -89997,7 +89997,7 @@
           "AmmoBreaksOnBounceBack"
         ],
         "thrustDamage": 19,
-        "thrustDamageType": "Pierce",
+        "thrustDamageType": "Cut",
         "thrustSpeed": 104,
         "swingDamage": 0,
         "swingDamageType": "Cut",
