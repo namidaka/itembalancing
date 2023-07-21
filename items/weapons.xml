@@ -4460,6 +4460,12 @@
       <Piece id="crpg_steel_winged_shestopyor_handle_h3" Type="Handle" scale_factor="115" />
     </Pieces>
   </CraftedItem>
+	<CraftedItem id="crpg_arabian_mace_h0" name="{=fz23ajFz}Arabian Mace" crafting_template="crpg_Mace" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_arabian_mace_blade_h0" Type="Blade" scale_factor="130" />
+			<Piece id="crpg_arabian_mace_handle_h0" Type="Handle" scale_factor="110" />
+		</Pieces>
+	</CraftedItem>
   <CraftedItem id="crpg_steel_mace_h0" name="{=mzvtFPPi}Steel Mace" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_steel_mace_blade_h0" Type="Blade" scale_factor="100" />
