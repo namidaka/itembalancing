@@ -20647,12 +20647,12 @@
     "id": "crpg_bone_crusher_h0",
     "baseId": "crpg_bone_crusher",
     "name": "Bone Crusher",
-    "culture": "Neutral",
+    "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 6830,
-    "weight": 1.75,
+    "price": 17240,
+    "weight": 2.05,
     "rank": 0,
-    "tier": 9.864588,
+    "tier": 16.3384418,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -20662,19 +20662,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 71,
-        "balance": 0.71,
-        "handling": 93,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 89,
-        "swingDamage": 22,
+        "thrustSpeed": 87,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 83
       }
     ]
   },
@@ -20682,12 +20682,12 @@
     "id": "crpg_bone_crusher_h1",
     "baseId": "crpg_bone_crusher",
     "name": "Bone Crusher +1",
-    "culture": "Neutral",
+    "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 6837,
-    "weight": 1.75,
+    "price": 12099,
+    "weight": 2.05,
     "rank": 1,
-    "tier": 9.869741,
+    "tier": 13.5028429,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -20697,19 +20697,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 71,
-        "balance": 0.71,
-        "handling": 93,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 89,
-        "swingDamage": 23,
+        "thrustSpeed": 87,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 83
       }
     ]
   },
@@ -20717,12 +20717,12 @@
     "id": "crpg_bone_crusher_h2",
     "baseId": "crpg_bone_crusher",
     "name": "Bone Crusher +2",
-    "culture": "Neutral",
+    "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 6948,
-    "weight": 1.75,
+    "price": 8796,
+    "weight": 2.05,
     "rank": 2,
-    "tier": 9.958807,
+    "tier": 11.34614,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -20732,19 +20732,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 71,
-        "balance": 0.71,
-        "handling": 93,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 89,
-        "swingDamage": 24,
+        "thrustSpeed": 87,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 83
       }
     ]
   },
@@ -20752,12 +20752,12 @@
     "id": "crpg_bone_crusher_h3",
     "baseId": "crpg_bone_crusher",
     "name": "Bone Crusher +3",
-    "culture": "Neutral",
+    "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 7144,
-    "weight": 1.75,
+    "price": 6588,
+    "weight": 2.05,
     "rank": 3,
-    "tier": 10.1138573,
+    "tier": 9.667719,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -20767,19 +20767,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 71,
-        "balance": 0.71,
-        "handling": 93,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 89,
-        "swingDamage": 25,
+        "thrustSpeed": 87,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 83
       }
     ]
   },
@@ -138490,12 +138490,12 @@
     "id": "crpg_steel_mace_h0",
     "baseId": "crpg_steel_mace",
     "name": "Steel Mace",
-    "culture": "Khuzait",
+    "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 5574,
-    "weight": 2.31,
+    "price": 9841,
+    "weight": 1.47,
     "rank": 0,
-    "tier": 8.803408,
+    "tier": 12.0664272,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -138505,19 +138505,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.39,
-        "handling": 78,
+        "length": 69,
+        "balance": 0.79,
+        "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 26,
+        "thrustSpeed": 92,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 81
+        "swingSpeed": 93
       }
     ]
   },
@@ -138525,12 +138525,12 @@
     "id": "crpg_steel_mace_h1",
     "baseId": "crpg_steel_mace",
     "name": "Steel Mace +1",
-    "culture": "Khuzait",
+    "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 5301,
-    "weight": 2.31,
+    "price": 6965,
+    "weight": 1.47,
     "rank": 1,
-    "tier": 8.55744648,
+    "tier": 9.972252,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -138540,19 +138540,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.39,
-        "handling": 78,
+        "length": 69,
+        "balance": 0.79,
+        "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 27,
+        "thrustSpeed": 92,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 81
+        "swingSpeed": 93
       }
     ]
   },
@@ -138560,12 +138560,12 @@
     "id": "crpg_steel_mace_h2",
     "baseId": "crpg_steel_mace",
     "name": "Steel Mace +2",
-    "culture": "Khuzait",
+    "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 5139,
-    "weight": 2.31,
+    "price": 5108,
+    "weight": 1.47,
     "rank": 2,
-    "tier": 8.407801,
+    "tier": 8.379462,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -138575,19 +138575,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.39,
-        "handling": 78,
+        "length": 69,
+        "balance": 0.79,
+        "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 28,
+        "thrustSpeed": 92,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 81
+        "swingSpeed": 93
       }
     ]
   },
@@ -138595,12 +138595,12 @@
     "id": "crpg_steel_mace_h3",
     "baseId": "crpg_steel_mace",
     "name": "Steel Mace +3",
-    "culture": "Khuzait",
+    "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 6409,
-    "weight": 2.27,
+    "price": 3861,
+    "weight": 1.47,
     "rank": 3,
-    "tier": 9.520258,
+    "tier": 7.13989639,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -138610,19 +138610,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.43,
-        "handling": 79,
+        "length": 69,
+        "balance": 0.79,
+        "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 29,
+        "thrustSpeed": 92,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 93
       }
     ]
   },

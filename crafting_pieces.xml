@@ -1646,91 +1646,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_blade_h0" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.25" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_blade_h1" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.25" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_blade_h2" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.25" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.8" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_blade_h3" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.22" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.9" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_handle_h0" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
-    <BuildData piece_offset="19.2" />
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_handle_h1" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
-    <BuildData piece_offset="19.2" />
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_handle_h2" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
-    <BuildData piece_offset="19.2" />
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_handle_h3" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
-    <BuildData piece_offset="19.2" />
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_pommel_h0" name="{=8gW1o7iH}Western Lobed Pommel" tier="4" piece_type="Pommel" mesh="vlandian_pommel_2" culture="Culture.vlandia" length="7.9" weight="0.60">
-    <BuildData next_piece_offset="0.1" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_pommel_h1" name="{=8gW1o7iH}Western Lobed Pommel" tier="4" piece_type="Pommel" mesh="vlandian_pommel_2" culture="Culture.vlandia" length="7.9" weight="0.60">
-    <BuildData next_piece_offset="0.1" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_pommel_h2" name="{=8gW1o7iH}Western Lobed Pommel" tier="4" piece_type="Pommel" mesh="vlandian_pommel_2" culture="Culture.vlandia" length="7.9" weight="0.60">
-    <BuildData next_piece_offset="0.1" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_mace_pommel_h3" name="{=8gW1o7iH}Western Lobed Pommel" tier="4" piece_type="Pommel" mesh="vlandian_pommel_2" culture="Culture.vlandia" length="7.9" weight="0.60">
-    <BuildData next_piece_offset="0.1" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_blade_h0" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_steel_mace_blade_h0" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -1738,78 +1654,142 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_blade_h1" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_steel_mace_blade_h1" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.3" />
+      <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_blade_h2" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_steel_mace_blade_h2" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_blade_h3" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_steel_mace_blade_h3" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.5" />
+      <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_handle_h0" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
-    <BuildData piece_offset="18" />
+  <CraftingPiece id="crpg_steel_mace_handle_h0" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="19" />
     <Materials>
       <Material id="Wood" count="1" />
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_handle_h1" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
-    <BuildData piece_offset="18" />
+  <CraftingPiece id="crpg_steel_mace_handle_h1" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="19" />
     <Materials>
       <Material id="Wood" count="1" />
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_handle_h2" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
-    <BuildData piece_offset="18" />
+  <CraftingPiece id="crpg_steel_mace_handle_h2" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="19" />
     <Materials>
       <Material id="Wood" count="1" />
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_handle_h3" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
-    <BuildData piece_offset="18" />
+  <CraftingPiece id="crpg_steel_mace_handle_h3" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="19" />
     <Materials>
       <Material id="Wood" count="1" />
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_pommel_h0" name="{=T62Cmrrh}Faceted Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_2" culture="Culture.empire" length="6.496" weight="0.250">
-    <Materials>
-      <Material id="Iron2" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_pommel_h1" name="{=T62Cmrrh}Faceted Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_2" culture="Culture.empire" length="6.496" weight="0.250">
-    <Materials>
-      <Material id="Iron2" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_pommel_h2" name="{=T62Cmrrh}Faceted Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_2" culture="Culture.empire" length="6.496" weight="0.250">
-    <Materials>
-      <Material id="Iron2" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_bone_crusher_pommel_h3" name="{=T62Cmrrh}Faceted Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_2" culture="Culture.empire" length="6.496" weight="0.250">
-    <Materials>
-      <Material id="Iron2" count="1" />
-    </Materials>
-  </CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_blade_h0" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.34" full_scale="true" excluded_item_usage_features="thrust">
+		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+			<Swing damage_type="Blunt" damage_factor="2.7" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron4" count="2" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_blade_h1" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.34" full_scale="true" excluded_item_usage_features="thrust">
+		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+			<Swing damage_type="Blunt" damage_factor="2.7" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron4" count="2" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_blade_h2" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.34" full_scale="true" excluded_item_usage_features="thrust">
+		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+			<Swing damage_type="Blunt" damage_factor="2.7" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron4" count="2" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_blade_h3" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.34" full_scale="true" excluded_item_usage_features="thrust">
+		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+			<Swing damage_type="Blunt" damage_factor="2.7" />
+		</BladeData>
+		<Materials>
+			<Material id="Iron4" count="2" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_handle_h0" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
+		<BuildData piece_offset="21.0" />
+		<Materials>
+			<Material id="Wood" count="1" />
+			<Material id="Iron3" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_handle_h1" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
+		<BuildData piece_offset="21.0" />
+		<Materials>
+			<Material id="Wood" count="1" />
+			<Material id="Iron3" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_handle_h2" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
+		<BuildData piece_offset="21.0" />
+		<Materials>
+			<Material id="Wood" count="1" />
+			<Material id="Iron3" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_handle_h3" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="1.30" item_holster_pos_shift="0,0,0.05">
+		<BuildData piece_offset="21.0" />
+		<Materials>
+			<Material id="Wood" count="1" />
+			<Material id="Iron3" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_pommel_h0" name="{=zoQhOBku}Round Spiked Pommel" tier="4" piece_type="Pommel" mesh="khuzait_noble_pommel_3" culture="Culture.khuzait" length="5.6" weight="0.09">
+		<BuildData next_piece_offset="1.0" />
+		<Materials>
+		<Material id="Iron4" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_pommel_h1" name="{=zoQhOBku}Round Spiked Pommel" tier="4" piece_type="Pommel" mesh="khuzait_noble_pommel_3" culture="Culture.khuzait" length="5.6" weight="0.09">
+		<BuildData next_piece_offset="1.0" />
+		<Materials>
+		<Material id="Iron4" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_pommel_h2" name="{=zoQhOBku}Round Spiked Pommel" tier="4" piece_type="Pommel" mesh="khuzait_noble_pommel_3" culture="Culture.khuzait" length="5.6" weight="0.09">
+		<BuildData next_piece_offset="1.0" />
+		<Materials>
+		<Material id="Iron4" count="1" />
+		</Materials>
+	</CraftingPiece>
+	<CraftingPiece id="crpg_bone_crusher_pommel_h3" name="{=zoQhOBku}Round Spiked Pommel" tier="4" piece_type="Pommel" mesh="khuzait_noble_pommel_3" culture="Culture.khuzait" length="5.6" weight="0.09">
+		<BuildData next_piece_offset="1.0" />
+		<Materials>
+		<Material id="Iron4" count="1" />
+		</Materials>
+	</CraftingPiece>
   <CraftingPiece id="crpg_light_royal_mace_blade_h0" name="{=3Q3FFqu0}Light Royal Mace Head" tier="5" piece_type="Blade" mesh="mace_head_13" length="9.2" weight="0.68" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
