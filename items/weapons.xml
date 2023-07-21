@@ -4183,10 +4183,10 @@
 			<Piece id="crpg_bone_crusher_pommel_h0" Type="Pommel" scale_factor="90" />
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="crpg_pernach_h0" name="{=Telford}Pernach" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
+	<CraftedItem id="crpg_long_pernach_h0" name="{=Telford}Long Pernach" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
 		<Pieces>
-			<Piece id="crpg_pernach_blade_h0" Type="Blade" scale_factor="125" />
-			<Piece id="crpg_pernach_handle_h0" Type="Handle" scale_factor="119" />
+			<Piece id="crpg_long_pernach_blade_h0" Type="Blade" scale_factor="125" />
+			<Piece id="crpg_long_pernach_handle_h0" Type="Handle" scale_factor="119" />
 		</Pieces>
 	</CraftedItem>
 	<CraftedItem id="crpg_fine_steel_mace_h0" name="{=b88lWWOo}Fine Steel Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
