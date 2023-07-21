@@ -59255,146 +59255,6 @@
     ]
   },
   {
-    "id": "crpg_heavy_flanged_mace_h0",
-    "baseId": "crpg_heavy_flanged_mace",
-    "name": "Heavy Flanged Mace",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 6847,
-    "weight": 1.99,
-    "rank": 0,
-    "tier": 9.877777,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 74,
-        "balance": 0.61,
-        "handling": 86,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
-        "swingDamage": 24,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 88
-      }
-    ]
-  },
-  {
-    "id": "crpg_heavy_flanged_mace_h1",
-    "baseId": "crpg_heavy_flanged_mace",
-    "name": "Heavy Flanged Mace +1",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 6664,
-    "weight": 1.99,
-    "rank": 1,
-    "tier": 9.729882,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 74,
-        "balance": 0.61,
-        "handling": 86,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
-        "swingDamage": 25,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 88
-      }
-    ]
-  },
-  {
-    "id": "crpg_heavy_flanged_mace_h2",
-    "baseId": "crpg_heavy_flanged_mace",
-    "name": "Heavy Flanged Mace +2",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 6600,
-    "weight": 1.99,
-    "rank": 2,
-    "tier": 9.677736,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 74,
-        "balance": 0.61,
-        "handling": 86,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
-        "swingDamage": 26,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 88
-      }
-    ]
-  },
-  {
-    "id": "crpg_heavy_flanged_mace_h3",
-    "baseId": "crpg_heavy_flanged_mace",
-    "name": "Heavy Flanged Mace +3",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 6626,
-    "weight": 1.99,
-    "rank": 3,
-    "tier": 9.699033,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 74,
-        "balance": 0.61,
-        "handling": 86,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
-        "swingDamage": 27,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 88
-      }
-    ]
-  },
-  {
     "id": "crpg_heavy_goedendag_h0",
     "baseId": "crpg_heavy_goedendag",
     "name": "Heavy Goedendag",
@@ -138113,6 +137973,146 @@
         "swingDamage": 37,
         "swingDamageType": "Cut",
         "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_flanged_mace_h0",
+    "baseId": "crpg_steel_flanged_mace",
+    "name": "Steel Flanged Mace",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 3883,
+    "weight": 1.99,
+    "rank": 0,
+    "tier": 7.16346455,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 86,
+        "balance": 0.43,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_flanged_mace_h1",
+    "baseId": "crpg_steel_flanged_mace",
+    "name": "Steel Flanged Mace +1",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 3783,
+    "weight": 1.99,
+    "rank": 1,
+    "tier": 7.056207,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 86,
+        "balance": 0.43,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 25,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_flanged_mace_h2",
+    "baseId": "crpg_steel_flanged_mace",
+    "name": "Steel Flanged Mace +2",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 3748,
+    "weight": 1.99,
+    "rank": 2,
+    "tier": 7.01839352,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 86,
+        "balance": 0.43,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_flanged_mace_h3",
+    "baseId": "crpg_steel_flanged_mace",
+    "name": "Steel Flanged Mace +3",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 3762,
+    "weight": 1.99,
+    "rank": 3,
+    "tier": 7.033838,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 86,
+        "balance": 0.43,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 27,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
       }
     ]
   },
