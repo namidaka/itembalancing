@@ -4216,6 +4216,12 @@
       <Piece id="crpg_heavy_flanged_mace_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h0" name="{=Telford}Long Cavalry Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h0" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h0" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
   <CraftedItem id="crpg_cataphract_mace_h0" name="{=Kv4zAMIh}Cataphract Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_cataphract_mace_blade_h0" Type="Blade" scale_factor="140" />
@@ -4238,6 +4244,30 @@
     <Pieces>
       <Piece id="crpg_cataphract_mace_blade_h3" Type="Blade" scale_factor="140" />
       <Piece id="crpg_cataphract_mace_handle_h3" Type="Handle" scale_factor="130" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_heavy_horsemans_mace_h0" name="{=FJDCc3Y2}Heavy Horsemans Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_heavy_horsemans_mace_blade_h0" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_heavy_horsemans_mace_handle_h0" Type="Handle" scale_factor="165" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_heavy_horsemans_mace_h1" name="{=FJDCc3Y2}Heavy Horsemans Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_heavy_horsemans_mace_blade_h1" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_heavy_horsemans_mace_handle_h1" Type="Handle" scale_factor="165" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_heavy_horsemans_mace_h2" name="{=FJDCc3Y2}Heavy Horsemans Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_heavy_horsemans_mace_blade_h2" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_heavy_horsemans_mace_handle_h2" Type="Handle" scale_factor="165" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_heavy_horsemans_mace_h3" name="{=FJDCc3Y2}Heavy Horsemans Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_heavy_horsemans_mace_blade_h3" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_heavy_horsemans_mace_handle_h3" Type="Handle" scale_factor="165" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_light_royal_mace_h0" name="{=UMX05EQF}Light Royal Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
@@ -4670,30 +4700,6 @@
       <Piece id="crpg_light_morningstar_blade_h3" Type="Blade" scale_factor="120" />
       <Piece id="crpg_light_morningstar_handle_h3" Type="Handle" scale_factor="107" />
       <Piece id="crpg_light_morningstar_pommel_h3" Type="Pommel" scale_factor="103" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_heavy_horsemans_mace_h0" name="{=FJDCc3Y2}Heavy Horsemans Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_heavy_horsemans_mace_blade_h0" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_heavy_horsemans_mace_handle_h0" Type="Handle" scale_factor="165" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_heavy_horsemans_mace_h1" name="{=FJDCc3Y2}Heavy Horsemans Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_heavy_horsemans_mace_blade_h1" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_heavy_horsemans_mace_handle_h1" Type="Handle" scale_factor="165" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_heavy_horsemans_mace_h2" name="{=FJDCc3Y2}Heavy Horsemans Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_heavy_horsemans_mace_blade_h2" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_heavy_horsemans_mace_handle_h2" Type="Handle" scale_factor="165" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_heavy_horsemans_mace_h3" name="{=FJDCc3Y2}Heavy Horsemans Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_heavy_horsemans_mace_blade_h3" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_heavy_horsemans_mace_handle_h3" Type="Handle" scale_factor="165" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_highland_spiked_club_h0" name="{=0SpLcthg}Highland Spiked Club" crafting_template="crpg_Mace" culture="Culture.battania" modifier_group="mace">
