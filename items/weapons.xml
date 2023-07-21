@@ -4186,6 +4186,30 @@
 			<Piece id="crpg_arabian_mace_handle_h0" Type="Handle" scale_factor="110" />
 		</Pieces>
 	</CraftedItem>
+  <CraftedItem id="crpg_eastern_heavy_mace_h0" name="{=fcgDtZy7}Eastern Heavy Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_eastern_heavy_mace_blade_h0" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_eastern_heavy_mace_handle_h0" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_eastern_heavy_mace_h1" name="{=fcgDtZy7}Eastern Heavy Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_eastern_heavy_mace_blade_h1" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_eastern_heavy_mace_handle_h1" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_eastern_heavy_mace_h2" name="{=fcgDtZy7}Eastern Heavy Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_eastern_heavy_mace_blade_h2" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_eastern_heavy_mace_handle_h2" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_eastern_heavy_mace_h3" name="{=fcgDtZy7}Eastern Heavy Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_eastern_heavy_mace_blade_h3" Type="Blade" scale_factor="160" />
+      <Piece id="crpg_eastern_heavy_mace_handle_h3" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
 	<CraftedItem id="crpg_steel_flanged_mace_h0" name="{=fz23ajFz}Steel Flanged Mace" crafting_template="crpg_Mace" modifier_group="mace">
 		<Pieces>
 			<Piece id="crpg_steel_flanged_mace_blade_h0" Type="Blade" />
