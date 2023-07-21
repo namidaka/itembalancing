@@ -6373,7 +6373,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="DropOnWeaponChange" type="ItemFlags" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h1" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
@@ -6385,7 +6384,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="DropOnWeaponChange" type="ItemFlags" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h2" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
@@ -6397,7 +6395,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="DropOnWeaponChange" type="ItemFlags" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h3" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
@@ -6409,7 +6406,6 @@
     </Materials>
     <Flags>
       <Flag name="CanDismount" />
-      <Flag name="DropOnWeaponChange" type="ItemFlags" />
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_triangular_throwing_spear_blade_h0" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_15" length="22.862" weight="0.2136" excluded_item_usage_features="swing">
