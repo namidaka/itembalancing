@@ -4122,7 +4122,7 @@
       <Piece id="crpg_cataphract_mace_handle_h3" Type="Handle" scale_factor="130" />
     </Pieces>
   </CraftedItem>
-	<CraftedItem id="crpg_heavy_horsemans_mace_h0" name="{=FJDCc3Y2}Heavy Horsemans Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+	<CraftedItem id="crpg_heavy_horsemans_mace_h0" name="{=FJDCc3Y2}Heavy Horseman's Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
 		<Pieces>
 			<Piece id="crpg_heavy_horsemans_mace_blade_h0" Type="Blade" scale_factor="125" />
 			<Piece id="crpg_heavy_horsemans_mace_handle_h0" Type="Handle" scale_factor="170" />
@@ -4174,7 +4174,7 @@
 			<Piece id="crpg_knights_fall_pommel_h0" Type="Pommel" scale_factor="85" />
 		</Pieces>
 	</CraftedItem>
-	<CraftedItem id="crpg_steel_shestopyor_h0" name="{=8pnCvnFR}Steel Winged Shestopyor" crafting_template="crpg_Mace" modifier_group="mace">
+	<CraftedItem id="crpg_steel_winged_shestopyor_h0" name="{=8pnCvnFR}Steel Winged Shestopyor" crafting_template="crpg_Mace" modifier_group="mace">
 		<Pieces>
 			<Piece id="crpg_steel_winged_shestopyor_blade_h0" Type="Blade" scale_factor="145" />
 			<Piece id="crpg_steel_winged_shestopyor_handle_h0" Type="Handle" scale_factor="115" />
