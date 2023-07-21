@@ -20381,9 +20381,6 @@
       <Thrust damage_type="Pierce" damage_factor="0.91" />
       <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="4" />
     </Materials>
@@ -20393,9 +20390,6 @@
       <Thrust damage_type="Pierce" damage_factor="0.91" />
       <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="4" />
     </Materials>
@@ -20405,9 +20399,6 @@
       <Thrust damage_type="Pierce" damage_factor="0.91" />
       <Swing damage_type="Cut" damage_factor="3.9" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="4" />
     </Materials>
@@ -20417,9 +20408,6 @@
       <Thrust damage_type="Pierce" damage_factor="1.8" />
       <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="4" />
     </Materials>
@@ -21536,9 +21524,6 @@
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="4.5" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron3" count="4" />
     </Materials>
@@ -21547,9 +21532,6 @@
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="4.5" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron3" count="4" />
     </Materials>
@@ -21558,9 +21540,6 @@
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="4.7" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron3" count="4" />
     </Materials>
@@ -21569,9 +21548,6 @@
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="4.9" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron3" count="4" />
     </Materials>
@@ -21824,9 +21800,6 @@
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
@@ -21835,9 +21808,6 @@
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
@@ -21846,9 +21816,6 @@
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
@@ -21857,9 +21824,6 @@
     <BladeData stack_amount="0" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
-    <Flags>
-      <Flag name="BonusAgainstShield" />
-    </Flags>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
