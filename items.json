@@ -88337,6 +88337,41 @@
     "weapons": []
   },
   {
+    "id": "crpg_long_pernach_h0",
+    "baseId": "crpg_long_pernach",
+    "name": "Long Pernach",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 57934,
+    "weight": 1.68,
+    "rank": 0,
+    "tier": 30.9045811,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 92,
+        "balance": 0.67,
+        "handling": 93,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 90
+      }
+    ]
+  },
+  {
     "id": "crpg_long_steel_mace_h0",
     "baseId": "crpg_long_steel_mace",
     "name": "Long Steel Mace",
