@@ -452,30 +452,6 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_handle_h0" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_handle_h1" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_handle_h2" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_handle_h3" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_light_morningstar_handle_h0" name="{=bfE00BnK}Iron Pommeled Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_7" length="62.1" weight="0.90" item_holster_pos_shift="0,0,-0.05" CraftingCost="80">
     <BuildData piece_offset="17.5" />
     <Materials>
@@ -1745,6 +1721,82 @@
 			<Material id="Iron3" count="1" />
 		</Materials>
 	</CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_blade_h0" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_blade_h1" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_blade_h2" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_blade_h3" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.7" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_handle_h0" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_handle_h1" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_handle_h2" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_handle_h3" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="0.50" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_pommel_h0" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_pommel_h1" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_pommel_h2" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_western_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_steel_mace_blade_h0" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.92" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
@@ -2031,38 +2083,6 @@
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_blade_h0" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_blade_h1" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.5" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_blade_h2" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_blade_h3" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="0.26" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_spiked_mace_blade_h0" name="{=lZoqaYmx}Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_22" distance_to_next_piece="7.6" distance_to_previous_piece="4.1" weight="0.475" full_scale="true">
@@ -2481,26 +2501,6 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_light_shishpar_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_pommel_h0" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_pommel_h1" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_pommel_h2" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_western_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0.55">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
