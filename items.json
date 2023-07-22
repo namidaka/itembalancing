@@ -93322,146 +93322,6 @@
     ]
   },
   {
-    "id": "crpg_militia_mace_h0",
-    "baseId": "crpg_militia_mace",
-    "name": "Militia Mace",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 717,
-    "weight": 2.48,
-    "rank": 0,
-    "tier": 2.46830845,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 52,
-        "balance": 0.33,
-        "handling": 89,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 24,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_militia_mace_h1",
-    "baseId": "crpg_militia_mace",
-    "name": "Militia Mace +1",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 794,
-    "weight": 2.35,
-    "rank": 1,
-    "tier": 2.65025067,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 52,
-        "balance": 0.4,
-        "handling": 91,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
-        "swingDamage": 24,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_militia_mace_h2",
-    "baseId": "crpg_militia_mace",
-    "name": "Militia Mace +2",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 929,
-    "weight": 2.28,
-    "rank": 2,
-    "tier": 2.95303679,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 52,
-        "balance": 0.43,
-        "handling": 91,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 83
-      }
-    ]
-  },
-  {
-    "id": "crpg_militia_mace_h3",
-    "baseId": "crpg_militia_mace",
-    "name": "Militia Mace +3",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 1202,
-    "weight": 2.28,
-    "rank": 3,
-    "tier": 3.50321651,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 52,
-        "balance": 0.43,
-        "handling": 91,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 27,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 83
-      }
-    ]
-  },
-  {
     "id": "crpg_militia_pernach_h0",
     "baseId": "crpg_militia_pernach",
     "name": "Militia Pernach",
@@ -123930,6 +123790,146 @@
       "familyType": 0
     },
     "weapons": []
+  },
+  {
+    "id": "crpg_rus_mace_h0",
+    "baseId": "crpg_rus_mace",
+    "name": "Rus Mace",
+    "culture": "Sturgia",
+    "type": "OneHandedWeapon",
+    "price": 556,
+    "weight": 2.46,
+    "rank": 0,
+    "tier": 2.050921,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 54,
+        "balance": 0.3,
+        "handling": 88,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 83,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 78
+      }
+    ]
+  },
+  {
+    "id": "crpg_rus_mace_h1",
+    "baseId": "crpg_rus_mace",
+    "name": "Rus Mace +1",
+    "culture": "Sturgia",
+    "type": "OneHandedWeapon",
+    "price": 696,
+    "weight": 2.33,
+    "rank": 1,
+    "tier": 2.41665053,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 54,
+        "balance": 0.37,
+        "handling": 89,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 84,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
+    "id": "crpg_rus_mace_h2",
+    "baseId": "crpg_rus_mace",
+    "name": "Rus Mace +2",
+    "culture": "Sturgia",
+    "type": "OneHandedWeapon",
+    "price": 840,
+    "weight": 2.26,
+    "rank": 2,
+    "tier": 2.75720549,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 54,
+        "balance": 0.4,
+        "handling": 90,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 25,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_rus_mace_h3",
+    "baseId": "crpg_rus_mace",
+    "name": "Rus Mace +3",
+    "culture": "Sturgia",
+    "type": "OneHandedWeapon",
+    "price": 1082,
+    "weight": 2.26,
+    "rank": 3,
+    "tier": 3.27089882,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 54,
+        "balance": 0.4,
+        "handling": 90,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 27,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
   },
   {
     "id": "crpg_rus_open_helm_v2_h0",

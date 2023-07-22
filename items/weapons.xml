@@ -4827,6 +4827,34 @@
       <Piece id="crpg_knobbed_ball_club_handle_h3" Type="Handle" scale_factor="104" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_rus_mace_h0" name="{=wxL5TdDv}Rus Mace" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_rus_mace_blade_h0" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_rus_mace_handle_h0" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_rus_mace_pommel_h0" Type="Pommel" scale_factor="92" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_rus_mace_h1" name="{=wxL5TdDv}Rus Mace +1" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_rus_mace_blade_h1" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_rus_mace_handle_h1" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_rus_mace_pommel_h1" Type="Pommel" scale_factor="92" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_rus_mace_h2" name="{=wxL5TdDv}Rus Mace +2" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_rus_mace_blade_h2" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_rus_mace_handle_h2" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_rus_mace_pommel_h2" Type="Pommel" scale_factor="92" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_rus_mace_h3" name="{=wxL5TdDv}Rus Mace +3" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_rus_mace_blade_h3" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_rus_mace_handle_h3" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_rus_mace_pommel_h3" Type="Pommel" scale_factor="92" />
+    </Pieces>
+  </CraftedItem>
   <CraftedItem id="crpg_long_steel_mace_h0" name="Long Steel Mace" crafting_template="crpg_TwoHandedMace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_long_steel_mace_blade_h0" Type="Blade" scale_factor="150" />
@@ -4961,30 +4989,6 @@
     <Pieces>
       <Piece id="crpg_highland_spiked_club_blade_h3" Type="Blade" scale_factor="115" />
       <Piece id="crpg_highland_spiked_club_handle_h3" Type="Handle" scale_factor="145" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_militia_mace_h0" name="{=wxL5TdDv}Militia Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_militia_mace_blade_h0" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_militia_mace_handle_h0" Type="Handle" scale_factor="100" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_militia_mace_h1" name="{=wxL5TdDv}Militia Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_militia_mace_blade_h1" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_militia_mace_handle_h1" Type="Handle" scale_factor="100" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_militia_mace_h2" name="{=wxL5TdDv}Militia Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_militia_mace_blade_h2" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_militia_mace_handle_h2" Type="Handle" scale_factor="100" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_militia_mace_h3" name="{=wxL5TdDv}Militia Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_militia_mace_blade_h3" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_militia_mace_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_spiked_club_h0" name="{=HaK3y9yi}Spiked Club" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
