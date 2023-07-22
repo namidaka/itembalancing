@@ -2124,52 +2124,32 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h0" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h0" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="19" />
     <Materials>
-      <Material id="Iron4" count="3" />
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h1" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h1" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="19" />
     <Materials>
-      <Material id="Iron4" count="3" />
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h2" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h2" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="19" />
     <Materials>
-      <Material id="Iron4" count="3" />
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h3" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h3" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="19" />
     <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h0" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h1" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h2" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h3" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_warhammer_blade_h0" name="{=}Warhammer Head" tier="4" piece_type="Blade" mesh="warhammer_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="16.1" weight="0.49" full_scale="true">

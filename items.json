@@ -68021,10 +68021,10 @@
     "name": "Imperial Light Mace",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 2439,
-    "weight": 1.9,
+    "price": 3823,
+    "weight": 1.61,
     "rank": 0,
-    "tier": 5.44923973,
+    "tier": 7.09906673,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68035,18 +68035,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.71,
-        "handling": 96,
+        "balance": 0.82,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 90,
         "swingDamage": 19,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 94
       }
     ]
   },
@@ -68056,10 +68056,10 @@
     "name": "Imperial Light Mace +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 2564,
-    "weight": 1.9,
+    "price": 4026,
+    "weight": 1.61,
     "rank": 1,
-    "tier": 5.61486149,
+    "tier": 7.31483555,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68070,18 +68070,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.71,
-        "handling": 96,
+        "balance": 0.82,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 90,
         "swingDamage": 20,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 94
       }
     ]
   },
@@ -68091,10 +68091,10 @@
     "name": "Imperial Light Mace +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 2723,
-    "weight": 1.9,
+    "price": 4285,
+    "weight": 1.61,
     "rank": 2,
-    "tier": 5.81936932,
+    "tier": 7.581262,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68105,18 +68105,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.71,
-        "handling": 96,
+        "balance": 0.82,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 90,
         "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 91
+        "swingSpeed": 94
       }
     ]
   },
@@ -68126,10 +68126,10 @@
     "name": "Imperial Light Mace +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3556,
-    "weight": 1.83,
+    "price": 5830,
+    "weight": 1.56,
     "rank": 3,
-    "tier": 6.80763149,
+    "tier": 9.028814,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68140,7 +68140,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.76,
+        "balance": 0.86,
         "handling": 97,
         "bodyArmor": 0,
         "flags": [
@@ -68148,10 +68148,10 @@
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 88,
+        "thrustSpeed": 90,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 92
+        "swingSpeed": 95
       }
     ]
   },
@@ -85761,10 +85761,10 @@
     "name": "Light Shishpar Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 1362,
-    "weight": 1.99,
+    "price": 1712,
+    "weight": 1.93,
     "rank": 0,
-    "tier": 3.79880071,
+    "tier": 4.38814259,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85774,9 +85774,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 57,
-        "balance": 0.84,
-        "handling": 101,
+        "length": 55,
+        "balance": 0.9,
+        "handling": 102,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -85786,7 +85786,7 @@
         "thrustSpeed": 87,
         "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 95
+        "swingSpeed": 97
       }
     ]
   },
@@ -85796,10 +85796,10 @@
     "name": "Light Shishpar Mace +1",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 1389,
-    "weight": 1.91,
+    "price": 1552,
+    "weight": 1.86,
     "rank": 1,
-    "tier": 3.84629321,
+    "tier": 4.12629175,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85809,9 +85809,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 57,
-        "balance": 0.9,
-        "handling": 102,
+        "length": 55,
+        "balance": 0.96,
+        "handling": 104,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -85821,7 +85821,7 @@
         "thrustSpeed": 88,
         "swingDamage": 17,
         "swingDamageType": "Blunt",
-        "swingSpeed": 97
+        "swingSpeed": 98
       }
     ]
   },
@@ -85831,10 +85831,10 @@
     "name": "Light Shishpar Mace +2",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 1555,
-    "weight": 1.91,
+    "price": 1740,
+    "weight": 1.86,
     "rank": 2,
-    "tier": 4.13244152,
+    "tier": 4.43327,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85844,9 +85844,9 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 57,
-        "balance": 0.9,
-        "handling": 102,
+        "length": 55,
+        "balance": 0.96,
+        "handling": 104,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -85856,7 +85856,7 @@
         "thrustSpeed": 88,
         "swingDamage": 18,
         "swingDamageType": "Blunt",
-        "swingSpeed": 97
+        "swingSpeed": 98
       }
     ]
   },
@@ -85866,10 +85866,10 @@
     "name": "Light Shishpar Mace +3",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 2087,
-    "weight": 1.87,
+    "price": 2265,
+    "weight": 1.81,
     "rank": 3,
-    "tier": 4.958194,
+    "tier": 5.211574,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85879,19 +85879,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 57,
-        "balance": 0.95,
-        "handling": 103,
+        "length": 55,
+        "balance": 0.99,
+        "handling": 104,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 88,
+        "thrustSpeed": 89,
         "swingDamage": 19,
         "swingDamageType": "Blunt",
-        "swingSpeed": 98
+        "swingSpeed": 99
       }
     ]
   },
