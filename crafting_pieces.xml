@@ -1812,33 +1812,33 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.9" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.0" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.1" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.66" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.75" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.7" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.65" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="3" />
