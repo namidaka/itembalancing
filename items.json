@@ -129956,6 +129956,41 @@
     ]
   },
   {
+    "id": "crpg_short_western_mace_h0",
+    "baseId": "crpg_short_western_mace",
+    "name": "Short Western Mace",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 1005942,
+    "weight": 0.75,
+    "rank": 0,
+    "tier": 132.443726,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 113,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 100,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 116
+      }
+    ]
+  },
+  {
     "id": "crpg_shoulder_cloth1_v1_h0",
     "baseId": "crpg_shoulder_cloth1_v1",
     "name": "Hood, Split",

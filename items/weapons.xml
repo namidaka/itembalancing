@@ -4773,6 +4773,12 @@
       <Piece id="crpg_star_pointed_mace_pommel_h3" Type="Pommel" />
     </Pieces>
   </CraftedItem>
+	<CraftedItem id="crpg_short_western_mace_h0" name="{=dSTxsYsh}Short Western Mace" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_short_western_mace_blade_h0" Type="Blade" scale_factor="95" />
+			<Piece id="crpg_short_western_mace_handle_h0" Type="Handle" scale_factor="105" />
+		</Pieces>
+	</CraftedItem>
   <CraftedItem id="crpg_long_steel_mace_h0" name="Long Steel Mace" crafting_template="crpg_TwoHandedMace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_long_steel_mace_blade_h0" Type="Blade" scale_factor="150" />
