@@ -881,15 +881,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spiralled_mace_blade_h0" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.2" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_spiralled_mace_blade_h1" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_spiralled_mace_blade_h0" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
@@ -897,17 +889,25 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spiralled_mace_blade_h2" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_spiralled_mace_blade_h1" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_spiralled_mace_blade_h3" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_spiralled_mace_blade_h2" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.5" />
+      <Swing damage_type="Blunt" damage_factor="2.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_spiralled_mace_blade_h3" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
