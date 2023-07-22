@@ -79098,6 +79098,41 @@
     ]
   },
   {
+    "id": "crpg_knobbed_mace_h0",
+    "baseId": "crpg_knobbed_mace",
+    "name": "Knobbed Mace",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 92772,
+    "weight": 1.14,
+    "rank": 0,
+    "tier": 39.4140968,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 62,
+        "balance": 1.0,
+        "handling": 105,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 94,
+        "swingDamage": 21,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
     "id": "crpg_laced_cloth_coif_v2_h0",
     "baseId": "crpg_laced_cloth_coif_v2",
     "name": "Laced Cloth Coif",
