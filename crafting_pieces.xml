@@ -1,29 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CraftingPieces>
-  <CraftingPiece id="crpg_light_mace_handle_h0" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_handle_h1" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_handle_h2" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_handle_h3" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
-    <Materials>
-      <Material id="Wood" count="1" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_long_steel_mace_handle_h0" name="{=JCYmlrKF}Steel Reinforced Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_11" length="78" weight="0.1" item_holster_pos_shift="0,0,0.05">
     <BuildData piece_offset="20" />
     <Materials>
@@ -2457,7 +2433,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_blade_h0" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.7" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h0" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.7" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="1.5" />
     </BladeData>
@@ -2465,7 +2441,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_blade_h1" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h1" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="1.5" />
     </BladeData>
@@ -2473,7 +2449,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_blade_h2" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h2" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="1.6" />
     </BladeData>
@@ -2481,12 +2457,60 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_blade_h3" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h3" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.6" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="1.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_handle_h0" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="23" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_handle_h1" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="23" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_handle_h2" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="23" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_handle_h3" name="{=qZYeu55z}Long Iron Bottomed Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_12" length="78" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="23" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_pommel_h0" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_pommel_h1" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_pommel_h2" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_spiked_club_blade_h0" name="{=L3vLdPJT}Improved Spiked Club Head" tier="2" piece_type="Blade" mesh="mace_head_23" distance_to_next_piece="15.4" distance_to_previous_piece="8.2" weight="0.75" full_scale="true">
@@ -2901,26 +2925,6 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_light_shishpar_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_pommel_h0" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_pommel_h1" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_pommel_h2" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
