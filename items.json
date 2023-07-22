@@ -141093,146 +141093,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_steppe_light_mace_h0",
-    "baseId": "crpg_steppe_light_mace",
-    "name": "Steppe Light Mace",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 1674,
-    "weight": 2.15,
-    "rank": 0,
-    "tier": 4.328363,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 72,
-        "balance": 0.31,
-        "handling": 86,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_steppe_light_mace_h1",
-    "baseId": "crpg_steppe_light_mace",
-    "name": "Steppe Light Mace +1",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 1822,
-    "weight": 2.05,
-    "rank": 1,
-    "tier": 4.561429,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 72,
-        "balance": 0.38,
-        "handling": 87,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 25,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 81
-      }
-    ]
-  },
-  {
-    "id": "crpg_steppe_light_mace_h2",
-    "baseId": "crpg_steppe_light_mace",
-    "name": "Steppe Light Mace +2",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 1806,
-    "weight": 2.05,
-    "rank": 2,
-    "tier": 4.53660965,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 72,
-        "balance": 0.38,
-        "handling": 87,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 26,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 81
-      }
-    ]
-  },
-  {
-    "id": "crpg_steppe_light_mace_h3",
-    "baseId": "crpg_steppe_light_mace",
-    "name": "Steppe Light Mace +3",
-    "culture": "Khuzait",
-    "type": "OneHandedWeapon",
-    "price": 2341,
-    "weight": 2.05,
-    "rank": 3,
-    "tier": 5.315473,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 72,
-        "balance": 0.38,
-        "handling": 87,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 8,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 87,
-        "swingDamage": 28,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 81
-      }
-    ]
-  },
-  {
     "id": "crpg_steppe_robe_v2_h0",
     "baseId": "crpg_steppe_robe_v2",
     "name": "Steppe Robe",
@@ -141331,6 +141191,146 @@
       "familyType": 0
     },
     "weapons": []
+  },
+  {
+    "id": "crpg_steppe_spiked_mace_h0",
+    "baseId": "crpg_steppe_spiked_mace",
+    "name": "Steppe Spiked Mace",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 1002,
+    "weight": 2.19,
+    "rank": 0,
+    "tier": 3.10610867,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 76,
+        "balance": 0.21,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 8,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 25,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 76
+      }
+    ]
+  },
+  {
+    "id": "crpg_steppe_spiked_mace_h1",
+    "baseId": "crpg_steppe_spiked_mace",
+    "name": "Steppe Spiked Mace +1",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 1140,
+    "weight": 2.09,
+    "rank": 1,
+    "tier": 3.38511848,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 76,
+        "balance": 0.28,
+        "handling": 84,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 8,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 25,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 78
+      }
+    ]
+  },
+  {
+    "id": "crpg_steppe_spiked_mace_h2",
+    "baseId": "crpg_steppe_spiked_mace",
+    "name": "Steppe Spiked Mace +2",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 1131,
+    "weight": 2.09,
+    "rank": 2,
+    "tier": 3.36666179,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 76,
+        "balance": 0.28,
+        "handling": 84,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 8,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 78
+      }
+    ]
+  },
+  {
+    "id": "crpg_steppe_spiked_mace_h3",
+    "baseId": "crpg_steppe_spiked_mace",
+    "name": "Steppe Spiked Mace +3",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 1445,
+    "weight": 2.09,
+    "rank": 3,
+    "tier": 3.94458342,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 76,
+        "balance": 0.28,
+        "handling": 84,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 8,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 28,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 78
+      }
+    ]
   },
   {
     "id": "crpg_steppe_war_bow_h0",
