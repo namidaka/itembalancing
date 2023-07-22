@@ -25037,6 +25037,41 @@
     "weapons": []
   },
   {
+    "id": "crpg_byzantine_mace_h0",
+    "baseId": "crpg_byzantine_mace",
+    "name": "Byzantine Mace",
+    "culture": "Empire",
+    "type": "OneHandedWeapon",
+    "price": 471,
+    "weight": 2.18,
+    "rank": 0,
+    "tier": 1.80545688,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 67,
+        "balance": 0.38,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 20,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
     "id": "crpg_calradic_mace_h0",
     "baseId": "crpg_calradic_mace",
     "name": "Calradic Mace",
@@ -85787,6 +85822,41 @@
         "swingDamage": 27,
         "swingDamageType": "Blunt",
         "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_light_shestopyor_h0",
+    "baseId": "crpg_light_shestopyor",
+    "name": "Light Shestopyor",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 761,
+    "weight": 2.34,
+    "rank": 0,
+    "tier": 2.57287073,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 66,
+        "balance": 0.52,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 84,
+        "swingDamage": 19,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
       }
     ]
   },

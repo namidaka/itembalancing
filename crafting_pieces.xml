@@ -2039,6 +2039,41 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_byzantine_mace_handle_h0" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="19" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_byzantine_mace_blade_h0" name="{=6xkt7bxz}Heavy Royal Mace Head" tier="5" piece_type="Blade" mesh="mace_head_18" length="8.4" weight="1.082" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.0" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shestopyor_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.9" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shestopyor_handle_h0" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="16" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shestopyor_pommel_h0" name="{=W5tvNbjY}Eastern Ornamented Pommel" tier="5" piece_type="Pommel" mesh="khuzait_noble_pommel_1" culture="Culture.khuzait" length="3.6" weight="0.26">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_militia_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
