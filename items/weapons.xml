@@ -192,30 +192,6 @@
       <Piece id="crpg_heavy_goedendag_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_medium_goedendag_h0" name="{=}Medium Goedendag" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_medium_goedendag_blade_h0" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_medium_goedendag_handle_h0" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_medium_goedendag_h1" name="{=}Medium Goedendag +1" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_medium_goedendag_blade_h1" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_medium_goedendag_handle_h1" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_medium_goedendag_h2" name="{=}Medium Goedendag +2" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_medium_goedendag_blade_h2" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_medium_goedendag_handle_h2" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_medium_goedendag_h3" name="{=}Medium Goedendag +3" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_medium_goedendag_blade_h3" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_medium_goedendag_handle_h3" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
   <CraftedItem id="crpg_light_goedendag_h0" name="{=}Light Goedendag" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_light_goedendag_blade_h0" Type="Blade" scale_factor="100" />
@@ -4650,6 +4626,58 @@
       <Piece id="crpg_judgement_handle_h3" Type="Handle" scale_factor="123" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_medium_goedendag_h0" name="{=}Medium Goedendag" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_medium_goedendag_blade_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_medium_goedendag_handle_h0" Type="Handle" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_medium_goedendag_h1" name="{=}Medium Goedendag +1" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_medium_goedendag_blade_h1" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_medium_goedendag_handle_h1" Type="Handle" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_medium_goedendag_h2" name="{=}Medium Goedendag +2" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_medium_goedendag_blade_h2" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_medium_goedendag_handle_h2" Type="Handle" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_medium_goedendag_h3" name="{=}Medium Goedendag +3" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_medium_goedendag_blade_h3" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_medium_goedendag_handle_h3" Type="Handle" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_imperial_light_mace_h0" name="{=4cMV1pY3}Imperial Light Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_imperial_light_mace_blade_h0" Type="Blade" />
+      <Piece id="crpg_imperial_light_mace_handle_h0" Type="Handle" />
+      <Piece id="crpg_imperial_light_mace_pommel_h0" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_imperial_light_mace_h1" name="{=4cMV1pY3}Imperial Light Mace +1" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_imperial_light_mace_blade_h1" Type="Blade" />
+      <Piece id="crpg_imperial_light_mace_handle_h1" Type="Handle" />
+      <Piece id="crpg_imperial_light_mace_pommel_h1" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_imperial_light_mace_h2" name="{=4cMV1pY3}Imperial Light Mace +2" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_imperial_light_mace_blade_h2" Type="Blade" />
+      <Piece id="crpg_imperial_light_mace_handle_h2" Type="Handle" />
+      <Piece id="crpg_imperial_light_mace_pommel_h2" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_imperial_light_mace_h3" name="{=4cMV1pY3}Imperial Light Mace +3" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_imperial_light_mace_blade_h3" Type="Blade" />
+      <Piece id="crpg_imperial_light_mace_handle_h3" Type="Handle" />
+      <Piece id="crpg_imperial_light_mace_pommel_h3" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
   <CraftedItem id="crpg_steel_mace_h0" name="{=mzvtFPPi}Steel Mace" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_steel_mace_blade_h0" Type="Blade" scale_factor="100" />
@@ -4728,34 +4756,6 @@
       <Piece id="crpg_light_shishpar_mace_blade_h3" Type="Blade" scale_factor="107" />
       <Piece id="crpg_light_shishpar_mace_handle_h3" Type="Handle" scale_factor="125" />
       <Piece id="crpg_light_shishpar_mace_pommel_h3" Type="Pommel" scale_factor="90" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_imperial_light_mace_h0" name="{=4cMV1pY3}Imperial Light Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_imperial_light_mace_blade_h0" Type="Blade" />
-      <Piece id="crpg_imperial_light_mace_handle_h0" Type="Handle" />
-      <Piece id="crpg_imperial_light_mace_pommel_h0" Type="Pommel" scale_factor="90" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_imperial_light_mace_h1" name="{=4cMV1pY3}Imperial Light Mace +1" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_imperial_light_mace_blade_h1" Type="Blade" />
-      <Piece id="crpg_imperial_light_mace_handle_h1" Type="Handle" />
-      <Piece id="crpg_imperial_light_mace_pommel_h1" Type="Pommel" scale_factor="90" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_imperial_light_mace_h2" name="{=4cMV1pY3}Imperial Light Mace +2" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_imperial_light_mace_blade_h2" Type="Blade" />
-      <Piece id="crpg_imperial_light_mace_handle_h2" Type="Handle" />
-      <Piece id="crpg_imperial_light_mace_pommel_h2" Type="Pommel" scale_factor="90" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_imperial_light_mace_h3" name="{=4cMV1pY3}Imperial Light Mace +3" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_imperial_light_mace_blade_h3" Type="Blade" />
-      <Piece id="crpg_imperial_light_mace_handle_h3" Type="Handle" />
-      <Piece id="crpg_imperial_light_mace_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_heavy_morningstar_h0" name="{=6EWm09LY}Heavy Morningstar" crafting_template="crpg_TwoHandedMace" modifier_group="mace">

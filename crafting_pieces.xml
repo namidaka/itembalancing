@@ -156,30 +156,6 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h0" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h1" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h2" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_handle_h3" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="21.2" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_light_shishpar_mace_handle_h0" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
     <BuildData piece_offset="13.7" />
     <Materials>
@@ -582,38 +558,6 @@
     </Flags>
     <Materials>
       <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.9" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.0" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.1" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.66" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.2" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_sickle_blade_h0" name="{=vxqrW5GN}Sickle Blade" tier="1" piece_type="Blade" mesh="sickle_blade_1" length="38.5" weight="0.762" full_scale="true" excluded_item_usage_features="thrust">
@@ -1825,6 +1769,150 @@
     <BuildData piece_offset="20" />
     <Materials>
       <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_blade_h0" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.84" full_scale="true">
+    <BuildData piece_offset="-10.0" />
+    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_blade_h1" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.84" full_scale="true">
+    <BuildData piece_offset="-10.0" />
+    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_blade_h2" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.84" full_scale="true">
+    <BuildData piece_offset="-10.0" />
+    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_blade_h3" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.81" full_scale="true">
+    <BuildData piece_offset="-10.0" />
+    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
+      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_handle_h0" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="22.0" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_handle_h1" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="22.0" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_handle_h2" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="22.0" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_handle_h3" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="22.0" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.9" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.0" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.725" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.1" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.66" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.2" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h0" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="21.2" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h1" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="21.2" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h2" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="21.2" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_handle_h3" name="{=k2MQ9kL0}Steel Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_9" length="61.5" weight="1.025" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
+    <BuildData piece_offset="21.2" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_pommel_h0" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_pommel_h1" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_pommel_h2" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_imperial_light_mace_pommel_h3" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_militia_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
@@ -13958,30 +14046,6 @@
   <CraftingPiece id="crpg_thamaskene_steel_spathion_pommel_h3" name="{=tLa3nYAQ}Faceted Chalice Pommel" tier="5" piece_type="Pommel" mesh="empire_pommel_3" culture="Culture.empire" length="6.564" weight="0.18">
     <Materials>
       <Material id="Iron5" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h0" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h1" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h2" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_imperial_light_mace_pommel_h3" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
-    <BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_fine_steel_paramerion_pommel_h0" name="{=MGD7zTLf}Faceted Wheel Pommel" tier="4" piece_type="Pommel" mesh="empire_pommel_5" culture="Culture.empire" length="6.911" weight="0.2">
@@ -26184,70 +26248,6 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_light_goedendag_handle_h3" name="{=}Light Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_1h_handle" length="48.2" weight="0.65" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
     <BuildData piece_offset="20.0" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h0" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.84" full_scale="true">
-    <BuildData piece_offset="-10.0" />
-    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="2.4" />
-      <Swing damage_type="Blunt" damage_factor="2.5" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h1" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.84" full_scale="true">
-    <BuildData piece_offset="-10.0" />
-    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="2.4" />
-      <Swing damage_type="Blunt" damage_factor="2.6" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h2" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.84" full_scale="true">
-    <BuildData piece_offset="-10.0" />
-    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="2.4" />
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h3" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.81" full_scale="true">
-    <BuildData piece_offset="-10.0" />
-    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
-      <Swing damage_type="Blunt" damage_factor="2.8" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_handle_h0" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="22.0" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_handle_h1" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="22.0" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_handle_h2" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="22.0" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_handle_h3" name="{=}Medium Goedendag Handle" tier="4" piece_type="Handle" mesh="goedendag_2h_short_handle" length="60.2" weight="0.80" item_holster_pos_shift="0,0,-0.1" CraftingCost="90">
-    <BuildData piece_offset="22.0" />
     <Materials>
       <Material id="Iron4" count="3" />
     </Materials>
