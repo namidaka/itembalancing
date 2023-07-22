@@ -144,30 +144,6 @@
       <Piece id="crpg_spiked_polehammer_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_warhammer_h0" name="{=}Warhammer" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_warhammer_blade_h0" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_warhammer_handle_h0" Type="Handle" scale_factor="120" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_warhammer_h1" name="{=}Warhammer +1" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_warhammer_blade_h1" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_warhammer_handle_h1" Type="Handle" scale_factor="120" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_warhammer_h2" name="{=}Warhammer +2" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_warhammer_blade_h2" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_warhammer_handle_h2" Type="Handle" scale_factor="120" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_warhammer_h3" name="{=}Warhammer +3" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
-    <Pieces>
-      <Piece id="crpg_warhammer_blade_h3" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_warhammer_handle_h3" Type="Handle" scale_factor="120" />
-    </Pieces>
-  </CraftedItem>
   <CraftedItem id="crpg_heavy_goedendag_h0" name="{=}Heavy Goedendag" crafting_template="crpg_TwoHandedSword" culture="Culture.sturgia">
     <Pieces>
       <Piece id="crpg_heavy_goedendag_blade_h0" Type="Blade" scale_factor="100" />
@@ -4676,6 +4652,30 @@
       <Piece id="crpg_imperial_light_mace_blade_h3" Type="Blade" />
       <Piece id="crpg_imperial_light_mace_handle_h3" Type="Handle" />
       <Piece id="crpg_imperial_light_mace_pommel_h3" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_warhammer_h0" name="{=}Warhammer" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_warhammer_blade_h0" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_warhammer_handle_h0" Type="Handle" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_warhammer_h1" name="{=}Warhammer +1" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_warhammer_blade_h1" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_warhammer_handle_h1" Type="Handle" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_warhammer_h2" name="{=}Warhammer +2" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_warhammer_blade_h2" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_warhammer_handle_h2" Type="Handle" scale_factor="120" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_warhammer_h3" name="{=}Warhammer +3" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_warhammer_blade_h3" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_warhammer_handle_h3" Type="Handle" scale_factor="120" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_steel_mace_h0" name="{=mzvtFPPi}Steel Mace" crafting_template="crpg_Mace" is_merchandise="false">
