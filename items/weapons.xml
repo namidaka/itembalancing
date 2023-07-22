@@ -4339,7 +4339,7 @@
 	<CraftedItem id="crpg_arabian_mace_h0" name="{=fz23ajFz}Arabian Mace" crafting_template="crpg_Mace" modifier_group="mace">
 		<Pieces>
 			<Piece id="crpg_arabian_mace_blade_h0" Type="Blade" scale_factor="130" />
-			<Piece id="crpg_arabian_mace_handle_h0" Type="Handle" scale_factor="110" />
+			<Piece id="crpg_arabian_mace_handle_h0" Type="Handle" scale_factor="111" />
 		</Pieces>
 	</CraftedItem>
   <CraftedItem id="crpg_military_hammer_h0" name="{=}Military Hammer" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
@@ -4501,29 +4501,29 @@
   <CraftedItem id="crpg_militia_pernach_h0" name="{=WASZXuec}Militia Pernach" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h0" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h0" Type="Handle" scale_factor="140" />
-      <Piece id="crpg_militia_pernach_pommel_h0" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h0" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h0" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_militia_pernach_h1" name="{=WASZXuec}Militia Pernach +1" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h1" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h1" Type="Handle" scale_factor="140" />
-      <Piece id="crpg_militia_pernach_pommel_h1" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h1" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h1" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_militia_pernach_h2" name="{=WASZXuec}Militia Pernach +2" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h2" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h2" Type="Handle" scale_factor="140" />
-      <Piece id="crpg_militia_pernach_pommel_h2" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h2" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h2" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_militia_pernach_h3" name="{=WASZXuec}Militia Pernach +3" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h3" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h3" Type="Handle" scale_factor="140" />
-      <Piece id="crpg_militia_pernach_pommel_h3" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h3" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_light_royal_mace_h0" name="{=UMX05EQF}Light Royal Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
