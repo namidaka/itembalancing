@@ -25077,10 +25077,10 @@
     "name": "Calradic Mace",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3170,
-    "weight": 1.72,
+    "price": 9335,
+    "weight": 1.67,
     "rank": 0,
-    "tier": 6.36608648,
+    "tier": 11.7229271,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -25091,18 +25091,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 74,
-        "balance": 0.62,
-        "handling": 92,
+        "balance": 0.67,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 89,
-        "swingDamage": 21,
+        "thrustSpeed": 90,
+        "swingDamage": 23,
         "swingDamageType": "Blunt",
-        "swingSpeed": 88
+        "swingSpeed": 90
       }
     ]
   },
@@ -25112,10 +25112,10 @@
     "name": "Calradic Mace +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3222,
+    "price": 6196,
     "weight": 1.72,
     "rank": 1,
-    "tier": 6.42631149,
+    "tier": 9.342277,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -25135,7 +25135,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 89,
-        "swingDamage": 22,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
         "swingSpeed": 88
       }
@@ -25147,10 +25147,10 @@
     "name": "Calradic Mace +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3317,
+    "price": 6213,
     "weight": 1.72,
     "rank": 2,
-    "tier": 6.537275,
+    "tier": 9.356409,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -25170,7 +25170,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 89,
-        "swingDamage": 23,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
         "swingSpeed": 88
       }
@@ -25182,10 +25182,10 @@
     "name": "Calradic Mace +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3450,
+    "price": 6309,
     "weight": 1.71,
     "rank": 3,
-    "tier": 6.688849,
+    "tier": 9.436877,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -25205,7 +25205,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 89,
-        "swingDamage": 24,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
         "swingSpeed": 88
       }
@@ -93467,10 +93467,10 @@
     "name": "Militia Pernach",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 7938,
-    "weight": 2.48,
+    "price": 6342,
+    "weight": 2.53,
     "rank": 0,
-    "tier": 10.7224331,
+    "tier": 9.464568,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -93481,8 +93481,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.56,
-        "handling": 92,
+        "balance": 0.52,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -93492,7 +93492,7 @@
         "thrustSpeed": 83,
         "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 85
       }
     ]
   },
@@ -93502,10 +93502,10 @@
     "name": "Militia Pernach +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 13793,
-    "weight": 2.35,
+    "price": 11478,
+    "weight": 2.4,
     "rank": 1,
-    "tier": 14.4939671,
+    "tier": 13.1220837,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -93516,7 +93516,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.64,
+        "balance": 0.61,
         "handling": 93,
         "bodyArmor": 0,
         "flags": [
@@ -93527,7 +93527,7 @@
         "thrustSpeed": 84,
         "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 89
+        "swingSpeed": 88
       }
     ]
   },
@@ -93537,10 +93537,10 @@
     "name": "Militia Pernach +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 25246,
-    "weight": 2.22,
+    "price": 20235,
+    "weight": 2.27,
     "rank": 2,
-    "tier": 20.0110989,
+    "tier": 17.7955284,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -93551,8 +93551,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.75,
-        "handling": 95,
+        "balance": 0.71,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -93562,7 +93562,7 @@
         "thrustSpeed": 85,
         "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 92
+        "swingSpeed": 91
       }
     ]
   },
@@ -93572,10 +93572,10 @@
     "name": "Militia Pernach +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 46499,
-    "weight": 2.09,
+    "price": 31246,
+    "weight": 2.14,
     "rank": 3,
-    "tier": 27.56725,
+    "tier": 22.3910561,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -93586,18 +93586,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 73,
-        "balance": 0.84,
-        "handling": 97,
+        "balance": 0.8,
+        "handling": 96,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 87,
+        "thrustSpeed": 85,
         "swingDamage": 28,
         "swingDamageType": "Blunt",
-        "swingSpeed": 95
+        "swingSpeed": 93
       }
     ]
   },
