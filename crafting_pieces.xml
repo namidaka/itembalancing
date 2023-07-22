@@ -160,30 +160,6 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_handle_h0" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
-    <BuildData piece_offset="13" />
-    <Materials>
-      <Material id="Wood" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_handle_h1" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
-    <BuildData piece_offset="13" />
-    <Materials>
-      <Material id="Wood" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_handle_h2" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
-    <BuildData piece_offset="13" />
-    <Materials>
-      <Material id="Wood" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_handle_h3" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
-    <BuildData piece_offset="13" />
-    <Materials>
-      <Material id="Wood" count="1" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_spiked_club_handle_h0" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.65" CraftingCost="75">
     <BuildData piece_offset="13" />
     <Materials>
@@ -634,38 +610,6 @@
     <Materials>
       <Material id="Iron2" count="2" />
       <Material id="Wood" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_blade_h0" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="2" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_blade_h1" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.9" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_blade_h2" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.82" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_club_blade_h3" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.82" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.9" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
 	<CraftingPiece id="crpg_long_cavalry_mace_blade_h0" name="{=}Eastern Fine Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_10" length="17.6" weight="0.45" full_scale="true" excluded_item_usage_features="thrust">
@@ -2493,6 +2437,62 @@
   <CraftingPiece id="crpg_light_shishpar_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
     <Materials>
       <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h0" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="2" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h1" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.9" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h2" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.82" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.7" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h3" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.82" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.9" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_handle_h0" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
+    <BuildData piece_offset="13" />
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_handle_h1" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
+    <BuildData piece_offset="13" />
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_handle_h2" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
+    <BuildData piece_offset="13" />
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_handle_h3" name="{=V3JMuFEg}Tied Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_3" length="60" weight="0.440" CraftingCost="75">
+    <BuildData piece_offset="13" />
+    <Materials>
+      <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_militia_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
