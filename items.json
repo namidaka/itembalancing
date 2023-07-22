@@ -74451,10 +74451,10 @@
     "name": "Judgement",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4029,
-    "weight": 2.39,
+    "price": 5105,
+    "weight": 2.33,
     "rank": 0,
-    "tier": 7.31709433,
+    "tier": 8.37657,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -74465,8 +74465,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.28,
-        "handling": 86,
+        "balance": 0.33,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -74476,7 +74476,7 @@
         "thrustSpeed": 84,
         "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 78
+        "swingSpeed": 79
       }
     ]
   },
@@ -74521,10 +74521,10 @@
     "name": "Judgement +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4223,
-    "weight": 2.31,
+    "price": 4395,
+    "weight": 2.3,
     "rank": 2,
-    "tier": 7.51773834,
+    "tier": 7.69155359,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -74535,15 +74535,15 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.33,
-        "handling": 87,
+        "balance": 0.35,
+        "handling": 88,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
+        "thrustSpeed": 85,
         "swingDamage": 30,
         "swingDamageType": "Blunt",
         "swingSpeed": 80
@@ -85726,10 +85726,10 @@
     "name": "Light Royal Mace",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3872,
-    "weight": 2.22,
+    "price": 8209,
+    "weight": 1.84,
     "rank": 0,
-    "tier": 7.15166855,
+    "tier": 10.9228077,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85740,18 +85740,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.45,
-        "handling": 89,
+        "balance": 0.78,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
+        "thrustSpeed": 88,
+        "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 93
       }
     ]
   },
@@ -85761,10 +85761,10 @@
     "name": "Light Royal Mace +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 4323,
-    "weight": 2.13,
+    "price": 8350,
+    "weight": 1.84,
     "rank": 1,
-    "tier": 7.61945963,
+    "tier": 11.0261374,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85775,18 +85775,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.52,
-        "handling": 91,
+        "balance": 0.78,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
+        "thrustSpeed": 88,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 93
       }
     ]
   },
@@ -85796,10 +85796,10 @@
     "name": "Light Royal Mace +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 4283,
-    "weight": 2.13,
+    "price": 8614,
+    "weight": 1.83,
     "rank": 2,
-    "tier": 7.578621,
+    "tier": 11.2165289,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85810,18 +85810,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.52,
-        "handling": 91,
+        "balance": 0.78,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 26,
+        "thrustSpeed": 88,
+        "swingDamage": 23,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 93
       }
     ]
   },
@@ -85831,10 +85831,10 @@
     "name": "Light Royal Mace +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 5353,
-    "weight": 2.08,
+    "price": 8981,
+    "weight": 1.82,
     "rank": 3,
-    "tier": 8.604734,
+    "tier": 11.4765921,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -85845,18 +85845,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.56,
-        "handling": 92,
+        "balance": 0.79,
+        "handling": 97,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 86,
-        "swingDamage": 27,
+        "thrustSpeed": 88,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
-        "swingSpeed": 86
+        "swingSpeed": 93
       }
     ]
   },
