@@ -132,30 +132,6 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_handle_h0" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_handle_h1" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_handle_h2" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_handle_h3" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
-    <BuildData piece_offset="13.7" />
-    <Materials>
-      <Material id="Iron4" count="3" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_light_morningstar_handle_h0" name="{=bfE00BnK}Iron Pommeled Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_7" length="62.1" weight="0.90" item_holster_pos_shift="0,0,-0.05" CraftingCost="80">
     <BuildData piece_offset="17.5" />
     <Materials>
@@ -334,38 +310,6 @@
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h0" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h1" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.44" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h2" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.44" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.8" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h3" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.4" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.9" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_morningstar_blade_h0" name="{=mU8oVsFW}Morningstar Head" tier="3" piece_type="Blade" mesh="mace_head_9" length="16.7" weight="0.36" full_scale="true" excluded_item_usage_features="thrust">
@@ -2475,6 +2419,82 @@
 			<Material id="Iron4" count="3" />
 		</Materials>
 	</CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h0" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.7" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h1" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.44" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.7" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h2" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.44" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.8" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h3" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.4" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="1.9" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_handle_h0" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_handle_h1" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_handle_h2" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_handle_h3" name="{=kjw9c4M2}Steel Angular Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_10" length="52" weight="1.100" item_holster_pos_shift="0,0,0.05" CraftingCost="80">
+    <BuildData piece_offset="17" />
+    <Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h0" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h1" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h2" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_militia_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
@@ -2899,26 +2919,6 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_hooked_javelin_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h0" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h1" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h2" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
-    <Materials>
-      <Material id="Iron4" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_pommel_h3" name="{=E7cNp0rF}Riveted Spear Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_5" culture="Culture.empire" length="3" weight="0">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
