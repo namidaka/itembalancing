@@ -280,30 +280,6 @@
       <Material id="Wood" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_light_mace_handle_h0" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
-    <BuildData piece_offset="15" />
-    <Materials>
-      <Material id="Wood" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_light_mace_handle_h1" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
-    <BuildData piece_offset="15" />
-    <Materials>
-      <Material id="Wood" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_light_mace_handle_h2" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
-    <BuildData piece_offset="15" />
-    <Materials>
-      <Material id="Wood" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_fullered_light_mace_handle_h3" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
-    <BuildData piece_offset="15" />
-    <Materials>
-      <Material id="Wood" count="2" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_militia_mace_handle_h0" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
     <BuildData piece_offset="15" />
     <Materials>
@@ -2074,38 +2050,6 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_militia_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_militia_mace_blade_h1" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.45" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_militia_mace_blade_h2" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.4" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.5" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_militia_mace_blade_h3" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.4" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
   <CraftingPiece id="crpg_fullered_light_mace_blade_h0" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="1.3" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="1.8" />
@@ -2133,6 +2077,62 @@
   <CraftingPiece id="crpg_fullered_light_mace_blade_h3" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="1.15" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.0" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_light_mace_handle_h0" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
+    <BuildData piece_offset="15" />
+    <Materials>
+      <Material id="Wood" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_light_mace_handle_h1" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
+    <BuildData piece_offset="15" />
+    <Materials>
+      <Material id="Wood" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_light_mace_handle_h2" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
+    <BuildData piece_offset="15" />
+    <Materials>
+      <Material id="Wood" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_fullered_light_mace_handle_h3" name="{=87BmkiMO}Gnarled Mace Handle" tier="2" piece_type="Handle" mesh="mace_handle_6" length="56.2" weight="0.420" CraftingCost="75">
+    <BuildData piece_offset="15" />
+    <Materials>
+      <Material id="Wood" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_militia_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_militia_mace_blade_h1" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.45" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_militia_mace_blade_h2" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.4" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_militia_mace_blade_h3" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.4" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="3" />
