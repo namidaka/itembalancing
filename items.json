@@ -86246,6 +86246,111 @@
     ]
   },
   {
+    "id": "crpg_light_shestopyor_h1",
+    "baseId": "crpg_light_shestopyor",
+    "name": "Light Shestopyor +1",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 5889,
+    "weight": 2.3,
+    "rank": 1,
+    "tier": 9.079817,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 66,
+        "balance": 0.55,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_light_shestopyor_h2",
+    "baseId": "crpg_light_shestopyor",
+    "name": "Light Shestopyor +2",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 5767,
+    "weight": 2.3,
+    "rank": 2,
+    "tier": 8.973849,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 66,
+        "balance": 0.55,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 27,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_light_shestopyor_h3",
+    "baseId": "crpg_light_shestopyor",
+    "name": "Light Shestopyor +3",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 5730,
+    "weight": 2.3,
+    "rank": 3,
+    "tier": 8.940669,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 66,
+        "balance": 0.55,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 28,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
     "id": "crpg_light_shishpar_mace_h0",
     "baseId": "crpg_light_shishpar_mace",
     "name": "Light Shishpar Mace",
