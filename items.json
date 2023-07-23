@@ -49244,6 +49244,41 @@
     ]
   },
   {
+    "id": "crpg_flanged_ball_mace_h0",
+    "baseId": "crpg_flanged_ball_mace",
+    "name": "Flanged Ball Mace",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6895,
+    "weight": 1.61,
+    "rank": 0,
+    "tier": 9.916945,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 78,
+        "balance": 0.8,
+        "handling": 95,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 20,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 93
+      }
+    ]
+  },
+  {
     "id": "crpg_flat_heater_shield_v2_h0",
     "baseId": "crpg_flat_heater_shield_v2",
     "name": "Flat Heater Shield",

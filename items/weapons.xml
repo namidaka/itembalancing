@@ -4342,6 +4342,13 @@
 			<Piece id="crpg_arabian_mace_handle_h0" Type="Handle" scale_factor="111" />
 		</Pieces>
 	</CraftedItem>
+  <CraftedItem id="crpg_flanged_ball_mace_h0" name="{=JM8Mjfa0}Flanged Ball Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+			<Piece id="crpg_flanged_ball_mace_blade_h0" Type="Blade" scale_factor="100" />
+			<Piece id="crpg_flanged_ball_mace_handle_h0" Type="Handle" scale_factor="109" />
+			<Piece id="crpg_flanged_ball_mace_pommel_h0" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
   <CraftedItem id="crpg_military_hammer_h0" name="{=}Military Hammer" crafting_template="crpg_Mace" culture="Culture.sturgia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_military_hammer_blade_h0" Type="Blade" scale_factor="110" />
