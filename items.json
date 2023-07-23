@@ -79623,6 +79623,111 @@
     ]
   },
   {
+    "id": "crpg_knobbed_mace_h1",
+    "baseId": "crpg_knobbed_mace",
+    "name": "Knobbed Mace +1",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 5438,
+    "weight": 1.8,
+    "rank": 1,
+    "tier": 8.681801,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 62,
+        "balance": 0.76,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 23,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 92
+      }
+    ]
+  },
+  {
+    "id": "crpg_knobbed_mace_h2",
+    "baseId": "crpg_knobbed_mace",
+    "name": "Knobbed Mace +2",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 5526,
+    "weight": 1.8,
+    "rank": 2,
+    "tier": 8.760149,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 62,
+        "balance": 0.76,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 92
+      }
+    ]
+  },
+  {
+    "id": "crpg_knobbed_mace_h3",
+    "baseId": "crpg_knobbed_mace",
+    "name": "Knobbed Mace +3",
+    "culture": "Khuzait",
+    "type": "OneHandedWeapon",
+    "price": 6731,
+    "weight": 1.78,
+    "rank": 3,
+    "tier": 9.784486,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 62,
+        "balance": 0.78,
+        "handling": 94,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 25,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 93
+      }
+    ]
+  },
+  {
     "id": "crpg_laced_cloth_coif_v2_h0",
     "baseId": "crpg_laced_cloth_coif_v2",
     "name": "Laced Cloth Coif",
