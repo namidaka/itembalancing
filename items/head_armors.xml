@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Items>
   <Item id="crpg_14th_noble_greathelmet1_v1_h0" name="Great Helmet, Decorated and Crown (EBA)" mesh="14th_noble_greathelmet1" culture="Culture.neutral_culture" weight="5.17156" appearance="10" Type="HeadArmor">
     <ItemComponent>
@@ -1370,25 +1370,25 @@
   </Item>
   <Item id="crpg_early_norm_crown_1_v1_h0" name="Norman Crown, Maille" mesh="early_norm_crown_1" culture="Culture.neutral_culture" weight="1.22349" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="20" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="20" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_early_norm_crown_1_v1_h1" name="Norman Crown, Maille +1" mesh="early_norm_crown_1" culture="Culture.neutral_culture" weight="1.22349" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="22" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="22" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_early_norm_crown_1_v1_h2" name="Norman Crown, Maille +2" mesh="early_norm_crown_1" culture="Culture.neutral_culture" weight="1.22349" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="24" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="24" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_early_norm_crown_1_v1_h3" name="Norman Crown, Maille +3" mesh="early_norm_crown_1" culture="Culture.neutral_culture" weight="1.22349" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="26" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="26" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
@@ -1922,25 +1922,25 @@
   </Item>
   <Item id="crpg_fullmailcoif1_v1_h0" name="Full Faced Mail Coif (EBA)" mesh="fullmailcoif1" culture="Culture.neutral_culture" weight="3.457063" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="none" />
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="all" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_fullmailcoif1_v1_h1" name="Full Faced Mail Coif (EBA) +1" mesh="fullmailcoif1" culture="Culture.neutral_culture" weight="3.457063" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="none" />
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="all" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_fullmailcoif1_v1_h2" name="Full Faced Mail Coif (EBA) +2" mesh="fullmailcoif1" culture="Culture.neutral_culture" weight="3.457063" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="none" />
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="all" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_fullmailcoif1_v1_h3" name="Full Faced Mail Coif (EBA) +3" mesh="fullmailcoif1" culture="Culture.neutral_culture" weight="3.457063" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="none" />
+      <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="chain" material_type="Chainmail" beard_cover_type="all" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
@@ -3458,25 +3458,25 @@
   </Item>
   <Item id="crpg_landsknechthat_1_v1_h0" name="Landsknechts Hat, Decorated (EBA)" mesh="landsknechthat_1" culture="Culture.neutral_culture" weight="3.80764" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="45" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="45" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_landsknechthat_1_v1_h1" name="Landsknechts Hat, Decorated (EBA) +1" mesh="landsknechthat_1" culture="Culture.neutral_culture" weight="3.80764" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="47" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="47" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_landsknechthat_1_v1_h2" name="Landsknechts Hat, Decorated (EBA) +2" mesh="landsknechthat_1" culture="Culture.neutral_culture" weight="3.80764" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="49" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="49" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_landsknechthat_1_v1_h3" name="Landsknechts Hat, Decorated (EBA) +3" mesh="landsknechthat_1" culture="Culture.neutral_culture" weight="3.80764" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="51" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
@@ -3794,25 +3794,25 @@
   </Item>
   <Item id="crpg_levy_hood_1_v1_h0" name="Poor Hood, Split" mesh="levy_hood_1" culture="Culture.neutral_culture" weight="0.1756776" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="all" />
+      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_levy_hood_1_v1_h1" name="Poor Hood, Split +1" mesh="levy_hood_1" culture="Culture.neutral_culture" weight="0.1756776" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="7" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="all" />
+      <Armor head_armor="7" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_levy_hood_1_v1_h2" name="Poor Hood, Split +2" mesh="levy_hood_1" culture="Culture.neutral_culture" weight="0.1756776" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="9" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="all" />
+      <Armor head_armor="9" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_levy_hood_1_v1_h3" name="Poor Hood, Split +3" mesh="levy_hood_1" culture="Culture.neutral_culture" weight="0.1756776" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="11" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="all" />
+      <Armor head_armor="11" has_gender_variations="false" hair_cover_type="all" modifier_group="cloth_unarmoured" material_type="Cloth" beard_cover_type="type3" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
@@ -6626,25 +6626,25 @@
   </Item>
   <Item id="crpg_velvet_sallet_gold_1_v1_h0" name="Velvet Sallet Golden, Primary Colour (EBA)" mesh="velvet_sallet_gold_1" culture="Culture.neutral_culture" weight="4.661901" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="52" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_velvet_sallet_gold_1_v1_h1" name="Velvet Sallet Golden, Primary Colour (EBA) +1" mesh="velvet_sallet_gold_1" culture="Culture.neutral_culture" weight="4.661901" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="54" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="54" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_velvet_sallet_gold_1_v1_h2" name="Velvet Sallet Golden, Primary Colour (EBA) +2" mesh="velvet_sallet_gold_1" culture="Culture.neutral_culture" weight="4.661901" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="56" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="56" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
   <Item id="crpg_velvet_sallet_gold_1_v1_h3" name="Velvet Sallet Golden, Primary Colour (EBA) +3" mesh="velvet_sallet_gold_1" culture="Culture.neutral_culture" weight="4.661901" appearance="10" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="58" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="58" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
