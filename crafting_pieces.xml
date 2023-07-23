@@ -566,7 +566,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_heavy_horsemans_mace_blade_h1" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -574,7 +574,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_heavy_horsemans_mace_blade_h2" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -582,7 +582,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_heavy_horsemans_mace_blade_h3" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -624,7 +624,7 @@
 			<Material id="Iron4" count="2" />
 		</Materials>
 	</CraftingPiece>
-	<CraftingPiece id="crpg_bone_crusher_blade_h1" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.55" full_scale="true" excluded_item_usage_features="thrust">
+	<CraftingPiece id="crpg_bone_crusher_blade_h1" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
 		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
 			<Swing damage_type="Blunt" damage_factor="2.8" />
 		</BladeData>
@@ -632,17 +632,17 @@
 			<Material id="Iron4" count="2" />
 		</Materials>
 	</CraftingPiece>
-	<CraftingPiece id="crpg_bone_crusher_blade_h2" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.55" full_scale="true" excluded_item_usage_features="thrust">
+	<CraftingPiece id="crpg_bone_crusher_blade_h2" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
 		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-			<Swing damage_type="Blunt" damage_factor="2.8" />
+			<Swing damage_type="Blunt" damage_factor="2.9" />
 		</BladeData>
 		<Materials>
 			<Material id="Iron4" count="2" />
 		</Materials>
 	</CraftingPiece>
-	<CraftingPiece id="crpg_bone_crusher_blade_h3" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.55" full_scale="true" excluded_item_usage_features="thrust">
+	<CraftingPiece id="crpg_bone_crusher_blade_h3" name="{=o2kFafbu}Eastern Steel Mace Head" tier="4" piece_type="Blade" mesh="mace_head_26" length="21.4" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
 		<BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-			<Swing damage_type="Blunt" damage_factor="2.8" />
+			<Swing damage_type="Blunt" damage_factor="3.0" />
 		</BladeData>
 		<Materials>
 			<Material id="Iron4" count="2" />
