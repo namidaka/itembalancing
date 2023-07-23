@@ -4198,6 +4198,24 @@
 			<Piece id="crpg_long_pernach_handle_h0" Type="Handle" scale_factor="119" />
 		</Pieces>
 	</CraftedItem>
+	<CraftedItem id="crpg_long_pernach_h1" name="{=Telford}Long Pernach +1" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_long_pernach_blade_h1" Type="Blade" scale_factor="125" />
+			<Piece id="crpg_long_pernach_handle_h1" Type="Handle" scale_factor="119" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_long_pernach_h2" name="{=Telford}Long Pernach +2" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_long_pernach_blade_h2" Type="Blade" scale_factor="125" />
+			<Piece id="crpg_long_pernach_handle_h2" Type="Handle" scale_factor="119" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_long_pernach_h3" name="{=Telford}Long Pernach +3" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_long_pernach_blade_h3" Type="Blade" scale_factor="125" />
+			<Piece id="crpg_long_pernach_handle_h3" Type="Handle" scale_factor="119" />
+		</Pieces>
+	</CraftedItem>
   <CraftedItem id="crpg_fine_steel_mace_h0" name="{=b88lWWOo}Fine Steel Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_fine_steel_mace_blade_h0" Type="Blade" scale_factor="170" />
