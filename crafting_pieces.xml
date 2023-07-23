@@ -978,7 +978,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_spiralled_mace_blade_h1" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.3" />
+      <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -986,7 +986,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_spiralled_mace_blade_h2" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.3" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -994,7 +994,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_spiralled_mace_blade_h3" name="{=rSs1M2EJ}Spiralled Mace Head" tier="4" piece_type="Blade" mesh="mace_head_15" length="13.5" weight="0.43" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.3" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1034,7 +1034,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knights_fall_blade_h1" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1042,7 +1042,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knights_fall_blade_h2" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1050,7 +1050,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knights_fall_blade_h3" name="{=qQrmuHQ9}Heavy Horsemans Mace Head" tier="3" piece_type="Blade" mesh="mace_head_19" length="11" weight="0.5" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1114,7 +1114,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_steel_winged_shestopyor_blade_h1" name="{=Zc2Mb991}Shestopyor Head" tier="3" piece_type="Blade" mesh="mace_head_4" length="16.5" weight="0.42" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="3" />
@@ -1122,15 +1122,15 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_steel_winged_shestopyor_blade_h2" name="{=Zc2Mb991}Shestopyor Head" tier="3" piece_type="Blade" mesh="mace_head_4" length="16.5" weight="0.42" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_steel_winged_shestopyor_blade_h3" name="{=Zc2Mb991}Shestopyor Head" tier="3" piece_type="Blade" mesh="mace_head_4" length="16.5" weight="0.42" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_steel_winged_shestopyor_blade_h3" name="{=Zc2Mb991}Shestopyor Head" tier="3" piece_type="Blade" mesh="mace_head_4" length="16.5" weight="0.4" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.6" />
+      <Swing damage_type="Blunt" damage_factor="2.9" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="3" />
