@@ -1228,6 +1228,30 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h1" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.0" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h2" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.1" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h3" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.2" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_flanged_ball_mace_handle_h0" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" full_scale="false" item_holster_pos_shift="0,0,0.05">
     <BuildData piece_offset="25.5" />
     <Materials>
@@ -1235,7 +1259,43 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_handle_h1" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" full_scale="false" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="25.5" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_handle_h2" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" full_scale="false" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="25.5" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_handle_h3" name="{=YUDKID1R}Reinforced Long Ash Mace Handle" tier="4" piece_type="Handle" mesh="mace_handle_16" length="80" weight="1.100" full_scale="false" item_holster_pos_shift="0,0,0.05">
+    <BuildData piece_offset="25.5" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_flanged_ball_mace_pommel_h0" name="{=faZasq1G}Eastern Ring Pommel" tier="1" piece_type="Pommel" mesh="khuzait_pommel_1" culture="Culture.khuzait" length="6.588" weight="0.12">
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_pommel_h1" name="{=faZasq1G}Eastern Ring Pommel" tier="1" piece_type="Pommel" mesh="khuzait_pommel_1" culture="Culture.khuzait" length="6.588" weight="0.12">
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_pommel_h2" name="{=faZasq1G}Eastern Ring Pommel" tier="1" piece_type="Pommel" mesh="khuzait_pommel_1" culture="Culture.khuzait" length="6.588" weight="0.12">
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_flanged_ball_mace_pommel_h3" name="{=faZasq1G}Eastern Ring Pommel" tier="1" piece_type="Pommel" mesh="khuzait_pommel_1" culture="Culture.khuzait" length="6.588" weight="0.12">
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
