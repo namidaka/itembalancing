@@ -4098,6 +4098,24 @@
     		<Piece id="crpg_long_cavalry_mace_handle_h0" Type="Handle" scale_factor="152" />
    		</Pieces>
   	</CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h1" name="{=Telford}Long Cavalry Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h1" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h1" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h2" name="{=Telford}Long Cavalry Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h2" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h2" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h3" name="{=Telford}Long Cavalry Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h3" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h3" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
   <CraftedItem id="crpg_cataphract_mace_h0" name="{=Kv4zAMIh}Cataphract Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_cataphract_mace_blade_h0" Type="Blade" scale_factor="140" />
