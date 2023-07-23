@@ -74731,10 +74731,10 @@
     "name": "Judgement +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4436,
-    "weight": 2.31,
+    "price": 3660,
+    "weight": 2.33,
     "rank": 1,
-    "tier": 7.73311234,
+    "tier": 6.922784,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -74756,7 +74756,7 @@
         "thrustSpeed": 84,
         "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 79
       }
     ]
   },
@@ -74766,10 +74766,10 @@
     "name": "Judgement +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4395,
-    "weight": 2.3,
+    "price": 3487,
+    "weight": 2.33,
     "rank": 2,
-    "tier": 7.69155359,
+    "tier": 6.729979,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -74780,18 +74780,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.35,
-        "handling": 88,
+        "balance": 0.33,
+        "handling": 87,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
+        "thrustSpeed": 84,
         "swingDamage": 30,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 79
       }
     ]
   },
@@ -74801,10 +74801,10 @@
     "name": "Judgement +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 4251,
-    "weight": 2.28,
+    "price": 5359,
+    "weight": 2.24,
     "rank": 3,
-    "tier": 7.54612064,
+    "tier": 8.61023,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -74815,8 +74815,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 72,
-        "balance": 0.36,
-        "handling": 88,
+        "balance": 0.4,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -74826,7 +74826,7 @@
         "thrustSpeed": 85,
         "swingDamage": 31,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 81
       }
     ]
   },
@@ -86006,10 +86006,10 @@
     "name": "Light Royal Mace +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 4749,
+    "price": 6775,
     "weight": 1.85,
     "rank": 1,
-    "tier": 8.039534,
+    "tier": 9.819862,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86029,7 +86029,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 88,
-        "swingDamage": 21,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
         "swingSpeed": 92
       }
@@ -86041,10 +86041,10 @@
     "name": "Light Royal Mace +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3509,
+    "price": 6986,
     "weight": 1.85,
     "rank": 2,
-    "tier": 6.755439,
+    "tier": 9.989421,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86064,7 +86064,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 88,
-        "swingDamage": 21,
+        "swingDamage": 23,
         "swingDamageType": "Blunt",
         "swingSpeed": 92
       }
@@ -86076,10 +86076,10 @@
     "name": "Light Royal Mace +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 2673,
+    "price": 7280,
     "weight": 1.85,
     "rank": 3,
-    "tier": 5.75611639,
+    "tier": 10.221036,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86099,7 +86099,7 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 88,
-        "swingDamage": 21,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
         "swingSpeed": 92
       }
