@@ -1160,7 +1160,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_arabian_mace_blade_h0" name="{=I9yrLqPc}Eastern Flanged Steel Mace Head" tier="5" piece_type="Blade" mesh="mace_head_12" length="20" weight="0.68" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_arabian_mace_blade_h0" name="{=I9yrLqPc}Eastern Flanged Steel Mace Head" tier="5" piece_type="Blade" mesh="mace_head_12" length="20" weight="0.66" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.9" />
     </BladeData>
@@ -1168,7 +1168,52 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_arabian_mace_blade_h1" name="{=I9yrLqPc}Eastern Flanged Steel Mace Head" tier="5" piece_type="Blade" mesh="mace_head_12" length="20" weight="0.62" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.9" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron4" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_arabian_mace_blade_h2" name="{=I9yrLqPc}Eastern Flanged Steel Mace Head" tier="5" piece_type="Blade" mesh="mace_head_12" length="20" weight="0.62" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="3.0" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron4" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_arabian_mace_blade_h3" name="{=I9yrLqPc}Eastern Flanged Steel Mace Head" tier="5" piece_type="Blade" mesh="mace_head_12" length="20" weight="0.61" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="3.1" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron4" count="2" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_arabian_mace_handle_h0" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="18" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_arabian_mace_handle_h1" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="18" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_arabian_mace_handle_h2" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
+    <BuildData piece_offset="18" />
+    <Materials>
+      <Material id="Wood" count="1" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_arabian_mace_handle_h3" name="{=FxCfO3zN}Iron Reinforced Mace Handle" tier="3" piece_type="Handle" mesh="mace_handle_1" length="62.5" weight="0.580" CraftingCost="75">
     <BuildData piece_offset="18" />
     <Materials>
       <Material id="Wood" count="1" />

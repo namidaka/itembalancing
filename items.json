@@ -2497,10 +2497,10 @@
     "name": "Arabian Mace",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 2215,
-    "weight": 2.14,
+    "price": 2810,
+    "weight": 2.09,
     "rank": 0,
-    "tier": 5.1410017,
+    "tier": 5.929326,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -2511,8 +2511,8 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 81,
-        "balance": 0.16,
-        "handling": 81,
+        "balance": 0.19,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
@@ -2522,7 +2522,112 @@
         "thrustSpeed": 85,
         "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 74
+        "swingSpeed": 75
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_mace_h1",
+    "baseId": "crpg_arabian_mace",
+    "name": "Arabian Mace +1",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 3139,
+    "weight": 2.01,
+    "rank": 1,
+    "tier": 6.32889271,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.25,
+        "handling": 83,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 29,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 77
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_mace_h2",
+    "baseId": "crpg_arabian_mace",
+    "name": "Arabian Mace +2",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 2992,
+    "weight": 2.01,
+    "rank": 2,
+    "tier": 6.152626,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.25,
+        "handling": 83,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 30,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 77
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_mace_h3",
+    "baseId": "crpg_arabian_mace",
+    "name": "Arabian Mace +3",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 3515,
+    "weight": 1.98,
+    "rank": 3,
+    "tier": 6.762145,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 81,
+        "balance": 0.27,
+        "handling": 83,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 31,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 78
       }
     ]
   },
