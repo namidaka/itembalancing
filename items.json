@@ -59771,115 +59771,10 @@
     "name": "Heavy Horseman's Mace",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
-    "price": 4970,
-    "weight": 1.6,
-    "rank": 0,
-    "tier": 8.249914,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 94,
-        "balance": 0.43,
-        "handling": 84,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 24,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_heavy_horsemans_mace_h1",
-    "baseId": "crpg_heavy_horsemans_mace",
-    "name": "Heavy Horseman's Mace +1",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 4839,
-    "weight": 1.6,
-    "rank": 1,
-    "tier": 8.126394,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 94,
-        "balance": 0.43,
-        "handling": 84,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 25,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_heavy_horsemans_mace_h2",
-    "baseId": "crpg_heavy_horsemans_mace",
-    "name": "Heavy Horseman's Mace +2",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 4794,
-    "weight": 1.6,
-    "rank": 2,
-    "tier": 8.082842,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 94,
-        "balance": 0.43,
-        "handling": 84,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
-        "swingDamage": 26,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_heavy_horsemans_mace_h3",
-    "baseId": "crpg_heavy_horsemans_mace",
-    "name": "Heavy Horseman's Mace +3",
-    "culture": "Aserai",
-    "type": "OneHandedWeapon",
-    "price": 6062,
+    "price": 6263,
     "weight": 1.58,
-    "rank": 3,
-    "tier": 9.228334,
+    "rank": 0,
+    "tier": 9.398403,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -59899,7 +59794,112 @@
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
         "thrustSpeed": 90,
-        "swingDamage": 27,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_horsemans_mace_h1",
+    "baseId": "crpg_heavy_horsemans_mace",
+    "name": "Heavy Horseman's Mace +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4470,
+    "weight": 1.58,
+    "rank": 1,
+    "tier": 7.76727438,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 85,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_horsemans_mace_h2",
+    "baseId": "crpg_heavy_horsemans_mace",
+    "name": "Heavy Horseman's Mace +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 3308,
+    "weight": 1.58,
+    "rank": 2,
+    "tier": 6.52666855,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 85,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_horsemans_mace_h3",
+    "baseId": "crpg_heavy_horsemans_mace",
+    "name": "Heavy Horseman's Mace +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 2523,
+    "weight": 1.58,
+    "rank": 3,
+    "tier": 5.561186,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.45,
+        "handling": 85,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 24,
         "swingDamageType": "Blunt",
         "swingSpeed": 83
       }
@@ -68196,10 +68196,10 @@
     "name": "Imperial Light Mace +1",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 7038,
-    "weight": 1.65,
+    "price": 4645,
+    "weight": 1.72,
     "rank": 1,
-    "tier": 10.0303936,
+    "tier": 7.93872833,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68210,18 +68210,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.78,
-        "handling": 95,
+        "balance": 0.71,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
+        "thrustSpeed": 89,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 91
       }
     ]
   },
@@ -68231,10 +68231,10 @@
     "name": "Imperial Light Mace +2",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 5161,
-    "weight": 1.65,
+    "price": 3434,
+    "weight": 1.72,
     "rank": 2,
-    "tier": 8.428316,
+    "tier": 6.670737,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68245,18 +68245,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.78,
-        "handling": 95,
+        "balance": 0.71,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
+        "thrustSpeed": 89,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 91
       }
     ]
   },
@@ -68266,10 +68266,10 @@
     "name": "Imperial Light Mace +3",
     "culture": "Empire",
     "type": "OneHandedWeapon",
-    "price": 3900,
-    "weight": 1.65,
+    "price": 2617,
+    "weight": 1.72,
     "rank": 3,
-    "tier": 7.181524,
+    "tier": 5.683942,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -68280,18 +68280,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 70,
-        "balance": 0.78,
-        "handling": 95,
+        "balance": 0.71,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 90,
+        "thrustSpeed": 89,
         "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 91
       }
     ]
   },
@@ -86959,10 +86959,10 @@
     "name": "Long Cavalry Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 821,
-    "weight": 2.07,
+    "price": 5293,
+    "weight": 1.84,
     "rank": 0,
-    "tier": 2.71238756,
+    "tier": 8.549776,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -86973,18 +86973,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 102,
-        "balance": 0.04,
-        "handling": 76,
+        "balance": 0.27,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 25,
+        "thrustSpeed": 87,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 71
+        "swingSpeed": 78
       }
     ]
   },
@@ -138875,7 +138875,7 @@
   {
     "id": "crpg_steel_pick_h1",
     "baseId": "crpg_steel_pick",
-    "name": "Steel Pick",
+    "name": "Steel Pick +1",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
     "price": 7349,
@@ -138911,7 +138911,7 @@
   {
     "id": "crpg_steel_pick_h2",
     "baseId": "crpg_steel_pick",
-    "name": "Steel Pick",
+    "name": "Steel Pick +2",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
     "price": 6770,
@@ -138947,7 +138947,7 @@
   {
     "id": "crpg_steel_pick_h3",
     "baseId": "crpg_steel_pick",
-    "name": "Steel Pick",
+    "name": "Steel Pick +3",
     "culture": "Aserai",
     "type": "OneHandedWeapon",
     "price": 6353,
