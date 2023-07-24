@@ -18211,10 +18211,10 @@
     "name": "Blacksmith Hammer",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 551,
-    "weight": 2.4,
+    "price": 1951,
+    "weight": 1.88,
     "rank": 0,
-    "tier": 2.03764749,
+    "tier": 4.75752258,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18227,18 +18227,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 32,
-        "balance": 0.67,
-        "handling": 99,
+        "balance": 0.94,
+        "handling": 104,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 84,
+        "thrustSpeed": 88,
         "swingDamage": 20,
         "swingDamageType": "Blunt",
-        "swingSpeed": 90
+        "swingSpeed": 98
       }
     ]
   },
@@ -18248,10 +18248,10 @@
     "name": "Blacksmith Hammer +1",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 584,
-    "weight": 2.25,
+    "price": 2012,
+    "weight": 1.88,
     "rank": 1,
-    "tier": 2.12674212,
+    "tier": 4.84963942,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18264,18 +18264,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 32,
-        "balance": 0.76,
-        "handling": 101,
+        "balance": 0.94,
+        "handling": 104,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 20,
+        "thrustSpeed": 88,
+        "swingDamage": 21,
         "swingDamageType": "Blunt",
-        "swingSpeed": 92
+        "swingSpeed": 98
       }
     ]
   },
@@ -18285,10 +18285,10 @@
     "name": "Blacksmith Hammer +2",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 699,
-    "weight": 2.2,
+    "price": 2434,
+    "weight": 1.84,
     "rank": 2,
-    "tier": 2.42420173,
+    "tier": 5.44261026,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18301,18 +18301,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 32,
-        "balance": 0.77,
-        "handling": 101,
+        "balance": 0.97,
+        "handling": 104,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 21,
+        "thrustSpeed": 88,
+        "swingDamage": 22,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 99
       }
     ]
   },
@@ -18322,10 +18322,10 @@
     "name": "Blacksmith Hammer +3",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 977,
-    "weight": 2.2,
+    "price": 3074,
+    "weight": 1.77,
     "rank": 3,
-    "tier": 3.05443859,
+    "tier": 6.251976,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -18338,18 +18338,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 32,
-        "balance": 0.77,
-        "handling": 101,
+        "balance": 1.0,
+        "handling": 105,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
+        "thrustSpeed": 89,
         "swingDamage": 23,
         "swingDamageType": "Blunt",
-        "swingSpeed": 93
+        "swingSpeed": 100
       }
     ]
   },
@@ -163585,10 +163585,10 @@
     "name": "Wooden Hammer",
     "culture": "Neutral",
     "type": "OneHandedWeapon",
-    "price": 427,
-    "weight": 2.48,
+    "price": 2218,
+    "weight": 2.28,
     "rank": 0,
-    "tier": 1.67343581,
+    "tier": 5.14493561,
     "requirement": 0,
     "flags": [
       "Civilian"
@@ -163601,121 +163601,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 45,
-        "balance": 0.59,
-        "handling": 97,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 83,
-        "swingDamage": 15,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 87
-      }
-    ]
-  },
-  {
-    "id": "crpg_wooden_hammer_h1",
-    "baseId": "crpg_wooden_hammer",
-    "name": "Wooden Hammer +1",
-    "culture": "Neutral",
-    "type": "OneHandedWeapon",
-    "price": 455,
-    "weight": 2.33,
-    "rank": 1,
-    "tier": 1.75959659,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 45,
-        "balance": 0.66,
-        "handling": 99,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 15,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 89
-      }
-    ]
-  },
-  {
-    "id": "crpg_wooden_hammer_h2",
-    "baseId": "crpg_wooden_hammer",
-    "name": "Wooden Hammer +2",
-    "culture": "Neutral",
-    "type": "OneHandedWeapon",
-    "price": 521,
-    "weight": 2.33,
-    "rank": 2,
-    "tier": 1.95145833,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 45,
-        "balance": 0.66,
-        "handling": 99,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
-        "swingDamage": 16,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 89
-      }
-    ]
-  },
-  {
-    "id": "crpg_wooden_hammer_h3",
-    "baseId": "crpg_wooden_hammer",
-    "name": "Wooden Hammer +3",
-    "culture": "Neutral",
-    "type": "OneHandedWeapon",
-    "price": 841,
-    "weight": 2.33,
-    "rank": 3,
-    "tier": 2.7592504,
-    "requirement": 0,
-    "flags": [
-      "Civilian"
-    ],
-    "weapons": [
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 45,
-        "balance": 0.66,
+        "balance": 0.69,
         "handling": 99,
         "bodyArmor": 0,
         "flags": [
@@ -163727,7 +163613,121 @@
         "thrustSpeed": 85,
         "swingDamage": 18,
         "swingDamageType": "Blunt",
-        "swingSpeed": 89
+        "swingSpeed": 90
+      }
+    ]
+  },
+  {
+    "id": "crpg_wooden_hammer_h1",
+    "baseId": "crpg_wooden_hammer",
+    "name": "Wooden Hammer +1",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 2377,
+    "weight": 2.28,
+    "rank": 1,
+    "tier": 5.36491728,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 45,
+        "balance": 0.69,
+        "handling": 99,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "MultiplePenetration"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 19,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 90
+      }
+    ]
+  },
+  {
+    "id": "crpg_wooden_hammer_h2",
+    "baseId": "crpg_wooden_hammer",
+    "name": "Wooden Hammer +2",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 2569,
+    "weight": 2.28,
+    "rank": 2,
+    "tier": 5.620494,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 45,
+        "balance": 0.69,
+        "handling": 99,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "MultiplePenetration"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 20,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 90
+      }
+    ]
+  },
+  {
+    "id": "crpg_wooden_hammer_h3",
+    "baseId": "crpg_wooden_hammer",
+    "name": "Wooden Hammer +3",
+    "culture": "Neutral",
+    "type": "OneHandedWeapon",
+    "price": 3294,
+    "weight": 2.24,
+    "rank": 3,
+    "tier": 6.51020432,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 45,
+        "balance": 0.71,
+        "handling": 99,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "MultiplePenetration"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 21,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 91
       }
     ]
   },
