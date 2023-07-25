@@ -4240,6 +4240,34 @@
       <Piece id="crpg_fine_steel_mace_handle_h3" Type="Handle" scale_factor="120" />
     </Pieces>
   </CraftedItem>
+	<CraftedItem id="crpg_persian_steel_mace_h0" name="{=Telford}Persian Steel Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_persian_steel_mace_blade_h0" Type="Blade" scale_factor="78" />
+			<Piece id="crpg_persian_steel_mace_handle_h0" Type="Handle" scale_factor="116" />
+      <Piece id="crpg_persian_steel_mace_pommel_h0" Type="Pommel" scale_factor="59" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_persian_steel_mace_h1" name="{=Telford}Persian Steel Mace +1" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_persian_steel_mace_blade_h1" Type="Blade" scale_factor="78" />
+			<Piece id="crpg_persian_steel_mace_handle_h1" Type="Handle" scale_factor="116" />
+      <Piece id="crpg_persian_steel_mace_pommel_h1" Type="Pommel" scale_factor="59" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_persian_steel_mace_h2" name="{=Telford}Persian Steel Mace +2" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_persian_steel_mace_blade_h2" Type="Blade" scale_factor="78" />
+			<Piece id="crpg_persian_steel_mace_handle_h2" Type="Handle" scale_factor="116" />
+      <Piece id="crpg_persian_steel_mace_pommel_h2" Type="Pommel" scale_factor="59" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="crpg_persian_steel_mace_h3" name="{=Telford}Persian Steel Mace +3" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
+		<Pieces>
+			<Piece id="crpg_persian_steel_mace_blade_h3" Type="Blade" scale_factor="78" />
+			<Piece id="crpg_persian_steel_mace_handle_h3" Type="Handle" scale_factor="116" />
+      <Piece id="crpg_persian_steel_mace_pommel_h3" Type="Pommel" scale_factor="59" />
+		</Pieces>
+	</CraftedItem>
   <CraftedItem id="crpg_fullered_western_mace_h0" name="{=dSTxsYsh}Fullered Western Mace" crafting_template="crpg_Mace" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_fullered_western_mace_blade_h0" Type="Blade" scale_factor="120" />
@@ -4300,24 +4328,28 @@
     <Pieces>
 			<Piece id="crpg_spiralled_mace_blade_h0" Type="Blade" scale_factor="125" />
 			<Piece id="crpg_spiralled_mace_handle_h0" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_mace_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_spiralled_mace_h1" name="{=JM8Mjfa0}Spiralled Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_spiralled_mace_blade_h1" Type="Blade" scale_factor="125" />
       <Piece id="crpg_spiralled_mace_handle_h1" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_mace_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_spiralled_mace_h2" name="{=JM8Mjfa0}Spiralled Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_spiralled_mace_blade_h2" Type="Blade" scale_factor="125" />
       <Piece id="crpg_spiralled_mace_handle_h2" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_mace_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_spiralled_mace_h3" name="{=JM8Mjfa0}Spiralled Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_spiralled_mace_blade_h3" Type="Blade" scale_factor="125" />
       <Piece id="crpg_spiralled_mace_handle_h3" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_mace_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_knights_fall_h0" name="{=BYPhysbH}Knight's Fall" crafting_template="crpg_Mace" is_merchandise="false">
@@ -4346,6 +4378,34 @@
 			<Piece id="crpg_knights_fall_blade_h3" Type="Blade" scale_factor="115" />
 			<Piece id="crpg_knights_fall_handle_h3" Type="Handle" scale_factor="163" />
 			<Piece id="crpg_knights_fall_pommel_h3" Type="Pommel" scale_factor="85" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_flanged_mace_h0" name="{=JM8Mjfa0}Flanged Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+			<Piece id="crpg_flanged_mace_blade_h0" Type="Blade" scale_factor="75" />
+			<Piece id="crpg_flanged_mace_handle_h0" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_flanged_mace_pommel_h0" Type="Pommel" scale_factor="60" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_flanged_mace_h1" name="{=JM8Mjfa0}Flanged Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+			<Piece id="crpg_flanged_mace_blade_h1" Type="Blade" scale_factor="75" />
+			<Piece id="crpg_flanged_mace_handle_h1" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_flanged_mace_pommel_h1" Type="Pommel" scale_factor="60" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_flanged_mace_h2" name="{=JM8Mjfa0}Flanged Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+			<Piece id="crpg_flanged_mace_blade_h2" Type="Blade" scale_factor="75" />
+			<Piece id="crpg_flanged_mace_handle_h2" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_flanged_mace_pommel_h2" Type="Pommel" scale_factor="60" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_flanged_mace_h3" name="{=JM8Mjfa0}Flanged Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+			<Piece id="crpg_flanged_mace_blade_h3" Type="Blade" scale_factor="75" />
+			<Piece id="crpg_flanged_mace_handle_h3" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_flanged_mace_pommel_h3" Type="Pommel" scale_factor="60" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_steel_winged_shestopyor_h0" name="{=8pnCvnFR}Steel Winged Shestopyor" crafting_template="crpg_Mace" modifier_group="mace">
