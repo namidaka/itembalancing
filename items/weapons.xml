@@ -4748,32 +4748,32 @@
       <Piece id="crpg_knobbed_club_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steppe_light_mace_h0" name="{=N8VJWdVY}Steppe Light Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steppe_spiked_mace_h0" name="{=N8VJWdVY}Steppe Spiked Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steppe_light_mace_blade_h0" Type="Blade" />
-      <Piece id="crpg_steppe_light_mace_handle_h0" Type="Handle" />
-      <Piece id="crpg_steppe_light_mace_pommel_h0" Type="Pommel" />
+      <Piece id="crpg_steppe_spiked_mace_blade_h0" Type="Blade" />
+      <Piece id="crpg_steppe_spiked_mace_handle_h0" Type="Handle" scale_factor="108" />
+      <Piece id="crpg_steppe_spiked_mace_pommel_h0" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steppe_light_mace_h1" name="{=N8VJWdVY}Steppe Light Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steppe_spiked_mace_h1" name="{=N8VJWdVY}Steppe Spiked Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steppe_light_mace_blade_h1" Type="Blade" />
-      <Piece id="crpg_steppe_light_mace_handle_h1" Type="Handle" />
-      <Piece id="crpg_steppe_light_mace_pommel_h1" Type="Pommel" />
+      <Piece id="crpg_steppe_spiked_mace_blade_h1" Type="Blade" />
+      <Piece id="crpg_steppe_spiked_mace_handle_h1" Type="Handle" scale_factor="108" />
+      <Piece id="crpg_steppe_spiked_mace_pommel_h1" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steppe_light_mace_h2" name="{=N8VJWdVY}Steppe Light Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steppe_spiked_mace_h2" name="{=N8VJWdVY}Steppe Spiked Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steppe_light_mace_blade_h2" Type="Blade" />
-      <Piece id="crpg_steppe_light_mace_handle_h2" Type="Handle" />
-      <Piece id="crpg_steppe_light_mace_pommel_h2" Type="Pommel" />
+      <Piece id="crpg_steppe_spiked_mace_blade_h2" Type="Blade" />
+      <Piece id="crpg_steppe_spiked_mace_handle_h2" Type="Handle" scale_factor="108" />
+      <Piece id="crpg_steppe_spiked_mace_pommel_h2" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steppe_light_mace_h3" name="{=N8VJWdVY}Steppe Light Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steppe_spiked_mace_h3" name="{=N8VJWdVY}Steppe Spiked Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steppe_light_mace_blade_h3" Type="Blade" />
-      <Piece id="crpg_steppe_light_mace_handle_h3" Type="Handle" />
-      <Piece id="crpg_steppe_light_mace_pommel_h3" Type="Pommel" />
+      <Piece id="crpg_steppe_spiked_mace_blade_h3" Type="Blade" />
+      <Piece id="crpg_steppe_spiked_mace_handle_h3" Type="Handle" scale_factor="108" />
+      <Piece id="crpg_steppe_spiked_mace_pommel_h3" Type="Pommel" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_fullered_light_mace_h0" name="{=6QI8X6CY}Fullered Light Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
@@ -10499,29 +10499,29 @@
   <CraftedItem id="crpg_militia_pernach_h0" name="{=WASZXuec}Militia Pernach" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h0" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h0" Type="Handle" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_pommel_h0" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h0" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h0" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_militia_pernach_h1" name="{=WASZXuec}Militia Pernach +1" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h1" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h1" Type="Handle" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_pommel_h1" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h1" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h1" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_militia_pernach_h2" name="{=WASZXuec}Militia Pernach +2" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h2" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h2" Type="Handle" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_pommel_h2" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h2" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h2" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_militia_pernach_h3" name="{=WASZXuec}Militia Pernach +3" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_militia_pernach_blade_h3" Type="Blade" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_handle_h3" Type="Handle" scale_factor="137" />
-      <Piece id="crpg_militia_pernach_pommel_h3" Type="Pommel" scale_factor="137" />
+      <Piece id="crpg_militia_pernach_handle_h3" Type="Handle" scale_factor="142" />
+      <Piece id="crpg_militia_pernach_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_heavy_flanged_mace_h0" name="{=mzvtFPPi}Heavy Flanged Mace" crafting_template="crpg_Mace" is_merchandise="false">
