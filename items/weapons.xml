@@ -4188,32 +4188,32 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <CraftedItem id="crpg_heavy_flanged_mace_h0" name="{=fz23ajFz}Heavy Flanged Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steel_flanged_mace_h0" name="{=fz23ajFz}Steel Flanged Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_heavy_flanged_mace_blade_h0" Type="Blade" />
-      <Piece id="crpg_heavy_flanged_mace_handle_h0" Type="Handle" />
-      <Piece id="crpg_heavy_flanged_mace_pommel_h0" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_steel_flanged_mace_blade_h0" Type="Blade" />
+			<Piece id="crpg_steel_flanged_mace_handle_h0" Type="Handle" scale_factor="88" />
+			<Piece id="crpg_steel_flanged_mace_pommel_h0" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_heavy_flanged_mace_h1" name="{=fz23ajFz}Heavy Flanged Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steel_flanged_mace_h1" name="{=fz23ajFz}Steel Flanged Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_heavy_flanged_mace_blade_h1" Type="Blade" />
-      <Piece id="crpg_heavy_flanged_mace_handle_h1" Type="Handle" />
-      <Piece id="crpg_heavy_flanged_mace_pommel_h1" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_steel_flanged_mace_blade_h1" Type="Blade" />
+      <Piece id="crpg_steel_flanged_mace_handle_h1" Type="Handle" scale_factor="88" />
+      <Piece id="crpg_steel_flanged_mace_pommel_h1" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_heavy_flanged_mace_h2" name="{=fz23ajFz}Heavy Flanged Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steel_flanged_mace_h2" name="{=fz23ajFz}Steel Flanged Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_heavy_flanged_mace_blade_h2" Type="Blade" />
-      <Piece id="crpg_heavy_flanged_mace_handle_h2" Type="Handle" />
-      <Piece id="crpg_heavy_flanged_mace_pommel_h2" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_steel_flanged_mace_blade_h2" Type="Blade" />
+      <Piece id="crpg_steel_flanged_mace_handle_h2" Type="Handle" scale_factor="88" />
+      <Piece id="crpg_steel_flanged_mace_pommel_h2" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_heavy_flanged_mace_h3" name="{=fz23ajFz}Heavy Flanged Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_steel_flanged_mace_h3" name="{=fz23ajFz}Steel Flanged Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_heavy_flanged_mace_blade_h3" Type="Blade" />
-      <Piece id="crpg_heavy_flanged_mace_handle_h3" Type="Handle" />
-      <Piece id="crpg_heavy_flanged_mace_pommel_h3" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_steel_flanged_mace_blade_h3" Type="Blade" />
+      <Piece id="crpg_steel_flanged_mace_handle_h3" Type="Handle" scale_factor="88" />
+      <Piece id="crpg_steel_flanged_mace_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_cataphract_mace_h0" name="{=Kv4zAMIh}Cataphract Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
@@ -4324,32 +4324,32 @@
       <Piece id="crpg_long_steel_mace_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steel_mace_h0" name="{=xYk4953c}Steel Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_bone_crusher_h0" name="{=xYk4953c}Bone Crusher" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steel_mace_blade_h0" Type="Blade" scale_factor="108" />
-      <Piece id="crpg_steel_mace_handle_h0" Type="Handle" scale_factor="120" />
-      <Piece id="crpg_steel_mace_pommel_h0" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_bone_crusher_blade_h0" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_bone_crusher_handle_h0" Type="Handle" scale_factor="118" />
+      <Piece id="crpg_bone_crusher_pommel_h0" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steel_mace_h1" name="{=xYk4953c}Steel Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_bone_crusher_h1" name="{=xYk4953c}Bone Crusher +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steel_mace_blade_h1" Type="Blade" scale_factor="108" />
-      <Piece id="crpg_steel_mace_handle_h1" Type="Handle" scale_factor="120" />
-      <Piece id="crpg_steel_mace_pommel_h1" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_bone_crusher_blade_h1" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_bone_crusher_handle_h1" Type="Handle" scale_factor="118" />
+      <Piece id="crpg_bone_crusher_pommel_h1" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steel_mace_h2" name="{=xYk4953c}Steel Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_bone_crusher_h2" name="{=xYk4953c}Bone Crusher +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steel_mace_blade_h2" Type="Blade" scale_factor="108" />
-      <Piece id="crpg_steel_mace_handle_h2" Type="Handle" scale_factor="120" />
-      <Piece id="crpg_steel_mace_pommel_h2" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_bone_crusher_blade_h2" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_bone_crusher_handle_h2" Type="Handle" scale_factor="118" />
+      <Piece id="crpg_bone_crusher_pommel_h2" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_steel_mace_h3" name="{=xYk4953c}Steel Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+  <CraftedItem id="crpg_bone_crusher_h3" name="{=xYk4953c}Bone Crusher +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_steel_mace_blade_h3" Type="Blade" scale_factor="108" />
-      <Piece id="crpg_steel_mace_handle_h3" Type="Handle" scale_factor="120" />
-      <Piece id="crpg_steel_mace_pommel_h3" Type="Pommel" scale_factor="90" />
+      <Piece id="crpg_bone_crusher_blade_h3" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_bone_crusher_handle_h3" Type="Handle" scale_factor="118" />
+      <Piece id="crpg_bone_crusher_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_light_shishpar_mace_h0" name="{=9EWN9SiT}Light Shishpar Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
@@ -10520,32 +10520,28 @@
       <Piece id="crpg_militia_pernach_pommel_h3" Type="Pommel" scale_factor="137" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_bone_crusher_h0" name="{=mzvtFPPi}Bone Crusher" crafting_template="crpg_Mace" is_merchandise="false">
+  <CraftedItem id="crpg_heavy_flanged_mace_h0" name="{=mzvtFPPi}Heavy Flanged Mace" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
-      <Piece id="crpg_bone_crusher_blade_h0" Type="Blade" />
-      <Piece id="crpg_bone_crusher_handle_h0" Type="Handle" />
-      <Piece id="crpg_bone_crusher_pommel_h0" Type="Pommel" />
+      <Piece id="crpg_heavy_flanged_mace_blade_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_heavy_flanged_mace_handle_h0" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_bone_crusher_h1" name="{=mzvtFPPi}Bone Crusher +1" crafting_template="crpg_Mace" is_merchandise="false">
+  <CraftedItem id="crpg_heavy_flanged_mace_h1" name="{=mzvtFPPi}Heavy Flanged Mace +1" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
-      <Piece id="crpg_bone_crusher_blade_h1" Type="Blade" />
-      <Piece id="crpg_bone_crusher_handle_h1" Type="Handle" />
-      <Piece id="crpg_bone_crusher_pommel_h1" Type="Pommel" />
+      <Piece id="crpg_heavy_flanged_mace_blade_h1" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_heavy_flanged_mace_handle_h1" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_bone_crusher_h2" name="{=mzvtFPPi}Bone Crusher +2" crafting_template="crpg_Mace" is_merchandise="false">
+  <CraftedItem id="crpg_heavy_flanged_mace_h2" name="{=mzvtFPPi}Heavy Flanged Mace +2" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
-      <Piece id="crpg_bone_crusher_blade_h2" Type="Blade" />
-      <Piece id="crpg_bone_crusher_handle_h2" Type="Handle" />
-      <Piece id="crpg_bone_crusher_pommel_h2" Type="Pommel" />
+      <Piece id="crpg_heavy_flanged_mace_blade_h2" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_heavy_flanged_mace_handle_h2" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_bone_crusher_h3" name="{=mzvtFPPi}Bone Crusher +3" crafting_template="crpg_Mace" is_merchandise="false">
+  <CraftedItem id="crpg_heavy_flanged_mace_h3" name="{=mzvtFPPi}Heavy Flanged Mace +3" crafting_template="crpg_Mace" is_merchandise="false">
     <Pieces>
-      <Piece id="crpg_bone_crusher_blade_h3" Type="Blade" />
-      <Piece id="crpg_bone_crusher_handle_h3" Type="Handle" />
-      <Piece id="crpg_bone_crusher_pommel_h3" Type="Pommel" />
+      <Piece id="crpg_heavy_flanged_mace_blade_h3" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_heavy_flanged_mace_handle_h3" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_early_retirement_h0" name="{=x0x1gIbT}Early Retirement" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
@@ -11696,4 +11692,28 @@
       <Piece id="crpg_rondel_pommel_h3" Type="Pommel" scale_factor="110" />
     </Pieces>
   </CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h0" name="{=Telford}Long Cavalry Mace" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h0" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h0" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h1" name="{=Telford}Long Cavalry Mace +1" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h1" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h1" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h2" name="{=Telford}Long Cavalry Mace +2" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h2" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h2" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
+	<CraftedItem id="crpg_long_cavalry_mace_h3" name="{=Telford}Long Cavalry Mace +3" crafting_template="crpg_Mace" culture="Culture.khuzait" modifier_group="mace">
+   		<Pieces>
+    		<Piece id="crpg_long_cavalry_mace_blade_h3" Type="Blade" scale_factor="120" />
+    		<Piece id="crpg_long_cavalry_mace_handle_h3" Type="Handle" scale_factor="152" />
+   		</Pieces>
+  	</CraftedItem>
 </Items>
