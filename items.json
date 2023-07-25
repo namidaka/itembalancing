@@ -47487,10 +47487,10 @@
     "name": "Fine Steel Mace",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 5533,
-    "weight": 1.37,
+    "price": 2931,
+    "weight": 1.71,
     "rank": 0,
-    "tier": 8.766809,
+    "tier": 6.078887,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -47500,19 +47500,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 91,
-        "balance": 0.44,
-        "handling": 85,
+        "length": 90,
+        "balance": 0.16,
+        "handling": 79,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 24,
+        "thrustSpeed": 88,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 74
       }
     ]
   },
@@ -47522,10 +47522,10 @@
     "name": "Fine Steel Mace +1",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 5387,
-    "weight": 1.37,
+    "price": 3298,
+    "weight": 1.64,
     "rank": 1,
-    "tier": 8.635548,
+    "tier": 6.514557,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -47535,19 +47535,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 91,
-        "balance": 0.44,
-        "handling": 85,
+        "length": 90,
+        "balance": 0.22,
+        "handling": 80,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 25,
+        "thrustSpeed": 89,
+        "swingDamage": 29,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 76
       }
     ]
   },
@@ -47557,10 +47557,10 @@
     "name": "Fine Steel Mace +2",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 5336,
-    "weight": 1.37,
+    "price": 3997,
+    "weight": 1.61,
     "rank": 2,
-    "tier": 8.589266,
+    "tier": 7.283947,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -47570,19 +47570,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 91,
-        "balance": 0.44,
-        "handling": 85,
+        "length": 90,
+        "balance": 0.24,
+        "handling": 81,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 92,
-        "swingDamage": 26,
+        "thrustSpeed": 89,
+        "swingDamage": 30,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 77
       }
     ]
   },
@@ -47592,10 +47592,10 @@
     "name": "Fine Steel Mace +3",
     "culture": "Khuzait",
     "type": "OneHandedWeapon",
-    "price": 6739,
-    "weight": 1.32,
+    "price": 3867,
+    "weight": 1.61,
     "rank": 3,
-    "tier": 9.7913,
+    "tier": 7.14622259,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -47605,19 +47605,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 91,
-        "balance": 0.48,
-        "handling": 86,
+        "length": 90,
+        "balance": 0.24,
+        "handling": 81,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 27,
+        "thrustSpeed": 89,
+        "swingDamage": 31,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 77
       }
     ]
   },
@@ -88442,6 +88442,146 @@
     "weapons": []
   },
   {
+    "id": "crpg_long_pernach_h0",
+    "baseId": "crpg_long_pernach",
+    "name": "Long Pernach",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 5732,
+    "weight": 1.99,
+    "rank": 0,
+    "tier": 8.942796,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 92,
+        "balance": 0.34,
+        "handling": 84,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_pernach_h1",
+    "baseId": "crpg_long_pernach",
+    "name": "Long Pernach +1",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 6538,
+    "weight": 1.91,
+    "rank": 1,
+    "tier": 9.627118,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 92,
+        "balance": 0.42,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_pernach_h2",
+    "baseId": "crpg_long_pernach",
+    "name": "Long Pernach +2",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 6402,
+    "weight": 1.91,
+    "rank": 2,
+    "tier": 9.514761,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 92,
+        "balance": 0.42,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 27,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_pernach_h3",
+    "baseId": "crpg_long_pernach",
+    "name": "Long Pernach +3",
+    "culture": "Vlandia",
+    "type": "OneHandedWeapon",
+    "price": 6360,
+    "weight": 1.91,
+    "rank": 3,
+    "tier": 9.479579,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 92,
+        "balance": 0.42,
+        "handling": 86,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 28,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
     "id": "crpg_long_steel_mace_h0",
     "baseId": "crpg_long_steel_mace",
     "name": "Long Steel Mace",
@@ -114782,6 +114922,146 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 85,
         "swingDamage": 29,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_persian_steel_mace_h0",
+    "baseId": "crpg_persian_steel_mace",
+    "name": "Persian Steel Mace",
+    "culture": "Empire",
+    "type": "OneHandedWeapon",
+    "price": 6960,
+    "weight": 1.79,
+    "rank": 0,
+    "tier": 9.968363,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 90,
+        "balance": 0.47,
+        "handling": 87,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 24,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_persian_steel_mace_h1",
+    "baseId": "crpg_persian_steel_mace",
+    "name": "Persian Steel Mace +1",
+    "culture": "Empire",
+    "type": "OneHandedWeapon",
+    "price": 6774,
+    "weight": 1.79,
+    "rank": 1,
+    "tier": 9.819113,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 90,
+        "balance": 0.47,
+        "handling": 87,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 25,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_persian_steel_mace_h2",
+    "baseId": "crpg_persian_steel_mace",
+    "name": "Persian Steel Mace +2",
+    "culture": "Empire",
+    "type": "OneHandedWeapon",
+    "price": 6709,
+    "weight": 1.79,
+    "rank": 2,
+    "tier": 9.766491,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 90,
+        "balance": 0.47,
+        "handling": 87,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 26,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_persian_steel_mace_h3",
+    "baseId": "crpg_persian_steel_mace",
+    "name": "Persian Steel Mace +3",
+    "culture": "Empire",
+    "type": "OneHandedWeapon",
+    "price": 6735,
+    "weight": 1.79,
+    "rank": 3,
+    "tier": 9.787982,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 90,
+        "balance": 0.47,
+        "handling": 87,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
         "swingSpeed": 84
       }

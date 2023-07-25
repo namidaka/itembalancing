@@ -8589,6 +8589,26 @@
       <UsablePiece piece_id="crpg_long_cavalry_mace_handle_h1" />
       <UsablePiece piece_id="crpg_long_cavalry_mace_handle_h2" />
       <UsablePiece piece_id="crpg_long_cavalry_mace_handle_h3" />
+    	<UsablePiece piece_id="crpg_long_pernach_blade_h0" />
+      <UsablePiece piece_id="crpg_long_pernach_blade_h1" />
+      <UsablePiece piece_id="crpg_long_pernach_blade_h2" />
+      <UsablePiece piece_id="crpg_long_pernach_blade_h3" />
+     	<UsablePiece piece_id="crpg_long_pernach_handle_h0" />
+      <UsablePiece piece_id="crpg_long_pernach_handle_h1" />
+      <UsablePiece piece_id="crpg_long_pernach_handle_h2" />
+      <UsablePiece piece_id="crpg_long_pernach_handle_h3" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_blade_h0" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_blade_h1" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_blade_h2" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_blade_h3" />
+     	<UsablePiece piece_id="crpg_persian_steel_mace_handle_h0" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_handle_h1" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_handle_h2" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_handle_h3" />
+  		<UsablePiece piece_id="crpg_persian_steel_mace_pommel_h0" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_pommel_h1" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_pommel_h2" />
+      <UsablePiece piece_id="crpg_persian_steel_mace_pommel_h3" />
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_TwoHandedMace" item_type="TwoHandedWeapon" modifier_group="mace" item_holsters="axe_back:axe_back_2:axe_back_3:axe_back_4" default_item_holster_position_offset="0,0,-0.75" use_weapon_as_holster_mesh="true">
