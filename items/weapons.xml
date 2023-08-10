@@ -11848,6 +11848,30 @@
       <Piece id="crpg_short_western_mace_handle_h3" Type="Handle" scale_factor="105" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_gladius_mainz" name="{=}1Mainz Gladius" crafting_template="OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+      <Pieces>
+          <Piece id="crpg_gladius_mainz_blade" Type="Blade" scale_factor="100" />
+          <Piece id="crpg_gladius_mainz_guard" Type="Guard" scale_factor="100" />
+          <Piece id="crpg_gladius_mainz_handle" Type="Handle" scale_factor="100" />
+          <Piece id="crpg_gladius_mainz_pommel" Type="Pommel" scale_factor="100" />
+      </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_gladius_pompeian" name="{=}1Pompeian Gladius" crafting_template="OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+      <Pieces>
+          <Piece id="crpg_gladius_pompeian_blade" Type="Blade" scale_factor="100" />
+          <Piece id="crpg_gladius_pompeian_guard" Type="Guard" scale_factor="100" />
+          <Piece id="crpg_gladius_pompeian_handle" Type="Handle" scale_factor="100" />
+          <Piece id="crpg_gladius_pompeian_pommel" Type="Pommel" scale_factor="100" />
+      </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_gladius_republican" name="{=}1Republican Gladius" crafting_template="OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+      <Pieces>
+          <Piece id="crpg_gladius_republican_blade" Type="Blade" scale_factor="100" />
+          <Piece id="crpg_gladius_republican_guard" Type="Guard" scale_factor="100" />
+          <Piece id="crpg_gladius_republican_handle" Type="Handle" scale_factor="100" />
+          <Piece id="crpg_gladius_republican_pommel" Type="Pommel" scale_factor="100" />
+      </Pieces>
+  </CraftedItem>  
   <CraftedItem id="crpg_tetsubo_h0" name="{=}Tetsubo" crafting_template="crpg_TwoHandedMace" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_tetsubo_head_h0" Type="Blade" scale_factor="100" />
