@@ -632,25 +632,25 @@
       <Piece id="crpg_claymore_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_long_maul_h0" name="{=}Long Maul" crafting_template="crpg_TwoHandedMace" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_long_maul_v1_h0" name="{=}Long Maul" crafting_template="crpg_TwoHandedPolearm" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_long_maul_blade_h0" Type="Blade" scale_factor="107" />
       <Piece id="crpg_long_maul_handle_h0" Type="Handle" scale_factor="165" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_long_maul_h1" name="{=}Long Maul +1" crafting_template="crpg_TwoHandedMace" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_long_maul_v1_h1" name="{=}Long Maul +1" crafting_template="crpg_TwoHandedPolearm" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_long_maul_blade_h1" Type="Blade" scale_factor="107" />
       <Piece id="crpg_long_maul_handle_h1" Type="Handle" scale_factor="165" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_long_maul_h2" name="{=}Long Maul +2" crafting_template="crpg_TwoHandedMace" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_long_maul_v1_h2" name="{=}Long Maul +2" crafting_template="crpg_TwoHandedPolearm" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_long_maul_blade_h2" Type="Blade" scale_factor="107" />
       <Piece id="crpg_long_maul_handle_h2" Type="Handle" scale_factor="165" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_long_maul_h3" name="{=}Long Maul +3" crafting_template="crpg_TwoHandedMace" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_long_maul_v1_h3" name="{=}Long Maul +3" crafting_template="crpg_TwoHandedPolearm" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_long_maul_blade_h3" Type="Blade" scale_factor="107" />
       <Piece id="crpg_long_maul_handle_h3" Type="Handle" scale_factor="165" />

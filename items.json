@@ -88690,166 +88690,170 @@
     "weapons": []
   },
   {
-    "id": "crpg_long_maul_h0",
-    "baseId": "crpg_long_maul",
+    "id": "crpg_long_maul_v1_h0",
+    "baseId": "crpg_long_maul_v1",
     "name": "Long Maul",
     "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 9681,
-    "weight": 1.68,
+    "type": "Polearm",
+    "price": 6716,
+    "weight": 2.29,
     "rank": 0,
-    "tier": 8.134692,
+    "tier": 6.598648,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "weapons": [
       {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 133,
         "balance": 0.0,
-        "handling": 62,
+        "handling": 55,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
+          "WideGrip",
           "TwoHandIdleOnMount",
           "MultiplePenetration",
           "CanKnockDown"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 93,
-        "swingDamage": 30,
+        "thrustSpeed": 88,
+        "swingDamage": 33,
         "swingDamageType": "Blunt",
-        "swingSpeed": 65
+        "swingSpeed": 60
       }
     ]
   },
   {
-    "id": "crpg_long_maul_h1",
-    "baseId": "crpg_long_maul",
+    "id": "crpg_long_maul_v1_h1",
+    "baseId": "crpg_long_maul_v1",
     "name": "Long Maul +1",
     "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 11732,
-    "weight": 1.6,
+    "type": "Polearm",
+    "price": 6214,
+    "weight": 2.23,
     "rank": 1,
-    "tier": 9.063046,
+    "tier": 6.307268,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "weapons": [
       {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 133,
         "balance": 0.0,
-        "handling": 63,
+        "handling": 55,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
+          "WideGrip",
           "TwoHandIdleOnMount",
           "MultiplePenetration",
           "CanKnockDown"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 30,
+        "thrustSpeed": 88,
+        "swingDamage": 33,
         "swingDamageType": "Blunt",
-        "swingSpeed": 67
+        "swingSpeed": 61
       }
     ]
   },
   {
-    "id": "crpg_long_maul_h2",
-    "baseId": "crpg_long_maul",
+    "id": "crpg_long_maul_v1_h2",
+    "baseId": "crpg_long_maul_v1",
     "name": "Long Maul +2",
     "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 11060,
-    "weight": 1.6,
+    "type": "Polearm",
+    "price": 6268,
+    "weight": 2.17,
     "rank": 2,
-    "tier": 8.768617,
+    "tier": 6.339559,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "weapons": [
       {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 133,
         "balance": 0.0,
-        "handling": 63,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
+          "WideGrip",
           "TwoHandIdleOnMount",
           "MultiplePenetration",
           "CanKnockDown"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 31,
+        "thrustSpeed": 89,
+        "swingDamage": 33,
         "swingDamageType": "Blunt",
-        "swingSpeed": 67
+        "swingSpeed": 62
       }
     ]
   },
   {
-    "id": "crpg_long_maul_h3",
-    "baseId": "crpg_long_maul",
+    "id": "crpg_long_maul_v1_h3",
+    "baseId": "crpg_long_maul_v1",
     "name": "Long Maul +3",
     "culture": "Neutral",
-    "type": "TwoHandedWeapon",
-    "price": 10606,
-    "weight": 1.6,
+    "type": "Polearm",
+    "price": 7570,
+    "weight": 2.12,
     "rank": 3,
-    "tier": 8.56439,
+    "tier": 7.07024145,
     "requirement": 0,
     "flags": [
       "Civilian"
     ],
     "weapons": [
       {
-        "class": "TwoHandedMace",
-        "itemUsage": "twohanded_axe",
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 133,
         "balance": 0.0,
-        "handling": 63,
+        "handling": 56,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon",
           "NotUsableWithOneHand",
+          "WideGrip",
           "TwoHandIdleOnMount",
           "MultiplePenetration",
           "CanKnockDown"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 32,
+        "thrustSpeed": 89,
+        "swingDamage": 34,
         "swingDamageType": "Blunt",
-        "swingSpeed": 67
+        "swingSpeed": 63
       }
     ]
   },
