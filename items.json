@@ -20790,166 +20790,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_battered_horsemans_kite_shield_v2_h0",
-    "baseId": "crpg_battered_horsemans_kite_shield_v2",
-    "name": "Simple Horseman Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 162,
-    "weight": 0.6498,
-    "rank": 0,
-    "tier": 0.6680236,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 160,
-        "length": 57,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_battered_horsemans_kite_shield_v2_h1",
-    "baseId": "crpg_battered_horsemans_kite_shield_v2",
-    "name": "Simple Horseman Kite Shield +1",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 158,
-    "weight": 0.6498,
-    "rank": 1,
-    "tier": 0.645444155,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 173,
-        "length": 57,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_battered_horsemans_kite_shield_v2_h2",
-    "baseId": "crpg_battered_horsemans_kite_shield_v2",
-    "name": "Simple Horseman Kite Shield +2",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 154,
-    "weight": 0.6498,
-    "rank": 2,
-    "tier": 0.626924455,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 186,
-        "length": 57,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_battered_horsemans_kite_shield_v2_h3",
-    "baseId": "crpg_battered_horsemans_kite_shield_v2",
-    "name": "Simple Horseman Kite Shield +3",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 151,
-    "weight": 0.6498,
-    "rank": 3,
-    "tier": 0.6114647,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 199,
-        "length": 57,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_bearhead_v2_h0",
     "baseId": "crpg_bearhead_v2",
     "name": "Bear Head",
@@ -63536,6 +63376,7 @@
     "weapons": []
   },
   {
+<<<<<<< HEAD
     "id": "crpg_hand_pavise_h0",
     "baseId": "crpg_hand_pavise",
     "name": "Hand Pavise",
@@ -64178,6 +64019,10 @@
   {
     "id": "crpg_harpoon_v2_h0",
     "baseId": "crpg_harpoon_v2",
+=======
+    "id": "crpg_harpoon_v1_h0",
+    "baseId": "crpg_harpoon_v1",
+>>>>>>> d6e8bf9 (removed unused & ugly shields)
     "name": "Harpoon",
     "culture": "Sturgia",
     "type": "Thrown",
@@ -65774,166 +65619,6 @@
       "familyType": 0
     },
     "weapons": []
-  },
-  {
-    "id": "crpg_heater_shield_with_cutout_v2_h0",
-    "baseId": "crpg_heater_shield_with_cutout_v2",
-    "name": "Heater Shield with Cutout",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 261,
-    "weight": 0.7751563,
-    "rank": 0,
-    "tier": 1.09662855,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 205,
-        "length": 55,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_heater_shield_with_cutout_v2_h1",
-    "baseId": "crpg_heater_shield_with_cutout_v2",
-    "name": "Heater Shield with Cutout +1",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 253,
-    "weight": 0.7751563,
-    "rank": 1,
-    "tier": 1.06285107,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 222,
-        "length": 55,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_heater_shield_with_cutout_v2_h2",
-    "baseId": "crpg_heater_shield_with_cutout_v2",
-    "name": "Heater Shield with Cutout +2",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 244,
-    "weight": 0.7751563,
-    "rank": 2,
-    "tier": 1.02646291,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 238,
-        "length": 55,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_heater_shield_with_cutout_v2_h3",
-    "baseId": "crpg_heater_shield_with_cutout_v2",
-    "name": "Heater Shield with Cutout +3",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 238,
-    "weight": 0.7751563,
-    "rank": 3,
-    "tier": 1.00402749,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 255,
-        "length": 55,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
   },
   {
     "id": "crpg_heavy_blacksmith_hammer_h0",
@@ -74082,6 +73767,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "crpg_horsemans_heater_shield_v2_h0",
     "baseId": "crpg_horsemans_heater_shield_v2",
     "name": "Small Cavalry Heater Shield",
@@ -74382,6 +74068,8 @@
     ]
   },
   {
+=======
+>>>>>>> d6e8bf9 (removed unused & ugly shields)
     "id": "crpg_hosen_1_v1_h0",
     "baseId": "crpg_hosen_1_v1",
     "name": "Hosen (Split Color)",
@@ -82164,6 +81852,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "crpg_jian_h0",
     "baseId": "crpg_jian",
     "name": "Jian",
@@ -82464,6 +82153,8 @@
     ]
   },
   {
+=======
+>>>>>>> d6e8bf9 (removed unused & ugly shields)
     "id": "crpg_judgement_h0",
     "baseId": "crpg_judgement",
     "name": "Judgement",
@@ -120108,6 +119799,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "crpg_old_horsemans_kite_shield_v2_h0",
     "baseId": "crpg_old_horsemans_kite_shield_v2",
     "name": "Wooden Kite Shield",
@@ -120712,6 +120404,8 @@
     ]
   },
   {
+=======
+>>>>>>> d6e8bf9 (removed unused & ugly shields)
     "id": "crpg_open_desert_helmet_v2_h0",
     "baseId": "crpg_open_desert_helmet_v2",
     "name": "Spiked Helmet with Open Turban",
@@ -122926,166 +122620,6 @@
       "familyType": 0
     },
     "weapons": []
-  },
-  {
-    "id": "crpg_pavise_h0",
-    "baseId": "crpg_pavise",
-    "name": "Pavise",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 4956,
-    "weight": 10.443,
-    "rank": 0,
-    "tier": 8.236979,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 600,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_pavise_h1",
-    "baseId": "crpg_pavise",
-    "name": "Pavise +1",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 5321,
-    "weight": 10.443,
-    "rank": 1,
-    "tier": 8.57521248,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 648,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_pavise_h2",
-    "baseId": "crpg_pavise",
-    "name": "Pavise +2",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 5036,
-    "weight": 10.443,
-    "rank": 2,
-    "tier": 8.312587,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 696,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_pavise_h3",
-    "baseId": "crpg_pavise",
-    "name": "Pavise +3",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 4805,
-    "weight": 10.443,
-    "rank": 3,
-    "tier": 8.093557,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 744,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
   },
   {
     "id": "crpg_pavise_shield_v2_h0",
@@ -156424,166 +155958,6 @@
     ]
   },
   {
-    "id": "crpg_studded_adarga_v2_h0",
-    "baseId": "crpg_studded_adarga_v2",
-    "name": "Studded Adarga",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 364,
-    "weight": 0.629565,
-    "rank": 0,
-    "tier": 1.46841931,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 47,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_studded_adarga_v2_h1",
-    "baseId": "crpg_studded_adarga_v2",
-    "name": "Studded Adarga +1",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 385,
-    "weight": 0.629565,
-    "rank": 1,
-    "tier": 1.53816819,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 247,
-        "length": 47,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_studded_adarga_v2_h2",
-    "baseId": "crpg_studded_adarga_v2",
-    "name": "Studded Adarga +2",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 370,
-    "weight": 0.629565,
-    "rank": 2,
-    "tier": 1.4877311,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 265,
-        "length": 47,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_studded_adarga_v2_h3",
-    "baseId": "crpg_studded_adarga_v2",
-    "name": "Studded Adarga +3",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 357,
-    "weight": 0.629565,
-    "rank": 3,
-    "tier": 1.44571078,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 283,
-        "length": 47,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_studded_bound_kite_shield_v2_h0",
     "baseId": "crpg_studded_bound_kite_shield_v2",
     "name": "Studded Bound Kite Shield",
@@ -178764,166 +178138,6 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 96
-      }
-    ]
-  },
-  {
-    "id": "crpg_worn_horsemans_kite_shield_v2_h0",
-    "baseId": "crpg_worn_horsemans_kite_shield_v2",
-    "name": "Makeshift Horseman Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 205,
-    "weight": 0.71344,
-    "rank": 0,
-    "tier": 0.864360034,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 182,
-        "length": 56,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_worn_horsemans_kite_shield_v2_h1",
-    "baseId": "crpg_worn_horsemans_kite_shield_v2",
-    "name": "Makeshift Horseman Kite Shield +1",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 199,
-    "weight": 0.71344,
-    "rank": 1,
-    "tier": 0.8369489,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 197,
-        "length": 56,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_worn_horsemans_kite_shield_v2_h2",
-    "baseId": "crpg_worn_horsemans_kite_shield_v2",
-    "name": "Makeshift Horseman Kite Shield +2",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 194,
-    "weight": 0.71344,
-    "rank": 2,
-    "tier": 0.814443767,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 212,
-        "length": 56,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
-    "id": "crpg_worn_horsemans_kite_shield_v2_h3",
-    "baseId": "crpg_worn_horsemans_kite_shield_v2",
-    "name": "Makeshift Horseman Kite Shield +3",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 188,
-    "weight": 0.71344,
-    "rank": 3,
-    "tier": 0.7886459,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 226,
-        "length": 56,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
       }
     ]
   },
