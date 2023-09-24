@@ -29174,26 +29174,26 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_mainz_blade_h0" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.empire" length="59.8" weight="1.55">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_gladius_mainz_blade_h1" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.battania" length="59.8" weight="1.55">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="3.3" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_gladius_mainz_blade_h2" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.battania" length="59.8" weight="1.55">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="3.3" />
+      <Swing damage_type="Cut" damage_factor="3.0" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_gladius_mainz_blade_h3" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.battania" length="59.8" weight="1.55">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="3.5" />
       <Swing damage_type="Cut" damage_factor="3.1" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_blade_h1" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.battania" length="59.8" weight="1.35">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_blade_h2" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.battania" length="59.8" weight="1.0">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_blade_h3" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.battania" length="59.8" weight="1.0">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_mainz_pommel_h0" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.01">
@@ -29202,19 +29202,19 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_pommel_h1" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.12">
+  <CraftingPiece id="crpg_gladius_mainz_pommel_h1" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.01">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_pommel_h2" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.12">
+  <CraftingPiece id="crpg_gladius_mainz_pommel_h2" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.01">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_pommel_h3" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.12">
+  <CraftingPiece id="crpg_gladius_mainz_pommel_h3" name="{=}Mainz Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_mainz_pommel" culture="Culture.battania" length="6.34" weight="0.01">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
@@ -29224,28 +29224,28 @@
     <BuildData next_piece_offset="7" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_guard_h1" name="{=}Mainz Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_mainz_guard" culture="Culture.battania" length="6.2" weight="0.097">
+  <CraftingPiece id="crpg_gladius_mainz_guard_h1" name="{=}Mainz Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_mainz_guard" culture="Culture.battania" length="6.2" weight="0.01">
     <BuildData next_piece_offset="7" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_guard_h2" name="{=}Mainz Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_mainz_guard" culture="Culture.battania" length="6.2" weight="0.097">
+  <CraftingPiece id="crpg_gladius_mainz_guard_h2" name="{=}Mainz Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_mainz_guard" culture="Culture.battania" length="6.2" weight="0.01">
     <BuildData next_piece_offset="7" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_guard_h3" name="{=}Mainz Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_mainz_guard" culture="Culture.battania" length="6.2" weight="0.097">
+  <CraftingPiece id="crpg_gladius_mainz_guard_h3" name="{=}Mainz Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_mainz_guard" culture="Culture.battania" length="6.2" weight="0.01">
     <BuildData next_piece_offset="7" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_mainz_handle_h0" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_handle_h1" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.1">
+  <CraftingPiece id="crpg_gladius_mainz_handle_h1" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_handle_h2" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.1">
+  <CraftingPiece id="crpg_gladius_mainz_handle_h2" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_mainz_handle_h3" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.1">
+  <CraftingPiece id="crpg_gladius_mainz_handle_h3" name="{=}Mainz Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_mainz_handle" culture="Culture.khuzait" length="11.3" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_republican_blade_h0" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.5">
