@@ -29254,22 +29254,22 @@
       <Swing damage_type="Cut" damage_factor="2.7" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_blade_h1" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.0">
+  <CraftingPiece id="crpg_gladius_republican_blade_h1" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.5">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Thrust damage_type="Pierce" damage_factor="3.1" />
+      <Swing damage_type="Cut" damage_factor="2.7" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_blade_h2" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.0">
+  <CraftingPiece id="crpg_gladius_republican_blade_h2" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.5">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="2.8" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_blade_h3" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.0">
+  <CraftingPiece id="crpg_gladius_republican_blade_h3" name="{=}Republican Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_republican_blade" culture="Culture.battania" length="65" weight="1.5">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Thrust damage_type="Pierce" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_republican_pommel_h0" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.02">
@@ -29278,19 +29278,19 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_pommel_h1" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.12">
+  <CraftingPiece id="crpg_gladius_republican_pommel_h1" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.02">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_pommel_h2" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.12">
+  <CraftingPiece id="crpg_gladius_republican_pommel_h2" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.02">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_pommel_h3" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.12">
+  <CraftingPiece id="crpg_gladius_republican_pommel_h3" name="{=}Republican Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_republican_pommel" culture="Culture.battania" length="7.04" weight="0.02">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
@@ -29300,28 +29300,28 @@
     <BuildData next_piece_offset="1" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_guard_h1" name="{=}Republican Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_republican_guard" culture="Culture.battania" length="5.74" weight="0.097">
+  <CraftingPiece id="crpg_gladius_republican_guard_h1" name="{=}Republican Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_republican_guard" culture="Culture.battania" length="5.74" weight="0.03">
     <BuildData next_piece_offset="1" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_guard_h2" name="{=}Republican Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_republican_guard" culture="Culture.battania" length="5.74" weight="0.097">
+  <CraftingPiece id="crpg_gladius_republican_guard_h2" name="{=}Republican Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_republican_guard" culture="Culture.battania" length="5.74" weight="0.03">
     <BuildData next_piece_offset="1" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_guard_h3" name="{=}Republican Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_republican_guard" culture="Culture.battania" length="5.74" weight="0.097">
+  <CraftingPiece id="crpg_gladius_republican_guard_h3" name="{=}Republican Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_republican_guard" culture="Culture.battania" length="5.74" weight="0.03">
     <BuildData next_piece_offset="1" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_republican_handle_h0" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.02">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_handle_h1" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.1">
+  <CraftingPiece id="crpg_gladius_republican_handle_h1" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.02">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_handle_h2" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.1">
+  <CraftingPiece id="crpg_gladius_republican_handle_h2" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.02">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_republican_handle_h3" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.1">
+  <CraftingPiece id="crpg_gladius_republican_handle_h3" name="{=}Republican Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_republican_handle" culture="Culture.khuzait" length="15.7" weight="0.02">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_red_nodachi_blade_h0" name="{=}Katana Blade" tier="2" piece_type="Blade" mesh="katana_blade" culture="Culture.aserai" length="93.7" weight="0.35">
