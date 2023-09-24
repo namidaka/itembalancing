@@ -29096,28 +29096,28 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_blade_h0" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.empire" length="46.5" weight="1.55">
+  <CraftingPiece id="crpg_gladius_pompeian_blade_h0" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.empire" length="46.5" weight="1.5">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="2.7" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_gladius_pompeian_blade_h1" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.battania" length="46.5" weight="1.5">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce" damage_factor="3.5" />
       <Swing damage_type="Cut" damage_factor="2.7" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_blade_h1" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.battania" length="46.5" weight="1.0">
+  <CraftingPiece id="crpg_gladius_pompeian_blade_h2" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.battania" length="46.5" weight="1.5">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Thrust damage_type="Pierce" damage_factor="3.6" />
+      <Swing damage_type="Cut" damage_factor="2.8" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_blade_h2" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.battania" length="46.5" weight="1.0">
+  <CraftingPiece id="crpg_gladius_pompeian_blade_h3" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.battania" length="46.5" weight="1.5">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
-    </BladeData>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_blade_h3" name="{=}Pompeian Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_pompeian_blade" culture="Culture.battania" length="46.5" weight="1.0">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Thrust damage_type="Pierce" damage_factor="3.7" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_pompeian_pommel_h0" name="{=}Pompeian Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_pompeian_pommel" culture="Culture.battania" length="8.45" weight="0.01">
@@ -29126,13 +29126,13 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_pommel_h1" name="{=}Pompeian Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_pompeian_pommel" culture="Culture.battania" length="8.45" weight="0.12">
+  <CraftingPiece id="crpg_gladius_pompeian_pommel_h1" name="{=}Pompeian Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_pompeian_pommel" culture="Culture.battania" length="8.45" weight="0.01">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_pommel_h2" name="{=}Pompeian Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_pompeian_pommel" culture="Culture.battania" length="8.45" weight="0.12">
+  <CraftingPiece id="crpg_gladius_pompeian_pommel_h2" name="{=}Pompeian Gladius Pommel" tier="4" piece_type="Pommel" mesh="gladius_pompeian_pommel" culture="Culture.battania" length="8.45" weight="0.01">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
@@ -29148,28 +29148,28 @@
     <BuildData next_piece_offset="5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_guard_h1" name="{=}Pompeian Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_pompeian_guard" culture="Culture.battania" length="5.79" weight="0.097">
+  <CraftingPiece id="crpg_gladius_pompeian_guard_h1" name="{=}Pompeian Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_pompeian_guard" culture="Culture.battania" length="5.79" weight="0.01">
     <BuildData next_piece_offset="5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_guard_h2" name="{=}Pompeian Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_pompeian_guard" culture="Culture.battania" length="5.79" weight="0.097">
+  <CraftingPiece id="crpg_gladius_pompeian_guard_h2" name="{=}Pompeian Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_pompeian_guard" culture="Culture.battania" length="5.79" weight="0.01">
     <BuildData next_piece_offset="5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_guard_h3" name="{=}Pompeian Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_pompeian_guard" culture="Culture.battania" length="5.79" weight="0.097">
+  <CraftingPiece id="crpg_gladius_pompeian_guard_h3" name="{=}Pompeian Gladius Guard" tier="5" piece_type="Guard" mesh="gladius_pompeian_guard" culture="Culture.battania" length="5.79" weight="0.01">
     <BuildData next_piece_offset="5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_pompeian_handle_h0" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_handle_h1" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.1">
+  <CraftingPiece id="crpg_gladius_pompeian_handle_h1" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_handle_h2" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.1">
+  <CraftingPiece id="crpg_gladius_pompeian_handle_h2" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_gladius_pompeian_handle_h3" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.1">
+  <CraftingPiece id="crpg_gladius_pompeian_handle_h3" name="{=}Pompeian Gladius Handle" tier="3" piece_type="Handle" mesh="gladius_pompeian_handle" culture="Culture.khuzait" length="12.5" weight="0.01">
     <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_gladius_mainz_blade_h0" name="{=}Mainz Gladius Blade" tier="4" piece_type="Blade" mesh="gladius_mainz_blade" culture="Culture.empire" length="59.8" weight="1.55">
