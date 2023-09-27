@@ -29665,4 +29665,35 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_small_gada_handle_h0" name="{=}Onehanded Gada Handle" tier="1" piece_type="Handle" mesh="gada_handle" length="112" weight="1.0" excluded_item_usage_features="long" CraftingCost="100" is_default="true">
+    <BuildData piece_offset="32.0" previous_piece_offset="0.0" next_piece_offset="6" />
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_small_gada_blade_h0" name="{=}Onehanded Gada Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="1.42" full_scale="true" excluded_item_usage_features="shield:thrust">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanKnockDown" />
+    </Flags>
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_small_barmace_blade_h0" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" culture="Culture.battania" length="68.5" weight="1.25" >
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Swing damage_type="Blunt" damage_factor="2.7" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_small_barmace_handle_h0" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" culture="Culture.khuzait" length="24.7" weight=".001">
+    <BuildData piece_offset="-5" previous_piece_offset="0.0" next_piece_offset="18" />
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
 </CraftingPieces>

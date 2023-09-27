@@ -1716,26 +1716,26 @@
       <UsablePiece piece_id="crpg_executionerssword_handle_h0"/>
       <UsablePiece piece_id="crpg_executionerssword_guard_h0"/>
       <UsablePiece piece_id="crpg_executionerssword_pommel_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_blade_red_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_blade_blue_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_blade_green_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_blade_yellow_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_blade_black_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_guard_red_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_guard_blue_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_guard_green_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_guard_yellow_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_guard_black_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_handle_red_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_handle_blue_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_handle_green_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_handle_yellow_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_handle_black_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_pommel_red_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_pommel_blue_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_pommel_green_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_pommel_yellow_h0"/>
-      <UsablePiece piece_id="crpg_nodachi_pommel_black_h0"/>
+      <UsablePiece piece_id="crpg_red_nodachi_blade_h0"/>
+      <UsablePiece piece_id="crpg_blue_nodachi_blade_h0"/>
+      <UsablePiece piece_id="crpg_green_nodachi_blade_h0"/>
+      <UsablePiece piece_id="crpg_yellow_nodachi_blade_h0"/>
+      <UsablePiece piece_id="crpg_black_nodachi_blade_h0"/>
+      <UsablePiece piece_id="crpg_red_nodachi_guard_h0"/>
+      <UsablePiece piece_id="crpg_blue_nodachi_guard_h0"/>
+      <UsablePiece piece_id="crpg_green_nodachi_guard_h0"/>
+      <UsablePiece piece_id="crpg_yellow_nodachi_guard_h0"/>
+      <UsablePiece piece_id="crpg_black_nodachi_guard_h0"/>
+      <UsablePiece piece_id="crpg_red_nodachi_handle_h0"/>
+      <UsablePiece piece_id="crpg_blue_nodachi_handle_h0"/>
+      <UsablePiece piece_id="crpg_green_nodachi_handle_h0"/>
+      <UsablePiece piece_id="crpg_yellow_nodachi_handle_h0"/>
+      <UsablePiece piece_id="crpg_black_nodachi_handle_h0"/>
+      <UsablePiece piece_id="crpg_red_nodachi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_blue_nodachi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_green_nodachi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_yellow_nodachi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_black_nodachi_pommel_h0"/>
       <UsablePiece piece_id="crpg_thamaskene_steel_claymore_blade_h0" />
       <UsablePiece piece_id="crpg_thamaskene_steel_claymore_blade_h1" />
       <UsablePiece piece_id="crpg_thamaskene_steel_claymore_blade_h2" />
@@ -2953,8 +2953,8 @@
       <PieceData piece_type="Blade" build_order="2" />
       <PieceData piece_type="Pommel" build_order="-1" />
     </PieceDatas>
-    <WeaponDescriptions>/>
-      <WeaponDescription id="crpg_TwoHandedSword" />/>
+    <WeaponDescriptions>
+      <WeaponDescription id="crpg_TwoHandedSword" />
     </WeaponDescriptions>
     <StatsData>
       <StatData stat_type="Weight" max_value="7.0" />
@@ -2967,7 +2967,7 @@
     </StatsData>
     <UsablePieces>
       <UsablePiece piece_id="crpg_kriegsmesser_blade_h0" />
-      <UsablePiece piece_id="crpg_kriegsmesser_guarde_h0" />
+      <UsablePiece piece_id="crpg_kriegsmesser_guard_h0" />
       <UsablePiece piece_id="crpg_kriegsmesser_handle_h0" />
       <UsablePiece piece_id="crpg_kriegsmesser_pommel_h0" />
       <UsablePiece piece_id="crpg_meowdao_blade_h0" />
@@ -3754,10 +3754,10 @@
       <UsablePiece piece_id="crpg_rondel_pommel_h1" />
       <UsablePiece piece_id="crpg_rondel_pommel_h2" />
       <UsablePiece piece_id="crpg_rondel_pommel_h3" />
-      <UsablePiece piece_id="crpg_reverse_rondel_blade_h0" />
-      <UsablePiece piece_id="crpg_reverse_rondel_guard_h0" />
-      <UsablePiece piece_id="crpg_reverse_rondel_handle_h0" />
-      <UsablePiece piece_id="crpg_reverse_rondel_pommel_h0" />
+      <UsablePiece piece_id="crpg_rondel_reverse_blade_h0" />
+      <UsablePiece piece_id="crpg_rondel_reverse_guard_h0" />
+      <UsablePiece piece_id="crpg_rondel_reverse_handle_h0" />
+      <UsablePiece piece_id="crpg_rondel_reverse_pommel_h0" />
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_ThrowingKnife" item_type="Thrown" modifier_group="knife_throwing" item_holsters="throwing_knife_2:throwing_knife:throwing_stone:throwing_stone_2" piece_type_to_scale_holster_with="Blade" default_item_holster_position_offset="0,0,-0.1" always_show_holster_with_weapon="true">
@@ -5005,8 +5005,6 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
-      <UsablePiece piece_id="crpg_meowaxe_blade_h0" />
-      <UsablePiece piece_id="crpg_meowaxe_handle_h0" />
       <UsablePiece piece_id="crpg_greataxe_blade_h0" />
       <UsablePiece piece_id="crpg_greataxe_blade_h1" />
       <UsablePiece piece_id="crpg_greataxe_blade_h2" />
@@ -5751,6 +5749,8 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
+      <UsablePiece piece_id="crpg_meowaxe_blade_h0" />
+      <UsablePiece piece_id="crpg_meowaxe_handle_h0" />
       <UsablePiece piece_id="crpg_pudao_handle_h0" />
       <UsablePiece piece_id="crpg_pudao_guard_h0" />
       <UsablePiece piece_id="crpg_pudao_pommel_h0" />
@@ -7733,6 +7733,10 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
+      <UsablePiece piece_id="crpg_small_gada_handle_h0" />
+      <UsablePiece piece_id="crpg_small_gada_blade_h0" />
+      <UsablePiece piece_id="crpg_small_barmace_blade_h0" />
+      <UsablePiece piece_id="crpg_small_barmace_handle_h0" />
       <UsablePiece piece_id="crpg_horsemanspick_head_h0" />
       <UsablePiece piece_id="crpg_horsemanspick_handle_h0" />
       <UsablePiece piece_id="crpg_blacksmith_warhammer_handle_h0" />
@@ -9412,26 +9416,26 @@
       <StatData stat_type="Handling" max_value="200"/>
     </StatsData>
     <UsablePieces>
-      <UsablePiece piece_id="crpg_wakizashi_blade_red_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_blade_blue_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_blade_green_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_blade_yellow_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_blade_black_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_guard_red_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_guard_blue_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_guard_green_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_guard_yellow_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_guard_black_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_handle_red_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_handle_blue_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_handle_green_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_handle_yellow_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_handle_black_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_pommel_red_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_pommel_blue_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_pommel_green_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_pommel_yellow_h0"/>
-      <UsablePiece piece_id="crpg_wakizashi_pommel_black_h0"/>
+      <UsablePiece piece_id="crpg_red_wakizashi_blade_h0"/>
+      <UsablePiece piece_id="crpg_blue_wakizashi_blade_h0"/>
+      <UsablePiece piece_id="crpg_green_wakizashi_blade_h0"/>
+      <UsablePiece piece_id="crpg_yellow_wakizashi_blade_h0"/>
+      <UsablePiece piece_id="crpg_black_wakizashi_blade_h0"/>
+      <UsablePiece piece_id="crpg_red_wakizashi_guard_h0"/>
+      <UsablePiece piece_id="crpg_blue_wakizashi_guard_h0"/>
+      <UsablePiece piece_id="crpg_green_wakizashi_guard_h0"/>
+      <UsablePiece piece_id="crpg_yellow_wakizashi_guard_h0"/>
+      <UsablePiece piece_id="crpg_black_wakizashi_guard_h0"/>
+      <UsablePiece piece_id="crpg_red_wakizashi_handle_h0"/>
+      <UsablePiece piece_id="crpg_blue_wakizashi_handle_h0"/>
+      <UsablePiece piece_id="crpg_green_wakizashi_handle_h0"/>
+      <UsablePiece piece_id="crpg_yellow_wakizashi_handle_h0"/>
+      <UsablePiece piece_id="crpg_black_wakizashi_handle_h0"/>
+      <UsablePiece piece_id="crpg_red_wakizashi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_blue_wakizashi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_green_wakizashi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_yellow_wakizashi_pommel_h0"/>
+      <UsablePiece piece_id="crpg_black_wakizashi_pommel_h0"/>
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_Katana" item_type="TwoHandedWeapon" modifier_group="sword" item_holsters="katana_left_hip:katana_left_hip_2:katana_left_hip_3" piece_type_to_scale_holster_with="Blade" hidden_piece_types_on_holster="Blade" default_item_holster_position_offset="0,0,-0.1">
@@ -9454,26 +9458,86 @@
       <StatData stat_type="Handling" max_value="200"/>
     </StatsData>
     <UsablePieces>
-      <UsablePiece piece_id="katana_blade_red_h0"/>
-      <UsablePiece piece_id="katana_blade_blue_h0"/>
-      <UsablePiece piece_id="katana_blade_green_h0"/>
-      <UsablePiece piece_id="katana_blade_yellow_h0"/>
-      <UsablePiece piece_id="katana_blade_black_h0"/>
-      <UsablePiece piece_id="katana_guard_red_h0"/>
-      <UsablePiece piece_id="katana_guard_blue_h0"/>
-      <UsablePiece piece_id="katana_guard_green_h0"/>
-      <UsablePiece piece_id="katana_guard_yellow_h0"/>
-      <UsablePiece piece_id="katana_guard_black_h0"/>
-      <UsablePiece piece_id="katana_handle_red_h0"/>
-      <UsablePiece piece_id="katana_handle_blue_h0"/>
-      <UsablePiece piece_id="katana_handle_green_h0"/>
-      <UsablePiece piece_id="katana_handle_yellow_h0"/>
-      <UsablePiece piece_id="katana_handle_black_h0"/>
-      <UsablePiece piece_id="katana_pommel_red_h0"/>
-      <UsablePiece piece_id="katana_pommel_blue_h0"/>
-      <UsablePiece piece_id="katana_pommel_green_h0"/>
-      <UsablePiece piece_id="katana_pommel_yellow_h0"/>
-      <UsablePiece piece_id="katana_pommel_black_h0"/>
+      <UsablePiece piece_id="crpg_red_katana_blade_h0"/>
+      <UsablePiece piece_id="crpg_blue_katana_blade_h0"/>
+      <UsablePiece piece_id="crpg_green_katana_blade_h0"/>
+      <UsablePiece piece_id="crpg_yellow_katana_blade_h0"/>
+      <UsablePiece piece_id="crpg_black_katana_blade_h0"/>
+      <UsablePiece piece_id="crpg_red_katana_guard_h0"/>
+      <UsablePiece piece_id="crpg_blue_katana_guard_h0"/>
+      <UsablePiece piece_id="crpg_green_katana_guard_h0"/>
+      <UsablePiece piece_id="crpg_yellow_katana_guard_h0"/>
+      <UsablePiece piece_id="crpg_black_katana_guard_h0"/>
+      <UsablePiece piece_id="crpg_red_katana_handle_h0"/>
+      <UsablePiece piece_id="crpg_blue_katana_handle_h0"/>
+      <UsablePiece piece_id="crpg_green_katana_handle_h0"/>
+      <UsablePiece piece_id="crpg_yellow_katana_handle_h0"/>
+      <UsablePiece piece_id="crpg_black_katana_handle_h0"/>
+      <UsablePiece piece_id="crpg_red_katana_pommel_h0"/>
+      <UsablePiece piece_id="crpg_blue_katana_pommel_h0"/>
+      <UsablePiece piece_id="crpg_green_katana_pommel_h0"/>
+      <UsablePiece piece_id="crpg_yellow_katana_pommel_h0"/>
+      <UsablePiece piece_id="crpg_black_katana_pommel_h0"/>
+      <UsablePiece piece_id="crpg_red_katana_blade_h1"/>
+      <UsablePiece piece_id="crpg_blue_katana_blade_h1"/>
+      <UsablePiece piece_id="crpg_green_katana_blade_h1"/>
+      <UsablePiece piece_id="crpg_yellow_katana_blade_h1"/>
+      <UsablePiece piece_id="crpg_black_katana_blade_h1"/>
+      <UsablePiece piece_id="crpg_red_katana_guard_h1"/>
+      <UsablePiece piece_id="crpg_blue_katana_guard_h1"/>
+      <UsablePiece piece_id="crpg_green_katana_guard_h1"/>
+      <UsablePiece piece_id="crpg_yellow_katana_guard_h1"/>
+      <UsablePiece piece_id="crpg_black_katana_guard_h1"/>
+      <UsablePiece piece_id="crpg_red_katana_handle_h1"/>
+      <UsablePiece piece_id="crpg_blue_katana_handle_h1"/>
+      <UsablePiece piece_id="crpg_green_katana_handle_h1"/>
+      <UsablePiece piece_id="crpg_yellow_katana_handle_h1"/>
+      <UsablePiece piece_id="crpg_black_katana_handle_h1"/>
+      <UsablePiece piece_id="crpg_red_katana_pommel_h1"/>
+      <UsablePiece piece_id="crpg_blue_katana_pommel_h1"/>
+      <UsablePiece piece_id="crpg_green_katana_pommel_h1"/>
+      <UsablePiece piece_id="crpg_yellow_katana_pommel_h1"/>
+      <UsablePiece piece_id="crpg_black_katana_pommel_h1"/>
+      <UsablePiece piece_id="crpg_red_katana_blade_h2"/>
+      <UsablePiece piece_id="crpg_blue_katana_blade_h2"/>
+      <UsablePiece piece_id="crpg_green_katana_blade_h2"/>
+      <UsablePiece piece_id="crpg_yellow_katana_blade_h2"/>
+      <UsablePiece piece_id="crpg_black_katana_blade_h2"/>
+      <UsablePiece piece_id="crpg_red_katana_guard_h2"/>
+      <UsablePiece piece_id="crpg_blue_katana_guard_h2"/>
+      <UsablePiece piece_id="crpg_green_katana_guard_h2"/>
+      <UsablePiece piece_id="crpg_yellow_katana_guard_h2"/>
+      <UsablePiece piece_id="crpg_black_katana_guard_h2"/>
+      <UsablePiece piece_id="crpg_red_katana_handle_h2"/>
+      <UsablePiece piece_id="crpg_blue_katana_handle_h2"/>
+      <UsablePiece piece_id="crpg_green_katana_handle_h2"/>
+      <UsablePiece piece_id="crpg_yellow_katana_handle_h2"/>
+      <UsablePiece piece_id="crpg_black_katana_handle_h2"/>
+      <UsablePiece piece_id="crpg_red_katana_pommel_h2"/>
+      <UsablePiece piece_id="crpg_blue_katana_pommel_h2"/>
+      <UsablePiece piece_id="crpg_green_katana_pommel_h2"/>
+      <UsablePiece piece_id="crpg_yellow_katana_pommel_h2"/>
+      <UsablePiece piece_id="crpg_black_katana_pommel_h2"/>
+      <UsablePiece piece_id="crpg_red_katana_blade_h3"/>
+      <UsablePiece piece_id="crpg_blue_katana_blade_h3"/>
+      <UsablePiece piece_id="crpg_green_katana_blade_h3"/>
+      <UsablePiece piece_id="crpg_yellow_katana_blade_h3"/>
+      <UsablePiece piece_id="crpg_black_katana_blade_h3"/>
+      <UsablePiece piece_id="crpg_red_katana_guard_h3"/>
+      <UsablePiece piece_id="crpg_blue_katana_guard_h3"/>
+      <UsablePiece piece_id="crpg_green_katana_guard_h3"/>
+      <UsablePiece piece_id="crpg_yellow_katana_guard_h3"/>
+      <UsablePiece piece_id="crpg_black_katana_guard_h3"/>
+      <UsablePiece piece_id="crpg_red_katana_handle_h3"/>
+      <UsablePiece piece_id="crpg_blue_katana_handle_h3"/>
+      <UsablePiece piece_id="crpg_green_katana_handle_h3"/>
+      <UsablePiece piece_id="crpg_yellow_katana_handle_h3"/>
+      <UsablePiece piece_id="crpg_black_katana_handle_h3"/>
+      <UsablePiece piece_id="crpg_red_katana_pommel_h3"/>
+      <UsablePiece piece_id="crpg_blue_katana_pommel_h3"/>
+      <UsablePiece piece_id="crpg_green_katana_pommel_h3"/>
+      <UsablePiece piece_id="crpg_yellow_katana_pommel_h3"/>
+      <UsablePiece piece_id="crpg_black_katana_pommel_h3"/>
     </UsablePieces>
   </CraftingTemplate>
 </CraftingTemplates>

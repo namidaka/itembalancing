@@ -7104,14 +7104,14 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_whussar_helmet_1" name="Hussars Helmet, Decorated" mesh="whussar_helmet_1" culture="Culture.neutral_culture" weight="1.8" appearance="10" Type="HeadArmor">
+  <Item id="crpg_eba_whussar_helmet_h0" name="Hussars Helmet, Decorated" mesh="whussar_helmet_1" culture="Culture.neutral_culture" weight="1.8" appearance="10" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="45" has_gender_variations="false" hair_cover_type="type1" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true"
     Civilian="true" />
   </Item>
-  <Item id="crpg_tc_empire_battle_crown_west" name="{=}Imperial Plumed Helmet (Team Color)" subtype="head_armor" mesh="tc_empire_battle_crown_west" culture="Culture.empire" is_merchandise="false" weight="3.1" difficulty="0" appearance="3" Type="HeadArmor">
+  <Item id="crpg_tc_empire_battle_crown_west_h0" name="{=}Imperial Plumed Helmet (Team Color)" subtype="head_armor" mesh="tc_empire_battle_crown_west" culture="Culture.empire" is_merchandise="false" weight="3.1" difficulty="0" appearance="3" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type2" modifier_group="plate" material_type="Plate"/>
     </ItemComponent>

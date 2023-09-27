@@ -5,26 +5,26 @@
       <WeaponFlag value="MeleeWeapon" />
     </WeaponFlags>
     <AvailablePieces>
-      <AvailablePiece id="crpg_wakizashi_blade_red_h0"/>
-      <AvailablePiece id="crpg_wakizashi_blade_blue_h0"/>
-      <AvailablePiece id="crpg_wakizashi_blade_green_h0"/>
-      <AvailablePiece id="crpg_wakizashi_blade_yellow_h0"/>
-      <AvailablePiece id="crpg_wakizashi_blade_black_h0"/>
-      <AvailablePiece id="crpg_wakizashi_guard_red_h0"/>
-      <AvailablePiece id="crpg_wakizashi_guard_blue_h0"/>
-      <AvailablePiece id="crpg_wakizashi_guard_green_h0"/>
-      <AvailablePiece id="crpg_wakizashi_guard_yellow_h0"/>
-      <AvailablePiece id="crpg_wakizashi_guard_black_h0"/>
-      <AvailablePiece id="crpg_wakizashi_handle_red_h0"/>
-      <AvailablePiece id="crpg_wakizashi_handle_blue_h0"/>
-      <AvailablePiece id="crpg_wakizashi_handle_green_h0"/>
-      <AvailablePiece id="crpg_wakizashi_handle_yellow_h0"/>
-      <AvailablePiece id="crpg_wakizashi_handle_black_h0"/>
-      <AvailablePiece id="crpg_wakizashi_pommel_red_h0"/>
-      <AvailablePiece id="crpg_wakizashi_pommel_blue_h0"/>
-      <AvailablePiece id="crpg_wakizashi_pommel_green_h0"/>
-      <AvailablePiece id="crpg_wakizashi_pommel_yellow_h0"/>
-      <AvailablePiece id="crpg_wakizashi_pommel_black_h0"/>
+      <AvailablePiece id="crpg_red_wakizashi_blade_h0"/>
+      <AvailablePiece id="crpg_blue_wakizashi_blade_h0"/>
+      <AvailablePiece id="crpg_green_wakizashi_blade_h0"/>
+      <AvailablePiece id="crpg_yellow_wakizashi_blade_h0"/>
+      <AvailablePiece id="crpg_black_wakizashi_blade_h0"/>
+      <AvailablePiece id="crpg_red_wakizashi_guard_h0"/>
+      <AvailablePiece id="crpg_blue_wakizashi_guard_h0"/>
+      <AvailablePiece id="crpg_green_wakizashi_guard_h0"/>
+      <AvailablePiece id="crpg_yellow_wakizashi_guard_h0"/>
+      <AvailablePiece id="crpg_black_wakizashi_guard_h0"/>
+      <AvailablePiece id="crpg_red_wakizashi_handle_h0"/>
+      <AvailablePiece id="crpg_blue_wakizashi_handle_h0"/>
+      <AvailablePiece id="crpg_green_wakizashi_handle_h0"/>
+      <AvailablePiece id="crpg_yellow_wakizashi_handle_h0"/>
+      <AvailablePiece id="crpg_black_wakizashi_handle_h0"/>
+      <AvailablePiece id="crpg_red_wakizashi_pommel_h0"/>
+      <AvailablePiece id="crpg_blue_wakizashi_pommel_h0"/>
+      <AvailablePiece id="crpg_green_wakizashi_pommel_h0"/>
+      <AvailablePiece id="crpg_yellow_wakizashi_pommel_h0"/>
+      <AvailablePiece id="crpg_black_wakizashi_pommel_h0"/>
       <AvailablePiece id="crpg_kopesh_pommel_h0" />
       <AvailablePiece id="crpg_kopesh_handle_h0" />
       <AvailablePiece id="crpg_kopesh_guard_h0" />
@@ -3440,7 +3440,7 @@
     </WeaponFlags>
     <AvailablePieces>
       <AvailablePiece id="crpg_kriegsmesser_blade_h0" />
-      <AvailablePiece id="crpg_kriegsmesser_guarde_h0" />
+      <AvailablePiece id="crpg_kriegsmesser_guard_h0" />
       <AvailablePiece id="crpg_kriegsmesser_handle_h0" />
       <AvailablePiece id="crpg_kriegsmesser_pommel_h0" />
       <AvailablePiece id="crpg_zweihander_blade_h0"/>
@@ -3451,26 +3451,26 @@
       <AvailablePiece id="crpg_executionerssword_handle_h0"/>
       <AvailablePiece id="crpg_executionerssword_guard_h0"/>
       <AvailablePiece id="crpg_executionerssword_pommel_h0"/>
-      <AvailablePiece id="crpg_nodachi_blade_red_h0"/>
-      <AvailablePiece id="crpg_nodachi_blade_blue_h0"/>
-      <AvailablePiece id="crpg_nodachi_blade_green_h0"/>
-      <AvailablePiece id="crpg_nodachi_blade_yellow_h0"/>
-      <AvailablePiece id="crpg_nodachi_blade_black_h0"/>
-      <AvailablePiece id="crpg_nodachi_guard_red_h0"/>
-      <AvailablePiece id="crpg_nodachi_guard_blue_h0"/>
-      <AvailablePiece id="crpg_nodachi_guard_green_h0"/>
-      <AvailablePiece id="crpg_nodachi_guard_yellow_h0"/>
-      <AvailablePiece id="crpg_nodachi_guard_black_h0"/>
-      <AvailablePiece id="crpg_nodachi_handle_red_h0"/>
-      <AvailablePiece id="crpg_nodachi_handle_blue_h0"/>
-      <AvailablePiece id="crpg_nodachi_handle_green_h0"/>
-      <AvailablePiece id="crpg_nodachi_handle_yellow_h0"/>
-      <AvailablePiece id="crpg_nodachi_handle_black_h0"/>
-      <AvailablePiece id="crpg_nodachi_pommel_red_h0"/>
-      <AvailablePiece id="crpg_nodachi_pommel_blue_h0"/>
-      <AvailablePiece id="crpg_nodachi_pommel_green_h0"/>
-      <AvailablePiece id="crpg_nodachi_pommel_yellow_h0"/>
-      <AvailablePiece id="crpg_nodachi_pommel_black_h0"/>
+      <AvailablePiece id="crpg_red_nodachi_blade_h0"/>
+      <AvailablePiece id="crpg_blue_nodachi_blade_h0"/>
+      <AvailablePiece id="crpg_green_nodachi_blade_h0"/>
+      <AvailablePiece id="crpg_yellow_nodachi_blade_h0"/>
+      <AvailablePiece id="crpg_black_nodachi_blade_h0"/>
+      <AvailablePiece id="crpg_red_nodachi_guard_h0"/>
+      <AvailablePiece id="crpg_blue_nodachi_guard_h0"/>
+      <AvailablePiece id="crpg_green_nodachi_guard_h0"/>
+      <AvailablePiece id="crpg_yellow_nodachi_guard_h0"/>
+      <AvailablePiece id="crpg_black_nodachi_guard_h0"/>
+      <AvailablePiece id="crpg_red_nodachi_handle_h0"/>
+      <AvailablePiece id="crpg_blue_nodachi_handle_h0"/>
+      <AvailablePiece id="crpg_green_nodachi_handle_h0"/>
+      <AvailablePiece id="crpg_yellow_nodachi_handle_h0"/>
+      <AvailablePiece id="crpg_black_nodachi_handle_h0"/>
+      <AvailablePiece id="crpg_red_nodachi_pommel_h0"/>
+      <AvailablePiece id="crpg_blue_nodachi_pommel_h0"/>
+      <AvailablePiece id="crpg_green_nodachi_pommel_h0"/>
+      <AvailablePiece id="crpg_yellow_nodachi_pommel_h0"/>
+      <AvailablePiece id="crpg_black_nodachi_pommel_h0"/>
       <AvailablePiece id="crpg_meowdao_blade_h0"  />
       <AvailablePiece id="crpg_meowdao_handle_h0" />
       <AvailablePiece id="crpg_meowdao_guard_h0"  />
@@ -5434,6 +5434,8 @@
       <AvailablePiece id="crpg_reverse_rondel_guard_h0"  />
       <AvailablePiece id="crpg_reverse_rondel_handle_h0" />
       <AvailablePiece id="crpg_reverse_rondel_pommel_h0" />
+      <AvailablePiece id="crpg_tanto_blade_h0"/>
+      <AvailablePiece id="crpg_tanto_handle_h0"/>
     </AvailablePieces>
   </WeaponDescription>
   <WeaponDescription id="crpg_ThrowingKnife" weapon_class="ThrowingKnife" item_usage_features="throwing:knife">
@@ -6775,8 +6777,6 @@
       <WeaponFlag value="TwoHandIdleOnMount" />
     </WeaponFlags>
     <AvailablePieces>
-      <AvailablePiece id="crpg_meowaxe_blade_h0"  />
-      <AvailablePiece id="crpg_meowaxe_handle_h0" />
       <AvailablePiece id="crpg_greataxe_blade_h0" />
       <AvailablePiece id="crpg_greataxe_blade_h1" />
       <AvailablePiece id="crpg_greataxe_blade_h2" />
@@ -8442,6 +8442,8 @@
       <WeaponFlag value="TwoHandIdleOnMount" />
     </WeaponFlags>
     <AvailablePieces>
+      <AvailablePiece id="crpg_meowaxe_blade_h0"  />
+      <AvailablePiece id="crpg_meowaxe_handle_h0" />
       <AvailablePiece id="crpg_pudao_handle_h0" />
       <AvailablePiece id="crpg_pudao_guard_h0" />
       <AvailablePiece id="crpg_pudao_pommel_h0" />
@@ -11962,6 +11964,10 @@
       <WeaponFlag value="MeleeWeapon" />
     </WeaponFlags>
     <AvailablePieces>
+      <AvailablePiece id="crpg_small_gada_handle_h0" />
+      <AvailablePiece id="crpg_small_gada_blade_h0" />
+      <AvailablePiece id="crpg_small_barmace_blade_h0" />
+      <AvailablePiece id="crpg_small_barmace_handle_h0" />
       <AvailablePiece id="crpg_horsemanspick_head_h0" />
       <AvailablePiece id="crpg_horsemanspick_handle_h0" />
       <AvailablePiece id="crpg_throwingclub_head_h0" />

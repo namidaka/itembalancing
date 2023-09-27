@@ -11997,7 +11997,7 @@
       <Piece id="crpg_small_barmace_handle_h0" Type="Handle" scale_factor="100"/>
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_kriegsmesser_h0" name="{=}1Kriegsmesser" crafting_template="crpg_SideTwoHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_kriegsmesser_h0" name="{=}Kriegsmesser" crafting_template="crpg_SideTwoHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_kriegsmesser_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_kriegsmesser_guard_h0" Type="Guard" scale_factor="100" />
@@ -12005,7 +12005,7 @@
       <Piece id="crpg_kriegsmesser_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_executionerssword" name="{=}Executioner's Sword" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_executionerssword_h0" name="{=}Executioner's Sword" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_executionerssword_blade_h0" Type="Blade" scale_factor="120"/>
       <Piece id="crpg_executionerssword_guard_h0" Type="Guard" scale_factor="100"/>
@@ -12021,13 +12021,13 @@
       <Piece id="crpg_kopesh_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_tanto_h0" name="{=}1Tanto" crafting_template="crpg_Dagger_Scabbard" culture="Culture.empire" modifier_group="sword">
+  <CraftedItem id="crpg_tanto_h0" name="{=}Tanto" crafting_template="crpg_Dagger_Scabbard" culture="Culture.empire" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_tanto_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_tanto_handle_h0" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_qinglong_h0" name="{=}1Qinglong" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_qinglong_h0" name="{=}Qinglong" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_qinglong_blade_h0" Type="Blade" scale_factor="100"/>
       <Piece id="crpg_qinglong_handle_h0" Type="Handle" scale_factor="110"/>

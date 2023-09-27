@@ -6744,28 +6744,28 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_eba_WHussar_armor_1" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_WHussar_armor_h0" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
     <Flags UseTeamColor="true"
     Civilian="true" />
   </Item>
-  <Item id="crpg_eba_Hussar_armor_1" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_h0" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
     <Flags UseTeamColor="true"
     Civilian="true" />
   </Item>
-  <Item id="crpg_eba_Hussar_armor_1_prime" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_prime_h0" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
     <Flags UseTeamColor="true"
     Civilian="true" />
   </Item>
-  <Item id="crpg_eba_Hussar_armor_1_sec" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_sec_h0" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
     </ItemComponent>
