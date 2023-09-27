@@ -6744,230 +6744,892 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_eba_WHussar_armor_h0" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_WHussar_armor_h0" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="39.85255" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"
-    Civilian="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_Hussar_armor_h0" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_WHussar_armor_h1" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"
-    Civilian="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_Hussar_armor_prime_h0" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_WHussar_armor_h2" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"
-    Civilian="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_Hussar_armor_sec_h0" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
+  <Item id="crpg_eba_WHussar_armor_h3" name="Winged Hussar Armor, Decorated" subtype="body_armor" mesh="WHussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"
-    Civilian="true" />
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_rus_armour2_h0" name="Vaegir coat of plates" mesh="Rus_armour2" is_merchandise="true" subtype="body_armor" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_h0" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="39.85255" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="140" leg_armor="120" arm_armor="95" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_platearmor_h0" name="Bahamut Full Plate Armor with Rondel" mesh="ba_platearmor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_h1" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="false"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_platearmor2_h0" name="Bahamut Full Plate Armor " mesh="ba_platearmor2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_h2" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="false"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_platearmor2gold_h0" name="Bahamut Gold Full Plate Armor " mesh="ba_platearmor2gold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_h3" name="Hussar Armor, Decorated" subtype="body_armor" mesh="Hussar_armor_1" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="false"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_platearmorgold_h0" name="Bahamut Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_prime_h0" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="39.85255" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="false"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_platearmor2worn_h0" name="Bahamut Battered Full Plate Armor " mesh="ba_platearmor2worn" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_prime_h1" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="49" leg_armor="24" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="false"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_heraldictabard3_h0" name="Bahamut Tabard over Plate Armor" mesh="ba_heraldictabard3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_prime_h2" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="26" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_coat_of_plates1_c_h0" name="coat of plates" mesh="coat_of_plates1_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_prime_h3" name="Hussar Armor, prime color" subtype="body_armor" mesh="Hussar_armor_1_prime" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_coat_of_plates2_c_h0" name="coat of plates royal pattern" mesh="coat_of_plates2_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_sec_h0" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="39.85255" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_coat_of_plates3_c_h0" name="coat of plates lys pattern" mesh="coat_of_plates3_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_sec_h1" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_coat_of_plates4_c_h0" name="coat of plates checker pattern" mesh="coat_of_plates4_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_sec_h2" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_coat_of_plates5_c_h0" name="coat of plates cross pattern" mesh="coat_of_plates5_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_eba_Hussar_armor_sec_h3" name="Hussar Armor, sec color" subtype="body_armor" mesh="Hussar_armor_1_sec" culture="Culture.neutral_culture" weight="2" difficulty="0" appearance="10" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail"/>
+      <Armor body_armor="68" leg_armor="50" arm_armor="50" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" family_type="3" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_swadian_brass_plate_armor_h0" name="Western Brass Plate Armor" mesh="swadian_brass_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_rus_armour2_h0" name="Vaegir coat of plates" mesh="Rus_armour2" is_merchandise="true" subtype="body_armor" culture="Culture.sturgia" weight="112.0623" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="140" leg_armor="120" arm_armor="95" covers_body="true" modifier_group="Plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_swadian_leather_plate_armor_h0" name="Western Leather Plate Armor" mesh="swadian_leather_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_rus_armour2_h1" name="Vaegir coat of plates" mesh="Rus_armour2" is_merchandise="true" subtype="body_armor" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="140" leg_armor="120" arm_armor="95" covers_body="true" modifier_group="Plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_swadian_plate_armor_h0" name="Western Plate Armor" mesh="swadian_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_rus_armour2_h2" name="Vaegir coat of plates" mesh="Rus_armour2" is_merchandise="true" subtype="body_armor" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="140" leg_armor="120" arm_armor="95" covers_body="true" modifier_group="Plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_swadian_striped_plate_armor_h0" name="Western Plate Armor" mesh="swadian_striped_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_rus_armour2_h3" name="Vaegir coat of plates" mesh="Rus_armour2" is_merchandise="true" subtype="body_armor" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="140" leg_armor="120" arm_armor="95" covers_body="true" modifier_group="Plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_swadian_plate_with_armguards_h0" name="Western Cuirass With Armguards" mesh="swadian_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor_h0" name="Bahamut Full Plate Armor with Rondel" mesh="ba_platearmor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="20.43998" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_swadian_leather_plate_with_armguards_h0" name="Western Leather Plate Armor With Armguards" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor_h1" name="Bahamut Full Plate Armor with Rondel" mesh="ba_platearmor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_swadian_striped_cuirass_h0" name="Western Cuirass" mesh="swadian_striped_cuirass" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="1" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor_h2" name="Bahamut Full Plate Armor with Rondel" mesh="ba_platearmor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_swadian_cuirass_h0" name="Western Cuirass" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor_h3" name="Bahamut Full Plate Armor with Rondel" mesh="ba_platearmor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_2ChurburghTorso_h0" name="Blackend Plate Cuirass" mesh="sa_2churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2_h0" name="Bahamut Full Plate Armor " mesh="ba_platearmor2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="18.9619" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_ChurburghTorso_h0" name="Trimmed Plate Cuirass" mesh="sa_churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2_h1" name="Bahamut Full Plate Armor " mesh="ba_platearmor2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates6_c_h0" name="Trimmed Armoured coat of plates" mesh="coat_of_plates6_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2_h2" name="Bahamut Full Plate Armor " mesh="ba_platearmor2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates7_c_h0" name="Trimmed Armoured coat of plates" mesh="coat_of_plates7_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2_h3" name="Bahamut Full Plate Armor " mesh="ba_platearmor2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates8_c_h0" name="Trimmed Armoured coat of plates" mesh="coat_of_plates8_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2gold_h0" name="Bahamut Gold Full Plate Armor " mesh="ba_platearmor2gold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="18.9619" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates9_c_h0" name="Armoured coat of plates" mesh="coat_of_plates9_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2gold_h1" name="Bahamut Gold Full Plate Armor " mesh="ba_platearmor2gold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates10_c_h0" name="Armoured coat of plates" mesh="coat_of_plates10_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2gold_h2" name="Bahamut Gold Full Plate Armor " mesh="ba_platearmor2gold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates11_c_h0" name="Blackend Armoured coat of plates" mesh="coat_of_plates11_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2gold_h3" name="Bahamut Gold Full Plate Armor " mesh="ba_platearmor2gold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="53" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_coat_of_plates12_c_h0" name="Blackend Armoured coat of plates" mesh="coat_of_plates12_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmorgold_h0" name="Bahamut Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="20.43998" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_Sa_brigandine_plate1_h0" name="Reinforced red Brigandine with mail" mesh="sa_brigandine_plate1" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmorgold_h1" name="Bahamut Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_Sa_brigandine_plate2_h0" name="Reinforced blue Brigandine with mail" mesh="sa_brigandine_plate2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmorgold_h2" name="Bahamut Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_Sa_brigandine_plate3_h0" name="Reinforced black Brigandine with mail" mesh="sa_brigandine_plate3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmorgold_h3" name="Bahamut Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="56" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_Sa_tabbartplate_h0" name="Western Plate Armor With skirt" mesh="sa_surcoatplate" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_ba_platearmor2worn_h0" name="Bahamut Battered Full Plate Armor " mesh="ba_platearmor2worn" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="17.00676" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="30" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="49" leg_armor="24" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_ba_platearmor2worn_h1" name="Bahamut Battered Full Plate Armor " mesh="ba_platearmor2worn" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="49" leg_armor="24" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_ba_platearmor2worn_h2" name="Bahamut Battered Full Plate Armor " mesh="ba_platearmor2worn" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="49" leg_armor="24" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_ba_platearmor2worn_h3" name="Bahamut Battered Full Plate Armor " mesh="ba_platearmor2worn" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="49" leg_armor="24" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_ba_heraldictabard3_h0" name="Bahamut Tabard over Plate Armor" mesh="ba_heraldictabard3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="17.72622" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="26" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_ba_heraldictabard3_h1" name="Bahamut Tabard over Plate Armor" mesh="ba_heraldictabard3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="26" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_ba_heraldictabard3_h2" name="Bahamut Tabard over Plate Armor" mesh="ba_heraldictabard3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="26" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_ba_heraldictabard3_h3" name="Bahamut Tabard over Plate Armor" mesh="ba_heraldictabard3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="27" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="26" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates1_c_h0" name="coat of plates" mesh="coat_of_plates1_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="16.02676" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates1_c_h1" name="coat of plates" mesh="coat_of_plates1_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates1_c_h2" name="coat of plates" mesh="coat_of_plates1_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates1_c_h3" name="coat of plates" mesh="coat_of_plates1_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates2_c_h0" name="coat of plates royal pattern" mesh="coat_of_plates2_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="16.02676" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates2_c_h1" name="coat of plates royal pattern" mesh="coat_of_plates2_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates2_c_h2" name="coat of plates royal pattern" mesh="coat_of_plates2_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates2_c_h3" name="coat of plates royal pattern" mesh="coat_of_plates2_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates3_c_h0" name="coat of plates lys pattern" mesh="coat_of_plates3_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="16.02676" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates3_c_h1" name="coat of plates lys pattern" mesh="coat_of_plates3_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates3_c_h2" name="coat of plates lys pattern" mesh="coat_of_plates3_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates3_c_h3" name="coat of plates lys pattern" mesh="coat_of_plates3_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates4_c_h0" name="coat of plates checker pattern" mesh="coat_of_plates4_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="16.02676" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates4_c_h1" name="coat of plates checker pattern" mesh="coat_of_plates4_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates4_c_h2" name="coat of plates checker pattern" mesh="coat_of_plates4_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates4_c_h3" name="coat of plates checker pattern" mesh="coat_of_plates4_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates5_c_h0" name="coat of plates cross pattern" mesh="coat_of_plates5_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="16.02676" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates5_c_h1" name="coat of plates cross pattern" mesh="coat_of_plates5_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates5_c_h2" name="coat of plates cross pattern" mesh="coat_of_plates5_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates5_c_h3" name="coat of plates cross pattern" mesh="coat_of_plates5_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="20" arm_armor="20" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_brass_plate_armor_h0" name="Western Brass Plate Armor" mesh="swadian_brass_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.46851" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_brass_plate_armor_h1" name="Western Brass Plate Armor" mesh="swadian_brass_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_brass_plate_armor_h2" name="Western Brass Plate Armor" mesh="swadian_brass_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_brass_plate_armor_h3" name="Western Brass Plate Armor" mesh="swadian_brass_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_armor_h0" name="Western Leather Plate Armor" mesh="swadian_leather_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.46851" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_armor_h1" name="Western Leather Plate Armor" mesh="swadian_leather_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_armor_h2" name="Western Leather Plate Armor" mesh="swadian_leather_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_armor_h3" name="Western Leather Plate Armor" mesh="swadian_leather_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_armor_h0" name="Western Plate Armor" mesh="swadian_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.46851" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_armor_h1" name="Western Plate Armor" mesh="swadian_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_armor_h2" name="Western Plate Armor" mesh="swadian_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_armor_h3" name="Western Plate Armor" mesh="swadian_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_plate_armor_h0" name="Western Plate Armor" mesh="swadian_striped_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.46851" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_plate_armor_h1" name="Western Plate Armor" mesh="swadian_striped_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_plate_armor_h2" name="Western Plate Armor" mesh="swadian_striped_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_plate_armor_h3" name="Western Plate Armor" mesh="swadian_striped_plate_armor" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="25" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_with_armguards_h0" name="Western Cuirass With Armguards" mesh="swadian_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="21.07317" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_with_armguards_h1" name="Western Cuirass With Armguards" mesh="swadian_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_with_armguards_h2" name="Western Cuirass With Armguards" mesh="swadian_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_plate_with_armguards_h3" name="Western Cuirass With Armguards" mesh="swadian_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_with_armguards_h0" name="Western Leather Plate Armor With Armguards" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="21.07317" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_with_armguards_h1" name="Western Leather Plate Armor With Armguards" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_with_armguards_h2" name="Western Leather Plate Armor With Armguards" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_leather_plate_with_armguards_h3" name="Western Leather Plate Armor With Armguards" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="20" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_cuirass_h0" name="Western Cuirass" mesh="swadian_striped_cuirass" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="20.52226" difficulty="1" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_cuirass_h1" name="Western Cuirass" mesh="swadian_striped_cuirass" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="1" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_cuirass_h2" name="Western Cuirass" mesh="swadian_striped_cuirass" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="1" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_striped_cuirass_h3" name="Western Cuirass" mesh="swadian_striped_cuirass" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="1" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_cuirass_h0" name="Western Cuirass" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="20.52226" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_cuirass_h1" name="Western Cuirass" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_cuirass_h2" name="Western Cuirass" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_swadian_cuirass_h3" name="Western Cuirass" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="25" arm_armor="18" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_2ChurburghTorso_h0" name="Blackend Plate Cuirass" mesh="sa_2churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24.04683" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_2ChurburghTorso_h1" name="Blackend Plate Cuirass" mesh="sa_2churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_2ChurburghTorso_h2" name="Blackend Plate Cuirass" mesh="sa_2churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_2ChurburghTorso_h3" name="Blackend Plate Cuirass" mesh="sa_2churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_ChurburghTorso_h0" name="Trimmed Plate Cuirass" mesh="sa_churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="24.04683" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_ChurburghTorso_h1" name="Trimmed Plate Cuirass" mesh="sa_churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_ChurburghTorso_h2" name="Trimmed Plate Cuirass" mesh="sa_churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_sa_ChurburghTorso_h3" name="Trimmed Plate Cuirass" mesh="sa_churburghtorso" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="55" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates6_c_h0" name="Trimmed Armoured coat of plates" mesh="coat_of_plates6_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates6_c_h1" name="Trimmed Armoured coat of plates" mesh="coat_of_plates6_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates6_c_h2" name="Trimmed Armoured coat of plates" mesh="coat_of_plates6_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates6_c_h3" name="Trimmed Armoured coat of plates" mesh="coat_of_plates6_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates7_c_h0" name="Trimmed Armoured coat of plates" mesh="coat_of_plates7_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates7_c_h1" name="Trimmed Armoured coat of plates" mesh="coat_of_plates7_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates7_c_h2" name="Trimmed Armoured coat of plates" mesh="coat_of_plates7_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates7_c_h3" name="Trimmed Armoured coat of plates" mesh="coat_of_plates7_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates8_c_h0" name="Trimmed Armoured coat of plates" mesh="coat_of_plates8_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates8_c_h1" name="Trimmed Armoured coat of plates" mesh="coat_of_plates8_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates8_c_h2" name="Trimmed Armoured coat of plates" mesh="coat_of_plates8_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates8_c_h3" name="Trimmed Armoured coat of plates" mesh="coat_of_plates8_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates9_c_h0" name="Armoured coat of plates" mesh="coat_of_plates9_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates9_c_h1" name="Armoured coat of plates" mesh="coat_of_plates9_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates9_c_h2" name="Armoured coat of plates" mesh="coat_of_plates9_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates9_c_h3" name="Armoured coat of plates" mesh="coat_of_plates9_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates10_c_h0" name="Armoured coat of plates" mesh="coat_of_plates10_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates10_c_h1" name="Armoured coat of plates" mesh="coat_of_plates10_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates10_c_h2" name="Armoured coat of plates" mesh="coat_of_plates10_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates10_c_h3" name="Armoured coat of plates" mesh="coat_of_plates10_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates11_c_h0" name="Blackend Armoured coat of plates" mesh="coat_of_plates11_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates11_c_h1" name="Blackend Armoured coat of plates" mesh="coat_of_plates11_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates11_c_h2" name="Blackend Armoured coat of plates" mesh="coat_of_plates11_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates11_c_h3" name="Blackend Armoured coat of plates" mesh="coat_of_plates11_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates12_c_h0" name="Blackend Armoured coat of plates" mesh="coat_of_plates12_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="22.4122" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates12_c_h1" name="Blackend Armoured coat of plates" mesh="coat_of_plates12_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates12_c_h2" name="Blackend Armoured coat of plates" mesh="coat_of_plates12_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_coat_of_plates12_c_h3" name="Blackend Armoured coat of plates" mesh="coat_of_plates12_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="26" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="chain" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate1_h0" name="Reinforced red Brigandine with mail" mesh="sa_brigandine_plate1" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="21.12849" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate1_h1" name="Reinforced red Brigandine with mail" mesh="sa_brigandine_plate1" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate1_h2" name="Reinforced red Brigandine with mail" mesh="sa_brigandine_plate1" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate1_h3" name="Reinforced red Brigandine with mail" mesh="sa_brigandine_plate1" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate2_h0" name="Reinforced blue Brigandine with mail" mesh="sa_brigandine_plate2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="21.12849" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate2_h1" name="Reinforced blue Brigandine with mail" mesh="sa_brigandine_plate2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate2_h2" name="Reinforced blue Brigandine with mail" mesh="sa_brigandine_plate2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate2_h3" name="Reinforced blue Brigandine with mail" mesh="sa_brigandine_plate2" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate3_h0" name="Reinforced black Brigandine with mail" mesh="sa_brigandine_plate3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="21.12849" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate3_h1" name="Reinforced black Brigandine with mail" mesh="sa_brigandine_plate3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate3_h2" name="Reinforced black Brigandine with mail" mesh="sa_brigandine_plate3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_brigandine_plate3_h3" name="Reinforced black Brigandine with mail" mesh="sa_brigandine_plate3" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="25" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="30" arm_armor="30" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_tabbartplate_h0" name="Western Plate Armor With skirt" mesh="sa_surcoatplate" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="23.60296" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="30" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_tabbartplate_h1" name="Western Plate Armor With skirt" mesh="sa_surcoatplate" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="30" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_tabbartplate_h2" name="Western Plate Armor With skirt" mesh="sa_surcoatplate" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="30" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_Sa_tabbartplate_h3" name="Western Plate Armor With skirt" mesh="sa_surcoatplate" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="58" leg_armor="30" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
   </Item>
 </Items>
