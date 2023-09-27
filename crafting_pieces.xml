@@ -31100,27 +31100,27 @@
   <CraftingPiece id="crpg_meowdao_handle_h3" name="{=}Meowdao Handle" tier="3" piece_type="Handle" mesh="meowdao_handle" culture="Culture.khuzait" length="44.5" weight="0.1">
     <BuildData piece_offset="-6.5" previous_piece_offset="0.1" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_pommel_h0" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0">
+  <CraftingPiece id="crpg_qinglong_pommel_h0" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0" full_scale="true">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_pommel_h1" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0">
+  <CraftingPiece id="crpg_qinglong_pommel_h1" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0" full_scale="true">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_pommel_h2" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0">
+  <CraftingPiece id="crpg_qinglong_pommel_h2" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0" full_scale="true">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_pommel_h3" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0">
+  <CraftingPiece id="crpg_qinglong_pommel_h3" name="{=}Qinglong Pommel" tier="4" piece_type="Pommel" mesh="qinglong_pommel" culture="Culture.empire" length="6.51" weight="0" full_scale="true">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_blade_h0" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384">
+  <CraftingPiece id="crpg_qinglong_blade_h0" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384" full_scale="true">
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="3.3" />
@@ -31129,7 +31129,7 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_blade_h1" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384">
+  <CraftingPiece id="crpg_qinglong_blade_h1" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384" full_scale="true">
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="3.3" />
@@ -31138,7 +31138,7 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_blade_h2" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384">
+  <CraftingPiece id="crpg_qinglong_blade_h2" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384" full_scale="true">
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="3.3" />
@@ -31147,7 +31147,7 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_blade_h3" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384">
+  <CraftingPiece id="crpg_qinglong_blade_h3" name="{=}Qinglong Blade" tier="2" piece_type="Blade" mesh="qinglong_double_blade" length="41.6" weight="0.3384" full_scale="true">
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="3.3" />
@@ -31156,26 +31156,26 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_handle_h0" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6">
-    <BuildData piece_offset="6" previous_piece_offset="1" next_piece_offset="2" />
+  <CraftingPiece id="crpg_qinglong_handle_h0" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6" full_scale="true">
+    <BuildData piece_offset="20" previous_piece_offset="1" next_piece_offset="2" />
     <Materials>
       <Material id="Wood" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_handle_h1" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6">
-    <BuildData piece_offset="6" previous_piece_offset="1" next_piece_offset="2" />
+  <CraftingPiece id="crpg_qinglong_handle_h1" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6" full_scale="true">
+    <BuildData piece_offset="20" previous_piece_offset="1" next_piece_offset="2" />
     <Materials>
       <Material id="Wood" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_handle_h2" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6">
-    <BuildData piece_offset="6" previous_piece_offset="1" next_piece_offset="2" />
+  <CraftingPiece id="crpg_qinglong_handle_h2" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6" full_scale="true">
+    <BuildData piece_offset="20" previous_piece_offset="1" next_piece_offset="2" />
     <Materials>
       <Material id="Wood" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_qinglong_handle_h3" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6">
-    <BuildData piece_offset="6" previous_piece_offset="1" next_piece_offset="2" />
+  <CraftingPiece id="crpg_qinglong_handle_h3" name="{=}Qinglong Handle" tier="3" piece_type="Handle" mesh="qinglong_handle" length="134" weight="1.6" full_scale="true">
+    <BuildData piece_offset="20" previous_piece_offset="1" next_piece_offset="2" />
     <Materials>
       <Material id="Wood" count="4" />
     </Materials>
