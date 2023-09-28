@@ -51130,6 +51130,158 @@
     ]
   },
   {
+    "id": "crpg_fangtian_ji_h0",
+    "baseId": "crpg_fangtian_ji",
+    "name": "Fangtian Ji",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 1810,
+    "weight": 2.58,
+    "rank": 0,
+    "tier": 2.94700313,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 169,
+        "balance": 0.19,
+        "handling": 68,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 89,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
+      }
+    ]
+  },
+  {
+    "id": "crpg_fangtian_ji_h1",
+    "baseId": "crpg_fangtian_ji",
+    "name": "Fangtian Ji",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 1363,
+    "weight": 2.58,
+    "rank": 1,
+    "tier": 2.43553972,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 169,
+        "balance": 0.19,
+        "handling": 68,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 89,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
+      }
+    ]
+  },
+  {
+    "id": "crpg_fangtian_ji_h2",
+    "baseId": "crpg_fangtian_ji",
+    "name": "Fangtian Ji",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 1063,
+    "weight": 2.58,
+    "rank": 2,
+    "tier": 2.04653,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 169,
+        "balance": 0.19,
+        "handling": 68,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 89,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
+      }
+    ]
+  },
+  {
+    "id": "crpg_fangtian_ji_h3",
+    "baseId": "crpg_fangtian_ji",
+    "name": "Fangtian Ji",
+    "culture": "Khuzait",
+    "type": "Polearm",
+    "price": 854,
+    "weight": 2.58,
+    "rank": 3,
+    "tier": 1.743789,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 169,
+        "balance": 0.19,
+        "handling": 68,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 89,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
+      }
+    ]
+  },
+  {
     "id": "crpg_feathered_spangenhelm_over_imperial_coif_v2_h0",
     "baseId": "crpg_feathered_spangenhelm_over_imperial_coif_v2",
     "name": "Feathered Spangenhelm over Coif",
@@ -126940,158 +127092,6 @@
     ]
   },
   {
-    "id": "crpg_qinglong_h0",
-    "baseId": "crpg_qinglong",
-    "name": "Qinglong",
-    "culture": "Khuzait",
-    "type": "Polearm",
-    "price": 2575,
-    "weight": 3.22,
-    "rank": 0,
-    "tier": 3.70014882,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 148,
-        "balance": 0.31,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 22,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 33,
-        "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_qinglong_h1",
-    "baseId": "crpg_qinglong",
-    "name": "Qinglong",
-    "culture": "Khuzait",
-    "type": "Polearm",
-    "price": 1914,
-    "weight": 3.22,
-    "rank": 1,
-    "tier": 3.05797362,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 148,
-        "balance": 0.31,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 22,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 33,
-        "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_qinglong_h2",
-    "baseId": "crpg_qinglong",
-    "name": "Qinglong",
-    "culture": "Khuzait",
-    "type": "Polearm",
-    "price": 1474,
-    "weight": 3.22,
-    "rank": 2,
-    "tier": 2.569547,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 148,
-        "balance": 0.31,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 22,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 33,
-        "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_qinglong_h3",
-    "baseId": "crpg_qinglong",
-    "name": "Qinglong",
-    "culture": "Khuzait",
-    "type": "Polearm",
-    "price": 1170,
-    "weight": 3.22,
-    "rank": 3,
-    "tier": 2.18943739,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedPolearm",
-        "itemUsage": "polearm_block_long_shield_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 148,
-        "balance": 0.31,
-        "handling": 72,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand",
-          "WideGrip",
-          "TwoHandIdleOnMount"
-        ],
-        "thrustDamage": 22,
-        "thrustDamageType": "Pierce",
-        "thrustSpeed": 85,
-        "swingDamage": 33,
-        "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
     "id": "crpg_ragged_armwraps_v2_h0",
     "baseId": "crpg_ragged_armwraps_v2",
     "name": "Ragged Armwraps",
@@ -140228,11 +140228,6 @@
     "weapons": []
   },
   {
-<<<<<<< HEAD
-    "id": "crpg_shepherd_axe_v1_h0",
-    "baseId": "crpg_shepherd_axe_v1",
-    "name": "Shepherd's Axe",
-=======
     "id": "crpg_shep_damast_h0",
     "baseId": "crpg_shep_damast",
     "name": "Elegant Shepherd Axe",
@@ -140385,10 +140380,9 @@
     ]
   },
   {
-    "id": "crpg_shepherd_axe_h0",
-    "baseId": "crpg_shepherd_axe",
-    "name": "Shepherd Axe",
->>>>>>> bd5e740 (Autogenerated Heirloom Versions)
+    "id": "crpg_shepherd_axe_v1_h0",
+    "baseId": "crpg_shepherd_axe_v1",
+    "name": "Shepherd's Axe",
     "culture": "Battania",
     "type": "OneHandedWeapon",
     "price": 4165,
