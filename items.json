@@ -2201,6 +2201,26 @@
     "flags": [],
     "weapons": [
       {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.0,
+        "handling": 74,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 66
+      },
+      {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
         "accuracy": 0,
@@ -2220,6 +2240,26 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 86
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.0,
+        "handling": 74,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 66
       }
     ]
   },
@@ -2236,6 +2276,26 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.0,
+        "handling": 75,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 69
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -2256,6 +2316,26 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 88
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.0,
+        "handling": 75,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 69
       }
     ]
   },
@@ -2272,6 +2352,26 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.04,
+        "handling": 77,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 71
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -2292,6 +2392,26 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 89
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.04,
+        "handling": 77,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 71
       }
     ]
   },
@@ -2308,6 +2428,26 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.1,
+        "handling": 78,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 73
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -2328,6 +2468,26 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 91
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 112,
+        "balance": 0.1,
+        "handling": 78,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 73
       }
     ]
   },
@@ -87973,6 +88133,26 @@
     "flags": [],
     "weapons": [
       {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.05,
+        "handling": 63,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 75,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 71
+      },
+      {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
         "accuracy": 0,
@@ -87992,6 +88172,26 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 90
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.05,
+        "handling": 63,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 75,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 71
       }
     ]
   },
@@ -88008,6 +88208,26 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 63,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 77,
+        "swingDamage": 41,
+        "swingDamageType": "Cut",
+        "swingSpeed": 72
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -88028,6 +88248,26 @@
         "swingDamage": 41,
         "swingDamageType": "Cut",
         "swingSpeed": 91
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 63,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 77,
+        "swingDamage": 41,
+        "swingDamageType": "Cut",
+        "swingSpeed": 72
       }
     ]
   },
@@ -88044,6 +88284,26 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 63,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 77,
+        "swingDamage": 42,
+        "swingDamageType": "Cut",
+        "swingSpeed": 72
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -88064,6 +88324,26 @@
         "swingDamage": 42,
         "swingDamageType": "Cut",
         "swingSpeed": 91
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.1,
+        "handling": 63,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 77,
+        "swingDamage": 42,
+        "swingDamageType": "Cut",
+        "swingSpeed": 72
       }
     ]
   },
@@ -88080,6 +88360,26 @@
     "requirement": 0,
     "flags": [],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.13,
+        "handling": 65,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 78,
+        "swingDamage": 43,
+        "swingDamageType": "Cut",
+        "swingSpeed": 74
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -88100,6 +88400,26 @@
         "swingDamage": 43,
         "swingDamageType": "Cut",
         "swingSpeed": 91
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 113,
+        "balance": 0.13,
+        "handling": 65,
+        "bodyArmor": 3,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 78,
+        "swingDamage": 43,
+        "swingDamageType": "Cut",
+        "swingSpeed": 74
       }
     ]
   },
@@ -97345,6 +97665,26 @@
     ],
     "weapons": [
       {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.2,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 19,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 39,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
+      },
+      {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
         "accuracy": 0,
@@ -97364,6 +97704,26 @@
         "swingDamage": 39,
         "swingDamageType": "Cut",
         "swingSpeed": 93
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.2,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 19,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 39,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
       }
     ]
   },
@@ -97382,6 +97742,26 @@
       "Civilian"
     ],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.28,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 21,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 39,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -97402,6 +97782,26 @@
         "swingDamage": 39,
         "swingDamageType": "Cut",
         "swingSpeed": 95
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.28,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 21,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 39,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
       }
     ]
   },
@@ -97420,6 +97820,26 @@
       "Civilian"
     ],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.28,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -97440,6 +97860,26 @@
         "swingDamage": 40,
         "swingDamageType": "Cut",
         "swingSpeed": 95
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.28,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
       }
     ]
   },
@@ -97458,6 +97898,26 @@
       "Civilian"
     ],
     "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_rshield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.28,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 42,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
+      },
       {
         "class": "TwoHandedSword",
         "itemUsage": "twohanded_block_swing_thrust",
@@ -97478,6 +97938,26 @@
         "swingDamage": 42,
         "swingDamageType": "Cut",
         "swingSpeed": 95
+      },
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 107,
+        "balance": 0.28,
+        "handling": 64,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 42,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
       }
     ]
   },
