@@ -30776,41 +30776,41 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_horsemanspick_head_h0" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.37" full_scale="true">
+  <CraftingPiece id="crpg_horsemanspick_head_h0" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.85" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="1.9" />
-      <Swing damage_type="Pierce" damage_factor="2.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.2" />
+      <Swing damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_horsemanspick_head_h1" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.37" full_scale="true">
+  <CraftingPiece id="crpg_horsemanspick_head_h1" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.8" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="1.9" />
-      <Swing damage_type="Pierce" damage_factor="2.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.2" />
+      <Swing damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_horsemanspick_head_h2" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.37" full_scale="true">
+  <CraftingPiece id="crpg_horsemanspick_head_h2" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.8" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="1.9" />
-      <Swing damage_type="Pierce" damage_factor="2.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_horsemanspick_head_h3" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.37" full_scale="true">
+  <CraftingPiece id="crpg_horsemanspick_head_h3" name="{=}Horseman's Pick Head" tier="4" piece_type="Blade" mesh="horsemanspick_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="46.2" weight="0.8" full_scale="true">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="1.9" />
-      <Swing damage_type="Pierce" damage_factor="2.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
