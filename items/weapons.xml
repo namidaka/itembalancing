@@ -12492,25 +12492,25 @@
       <Piece id="crpg_zweihander_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_gada_h0" name="{=}Small Gada" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.battania">
+  <CraftedItem id="crpg_onehanded_gada_h0" name="{=}Steel Ball Mace" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia"  modifier_group="mace">
     <Pieces>
       <Piece id="crpg_small_gada_blade_h0" Type="Blade" scale_factor="60" />
       <Piece id="crpg_small_gada_handle_h0" Type="Handle" scale_factor="60" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_gada_h1" name="{=}Small Gada" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.battania">
+  <CraftedItem id="crpg_onehanded_gada_h1" name="{=}Steel Ball Mace +1" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia"  modifier_group="mace">
     <Pieces>
       <Piece id="crpg_small_gada_blade_h1" Type="Blade" scale_factor="60" />
       <Piece id="crpg_small_gada_handle_h1" Type="Handle" scale_factor="60" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_gada_h2" name="{=}Small Gada" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.battania">
+  <CraftedItem id="crpg_onehanded_gada_h2" name="{=}Steel Ball Mace +2" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia"  modifier_group="mace">
     <Pieces>
       <Piece id="crpg_small_gada_blade_h2" Type="Blade" scale_factor="60" />
       <Piece id="crpg_small_gada_handle_h2" Type="Handle" scale_factor="60" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_gada_h3" name="{=}Small Gada" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.battania">
+  <CraftedItem id="crpg_onehanded_gada_h3" name="{=}Steel Ball Mace +3" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia"  modifier_group="mace">
     <Pieces>
       <Piece id="crpg_small_gada_blade_h3" Type="Blade" scale_factor="60" />
       <Piece id="crpg_small_gada_handle_h3" Type="Handle" scale_factor="60" />

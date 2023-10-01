@@ -120570,144 +120570,140 @@
   {
     "id": "crpg_onehanded_gada_h0",
     "baseId": "crpg_onehanded_gada",
-    "name": "Small Gada",
-    "culture": "Battania",
+    "name": "Steel Ball Mace",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 4745110,
-    "weight": 0.91,
+    "price": 3327,
+    "weight": 2.11,
     "rank": 0,
-    "tier": 289.016479,
+    "tier": 6.5486145,
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_tipdraw_swing",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 66,
-        "balance": 1.0,
-        "handling": 99,
+        "length": 67,
+        "balance": 0.53,
+        "handling": 82,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
+          "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 97,
-        "swingDamage": 29,
+        "thrustSpeed": 85,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 105
+        "swingSpeed": 85
       }
     ]
   },
   {
     "id": "crpg_onehanded_gada_h1",
     "baseId": "crpg_onehanded_gada",
-    "name": "Small Gada",
-    "culture": "Battania",
+    "name": "Steel Ball Mace +1",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3246439,
-    "weight": 0.91,
+    "price": 3703,
+    "weight": 1.99,
     "rank": 1,
-    "tier": 238.856567,
+    "tier": 6.9691186,
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_tipdraw_swing",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 66,
-        "balance": 1.0,
-        "handling": 99,
+        "length": 67,
+        "balance": 0.59,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
+          "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 97,
-        "swingDamage": 29,
+        "thrustSpeed": 87,
+        "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 105
+        "swingSpeed": 87
       }
     ]
   },
   {
     "id": "crpg_onehanded_gada_h2",
     "baseId": "crpg_onehanded_gada",
-    "name": "Small Gada",
-    "culture": "Battania",
+    "name": "Steel Ball Mace +2",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 2296433,
-    "weight": 0.91,
+    "price": 3669,
+    "weight": 1.99,
     "rank": 2,
-    "tier": 200.705872,
+    "tier": 6.93176556,
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_tipdraw_swing",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 66,
-        "balance": 1.0,
-        "handling": 99,
+        "length": 67,
+        "balance": 0.59,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
+          "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 97,
-        "swingDamage": 29,
+        "thrustSpeed": 87,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 105
+        "swingSpeed": 87
       }
     ]
   },
   {
     "id": "crpg_onehanded_gada_h3",
     "baseId": "crpg_onehanded_gada",
-    "name": "Small Gada",
-    "culture": "Battania",
+    "name": "Steel Ball Mace +3",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 1670608,
-    "weight": 0.91,
+    "price": 4385,
+    "weight": 1.96,
     "rank": 3,
-    "tier": 171.015671,
+    "tier": 7.68204355,
     "requirement": 0,
     "flags": [],
     "weapons": [
       {
         "class": "Mace",
-        "itemUsage": "onehanded_block_tipdraw_swing",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 66,
-        "balance": 1.0,
-        "handling": 99,
+        "length": 67,
+        "balance": 0.61,
+        "handling": 84,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon",
-          "MultiplePenetration"
+          "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 97,
-        "swingDamage": 29,
+        "thrustSpeed": 87,
+        "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 105
+        "swingSpeed": 88
       }
     ]
   },
