@@ -120573,10 +120573,10 @@
     "name": "Steel Ball Mace",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3327,
-    "weight": 2.11,
+    "price": 4144,
+    "weight": 2.03,
     "rank": 0,
-    "tier": 6.5486145,
+    "tier": 7.43665457,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120587,18 +120587,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 67,
-        "balance": 0.53,
-        "handling": 82,
+        "balance": 0.56,
+        "handling": 83,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 85,
+        "thrustSpeed": 86,
         "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 86
       }
     ]
   },
@@ -120608,10 +120608,10 @@
     "name": "Steel Ball Mace +1",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3703,
-    "weight": 1.99,
+    "price": 4409,
+    "weight": 1.96,
     "rank": 1,
-    "tier": 6.9691186,
+    "tier": 7.70647335,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120622,7 +120622,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 67,
-        "balance": 0.59,
+        "balance": 0.61,
         "handling": 84,
         "bodyArmor": 0,
         "flags": [
@@ -120633,7 +120633,7 @@
         "thrustSpeed": 87,
         "swingDamage": 25,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
@@ -120643,10 +120643,10 @@
     "name": "Steel Ball Mace +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 3669,
-    "weight": 1.99,
+    "price": 4368,
+    "weight": 1.96,
     "rank": 2,
-    "tier": 6.93176556,
+    "tier": 7.66517353,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120657,7 +120657,7 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 67,
-        "balance": 0.59,
+        "balance": 0.61,
         "handling": 84,
         "bodyArmor": 0,
         "flags": [
@@ -120668,7 +120668,7 @@
         "thrustSpeed": 87,
         "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 88
       }
     ]
   },
