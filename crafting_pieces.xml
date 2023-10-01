@@ -31656,7 +31656,23 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_blade_h0" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" culture="Culture.battania" length="68.5" weight="1.25">
+  <CraftingPiece id="crpg_onehanded_barmace_blade_h0" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" length="68.5" weight="2.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_onehanded_barmace_blade_h1" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" length="68.5" weight="1.85">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_onehanded_barmace_blade_h2" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" length="68.5" weight="1.85">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
@@ -31664,50 +31680,34 @@
       <Material id="Iron5" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_blade_h1" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" culture="Culture.battania" length="68.5" weight="1.25">
+  <CraftingPiece id="crpg_onehanded_barmace_blade_h3" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" length="68.5" weight="1.85">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_blade_h2" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" culture="Culture.battania" length="68.5" weight="1.25">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron5" count="4" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_blade_h3" name="{=}Onehanded Barmace Blade" tier="4" piece_type="Blade" mesh="barmace_blade" culture="Culture.battania" length="68.5" weight="1.25">
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Swing damage_type="Blunt" damage_factor="2.7" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron5" count="4" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_handle_h0" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" culture="Culture.khuzait" length="24.7" weight=".001">
-    <BuildData piece_offset="-5" previous_piece_offset="0.0" next_piece_offset="18" />
+  <CraftingPiece id="crpg_onehanded_barmace_handle_h0" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" length="24.7" weight="0.001">
+    <BuildData piece_offset="-4" previous_piece_offset="0.0" next_piece_offset="18" />
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_handle_h1" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" culture="Culture.khuzait" length="24.7" weight=".001">
-    <BuildData piece_offset="-5" previous_piece_offset="0.0" next_piece_offset="18" />
+  <CraftingPiece id="crpg_onehanded_barmace_handle_h1" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" length="24.7" weight="0.001">
+    <BuildData piece_offset="-4" previous_piece_offset="0.0" next_piece_offset="18" />
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_handle_h2" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" culture="Culture.khuzait" length="24.7" weight=".001">
-    <BuildData piece_offset="-5" previous_piece_offset="0.0" next_piece_offset="18" />
+  <CraftingPiece id="crpg_onehanded_barmace_handle_h2" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" length="24.7" weight="0.001">
+    <BuildData piece_offset="-4" previous_piece_offset="0.0" next_piece_offset="18" />
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_small_barmace_handle_h3" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" culture="Culture.khuzait" length="24.7" weight=".001">
-    <BuildData piece_offset="-5" previous_piece_offset="0.0" next_piece_offset="18" />
+  <CraftingPiece id="crpg_onehanded_barmace_handle_h3" name="{=}Onehanded Barmace Handle" tier="3" piece_type="Handle" mesh="barmace_handle" length="24.7" weight="0.001">
+    <BuildData piece_offset="-4" previous_piece_offset="0.0" next_piece_offset="18" />
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>

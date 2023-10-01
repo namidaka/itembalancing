@@ -120430,13 +120430,13 @@
   {
     "id": "crpg_onehanded_barmace_h0",
     "baseId": "crpg_onehanded_barmace",
-    "name": "Small Barmace",
-    "culture": "Neutral",
+    "name": "One-Handed Barmace",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 96820,
-    "weight": 1.25,
+    "price": 4123,
+    "weight": 2.0,
     "rank": 0,
-    "tier": 40.2896843,
+    "tier": 7.41472,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120447,31 +120447,31 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 58,
-        "balance": 0.99,
-        "handling": 100,
+        "balance": 0.52,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 27,
+        "thrustSpeed": 87,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 99
+        "swingSpeed": 85
       }
     ]
   },
   {
     "id": "crpg_onehanded_barmace_h1",
     "baseId": "crpg_onehanded_barmace",
-    "name": "Small Barmace",
-    "culture": "Neutral",
+    "name": "One-Handed Barmace +1",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 66905,
-    "weight": 1.25,
+    "price": 4389,
+    "weight": 1.85,
     "rank": 1,
-    "tier": 33.2972641,
+    "tier": 7.68573,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120482,31 +120482,31 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 58,
-        "balance": 0.99,
-        "handling": 100,
+        "balance": 0.6,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 27,
+        "thrustSpeed": 88,
+        "swingDamage": 26,
         "swingDamageType": "Blunt",
-        "swingSpeed": 99
+        "swingSpeed": 87
       }
     ]
   },
   {
     "id": "crpg_onehanded_barmace_h2",
     "baseId": "crpg_onehanded_barmace",
-    "name": "Small Barmace",
-    "culture": "Neutral",
+    "name": "One-Handed Barmace +2",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 47841,
-    "weight": 1.25,
+    "price": 4300,
+    "weight": 1.85,
     "rank": 2,
-    "tier": 27.9789371,
+    "tier": 7.59603,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120517,31 +120517,31 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 58,
-        "balance": 0.99,
-        "handling": 100,
+        "balance": 0.6,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
+        "thrustSpeed": 88,
         "swingDamage": 27,
         "swingDamageType": "Blunt",
-        "swingSpeed": 99
+        "swingSpeed": 87
       }
     ]
   },
   {
     "id": "crpg_onehanded_barmace_h3",
     "baseId": "crpg_onehanded_barmace",
-    "name": "Small Barmace",
-    "culture": "Neutral",
+    "name": "One-Handed Barmace +3",
+    "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 35211,
-    "weight": 1.25,
+    "price": 4272,
+    "weight": 1.85,
     "rank": 3,
-    "tier": 23.8400574,
+    "tier": 7.56794453,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -120552,18 +120552,18 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 58,
-        "balance": 0.99,
-        "handling": 100,
+        "balance": 0.6,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Undefined",
-        "thrustSpeed": 94,
-        "swingDamage": 27,
+        "thrustSpeed": 88,
+        "swingDamage": 28,
         "swingDamageType": "Blunt",
-        "swingSpeed": 99
+        "swingSpeed": 87
       }
     ]
   },
