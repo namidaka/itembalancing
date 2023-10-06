@@ -22038,6 +22038,146 @@
     ]
   },
   {
+    "id": "crpg_black_wakizashi_h0",
+    "baseId": "crpg_black_wakizashi",
+    "name": "Black Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 214794,
+    "weight": 1.81,
+    "rank": 0,
+    "tier": 60.5760727,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_black_wakizashi_h1",
+    "baseId": "crpg_black_wakizashi",
+    "name": "Black Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 147865,
+    "weight": 1.81,
+    "rank": 1,
+    "tier": 50.0628853,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_black_wakizashi_h2",
+    "baseId": "crpg_black_wakizashi",
+    "name": "Black Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 105301,
+    "weight": 1.81,
+    "rank": 2,
+    "tier": 42.06673,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_black_wakizashi_h3",
+    "baseId": "crpg_black_wakizashi",
+    "name": "Black Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 77162,
+    "weight": 1.81,
+    "rank": 3,
+    "tier": 35.8438454,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
     "id": "crpg_blacksmith_hammer_h0",
     "baseId": "crpg_blacksmith_hammer",
     "name": "Blacksmith Hammer",
@@ -22722,6 +22862,146 @@
         "swingDamage": 37,
         "swingDamageType": "Cut",
         "swingSpeed": 77
+      }
+    ]
+  },
+  {
+    "id": "crpg_blue_wakizashi_h0",
+    "baseId": "crpg_blue_wakizashi",
+    "name": "Blue Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 214794,
+    "weight": 1.81,
+    "rank": 0,
+    "tier": 60.5760727,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_blue_wakizashi_h1",
+    "baseId": "crpg_blue_wakizashi",
+    "name": "Blue Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 147865,
+    "weight": 1.81,
+    "rank": 1,
+    "tier": 50.0628853,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_blue_wakizashi_h2",
+    "baseId": "crpg_blue_wakizashi",
+    "name": "Blue Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 105301,
+    "weight": 1.81,
+    "rank": 2,
+    "tier": 42.06673,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_blue_wakizashi_h3",
+    "baseId": "crpg_blue_wakizashi",
+    "name": "Blue Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 77162,
+    "weight": 1.81,
+    "rank": 3,
+    "tier": 35.8438454,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
       }
     ]
   },
@@ -62696,6 +62976,146 @@
         "swingDamage": 37,
         "swingDamageType": "Cut",
         "swingSpeed": 77
+      }
+    ]
+  },
+  {
+    "id": "crpg_green_wakizashi_h0",
+    "baseId": "crpg_green_wakizashi",
+    "name": "Green Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 214794,
+    "weight": 1.81,
+    "rank": 0,
+    "tier": 60.5760727,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_green_wakizashi_h1",
+    "baseId": "crpg_green_wakizashi",
+    "name": "Green Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 147865,
+    "weight": 1.81,
+    "rank": 1,
+    "tier": 50.0628853,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_green_wakizashi_h2",
+    "baseId": "crpg_green_wakizashi",
+    "name": "Green Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 105301,
+    "weight": 1.81,
+    "rank": 2,
+    "tier": 42.06673,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_green_wakizashi_h3",
+    "baseId": "crpg_green_wakizashi",
+    "name": "Green Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 77162,
+    "weight": 1.81,
+    "rank": 3,
+    "tier": 35.8438454,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
       }
     ]
   },
@@ -129486,6 +129906,146 @@
     ]
   },
   {
+    "id": "crpg_red_wakizashi_h0",
+    "baseId": "crpg_red_wakizashi",
+    "name": "Red Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 214794,
+    "weight": 1.81,
+    "rank": 0,
+    "tier": 60.5760727,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_red_wakizashi_h1",
+    "baseId": "crpg_red_wakizashi",
+    "name": "Red Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 147865,
+    "weight": 1.81,
+    "rank": 1,
+    "tier": 50.0628853,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_red_wakizashi_h2",
+    "baseId": "crpg_red_wakizashi",
+    "name": "Red Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 105301,
+    "weight": 1.81,
+    "rank": 2,
+    "tier": 42.06673,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_red_wakizashi_h3",
+    "baseId": "crpg_red_wakizashi",
+    "name": "Red Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 77162,
+    "weight": 1.81,
+    "rank": 3,
+    "tier": 35.8438454,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
     "id": "crpg_reinforced_flat_kite_shield_v2_h0",
     "baseId": "crpg_reinforced_flat_kite_shield_v2",
     "name": "Reinforced Flat Kite Shield",
@@ -180900,6 +181460,146 @@
         "swingDamage": 37,
         "swingDamageType": "Cut",
         "swingSpeed": 77
+      }
+    ]
+  },
+  {
+    "id": "crpg_yellow_wakizashi_h0",
+    "baseId": "crpg_yellow_wakizashi",
+    "name": "Yellow Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 214794,
+    "weight": 1.81,
+    "rank": 0,
+    "tier": 60.5760727,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_yellow_wakizashi_h1",
+    "baseId": "crpg_yellow_wakizashi",
+    "name": "Yellow Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 147865,
+    "weight": 1.81,
+    "rank": 1,
+    "tier": 50.0628853,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_yellow_wakizashi_h2",
+    "baseId": "crpg_yellow_wakizashi",
+    "name": "Yellow Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 105301,
+    "weight": 1.81,
+    "rank": 2,
+    "tier": 42.06673,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
+      }
+    ]
+  },
+  {
+    "id": "crpg_yellow_wakizashi_h3",
+    "baseId": "crpg_yellow_wakizashi",
+    "name": "Yellow Wakizashi",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 77162,
+    "weight": 1.81,
+    "rank": 3,
+    "tier": 35.8438454,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 60,
+        "balance": 1.0,
+        "handling": 98,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 109
       }
     ]
   },
