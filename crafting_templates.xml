@@ -3238,8 +3238,7 @@
       <PieceData piece_type="Pommel" build_order="-1" />
     </PieceDatas>
     <WeaponDescriptions>
-      <WeaponDescription id="Dagger" />
-      <WeaponDescription id="ThrowingKnife" />
+      <WeaponDescription id="crpg_Dagger" />
     </WeaponDescriptions>
     <StatsData weapon_description="Dagger">
       <StatData stat_type="Weight" max_value="7.0" />
@@ -9662,7 +9661,7 @@
       <PieceData piece_type="Pommel" build_order="-1" />
     </PieceDatas>
     <WeaponDescriptions>
-      <WeaponDescription id="OneHandedSword" />
+      <WeaponDescription id="crpg_OneHandedSword" />
     </WeaponDescriptions>
     <StatsData>
       <StatData stat_type="Weight" max_value="7.0" />
