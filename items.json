@@ -1932,46 +1932,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_adarga_v2_h0",
-    "baseId": "crpg_adarga_v2",
-    "name": "Adarga",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 162,
-    "weight": 0.4418,
-    "rank": 0,
-    "tier": 0.6680236,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 160,
-        "length": 47,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_adarga_v2_h1",
     "baseId": "crpg_adarga_v2",
     "name": "Adarga +1",
@@ -2078,6 +2038,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_adarga_v3_h0",
+    "baseId": "crpg_adarga_v3",
+    "name": "Desert Adarga Round Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 678,
+    "weight": 0.6903125,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 47,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -16810,46 +16810,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_battania_large_shield_a_v2_h0",
-    "baseId": "crpg_battania_large_shield_a_v2",
-    "name": "Bronze Reinforced Highland Large Shield",
-    "culture": "Battania",
-    "type": "Shield",
-    "price": 1264,
-    "weight": 1.5876,
-    "rank": 0,
-    "tier": 3.62040186,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 320,
-        "length": 63,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 4,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_battania_large_shield_a_v2_h1",
     "baseId": "crpg_battania_large_shield_a_v2",
     "name": "Bronze Reinforced Highland Large Shield +1",
@@ -16970,15 +16930,15 @@
     ]
   },
   {
-    "id": "crpg_battania_large_shield_b_v2_h0",
-    "baseId": "crpg_battania_large_shield_b_v2",
-    "name": "Iron Reinforced Highland Large Shield",
+    "id": "crpg_battania_large_shield_a_v3_h0",
+    "baseId": "crpg_battania_large_shield_a_v3",
+    "name": "Fortified Highland Heater Shield",
     "culture": "Battania",
     "type": "Shield",
-    "price": 3022,
-    "weight": 1.810856,
+    "price": 20133,
+    "weight": 2.480625,
     "rank": 0,
-    "tier": 6.189782,
+    "tier": 17.74786,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone",
@@ -16991,11 +16951,11 @@
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 365,
+        "stackAmount": 500,
         "length": 63,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 8,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -17130,15 +17090,15 @@
     ]
   },
   {
-    "id": "crpg_battania_large_shield_c_v2_h0",
-    "baseId": "crpg_battania_large_shield_c_v2",
-    "name": "Highland Large Shield",
+    "id": "crpg_battania_large_shield_b_v3_h0",
+    "baseId": "crpg_battania_large_shield_b_v3",
+    "name": "Heavy Highland Heater Shield",
     "culture": "Battania",
     "type": "Shield",
-    "price": 901,
-    "weight": 1.5876,
+    "price": 3254,
+    "weight": 1.736438,
     "rank": 0,
-    "tier": 2.89254618,
+    "tier": 6.464456,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone",
@@ -17151,11 +17111,11 @@
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 320,
+        "stackAmount": 350,
         "length": 63,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 1,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -17276,6 +17236,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_battania_large_shield_c_v3_h0",
+    "baseId": "crpg_battania_large_shield_c_v3",
+    "name": "Highland Large Shield",
+    "culture": "Battania",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.240312,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 63,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -18530,46 +18530,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_battania_targe_b_v2_h0",
-    "baseId": "crpg_battania_targe_b_v2",
-    "name": "Targe",
-    "culture": "Battania",
-    "type": "Shield",
-    "price": 582,
-    "weight": 1.036062,
-    "rank": 0,
-    "tier": 2.1207118,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 55,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_battania_targe_b_v2_h1",
     "baseId": "crpg_battania_targe_b_v2",
     "name": "Targe +1",
@@ -18676,6 +18636,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_battania_targe_b_v3_h0",
+    "baseId": "crpg_battania_targe_b_v3",
+    "name": "Highland Targe Round Shield",
+    "culture": "Battania",
+    "type": "Shield",
+    "price": 678,
+    "weight": 0.9453125,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 55,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -25388,46 +25388,6 @@
     ]
   },
   {
-    "id": "crpg_bound_adarga_v2_h0",
-    "baseId": "crpg_bound_adarga_v2",
-    "name": "Wooden Adarga",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 162,
-    "weight": 0.5832,
-    "rank": 0,
-    "tier": 0.6680236,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 160,
-        "length": 54,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_bound_adarga_v2_h1",
     "baseId": "crpg_bound_adarga_v2",
     "name": "Wooden Adarga +1",
@@ -25548,15 +25508,15 @@
     ]
   },
   {
-    "id": "crpg_bound_desert_round_shield_v2_h0",
-    "baseId": "crpg_bound_desert_round_shield_v2",
-    "name": "Desert Round Shield",
+    "id": "crpg_bound_adarga_v3_h0",
+    "baseId": "crpg_bound_adarga_v3",
+    "name": "Worn Adarga Round Shield",
     "culture": "Aserai",
     "type": "Shield",
-    "price": 364,
-    "weight": 1.09554,
+    "price": 146,
+    "weight": 0.54675,
     "rank": 0,
-    "tier": 1.46841931,
+    "tier": 0.5871302,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -25569,11 +25529,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 62,
+        "stackAmount": 150,
+        "length": 54,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 1,
+        "bodyArmor": 0,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -25708,15 +25668,15 @@
     ]
   },
   {
-    "id": "crpg_bound_horsemans_kite_shield_v2_h0",
-    "baseId": "crpg_bound_horsemans_kite_shield_v2",
-    "name": "Cavalry Kite Shield",
-    "culture": "Neutral",
+    "id": "crpg_bound_desert_round_shield_v3_h0",
+    "baseId": "crpg_bound_desert_round_shield_v3",
+    "name": "Desert Round Shield",
+    "culture": "Aserai",
     "type": "Shield",
-    "price": 285,
-    "weight": 1.017056,
+    "price": 678,
+    "weight": 1.20125,
     "rank": 0,
-    "tier": 1.1871022,
+    "tier": 2.37194586,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -25729,11 +25689,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 205,
-        "length": 63,
+        "stackAmount": 250,
+        "length": 62,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 1,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -25743,7 +25703,7 @@
         "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 94
+        "swingSpeed": 82
       }
     ]
   },
@@ -25868,6 +25828,46 @@
     ]
   },
   {
+    "id": "crpg_bound_horsemans_kite_shield_v3_h0",
+    "baseId": "crpg_bound_horsemans_kite_shield_v3",
+    "name": "Imperial Cavalry Heater Shield",
+    "culture": "Empire",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.240312,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 63,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 94
+      }
+    ]
+  },
+  {
     "id": "crpg_bowmans_flag_t2",
     "baseId": "crpg_bowmans_flag",
     "name": "Bowman's Flag",
@@ -25902,46 +25902,6 @@
         "swingDamage": 6,
         "swingDamageType": "Blunt",
         "swingSpeed": 97
-      }
-    ]
-  },
-  {
-    "id": "crpg_bracketed_heater_shield_v2_h0",
-    "baseId": "crpg_bracketed_heater_shield_v2",
-    "name": "Bracketed Heater Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 262,
-    "weight": 1.518765,
-    "rank": 0,
-    "tier": 1.09876943,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 73,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
       }
     ]
   },
@@ -26052,6 +26012,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_bracketed_heater_shield_v3_h0",
+    "baseId": "crpg_bracketed_heater_shield_v3",
+    "name": "Heavy Norman Long Heater Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 2283,
+    "weight": 2.331438,
+    "rank": 0,
+    "tier": 5.236209,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 73,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -28675,10 +28675,10 @@
     "name": "Round Buckler Shield",
     "culture": "Neutral",
     "type": "Shield",
-    "price": 6631,
+    "price": 196,
     "weight": 0.514125,
     "rank": 0,
-    "tier": 9.703358,
+    "tier": 0.824548066,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone",
@@ -28690,11 +28690,11 @@
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 457,
+        "stackAmount": 125,
         "length": 30,
         "balance": 0.0,
         "handling": 86,
-        "bodyArmor": 8,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -32730,46 +32730,6 @@
     ]
   },
   {
-    "id": "crpg_chivalric_kite_shield_v2_h0",
-    "baseId": "crpg_chivalric_kite_shield_v2",
-    "name": "Knights Kite Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 6721,
-    "weight": 1.607445,
-    "rank": 0,
-    "tier": 9.776184,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 324,
-        "length": 63,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 20,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_chivalric_kite_shield_v2_h1",
     "baseId": "crpg_chivalric_kite_shield_v2",
     "name": "Knights Kite Shield +1",
@@ -32876,6 +32836,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 22,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_chivalric_kite_shield_v3_h0",
+    "baseId": "crpg_chivalric_kite_shield_v3",
+    "name": "Fortified Norman Cavalry Heater Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 20133,
+    "weight": 2.480625,
+    "rank": 0,
+    "tier": 17.74786,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 63,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -38428,46 +38428,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_curved_round_shield_v2_h0",
-    "baseId": "crpg_curved_round_shield_v2",
-    "name": "Curved Round Shield",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 364,
-    "weight": 1.24146,
-    "rank": 0,
-    "tier": 1.46841931,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 66,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_curved_round_shield_v2_h1",
     "baseId": "crpg_curved_round_shield_v2",
     "name": "Curved Round Shield +1",
@@ -38574,6 +38534,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_curved_round_shield_v3_h0",
+    "baseId": "crpg_curved_round_shield_v3",
+    "name": "Fortified Desert Round Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 20133,
+    "weight": 2.7225,
+    "rank": 0,
+    "tier": 17.74786,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 66,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -42344,46 +42344,6 @@
     ]
   },
   {
-    "id": "crpg_decorated_steppe_shield_v2_h0",
-    "baseId": "crpg_decorated_steppe_shield_v2",
-    "name": "Round Steppe Shield",
-    "culture": "Khuzait",
-    "type": "Shield",
-    "price": 2377,
-    "weight": 1.09554,
-    "rank": 0,
-    "tier": 5.36536169,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 62,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 22,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_decorated_steppe_shield_v2_h1",
     "baseId": "crpg_decorated_steppe_shield_v2",
     "name": "Round Steppe Shield +1",
@@ -42490,6 +42450,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 24,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_decorated_steppe_shield_v3_h0",
+    "baseId": "crpg_decorated_steppe_shield_v3",
+    "name": "Steppe Round Studded Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.20125,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 62,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -43986,46 +43986,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_desert_oval_shield_v2_h0",
-    "baseId": "crpg_desert_oval_shield_v2",
-    "name": "Desert Oval Shield",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 286,
-    "weight": 1.689765,
-    "rank": 0,
-    "tier": 1.18941951,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 77,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_desert_oval_shield_v2_h1",
     "baseId": "crpg_desert_oval_shield_v2",
     "name": "Desert Oval Shield +1",
@@ -44132,6 +44092,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_desert_oval_shield_v3_h0",
+    "baseId": "crpg_desert_oval_shield_v3",
+    "name": "Desert Oval Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 510,
+    "weight": 1.852813,
+    "rank": 0,
+    "tier": 1.92127609,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 77,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -47058,46 +47058,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_eastern_wicker_shield_v2_h0",
-    "baseId": "crpg_eastern_wicker_shield_v2",
-    "name": "Wicker Square Shield",
-    "culture": "Khuzait",
-    "type": "Shield",
-    "price": 262,
-    "weight": 2.157165,
-    "rank": 0,
-    "tier": 1.09876943,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 87,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_eastern_wicker_shield_v2_h1",
     "baseId": "crpg_eastern_wicker_shield_v2",
     "name": "Wicker Square Shield +1",
@@ -47200,6 +47160,46 @@
         "accuracy": 100,
         "missileSpeed": 0,
         "stackAmount": 283,
+        "length": 87,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_eastern_wicker_shield_v3_h0",
+    "baseId": "crpg_eastern_wicker_shield_v3",
+    "name": "Worn Steppe Wicker Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 125,
+    "weight": 1.419188,
+    "rank": 0,
+    "tier": 0.475575447,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
         "length": 87,
         "balance": 0.0,
         "handling": 82,
@@ -48010,46 +48010,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_emirs_oval_shield_v2_h0",
-    "baseId": "crpg_emirs_oval_shield_v2",
-    "name": "Decorated Oval Shield",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 604,
-    "weight": 2.201141,
-    "rank": 0,
-    "tier": 2.179682,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 297,
-        "length": 77,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_emirs_oval_shield_v2_h1",
     "baseId": "crpg_emirs_oval_shield_v2",
     "name": "Decorated Oval Shield +1",
@@ -48156,6 +48116,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 3,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_emirs_oval_shield_v3_h0",
+    "baseId": "crpg_emirs_oval_shield_v3",
+    "name": "Fortified Desert Oval Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 13585,
+    "weight": 3.705625,
+    "rank": 0,
+    "tier": 14.3757648,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 77,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -56970,46 +56970,6 @@
     ]
   },
   {
-    "id": "crpg_flat_heater_shield_v2_h0",
-    "baseId": "crpg_flat_heater_shield_v2",
-    "name": "Flat Heater Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 582,
-    "weight": 1.40288,
-    "rank": 0,
-    "tier": 2.1207118,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 64,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 93
-      }
-    ]
-  },
-  {
     "id": "crpg_flat_heater_shield_v2_h1",
     "baseId": "crpg_flat_heater_shield_v2",
     "name": "Flat Heater Shield +1",
@@ -57116,6 +57076,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 93
+      }
+    ]
+  },
+  {
+    "id": "crpg_flat_heater_shield_v3_h0",
+    "baseId": "crpg_flat_heater_shield_v3",
+    "name": "Fortified Norman Long Heater Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 20133,
+    "weight": 2.56,
+    "rank": 0,
+    "tier": 17.74786,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 64,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -57518,46 +57518,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_footmans_wicker_shield_v2_h0",
-    "baseId": "crpg_footmans_wicker_shield_v2",
-    "name": "Wicker Shield",
-    "culture": "Khuzait",
-    "type": "Shield",
-    "price": 667,
-    "weight": 3.0276,
-    "rank": 0,
-    "tier": 2.34296227,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 320,
-        "length": 87,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_footmans_wicker_shield_v2_h1",
     "baseId": "crpg_footmans_wicker_shield_v2",
     "name": "Wicker Shield +1",
@@ -57664,6 +57624,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_footmans_wicker_shield_v3_h0",
+    "baseId": "crpg_footmans_wicker_shield_v3",
+    "name": "Steppe Wicker Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 510,
+    "weight": 2.365313,
+    "rank": 0,
+    "tier": 1.92127609,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 87,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -57830,46 +57830,6 @@
     ]
   },
   {
-    "id": "crpg_fortified_kite_shield_v2_h0",
-    "baseId": "crpg_fortified_kite_shield_v2",
-    "name": "Fortified Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 6432,
-    "weight": 1.8605,
-    "rank": 0,
-    "tier": 9.539873,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 400,
-        "length": 61,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 12,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_fortified_kite_shield_v2_h1",
     "baseId": "crpg_fortified_kite_shield_v2",
     "name": "Fortified Kite Shield +1",
@@ -57976,6 +57936,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 14,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_fortified_kite_shield_v3_h0",
+    "baseId": "crpg_fortified_kite_shield_v3",
+    "name": "Fortified Norman Kite Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 20133,
+    "weight": 2.325625,
+    "rank": 0,
+    "tier": 17.74786,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 61,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -64662,13 +64662,13 @@
   {
     "id": "crpg_hand_pavise_h0",
     "baseId": "crpg_hand_pavise",
-    "name": "Hand Pavise",
-    "culture": "Battania",
+    "name": "Hand Pavise Heater Shield",
+    "culture": "Empire",
     "type": "Shield",
-    "price": 5418,
+    "price": 510,
     "weight": 3.36875,
     "rank": 0,
-    "tier": 8.662978,
+    "tier": 1.92127609,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -64681,11 +64681,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 550,
+        "stackAmount": 250,
         "length": 70,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -64822,13 +64822,13 @@
   {
     "id": "crpg_hand_pavise_pattern1_h0",
     "baseId": "crpg_hand_pavise_pattern1",
-    "name": "Striped Hand Pavise",
-    "culture": "Battania",
+    "name": "Striped Hand Pavise Heater Shield",
+    "culture": "Empire",
     "type": "Shield",
-    "price": 5418,
+    "price": 510,
     "weight": 3.36875,
     "rank": 0,
-    "tier": 8.662978,
+    "tier": 1.92127609,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -64841,11 +64841,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 550,
+        "stackAmount": 250,
         "length": 70,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -64982,13 +64982,13 @@
   {
     "id": "crpg_hand_pavise_pattern2_h0",
     "baseId": "crpg_hand_pavise_pattern2",
-    "name": "Stripe Decorated Hand Pavise",
-    "culture": "Battania",
+    "name": "Heavy Stripe Decorated Hand Pavise Heater Shield",
+    "culture": "Empire",
     "type": "Shield",
-    "price": 5418,
+    "price": 2283,
     "weight": 3.36875,
     "rank": 0,
-    "tier": 8.662978,
+    "tier": 5.236209,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -65001,11 +65001,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 550,
+        "stackAmount": 350,
         "length": 70,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -65142,13 +65142,13 @@
   {
     "id": "crpg_hand_pavise_red_h0",
     "baseId": "crpg_hand_pavise_red",
-    "name": "Decorated Hand Pavise",
-    "culture": "Battania",
+    "name": "Heavy Decorated Hand Pavise Heater Shield",
+    "culture": "Empire",
     "type": "Shield",
-    "price": 5418,
+    "price": 2283,
     "weight": 3.36875,
     "rank": 0,
-    "tier": 8.662978,
+    "tier": 5.236209,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -65161,11 +65161,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 550,
+        "stackAmount": 350,
         "length": 70,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 4,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -68240,46 +68240,6 @@
     ]
   },
   {
-    "id": "crpg_heavy_heater_shield_v2_h0",
-    "baseId": "crpg_heavy_heater_shield_v2",
-    "name": "Heavy Heater Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 6913,
-    "weight": 3.0634,
-    "rank": 0,
-    "tier": 9.93135452,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 530,
-        "length": 68,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 4,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 87
-      }
-    ]
-  },
-  {
     "id": "crpg_heavy_heater_shield_v2_h1",
     "baseId": "crpg_heavy_heater_shield_v2",
     "name": "Heavy Heater Shield +1",
@@ -68400,42 +68360,42 @@
     ]
   },
   {
-    "id": "crpg_Heavy_Highland_Tower_Shield_v2_h0",
-    "baseId": "crpg_Heavy_Highland_Tower_Shield_v2",
-    "name": "Heavy Highland Tower Shield",
-    "culture": "Battania",
+    "id": "crpg_heavy_heater_shield_v3_h0",
+    "baseId": "crpg_heavy_heater_shield_v3",
+    "name": "Fortified Norman Pointed Tower Shield",
+    "culture": "Vlandia",
     "type": "Shield",
-    "price": 6810,
-    "weight": 4.5414,
+    "price": 20133,
+    "weight": 2.89,
     "rank": 0,
-    "tier": 9.848349,
+    "tier": 17.74786,
     "requirement": 0,
     "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
+      "ForceAttachOffHandSecondaryItemBone",
       "WoodenParry",
       "HeldInOffHand"
     ],
     "weapons": [
       {
-        "class": "LargeShield",
-        "itemUsage": "hand_shield",
+        "class": "SmallShield",
+        "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 480,
-        "length": 87,
+        "stackAmount": 500,
+        "length": 68,
         "balance": 0.0,
-        "handling": 55,
-        "bodyArmor": 10,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
         ],
-        "thrustDamage": 5,
+        "thrustDamage": 0,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 55,
+        "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 55
+        "swingSpeed": 87
       }
     ]
   },
@@ -68546,6 +68506,46 @@
         "balance": 0.0,
         "handling": 55,
         "bodyArmor": 11,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 55,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 55
+      }
+    ]
+  },
+  {
+    "id": "crpg_Heavy_Highland_Tower_Shield_v3_h0",
+    "baseId": "crpg_Heavy_Highland_Tower_Shield_v3",
+    "name": "Heavy Highland Tower Shield",
+    "culture": "Battania",
+    "type": "Shield",
+    "price": 2283,
+    "weight": 3.311438,
+    "rank": 0,
+    "tier": 5.236209,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 87,
+        "balance": 0.0,
+        "handling": 55,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -69944,46 +69944,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_heavy_round_shield_v2_h0",
-    "baseId": "crpg_heavy_round_shield_v2",
-    "name": "Heavy Round Shield",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 2617,
-    "weight": 4.257537,
-    "rank": 0,
-    "tier": 5.683903,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 430,
-        "length": 89,
-        "balance": 0.0,
-        "handling": 86,
-        "bodyArmor": 5,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 86,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 86
-      }
-    ]
-  },
-  {
     "id": "crpg_heavy_round_shield_v2_h1",
     "baseId": "crpg_heavy_round_shield_v2",
     "name": "Heavy Round Shield +1",
@@ -70090,6 +70050,46 @@
         "balance": 0.0,
         "handling": 86,
         "bodyArmor": 6,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 86,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_round_shield_v3_h0",
+    "baseId": "crpg_heavy_round_shield_v3",
+    "name": "Heavy Norse Large Round Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 2283,
+    "weight": 3.465437,
+    "rank": 0,
+    "tier": 5.236209,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 89,
+        "balance": 0.0,
+        "handling": 86,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -72624,46 +72624,6 @@
     ]
   },
   {
-    "id": "crpg_highland_riders_shield_v2_h0",
-    "baseId": "crpg_highland_riders_shield_v2",
-    "name": "Highland Round Shield",
-    "culture": "Battania",
-    "type": "Shield",
-    "price": 6482,
-    "weight": 3.1941,
-    "rank": 0,
-    "tier": 9.580633,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 420,
-        "length": 78,
-        "balance": 0.0,
-        "handling": 120,
-        "bodyArmor": 14,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 120,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_highland_riders_shield_v2_h1",
     "baseId": "crpg_highland_riders_shield_v2",
     "name": "Highland Round Shield +1",
@@ -72784,15 +72744,15 @@
     ]
   },
   {
-    "id": "crpg_highland_scouts_shield_v2_h0",
-    "baseId": "crpg_highland_scouts_shield_v2",
-    "name": "Decorated Round Shield",
+    "id": "crpg_highland_riders_shield_v3_h0",
+    "baseId": "crpg_highland_riders_shield_v3",
+    "name": "Fortified Highland Round Shield",
     "culture": "Battania",
     "type": "Shield",
-    "price": 6275,
+    "price": 13585,
     "weight": 3.8025,
     "rank": 0,
-    "tier": 9.408377,
+    "tier": 14.3757648,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -72808,15 +72768,15 @@
         "stackAmount": 500,
         "length": 78,
         "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 8,
+        "handling": 120,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
+        "thrustSpeed": 120,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 82
@@ -72930,6 +72890,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 9,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_highland_scouts_shield_v3_h0",
+    "baseId": "crpg_highland_scouts_shield_v3",
+    "name": "Highland Round Shield",
+    "culture": "Battania",
+    "type": "Shield",
+    "price": 510,
+    "weight": 1.90125,
+    "rank": 0,
+    "tier": 1.92127609,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 78,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -81156,46 +81156,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_ironrim_kite_shield_v2_h0",
-    "baseId": "crpg_ironrim_kite_shield_v2",
-    "name": "Iron Rimmed Kite Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 882,
-    "weight": 1.58372,
-    "rank": 0,
-    "tier": 2.849219,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 68,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 5,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_ironrim_kite_shield_v2_h1",
     "baseId": "crpg_ironrim_kite_shield_v2",
     "name": "Iron Rimmed Kite Shield +1",
@@ -81302,6 +81262,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 6,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_ironrim_kite_shield_v3_h0",
+    "baseId": "crpg_ironrim_kite_shield_v3",
+    "name": "Heavy Norman Kite Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 3254,
+    "weight": 2.023,
+    "rank": 0,
+    "tier": 6.464456,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 68,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -89968,46 +89968,6 @@
     ]
   },
   {
-    "id": "crpg_large_adarga_v2_h0",
-    "baseId": "crpg_large_adarga_v2",
-    "name": "Large Adarga",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 582,
-    "weight": 0.9620825,
-    "rank": 0,
-    "tier": 2.1207118,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 53,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_large_adarga_v2_h1",
     "baseId": "crpg_large_adarga_v2",
     "name": "Large Adarga +1",
@@ -90114,6 +90074,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_large_adarga_v3_h0",
+    "baseId": "crpg_large_adarga_v3",
+    "name": "Heavy Desert Adarga Round Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 3254,
+    "weight": 1.228938,
+    "rank": 0,
+    "tier": 6.464456,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 53,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -91048,46 +91048,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_leather_bound_kite_shield_v2_h0",
-    "baseId": "crpg_leather_bound_kite_shield_v2",
-    "name": "Leather Bound Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 364,
-    "weight": 1.356885,
-    "rank": 0,
-    "tier": 1.46841931,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 69,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_leather_bound_kite_shield_v2_h1",
     "baseId": "crpg_leather_bound_kite_shield_v2",
     "name": "Leather Bound Kite Shield +1",
@@ -91194,6 +91154,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_leather_bound_kite_shield_v3_h0",
+    "baseId": "crpg_leather_bound_kite_shield_v3",
+    "name": "Worn Leather Kite Shield",
+    "culture": "Neutral",
+    "type": "Shield",
+    "price": 146,
+    "weight": 0.8926875,
+    "rank": 0,
+    "tier": 0.5871302,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
+        "length": 69,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -91780,46 +91780,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_leather_round_shield_v2_h0",
-    "baseId": "crpg_leather_round_shield_v2",
-    "name": "Large Round Shield",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 6984,
-    "weight": 6.0306,
-    "rank": 0,
-    "tier": 9.98756,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 570,
-        "length": 92,
-        "balance": 0.0,
-        "handling": 89,
-        "bodyArmor": 5,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 89,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 89
-      }
-    ]
-  },
-  {
     "id": "crpg_leather_round_shield_v2_h1",
     "baseId": "crpg_leather_round_shield_v2",
     "name": "Large Round Shield +1",
@@ -91926,6 +91886,46 @@
         "balance": 0.0,
         "handling": 89,
         "bodyArmor": 6,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 89,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
+    "id": "crpg_leather_round_shield_v3_h0",
+    "baseId": "crpg_leather_round_shield_v3",
+    "name": "Fortified Norse Large Round Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 13585,
+    "weight": 5.29,
+    "rank": 0,
+    "tier": 14.3757648,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 92,
+        "balance": 0.0,
+        "handling": 89,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -94404,46 +94404,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_light_horsemans_kite_shield_v2_h0",
-    "baseId": "crpg_light_horsemans_kite_shield_v2",
-    "name": "Light Cavalry Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 332,
-    "weight": 0.925965,
-    "rank": 0,
-    "tier": 1.35650551,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 57,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 103
-      }
-    ]
-  },
-  {
     "id": "crpg_light_horsemans_kite_shield_v2_h1",
     "baseId": "crpg_light_horsemans_kite_shield_v2",
     "name": "Light Cavalry Kite Shield +1",
@@ -94546,6 +94506,46 @@
         "accuracy": 100,
         "missileSpeed": 0,
         "stackAmount": 283,
+        "length": 57,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 103
+      }
+    ]
+  },
+  {
+    "id": "crpg_light_horsemans_kite_shield_v3_h0",
+    "baseId": "crpg_light_horsemans_kite_shield_v3",
+    "name": "Worn Imperial Cavalry Heater Shield",
+    "culture": "Empire",
+    "type": "Shield",
+    "price": 146,
+    "weight": 0.6091875,
+    "rank": 0,
+    "tier": 0.5871302,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
         "length": 57,
         "balance": 0.0,
         "handling": 82,
@@ -96267,10 +96267,10 @@
     "name": "Heavy Oval Buckler Shield",
     "culture": "Neutral",
     "type": "Shield",
-    "price": 6789,
+    "price": 883,
     "weight": 1.380575,
     "rank": 0,
-    "tier": 9.831172,
+    "tier": 2.85203886,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone",
@@ -96282,11 +96282,11 @@
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 460,
+        "stackAmount": 175,
         "length": 49,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 8,
+        "bodyArmor": 20,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -118984,46 +118984,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_northern_horsemans_shield_v2_h0",
-    "baseId": "crpg_northern_horsemans_shield_v2",
-    "name": "Reinforced Cavalry Shield",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 646,
-    "weight": 1.07408,
-    "rank": 0,
-    "tier": 2.29032087,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 56,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_northern_horsemans_shield_v2_h1",
     "baseId": "crpg_northern_horsemans_shield_v2",
     "name": "Reinforced Cavalry Shield +1",
@@ -119130,6 +119090,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 3,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_northern_horsemans_shield_v3_h0",
+    "baseId": "crpg_northern_horsemans_shield_v3",
+    "name": "Fortified Norse Cavalry Heater Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 20133,
+    "weight": 1.96,
+    "rank": 0,
+    "tier": 17.74786,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 56,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -120076,46 +120076,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_northern_round_shield_v3_h0",
-    "baseId": "crpg_northern_round_shield_v3",
-    "name": "Round Shield",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 3435,
-    "weight": 3.6963,
-    "rank": 0,
-    "tier": 6.67195272,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 540,
-        "length": 74,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 87
-      }
-    ]
-  },
-  {
     "id": "crpg_northern_round_shield_v3_h1",
     "baseId": "crpg_northern_round_shield_v3",
     "name": "Round Shield +1",
@@ -120236,42 +120196,42 @@
     ]
   },
   {
-    "id": "crpg_northern_scouts_shield_v2_h0",
-    "baseId": "crpg_northern_scouts_shield_v2",
-    "name": "Sturdy Cavalry Kite Shield",
+    "id": "crpg_northern_round_shield_v4_h0",
+    "baseId": "crpg_northern_round_shield_v4",
+    "name": "Norse Round Shield",
     "culture": "Sturgia",
     "type": "Shield",
-    "price": 582,
-    "weight": 1.07408,
+    "price": 510,
+    "weight": 1.71125,
     "rank": 0,
-    "tier": 2.1207118,
+    "tier": 1.92127609,
     "requirement": 0,
     "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
+      "ForceAttachOffHandPrimaryItemBone",
       "WoodenParry",
       "HeldInOffHand"
     ],
     "weapons": [
       {
-        "class": "SmallShield",
-        "itemUsage": "shield",
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 56,
+        "stackAmount": 250,
+        "length": 74,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 1,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
         ],
-        "thrustDamage": 0,
+        "thrustDamage": 5,
         "thrustDamageType": "Blunt",
         "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 101
+        "swingSpeed": 87
       }
     ]
   },
@@ -120382,6 +120342,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 101
+      }
+    ]
+  },
+  {
+    "id": "crpg_northern_scouts_shield_v3_h0",
+    "baseId": "crpg_northern_scouts_shield_v3",
+    "name": "Norse Kite Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 678,
+    "weight": 0.98,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 56,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -121220,46 +121220,6 @@
     ]
   },
   {
-    "id": "crpg_noyans_shield_v2_h0",
-    "baseId": "crpg_noyans_shield_v2",
-    "name": "Decorated Eastern Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 6907,
-    "weight": 1.417475,
-    "rank": 0,
-    "tier": 9.92627048,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 295,
-        "length": 62,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 24,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_noyans_shield_v2_h1",
     "baseId": "crpg_noyans_shield_v2",
     "name": "Decorated Eastern Shield +1",
@@ -121366,6 +121326,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 27,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_noyans_shield_v3_h0",
+    "baseId": "crpg_noyans_shield_v3",
+    "name": "Fortified Steppe Round Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 20133,
+    "weight": 2.4025,
+    "rank": 0,
+    "tier": 17.74786,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 62,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -122368,46 +122368,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_ornate_adarga_v2_h0",
-    "baseId": "crpg_ornate_adarga_v2",
-    "name": "Ornate Adarga",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 646,
-    "weight": 0.7565825,
-    "rank": 0,
-    "tier": 2.29032087,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 47,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_ornate_adarga_v2_h1",
     "baseId": "crpg_ornate_adarga_v2",
     "name": "Ornate Adarga +1",
@@ -122528,15 +122488,15 @@
     ]
   },
   {
-    "id": "crpg_oval_shield_v2_h0",
-    "baseId": "crpg_oval_shield_v2",
-    "name": "Wooden Oval Shield",
+    "id": "crpg_ornate_adarga_v3_h0",
+    "baseId": "crpg_ornate_adarga_v3",
+    "name": "Fortified Desert Adarga Round Shield",
     "culture": "Aserai",
     "type": "Shield",
-    "price": 137,
-    "weight": 1.3778,
+    "price": 20133,
+    "weight": 1.380625,
     "rank": 0,
-    "tier": 0.541099131,
+    "tier": 17.74786,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -122545,15 +122505,15 @@
     ],
     "weapons": [
       {
-        "class": "LargeShield",
+        "class": "SmallShield",
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 160,
-        "length": 83,
+        "stackAmount": 500,
+        "length": 47,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 0,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -122670,6 +122630,46 @@
         "accuracy": 100,
         "missileSpeed": 0,
         "stackAmount": 199,
+        "length": 83,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_oval_shield_v3_h0",
+    "baseId": "crpg_oval_shield_v3",
+    "name": "Worn Desert Oval Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 125,
+    "weight": 1.291687,
+    "rank": 0,
+    "tier": 0.475575447,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
         "length": 83,
         "balance": 0.0,
         "handling": 82,
@@ -124360,46 +124360,6 @@
     ]
   },
   {
-    "id": "crpg_pavise_shield_v2_h0",
-    "baseId": "crpg_pavise_shield_v2",
-    "name": "Pavise Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 6940,
-    "weight": 3.623659,
-    "rank": 0,
-    "tier": 9.95299149,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 383,
-        "length": 87,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 18,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
     "id": "crpg_pavise_shield_v2_h1",
     "baseId": "crpg_pavise_shield_v2",
     "name": "Pavise Shield +1",
@@ -124506,6 +124466,46 @@
         "balance": 0.0,
         "handling": 80,
         "bodyArmor": 20,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_pavise_shield_v3_h0",
+    "baseId": "crpg_pavise_shield_v3",
+    "name": "Heavy Norman Pavise Tower Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 2283,
+    "weight": 3.311438,
+    "rank": 0,
+    "tier": 5.236209,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 87,
+        "balance": 0.0,
+        "handling": 80,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -131042,46 +131042,6 @@
     ]
   },
   {
-    "id": "crpg_reinforced_flat_kite_shield_v2_h0",
-    "baseId": "crpg_reinforced_flat_kite_shield_v2",
-    "name": "Reinforced Flat Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 286,
-    "weight": 1.47744,
-    "rank": 0,
-    "tier": 1.18941951,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 72,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_reinforced_flat_kite_shield_v2_h1",
     "baseId": "crpg_reinforced_flat_kite_shield_v2",
     "name": "Reinforced Flat Kite Shield +1",
@@ -131188,6 +131148,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_reinforced_flat_kite_shield_v3_h0",
+    "baseId": "crpg_reinforced_flat_kite_shield_v3",
+    "name": "Worn Norse Kite Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 125,
+    "weight": 0.972,
+    "rank": 0,
+    "tier": 0.475575447,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
+        "length": 72,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -131454,46 +131454,6 @@
     ]
   },
   {
-    "id": "crpg_reinforced_horsemans_kite_shield_v2_h0",
-    "baseId": "crpg_reinforced_horsemans_kite_shield_v2",
-    "name": "Reinforced Cavalry Small Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 285,
-    "weight": 0.8036,
-    "rank": 0,
-    "tier": 1.1871022,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 205,
-        "length": 56,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_reinforced_horsemans_kite_shield_v2_h1",
     "baseId": "crpg_reinforced_horsemans_kite_shield_v2",
     "name": "Reinforced Cavalry Small Shield +1",
@@ -131600,6 +131560,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_reinforced_horsemans_kite_shield_v3_h0",
+    "baseId": "crpg_reinforced_horsemans_kite_shield_v3",
+    "name": "Heavy Norse Cavalry Heater Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 3254,
+    "weight": 1.372,
+    "rank": 0,
+    "tier": 6.464456,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 56,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -148382,46 +148382,6 @@
     ]
   },
   {
-    "id": "crpg_small_flat_heater_shield_v2_h0",
-    "baseId": "crpg_small_flat_heater_shield_v2",
-    "name": "Small Flat Heater Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 261,
-    "weight": 0.7751563,
-    "rank": 0,
-    "tier": 1.09662855,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 205,
-        "length": 55,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 95
-      }
-    ]
-  },
-  {
     "id": "crpg_small_flat_heater_shield_v2_h1",
     "baseId": "crpg_small_flat_heater_shield_v2",
     "name": "Small Flat Heater Shield +1",
@@ -148542,15 +148502,15 @@
     ]
   },
   {
-    "id": "crpg_small_heater_shield_v2_h0",
-    "baseId": "crpg_small_heater_shield_v2",
-    "name": "Small Heater Shield",
+    "id": "crpg_small_flat_heater_shield_v3_h0",
+    "baseId": "crpg_small_flat_heater_shield_v3",
+    "name": "Norman Small Heater Shield",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 162,
-    "weight": 0.605,
+    "price": 678,
+    "weight": 0.9453125,
     "rank": 0,
-    "tier": 0.6680236,
+    "tier": 2.37194586,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -148563,11 +148523,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 160,
+        "stackAmount": 250,
         "length": 55,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 0,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -148577,7 +148537,7 @@
         "thrustSpeed": 82,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 95
       }
     ]
   },
@@ -148684,6 +148644,46 @@
         "accuracy": 100,
         "missileSpeed": 0,
         "stackAmount": 199,
+        "length": 55,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_small_heater_shield_v3_h0",
+    "baseId": "crpg_small_heater_shield_v3",
+    "name": "Worn Norman Small Rounded Heater Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 146,
+    "weight": 0.5671875,
+    "rank": 0,
+    "tier": 0.5871302,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
         "length": 55,
         "balance": 0.0,
         "handling": 82,
@@ -149366,46 +149366,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_southern_oval_shield_v2_h0",
-    "baseId": "crpg_southern_oval_shield_v2",
-    "name": "Reinforced Oval Shield",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 442,
-    "weight": 2.030683,
-    "rank": 0,
-    "tier": 1.7177763,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 77,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_southern_oval_shield_v2_h1",
     "baseId": "crpg_southern_oval_shield_v2",
     "name": "Reinforced Oval Shield +1",
@@ -149512,6 +149472,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_southern_oval_shield_v3_h0",
+    "baseId": "crpg_southern_oval_shield_v3",
+    "name": "Heavy Desert Oval Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 2283,
+    "weight": 2.593937,
+    "rank": 0,
+    "tier": 5.236209,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 77,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -153920,46 +153920,6 @@
     ]
   },
   {
-    "id": "crpg_steel_round_shield_v2_h0",
-    "baseId": "crpg_steel_round_shield_v2",
-    "name": "Steel Round Shield",
-    "culture": "Khuzait",
-    "type": "Shield",
-    "price": 7099,
-    "weight": 1.29735,
-    "rank": 0,
-    "tier": 10.07868,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 270,
-        "length": 62,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 28,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_steel_round_shield_v2_h1",
     "baseId": "crpg_steel_round_shield_v2",
     "name": "Steel Round Shield +1",
@@ -154066,6 +154026,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 31,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_steel_round_shield_v3_h0",
+    "baseId": "crpg_steel_round_shield_v3",
+    "name": "Fortified Steppe Steel Round Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 6362,
+    "weight": 1.20125,
+    "rank": 0,
+    "tier": 9.481133,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 62,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 30,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -155164,46 +155164,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_steppe_guardian_shield_v2_h0",
-    "baseId": "crpg_steppe_guardian_shield_v2",
-    "name": "Eastern Cavalry Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 1691,
-    "weight": 1.09554,
-    "rank": 0,
-    "tier": 4.35452461,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 62,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 18,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_steppe_guardian_shield_v2_h1",
     "baseId": "crpg_steppe_guardian_shield_v2",
     "name": "Eastern Cavalry Shield +1",
@@ -155310,6 +155270,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 20,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_steppe_guardian_shield_v3_h0",
+    "baseId": "crpg_steppe_guardian_shield_v3",
+    "name": "Steppe Round Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.20125,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 62,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -157820,46 +157820,6 @@
     ]
   },
   {
-    "id": "crpg_stronger_reinforced_kite_shield_v2_h0",
-    "baseId": "crpg_stronger_reinforced_kite_shield_v2",
-    "name": "Reinforced Oaken Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 1006,
-    "weight": 2.278147,
-    "rank": 0,
-    "tier": 3.114608,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 342,
-        "length": 73,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 3,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_stronger_reinforced_kite_shield_v2_h1",
     "baseId": "crpg_stronger_reinforced_kite_shield_v2",
     "name": "Reinforced Oaken Kite Shield +1",
@@ -157966,6 +157926,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 4,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_stronger_reinforced_kite_shield_v3_h0",
+    "baseId": "crpg_stronger_reinforced_kite_shield_v3",
+    "name": "Fortified Imperial Kite shield",
+    "culture": "Empire",
+    "type": "Shield",
+    "price": 13585,
+    "weight": 3.330625,
+    "rank": 0,
+    "tier": 14.3757648,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 73,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -158140,46 +158140,6 @@
     ]
   },
   {
-    "id": "crpg_studded_bound_kite_shield_v2_h0",
-    "baseId": "crpg_studded_bound_kite_shield_v2",
-    "name": "Studded Bound Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 582,
-    "weight": 1.447062,
-    "rank": 0,
-    "tier": 2.1207118,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 65,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 91
-      }
-    ]
-  },
-  {
     "id": "crpg_studded_bound_kite_shield_v2_h1",
     "baseId": "crpg_studded_bound_kite_shield_v2",
     "name": "Studded Bound Kite Shield +1",
@@ -158286,6 +158246,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 91
+      }
+    ]
+  },
+  {
+    "id": "crpg_studded_bound_kite_shield_v3_h0",
+    "baseId": "crpg_studded_bound_kite_shield_v3",
+    "name": "Imperial Kite Shield",
+    "culture": "Empire",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.320313,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 65,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -158872,46 +158872,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_studded_round_shield_v2_h0",
-    "baseId": "crpg_studded_round_shield_v2",
-    "name": "Iron Round Shield",
-    "culture": "Aserai",
-    "type": "Shield",
-    "price": 1412,
-    "weight": 1.5376,
-    "rank": 0,
-    "tier": 3.88619566,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 320,
-        "length": 62,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 5,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_studded_round_shield_v2_h1",
     "baseId": "crpg_studded_round_shield_v2",
     "name": "Iron Round Shield +1",
@@ -159018,6 +158978,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 6,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_studded_round_shield_v3_h0",
+    "baseId": "crpg_studded_round_shield_v3",
+    "name": "Heavy Desert Round Shield",
+    "culture": "Aserai",
+    "type": "Shield",
+    "price": 3254,
+    "weight": 1.68175,
+    "rank": 0,
+    "tier": 6.464456,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 62,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -159972,46 +159972,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_sturgia_old_shield_a_v2_h0",
-    "baseId": "crpg_sturgia_old_shield_a_v2",
-    "name": "Iron Rimmed Large Round Shield",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 1251,
-    "weight": 3.386228,
-    "rank": 0,
-    "tier": 3.59552145,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 342,
-        "length": 89,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 5,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_sturgia_old_shield_a_v2_h1",
     "baseId": "crpg_sturgia_old_shield_a_v2",
     "name": "Iron Rimmed Large Round Shield +1",
@@ -160132,15 +160092,15 @@
     ]
   },
   {
-    "id": "crpg_sturgia_old_shield_b_v2_h0",
-    "baseId": "crpg_sturgia_old_shield_b_v2",
-    "name": "Simple Large Round Shield",
+    "id": "crpg_sturgia_old_shield_a_v3_h0",
+    "baseId": "crpg_sturgia_old_shield_a_v3",
+    "name": "Norse Large Round Shield",
     "culture": "Sturgia",
     "type": "Shield",
-    "price": 262,
-    "weight": 2.257485,
+    "price": 510,
+    "weight": 2.475312,
     "rank": 0,
-    "tier": 1.09876943,
+    "tier": 1.92127609,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone",
@@ -160153,11 +160113,11 @@
         "itemUsage": "hand_shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 228,
+        "stackAmount": 250,
         "length": 89,
         "balance": 0.0,
         "handling": 82,
-        "bodyArmor": 0,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -160274,6 +160234,46 @@
         "accuracy": 100,
         "missileSpeed": 0,
         "stackAmount": 283,
+        "length": 89,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_sturgia_old_shield_b_v3_h0",
+    "baseId": "crpg_sturgia_old_shield_b_v3",
+    "name": "Worn Norse Round Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 125,
+    "weight": 1.485188,
+    "rank": 0,
+    "tier": 0.475575447,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
         "length": 89,
         "balance": 0.0,
         "handling": 82,
@@ -164304,46 +164304,6 @@
     ]
   },
   {
-    "id": "crpg_tall_heater_shield_v2_h0",
-    "baseId": "crpg_tall_heater_shield_v2",
-    "name": "Tall Heater Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 6586,
-    "weight": 3.038613,
-    "rank": 0,
-    "tier": 9.66626549,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 410,
-        "length": 77,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 15,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 85
-      }
-    ]
-  },
-  {
     "id": "crpg_tall_heater_shield_v2_h1",
     "baseId": "crpg_tall_heater_shield_v2",
     "name": "Tall Heater Shield +1",
@@ -164450,6 +164410,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 17,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_tall_heater_shield_v3_h0",
+    "baseId": "crpg_tall_heater_shield_v3",
+    "name": "Heavy Norman Pointed Tower Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 2283,
+    "weight": 2.593937,
+    "rank": 0,
+    "tier": 5.236209,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 77,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -171064,46 +171064,6 @@
     ]
   },
   {
-    "id": "crpg_tribal_steppe_shield_v2_h0",
-    "baseId": "crpg_tribal_steppe_shield_v2",
-    "name": "Tribal Steppe Shield",
-    "culture": "Khuzait",
-    "type": "Shield",
-    "price": 4244,
-    "weight": 1.4415,
-    "rank": 0,
-    "tier": 7.538996,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 300,
-        "length": 62,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 18,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_tribal_steppe_shield_v2_h1",
     "baseId": "crpg_tribal_steppe_shield_v2",
     "name": "Tribal Steppe Shield +1",
@@ -171210,6 +171170,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 20,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_tribal_steppe_shield_v3_h0",
+    "baseId": "crpg_tribal_steppe_shield_v3",
+    "name": "Heavy Steppe Round Shield",
+    "culture": "Khuzait",
+    "type": "Shield",
+    "price": 3254,
+    "weight": 1.68175,
+    "rank": 0,
+    "tier": 6.464456,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 62,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -173872,46 +173872,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_viking_round_shield_v2_h0",
-    "baseId": "crpg_viking_round_shield_v2",
-    "name": "Norse Round Shield",
-    "culture": "Sturgia",
-    "type": "Shield",
-    "price": 900,
-    "weight": 2.34099,
-    "rank": 0,
-    "tier": 2.89023042,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandPrimaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "hand_shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 342,
-        "length": 74,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 2,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_viking_round_shield_v2_h1",
     "baseId": "crpg_viking_round_shield_v2",
     "name": "Norse Round Shield +1",
@@ -174018,6 +173978,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 3,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_viking_round_shield_v3_h0",
+    "baseId": "crpg_viking_round_shield_v3",
+    "name": "Fortified Norse Round Shield",
+    "culture": "Sturgia",
+    "type": "Shield",
+    "price": 13585,
+    "weight": 3.4225,
+    "rank": 0,
+    "tier": 14.3757648,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandPrimaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "hand_shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 500,
+        "length": 74,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 15,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -177128,46 +177128,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_western_kite_shield_v2_h0",
-    "baseId": "crpg_western_kite_shield_v2",
-    "name": "Kite Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 364,
-    "weight": 1.31784,
-    "rank": 0,
-    "tier": 1.46841931,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 68,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_western_kite_shield_v2_h1",
     "baseId": "crpg_western_kite_shield_v2",
     "name": "Kite Shield +1",
@@ -177288,6 +177248,46 @@
     ]
   },
   {
+    "id": "crpg_western_kite_shield_v3_h0",
+    "baseId": "crpg_western_kite_shield_v3",
+    "name": "Heavy Imperial Kite Shield",
+    "culture": "Empire",
+    "type": "Shield",
+    "price": 3254,
+    "weight": 2.023,
+    "rank": 0,
+    "tier": 6.464456,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 350,
+        "length": 68,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 10,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
     "id": "crpg_western_plated_helmet_v2_h0",
     "baseId": "crpg_western_plated_helmet_v2",
     "name": "Plated Helmet with Sideguards",
@@ -177374,46 +177374,6 @@
       "familyType": 0
     },
     "weapons": []
-  },
-  {
-    "id": "crpg_western_riders_kite_shield_v2_h0",
-    "baseId": "crpg_western_riders_kite_shield_v2",
-    "name": "Horseman Kite Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 364,
-    "weight": 1.131165,
-    "rank": 0,
-    "tier": 1.46841931,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 228,
-        "length": 63,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
   },
   {
     "id": "crpg_western_riders_kite_shield_v2_h1",
@@ -177522,6 +177482,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_western_riders_kite_shield_v3_h0",
+    "baseId": "crpg_western_riders_kite_shield_v3",
+    "name": "Norman Cavalry Heater Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.240312,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 63,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -177972,46 +177972,6 @@
     ]
   },
   {
-    "id": "crpg_wide_heater_shield_v2_h0",
-    "baseId": "crpg_wide_heater_shield_v2",
-    "name": "Wide Heater Shield",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 582,
-    "weight": 1.58372,
-    "rank": 0,
-    "tier": 2.1207118,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 274,
-        "length": 68,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 1,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 82
-      }
-    ]
-  },
-  {
     "id": "crpg_wide_heater_shield_v2_h1",
     "baseId": "crpg_wide_heater_shield_v2",
     "name": "Wide Heater Shield +1",
@@ -178118,6 +178078,46 @@
         "balance": 0.0,
         "handling": 82,
         "bodyArmor": 2,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_wide_heater_shield_v3_h0",
+    "baseId": "crpg_wide_heater_shield_v3",
+    "name": "Norman Heater Shield",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 678,
+    "weight": 1.445,
+    "rank": 0,
+    "tier": 2.37194586,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 250,
+        "length": 68,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -180632,46 +180632,6 @@
     ]
   },
   {
-    "id": "crpg_worn_kite_shield_v2_h0",
-    "baseId": "crpg_worn_kite_shield_v2",
-    "name": "Worn Kite Shield",
-    "culture": "Neutral",
-    "type": "Shield",
-    "price": 162,
-    "weight": 0.9248,
-    "rank": 0,
-    "tier": 0.6680236,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "SmallShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 160,
-        "length": 68,
-        "balance": 0.0,
-        "handling": 82,
-        "bodyArmor": 0,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 5,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 82,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 83
-      }
-    ]
-  },
-  {
     "id": "crpg_worn_kite_shield_v2_h1",
     "baseId": "crpg_worn_kite_shield_v2",
     "name": "Worn Kite Shield +1",
@@ -180774,6 +180734,46 @@
         "accuracy": 100,
         "missileSpeed": 0,
         "stackAmount": 199,
+        "length": 68,
+        "balance": 0.0,
+        "handling": 82,
+        "bodyArmor": 0,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 5,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 82,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_worn_kite_shield_v3_h0",
+    "baseId": "crpg_worn_kite_shield_v3",
+    "name": "Worn Imperial Kite Shield",
+    "culture": "Empire",
+    "type": "Shield",
+    "price": 146,
+    "weight": 0.867,
+    "rank": 0,
+    "tier": 0.5871302,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "SmallShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 150,
         "length": 68,
         "balance": 0.0,
         "handling": 82,
