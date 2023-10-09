@@ -2312,19 +2312,19 @@
   </Item>
   <Item id="crpg_ba_gorget_h1" name="Bahamut Plate Gorget +1" mesh="ba_gorget" is_merchandise="true" culture="Culture.vlandia" weight="3.450758" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="24" arm_armor="0" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="24" arm_armor="0" head_armor="4" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_gorget_h2" name="Bahamut Plate Gorget +2" mesh="ba_gorget" is_merchandise="true" culture="Culture.vlandia" weight="3.450758" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="25" arm_armor="0" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="25" arm_armor="0" head_armor="4" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_gorget_h3" name="Bahamut Plate Gorget +3" mesh="ba_gorget" is_merchandise="true" culture="Culture.vlandia" weight="3.450758" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="26" arm_armor="1" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="26" arm_armor="0" head_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
@@ -2336,19 +2336,19 @@
   </Item>
   <Item id="crpg_ba_gorgetgold_h1" name="Bahamut Gold Plate Gorget +1" mesh="ba_gorgetgold" is_merchandise="true" culture="Culture.vlandia" weight="3.450758" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="24" arm_armor="0" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="24" arm_armor="0" head_armor="4" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_gorgetgold_h2" name="Bahamut Gold Plate Gorget +2" mesh="ba_gorgetgold" is_merchandise="true" culture="Culture.vlandia" weight="3.450758" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="25" arm_armor="0" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="25" arm_armor="0" head_armor="4" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_gorgetgold_h3" name="Bahamut Gold Plate Gorget +3" mesh="ba_gorgetgold" is_merchandise="true" culture="Culture.vlandia" weight="3.450758" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="26" arm_armor="1" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="26" arm_armor="0" head_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
@@ -2456,19 +2456,19 @@
   </Item>
   <Item id="crpg_ba_knightpadgorget1_h1" name="Bahamut Plate Pauldrons with Gorget +1" mesh="ba_knightpadgorget1" is_merchandise="true" culture="Culture.vlandia" weight="4.302408" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="24" arm_armor="7" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="24" arm_armor="7" head_armor="2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_knightpadgorget1_h2" name="Bahamut Plate Pauldrons with Gorget +2" mesh="ba_knightpadgorget1" is_merchandise="true" culture="Culture.vlandia" weight="4.302408" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="25" arm_armor="7" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="25" arm_armor="7" head_armor="2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_knightpadgorget1_h3" name="Bahamut Plate Pauldrons with Gorget +3" mesh="ba_knightpadgorget1" is_merchandise="true" culture="Culture.vlandia" weight="4.302408" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="26" arm_armor="8" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="26" arm_armor="8" head_armor="2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
@@ -2480,19 +2480,19 @@
   </Item>
   <Item id="crpg_ba_knightpadgorget_gold1_h1" name="Bahamut Gold Plate Pauldrons with Gorget +1" mesh="ba_knightpadgorget_gold1" is_merchandise="true" culture="Culture.vlandia" weight="4.302408" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="24" arm_armor="7" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="24" arm_armor="7" head_armor="2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_knightpadgorget_gold1_h2" name="Bahamut Gold Plate Pauldrons with Gorget +2" mesh="ba_knightpadgorget_gold1" is_merchandise="true" culture="Culture.vlandia" weight="4.302408" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="25" arm_armor="7" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="25" arm_armor="7" head_armor="2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="crpg_ba_knightpadgorget_gold1_h3" name="Bahamut Gold Plate Pauldrons with Gorget +3" mesh="ba_knightpadgorget_gold1" is_merchandise="true" culture="Culture.vlandia" weight="4.302408" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="26" arm_armor="8" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="26" arm_armor="8" head_armor="2" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
