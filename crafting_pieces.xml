@@ -30912,7 +30912,7 @@
       <Material id="Wood" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_guard_h0" name="{=}Reverse Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard_reverse" culture="Culture.battania" full_scale="true" length="1.1" weight="0.2">
+<CraftingPiece id="crpg_rondel_reverse_guard_h0" name="{=}Reverse Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard_reverse" culture="Culture.battania" full_scale="true" length="1.1" weight="0.2">
     <BuildData next_piece_offset="30.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
@@ -30926,48 +30926,23 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_guard_h2" name="{=}Reverse Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard_reverse" culture="Culture.battania" full_scale="true" length="1.1" weight="0.2">
+  <CraftingPiece id="crpg_rondel_reverse_guard_h2" name="{=}Reverse Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard_reverse" culture="Culture.battania" full_scale="true" length="1.1" weight="0.13">
     <BuildData next_piece_offset="30.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_guard_h3" name="{=}Reverse Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard_reverse" culture="Culture.battania" full_scale="true" length="1.1" weight="0.2">
+  <CraftingPiece id="crpg_rondel_reverse_guard_h3" name="{=}Reverse Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard_reverse" culture="Culture.battania" full_scale="true" length="1.1" weight="0.13">
     <BuildData next_piece_offset="30.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_blade_h0" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" length="31.4" weight="2.55">
-    <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
-      <Thrust damage_type="Blunt" damage_factor="1.5" />
-      <Swing damage_type="Pierce" damage_factor="3.8" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_blade_h1" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" length="31.4" weight="2.45">
-    <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
-      <Thrust damage_type="Blunt" damage_factor="1.5" />
-      <Swing damage_type="Pierce" damage_factor="3.8" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_blade_h2" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" length="31.4" weight="2.35">
+  <CraftingPiece id="crpg_rondel_reverse_blade_h0" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" full_scale="true" length="31.4" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
       <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Pierce" damage_factor="3.8" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -30976,10 +30951,31 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_blade_h3" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" length="31.4" weight="2.35">
+  <CraftingPiece id="crpg_rondel_reverse_blade_h1" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" full_scale="true" length="31.4" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
-      <Thrust damage_type="Blunt" damage_factor="1.5" />
-      <Swing damage_type="Pierce" damage_factor="4.0" />
+      <Thrust damage_type="Pierce" damage_factor="3.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_rondel_reverse_blade_h2" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" full_scale="true" length="31.4" weight="0.1" excluded_item_usage_features="swing">
+    <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
+      <Thrust damage_type="Pierce" damage_factor="3.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_rondel_reverse_blade_h3" name="{=}Reverse Rondel Blade" tier="2" piece_type="Blade" mesh="rondel_blade_reverse" full_scale="true" length="31.4" weight="0.1" excluded_item_usage_features="swing">
+    <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
+      <Thrust damage_type="Pierce" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -30998,12 +30994,12 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_pommel_h2" name="{=}Reverse Rondel Pommel" tier="4" piece_type="Pommel" mesh="rondel_pommel_reverse" culture="Culture.battania" full_scale="true" length="1.02" weight="0.2">
+  <CraftingPiece id="crpg_rondel_reverse_pommel_h2" name="{=}Reverse Rondel Pommel" tier="4" piece_type="Pommel" mesh="rondel_pommel_reverse" culture="Culture.battania" full_scale="true" length="1.02" weight="0.13">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rondel_reverse_pommel_h3" name="{=}Reverse Rondel Pommel" tier="4" piece_type="Pommel" mesh="rondel_pommel_reverse" culture="Culture.battania" full_scale="true" length="1.02" weight="0.2">
+  <CraftingPiece id="crpg_rondel_reverse_pommel_h3" name="{=}Reverse Rondel Pommel" tier="4" piece_type="Pommel" mesh="rondel_pommel_reverse" culture="Culture.battania" full_scale="true" length="1.02" weight="0.13">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
