@@ -224,7 +224,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_bound_horsemans_kite_shield_v3_h0" name="{=Diggles}Imperial Cavalry Heater Shield" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025">
+  <Item id="crpg_bound_horsemans_kite_shield_v3_h0" name="{=Diggles}Imperial Cavalry Heater Shield" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="1" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="94" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="63" center_of_mass="0.0,0.1,0.1" hit_points="205">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -232,7 +232,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_bound_horsemans_kite_shield_v3_h1" name="{=Diggles}Imperial Cavalry Heater Shield +1" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025">
+  <Item id="crpg_bound_horsemans_kite_shield_v3_h1" name="{=Diggles}Imperial Cavalry Heater Shield +1" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="94" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="63" center_of_mass="0.0,0.1,0.1" hit_points="222">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -240,7 +240,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_bound_horsemans_kite_shield_v3_h2" name="{=Diggles}Imperial Cavalry Heater Shield +2" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025">
+  <Item id="crpg_bound_horsemans_kite_shield_v3_h2" name="{=Diggles}Imperial Cavalry Heater Shield +2" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="94" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="63" center_of_mass="0.0,0.1,0.1" hit_points="238">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -248,7 +248,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_bound_horsemans_kite_shield_v3_h3" name="{=Diggles}Imperial Cavalry Heater Shield +3" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025">
+  <Item id="crpg_bound_horsemans_kite_shield_v3_h3" name="{=Diggles}Imperial Cavalry Heater Shield +3" body_name="bo_cap_kite_shield_h" shield_body_name="bo_kite_shield_h" recalculate_body="false" mesh="kite_shield_h" using_tableau="true" weight="1.017056" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="94" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="63" center_of_mass="0.0,0.1,0.1" hit_points="255">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -576,7 +576,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_fortified_kite_shield_v3_h0" name="{=Diggles}Fortified Norman Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+  <Item id="crpg_fortified_kite_shield_v3_h0" name="{=Diggles}Fortified Norman Kite Shield" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025" culture="Culture.vlandia">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="12" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="61" center_of_mass="0.0,0.0,0.1" hit_points="400" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -584,7 +584,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_fortified_kite_shield_v3_h1" name="{=Diggles}Fortified Norman Kite Shield +1" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+  <Item id="crpg_fortified_kite_shield_v3_h1" name="{=Diggles}Fortified Norman Kite Shield +1" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025" culture="Culture.vlandia">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="13" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="61" center_of_mass="0.0,0.0,0.1" hit_points="432" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -592,7 +592,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_fortified_kite_shield_v3_h2" name="{=Diggles}Fortified Norman Kite Shield +2" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+  <Item id="crpg_fortified_kite_shield_v3_h2" name="{=Diggles}Fortified Norman Kite Shield +2" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025" culture="Culture.vlandia">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="13" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="61" center_of_mass="0.0,0.0,0.1" hit_points="464" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -600,7 +600,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_fortified_kite_shield_v3_h3" name="{=Diggles}Fortified Norman Kite Shield +3" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025">
+  <Item id="crpg_fortified_kite_shield_v3_h3" name="{=Diggles}Fortified Norman Kite Shield +3" body_name="bo_cap_kite_shield_s" shield_body_name="bo_kite_shield_s" recalculate_body="false" mesh="kite_shield_s" using_tableau="true" weight="1.8605" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,-0.025" culture="Culture.vlandia">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="14" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="61" center_of_mass="0.0,0.0,0.1" hit_points="496" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -608,7 +608,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern1_v1_h0" name="{=}Imperial Striped Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern1_v1_h0" name="{=}Imperial Striped Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="550" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -616,7 +616,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern1_v1_h1" name="{=}Imperial Striped Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern1_v1_h1" name="{=}Imperial Striped Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="594" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -624,7 +624,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern1_v1_h2" name="{=}Imperial Striped Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern1_v1_h2" name="{=}Imperial Striped Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="638" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -632,7 +632,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern1_v1_h3" name="{=}Imperial Striped Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern1_v1_h3" name="{=}Imperial Striped Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern1" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="682" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -640,7 +640,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern2_v1_h0" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern2_v1_h0" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="550" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -648,7 +648,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern2_v1_h1" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern2_v1_h1" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="594" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -656,7 +656,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern2_v1_h2" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern2_v1_h2" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="638" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -664,7 +664,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_pattern2_v1_h3" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_pattern2_v1_h3" name="{=}Heavy Stripe Decorated Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_pattern2" using_tableau="true" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="682" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -672,7 +672,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_red_v1_h0" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_red_v1_h0" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="550" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -680,7 +680,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_red_v1_h1" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_red_v1_h1" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="594" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -688,7 +688,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_red_v1_h2" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_red_v1_h2" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="638" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -696,7 +696,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_red_v1_h3" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_red_v1_h3" name="{=}Heavy Imperial Decorated Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise_red" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="682" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -704,7 +704,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_v1_h0" name="{=}Imperial Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_v1_h0" name="{=}Imperial Hand Pavise Heater Shield" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="550" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -712,7 +712,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_v1_h1" name="{=}Imperial Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_v1_h1" name="{=}Imperial Hand Pavise Heater Shield +1" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="594" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -720,7 +720,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_v1_h2" name="{=}Imperial Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_v1_h2" name="{=}Imperial Hand Pavise Heater Shield +2" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="638" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -728,7 +728,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_hand_pavise_v1_h3" name="{=}Imperial Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.battania">
+  <Item id="crpg_hand_pavise_v1_h3" name="{=}Imperial Hand Pavise Heater Shield +3" body_name="bo_cap_hand_pavise" shield_body_name="bo_hand_pavise" recalculate_body="false" mesh="handpavise" using_tableau="false" weight="3.36875" appearance="1.1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="0.0,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, -0.06, -0.02" rotation="10.0,20.0,90.0" weapon_length="70" center_of_mass="0.0,0.065,0.05" hit_points="682" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1184,7 +1184,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_noyans_shield_v3_h0" name="{=Diggles}Fortified Steppe Round Shield" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_noyans_shield_v3_h0" name="{=Diggles}Fortified Steppe Round Shield" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="24" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="metal_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="295" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1192,7 +1192,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_noyans_shield_v3_h1" name="{=Diggles}Fortified Steppe Round Shield +1" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_noyans_shield_v3_h1" name="{=Diggles}Fortified Steppe Round Shield +1" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="25" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="metal_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="319" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1200,7 +1200,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_noyans_shield_v3_h2" name="{=Diggles}Fortified Steppe Round Shield +2" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_noyans_shield_v3_h2" name="{=Diggles}Fortified Steppe Round Shield +2" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="26" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="metal_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="343" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1208,7 +1208,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_noyans_shield_v3_h3" name="{=Diggles}Fortified Steppe Round Shield +3" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_noyans_shield_v3_h3" name="{=Diggles}Fortified Steppe Round Shield +3" body_name="bo_cap_shield_khuzait_cavalary_c" shield_body_name="bo_shield_khuzait_cavalary_c" recalculate_body="false" mesh="shield_khuzait_cavalary_c" using_tableau="true" weight="1.417475" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="27" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="metal_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="366" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1312,7 +1312,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_pavise_v1_h0" name="{=}Heavy Imperial Pavise Tower Shield" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_pavise_v1_h0" name="{=}Heavy Imperial Pavise Tower Shield" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="600" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1320,7 +1320,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_pavise_v1_h1" name="{=}Heavy Imperial Pavise Tower Shield +1" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_pavise_v1_h1" name="{=}Heavy Imperial Pavise Tower Shield +1" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="648" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1328,7 +1328,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_pavise_v1_h2" name="{=}Heavy Imperial Pavise Tower Shield +2" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_pavise_v1_h2" name="{=}Heavy Imperial Pavise Tower Shield +2" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="696" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1336,7 +1336,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_pavise_v1_h3" name="{=}Heavy Imperial Pavise Tower Shield +3" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_pavise_v1_h3" name="{=}Heavy Imperial Pavise Tower Shield +3" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="pavise" using_tableau="true" weight="10.443" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="744" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1344,7 +1344,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_flat_kite_shield_v3_h0" name="{=Diggles}Worn Norse Kite Shield" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025">
+  <Item id="crpg_reinforced_flat_kite_shield_v3_h0" name="{=Diggles}Worn Norse Kite Shield" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025" culture="Culture.sturgia">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="72" center_of_mass="0.0,0.0,0.0" hit_points="228" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1352,7 +1352,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_flat_kite_shield_v3_h1" name="{=Diggles}Worn Norse Kite Shield +1" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025">
+  <Item id="crpg_reinforced_flat_kite_shield_v3_h1" name="{=Diggles}Worn Norse Kite Shield +1" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025" culture="Culture.sturgia">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="72" center_of_mass="0.0,0.0,0.0" hit_points="247" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1360,7 +1360,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_flat_kite_shield_v3_h2" name="{=Diggles}Worn Norse Kite Shield +2" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025">
+  <Item id="crpg_reinforced_flat_kite_shield_v3_h2" name="{=Diggles}Worn Norse Kite Shield +2" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025" culture="Culture.sturgia">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="72" center_of_mass="0.0,0.0,0.0" hit_points="265" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1368,7 +1368,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_flat_kite_shield_v3_h3" name="{=Diggles}Worn Norse Kite Shield +3" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025">
+  <Item id="crpg_reinforced_flat_kite_shield_v3_h3" name="{=Diggles}Worn Norse Kite Shield +3" body_name="bo_cap_kite_shield_p" shield_body_name="bo_kite_shield_p" recalculate_body="false" mesh="kite_shield_p" using_tableau="true" weight="1.47744" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.025" culture="Culture.sturgia">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="72" center_of_mass="0.0,0.0,0.0" hit_points="283" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1376,7 +1376,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h0" name="{=Diggles}Heavy Norse Cavalry Heater Shield" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" difficulty="0" multiplayer_item="false">
+  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h0" name="{=Diggles}Heavy Norse Cavalry Heater Shield" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.sturgia" difficulty="0" multiplayer_item="false">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="1" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="56" center_of_mass="0, 0, 0" hit_points="205" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1384,7 +1384,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h1" name="{=Diggles}Heavy Norse Cavalry Heater Shield +1" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" difficulty="0" multiplayer_item="false">
+  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h1" name="{=Diggles}Heavy Norse Cavalry Heater Shield +1" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.sturgia" difficulty="0" multiplayer_item="false">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="56" center_of_mass="0, 0, 0" hit_points="222" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1392,7 +1392,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h2" name="{=Diggles}Heavy Norse Cavalry Heater Shield +2" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" difficulty="0" multiplayer_item="false">
+  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h2" name="{=Diggles}Heavy Norse Cavalry Heater Shield +2" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.sturgia" difficulty="0" multiplayer_item="false">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="56" center_of_mass="0, 0, 0" hit_points="238" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1400,7 +1400,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h3" name="{=Diggles}Heavy Norse Cavalry Heater Shield +3" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" difficulty="0" multiplayer_item="false">
+  <Item id="crpg_reinforced_horsemans_kite_shield_v3_h3" name="{=Diggles}Heavy Norse Cavalry Heater Shield +3" body_name="bo_cap_kite_shield_j" shield_body_name="bo_kite_shield_j" recalculate_body="false" mesh="kite_shield_j" using_tableau="true" weight="0.8036" appearance="0.6" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.sturgia" difficulty="0" multiplayer_item="false">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="56" center_of_mass="0, 0, 0" hit_points="255" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1408,7 +1408,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforcedpavise_v1_h0" name="{=}Worn Imperial Pavise Tower Shield" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_reinforcedpavise_v1_h0" name="{=}Worn Imperial Pavise Tower Shield" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="130" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1416,7 +1416,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforcedpavise_v1_h1" name="{=}Worn Imperial Pavise Tower Shield +1" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_reinforcedpavise_v1_h1" name="{=}Worn Imperial Pavise Tower Shield +1" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="141" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1424,7 +1424,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforcedpavise_v1_h2" name="{=}Worn Imperial Pavise Tower Shield +2" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_reinforcedpavise_v1_h2" name="{=}Worn Imperial Pavise Tower Shield +2" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="151" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1432,7 +1432,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_reinforcedpavise_v1_h3" name="{=}Worn Imperial Pavise Tower Shield +3" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.vlandia">
+  <Item id="crpg_reinforcedpavise_v1_h3" name="{=}Worn Imperial Pavise Tower Shield +3" body_name="bo_cap_pavise_shield" shield_body_name="bo_pavise_shield" recalculate_body="false" mesh="reinforcedpavise" using_tableau="true" weight="2.26265" appearance="0.7" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="2" thrust_speed="80" thrust_damage_type="Blunt" speed_rating="80" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="118" center_of_mass="0.0,0.1,0.1" hit_points="162" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1568,7 +1568,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_steppe_guardian_shield_v3_h0" name="{=Diggles}Steppe Round Shield" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_steppe_guardian_shield_v3_h0" name="{=Diggles}Steppe Round Shield" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="18" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="228" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1576,7 +1576,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_steppe_guardian_shield_v3_h1" name="{=Diggles}Steppe Round Shield +1" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_steppe_guardian_shield_v3_h1" name="{=Diggles}Steppe Round Shield +1" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="19" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="247" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1584,7 +1584,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_steppe_guardian_shield_v3_h2" name="{=Diggles}Steppe Round Shield +2" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_steppe_guardian_shield_v3_h2" name="{=Diggles}Steppe Round Shield +2" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="20" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="265" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1592,7 +1592,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_steppe_guardian_shield_v3_h3" name="{=Diggles}Steppe Round Shield +3" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01">
+  <Item id="crpg_steppe_guardian_shield_v3_h3" name="{=Diggles}Steppe Round Shield +3" body_name="bo_cap_shield_khuzait_cavalary_d" shield_body_name="bo_shield_khuzait_cavalary_d" recalculate_body="false" mesh="shield_khuzait_cavalary_d" using_tableau="true" weight="1.09554" appearance="0.9" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.05,0.01" culture="Culture.khuzait">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="20" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="62" center_of_mass="-0.0,0.075,0.05" hit_points="283" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1600,7 +1600,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_stronger_reinforced_kite_shield_v3_h0" name="{=Diggles}Fortified Imperial Kite shield" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025">
+  <Item id="crpg_stronger_reinforced_kite_shield_v3_h0" name="{=Diggles}Fortified Imperial Kite shield" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="3" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="73" center_of_mass="0.0,0.05,0.05" hit_points="342" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1608,7 +1608,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_stronger_reinforced_kite_shield_v3_h1" name="{=Diggles}Fortified Imperial Kite shield +1" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025">
+  <Item id="crpg_stronger_reinforced_kite_shield_v3_h1" name="{=Diggles}Fortified Imperial Kite shield +1" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="73" center_of_mass="0.0,0.05,0.05" hit_points="370" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1616,7 +1616,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_stronger_reinforced_kite_shield_v3_h2" name="{=Diggles}Fortified Imperial Kite shield +2" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025">
+  <Item id="crpg_stronger_reinforced_kite_shield_v3_h2" name="{=Diggles}Fortified Imperial Kite shield +2" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="73" center_of_mass="0.0,0.05,0.05" hit_points="397" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1624,7 +1624,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_stronger_reinforced_kite_shield_v3_h3" name="{=Diggles}Fortified Imperial Kite shield +3" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025">
+  <Item id="crpg_stronger_reinforced_kite_shield_v3_h3" name="{=Diggles}Fortified Imperial Kite shield +3" body_name="bo_cap_kite_shield_d" shield_body_name="bo_kite_shield_d" recalculate_body="false" mesh="kite_shield_d" using_tableau="true" weight="2.278147" appearance="0.7" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" body_armor="4" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="73" center_of_mass="0.0,0.05,0.05" hit_points="425" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1632,7 +1632,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_studded_bound_kite_shield_v3_h0" name="{=Diggles}Imperial Kite Shield" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0">
+  <Item id="crpg_studded_bound_kite_shield_v3_h0" name="{=Diggles}Imperial Kite Shield" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="1" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="91" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="65" center_of_mass="0.0,0.0,0.05" hit_points="274" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1640,7 +1640,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_studded_bound_kite_shield_v3_h1" name="{=Diggles}Imperial Kite Shield +1" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0">
+  <Item id="crpg_studded_bound_kite_shield_v3_h1" name="{=Diggles}Imperial Kite Shield +1" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="91" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="65" center_of_mass="0.0,0.0,0.05" hit_points="296" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1648,7 +1648,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_studded_bound_kite_shield_v3_h2" name="{=Diggles}Imperial Kite Shield +2" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0">
+  <Item id="crpg_studded_bound_kite_shield_v3_h2" name="{=Diggles}Imperial Kite Shield +2" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="91" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="65" center_of_mass="0.0,0.0,0.05" hit_points="318" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1656,7 +1656,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_studded_bound_kite_shield_v3_h3" name="{=Diggles}Imperial Kite Shield +3" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0">
+  <Item id="crpg_studded_bound_kite_shield_v3_h3" name="{=Diggles}Imperial Kite Shield +3" body_name="bo_cap_kite_shield_r" shield_body_name="bo_kite_shield_r" recalculate_body="false" mesh="kite_shield_r" using_tableau="true" weight="1.447062" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.0,0.0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="91" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="65" center_of_mass="0.0,0.0,0.05" hit_points="340" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1856,7 +1856,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
-  <Item id="crpg_western_kite_shield_v3_h0" name="{=Diggles}Heavy Imperial Kite Shield" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.vlandia">
+  <Item id="crpg_western_kite_shield_v3_h0" name="{=Diggles}Heavy Imperial Kite Shield" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="1" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="-0.070,0.0,0.05" hit_points="228" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1864,7 +1864,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_western_kite_shield_v3_h1" name="{=Diggles}Heavy Imperial Kite Shield +1" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.vlandia">
+  <Item id="crpg_western_kite_shield_v3_h1" name="{=Diggles}Heavy Imperial Kite Shield +1" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="-0.070,0.0,0.05" hit_points="247" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1872,7 +1872,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_western_kite_shield_v3_h2" name="{=Diggles}Heavy Imperial Kite Shield +2" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.vlandia">
+  <Item id="crpg_western_kite_shield_v3_h2" name="{=Diggles}Heavy Imperial Kite Shield +2" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="-0.070,0.0,0.05" hit_points="265" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1880,7 +1880,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_western_kite_shield_v3_h3" name="{=Diggles}Heavy Imperial Kite Shield +3" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.vlandia">
+  <Item id="crpg_western_kite_shield_v3_h3" name="{=Diggles}Heavy Imperial Kite Shield +3" body_name="bo_cap_shield_vlandia_infantary_a" shield_body_name="bo_shield_vlandia_infantary_a" recalculate_body="false" mesh="shield_vlandia_infantary_a" using_tableau="true" weight="1.31784" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0.1,0" culture="Culture.empire">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="2" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="-0.070,0.0,0.05" hit_points="283" modifier_group="shield">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1952,7 +1952,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_worn_kite_shield_v3_h0" name="{=Diggles}Worn Imperial Kite Shield" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" difficulty="0">
+  <Item id="crpg_worn_kite_shield_v3_h0" name="{=Diggles}Worn Imperial Kite Shield" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire" difficulty="0">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="83" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="0,-0.1,0.1" hit_points="160" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1960,7 +1960,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_worn_kite_shield_v3_h1" name="{=Diggles}Worn Imperial Kite Shield +1" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" difficulty="0">
+  <Item id="crpg_worn_kite_shield_v3_h1" name="{=Diggles}Worn Imperial Kite Shield +1" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire" difficulty="0">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="83" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="0,-0.1,0.1" hit_points="173" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1968,7 +1968,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_worn_kite_shield_v3_h2" name="{=Diggles}Worn Imperial Kite Shield +2" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" difficulty="0">
+  <Item id="crpg_worn_kite_shield_v3_h2" name="{=Diggles}Worn Imperial Kite Shield +2" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire" difficulty="0">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="83" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="0,-0.1,0.1" hit_points="186" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -1976,7 +1976,7 @@
     </ItemComponent>
     <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
   </Item>
-  <Item id="crpg_worn_kite_shield_v3_h3" name="{=Diggles}Worn Imperial Kite Shield +3" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" difficulty="0">
+  <Item id="crpg_worn_kite_shield_v3_h3" name="{=Diggles}Worn Imperial Kite Shield +3" body_name="bo_cap_kite_shield_b" shield_body_name="bo_kite_shield_b" recalculate_body="false" mesh="kite_shield_b" using_tableau="true" weight="0.9248" appearance="0.3" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,0,-0.025" culture="Culture.empire" difficulty="0">
     <ItemComponent>
       <Weapon weapon_class="SmallShield" body_armor="0" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="83" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="68" center_of_mass="0,-0.1,0.1" hit_points="199" modifier_group="shield" thrust_damage="5">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
