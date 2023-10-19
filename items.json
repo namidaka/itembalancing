@@ -35128,15 +35128,15 @@
     "weapons": []
   },
   {
-    "id": "crpg_common_hunting_bow_h0",
-    "baseId": "crpg_common_hunting_bow",
+    "id": "crpg_common_hunting_bow_v1_h0",
+    "baseId": "crpg_common_hunting_bow_v1",
     "name": "Common Hunting Bow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 10783,
-    "weight": 1.301667,
+    "price": 7225,
+    "weight": 1.161523,
     "rank": 0,
-    "tier": 8.644571,
+    "tier": 6.883345,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -35144,13 +35144,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 125,
-        "missileSpeed": 71,
+        "itemUsage": "long_bow",
+        "accuracy": 130,
+        "missileSpeed": 74,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 92,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35162,20 +35162,20 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 91
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 125,
+        "itemUsage": "long_bow",
+        "accuracy": 130,
         "missileSpeed": 71,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 92,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35188,23 +35188,23 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 82
+        "swingSpeed": 91
       }
     ]
   },
   {
-    "id": "crpg_common_hunting_bow_h1",
-    "baseId": "crpg_common_hunting_bow",
+    "id": "crpg_common_hunting_bow_v1_h1",
+    "baseId": "crpg_common_hunting_bow_v1",
     "name": "Common Hunting Bow +1",
     "culture": "Battania",
     "type": "Bow",
-    "price": 11359,
-    "weight": 1.183333,
+    "price": 6593,
+    "weight": 1.05593,
     "rank": 1,
-    "tier": 8.900509,
+    "tier": 6.5284996,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -35212,13 +35212,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 125,
-        "missileSpeed": 80,
+        "itemUsage": "long_bow",
+        "accuracy": 132,
+        "missileSpeed": 76,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 94,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35230,20 +35230,20 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 94
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 125,
-        "missileSpeed": 80,
+        "itemUsage": "long_bow",
+        "accuracy": 132,
+        "missileSpeed": 76,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 94,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35256,23 +35256,23 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 94
       }
     ]
   },
   {
-    "id": "crpg_common_hunting_bow_h2",
-    "baseId": "crpg_common_hunting_bow",
+    "id": "crpg_common_hunting_bow_v1_h2",
+    "baseId": "crpg_common_hunting_bow_v1",
     "name": "Common Hunting Bow +2",
     "culture": "Battania",
     "type": "Bow",
-    "price": 11817,
-    "weight": 1.084722,
+    "price": 6285,
+    "weight": 0.9679358,
     "rank": 2,
-    "tier": 9.09981,
+    "tier": 6.349298,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -35280,13 +35280,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 128,
-        "missileSpeed": 80,
+        "itemUsage": "long_bow",
+        "accuracy": 134,
+        "missileSpeed": 78,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 98,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35298,20 +35298,20 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
+        "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 95
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 128,
-        "missileSpeed": 80,
+        "itemUsage": "long_bow",
+        "accuracy": 134,
+        "missileSpeed": 78,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 98,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35324,23 +35324,23 @@
         ],
         "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
+        "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 95
       }
     ]
   },
   {
-    "id": "crpg_common_hunting_bow_h3",
-    "baseId": "crpg_common_hunting_bow",
+    "id": "crpg_common_hunting_bow_v1_h3",
+    "baseId": "crpg_common_hunting_bow_v1",
     "name": "Common Hunting Bow +3",
     "culture": "Battania",
     "type": "Bow",
-    "price": 11348,
-    "weight": 1.001282,
+    "price": 8665,
+    "weight": 0.8934792,
     "rank": 3,
-    "tier": 8.895957,
+    "tier": 7.63866949,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -35348,13 +35348,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
+        "itemUsage": "long_bow",
         "accuracy": 134,
-        "missileSpeed": 80,
+        "missileSpeed": 78,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 98,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35364,22 +35364,22 @@
           "UnloadWhenSheathed",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
+        "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 95
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
+        "itemUsage": "long_bow",
         "accuracy": 134,
-        "missileSpeed": 80,
+        "missileSpeed": 78,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 98,
+        "handling": 94,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -35390,12 +35390,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 14,
+        "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 98,
+        "thrustSpeed": 94,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 85
+        "swingSpeed": 95
       }
     ]
   },
@@ -68700,15 +68700,15 @@
     ]
   },
   {
-    "id": "crpg_heavy_hunting_bow_h0",
-    "baseId": "crpg_heavy_hunting_bow",
+    "id": "crpg_heavy_hunting_bow_v1_h0",
+    "baseId": "crpg_heavy_hunting_bow_v1",
     "name": "Heavy Hunting Bow",
     "culture": "Neutral",
     "type": "Bow",
-    "price": 14005,
-    "weight": 1.500151,
+    "price": 10200,
+    "weight": 1.372986,
     "rank": 0,
-    "tier": 10.002018,
+    "tier": 8.37818,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -68716,9 +68716,9 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 120,
-        "missileSpeed": 72,
+        "itemUsage": "long_bow",
+        "accuracy": 125,
+        "missileSpeed": 75,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
@@ -68737,13 +68737,13 @@
         "thrustSpeed": 90,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 90
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 120,
-        "missileSpeed": 72,
+        "itemUsage": "long_bow",
+        "accuracy": 125,
+        "missileSpeed": 75,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
@@ -68763,20 +68763,20 @@
         "thrustSpeed": 90,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 80
+        "swingSpeed": 90
       }
     ]
   },
   {
-    "id": "crpg_heavy_hunting_bow_h1",
-    "baseId": "crpg_heavy_hunting_bow",
+    "id": "crpg_heavy_hunting_bow_v1_h1",
+    "baseId": "crpg_heavy_hunting_bow_v1",
     "name": "Heavy Hunting Bow +1",
     "culture": "Neutral",
     "type": "Bow",
-    "price": 14782,
-    "weight": 1.363774,
+    "price": 9325,
+    "weight": 1.248169,
     "rank": 1,
-    "tier": 10.3057308,
+    "tier": 7.9636445,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -68784,13 +68784,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 120,
-        "missileSpeed": 81,
+        "itemUsage": "long_bow",
+        "accuracy": 127,
+        "missileSpeed": 77,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 92,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -68802,20 +68802,20 @@
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 93
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 120,
-        "missileSpeed": 81,
+        "itemUsage": "long_bow",
+        "accuracy": 127,
+        "missileSpeed": 77,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 92,
+        "handling": 91,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -68828,23 +68828,23 @@
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 92,
+        "thrustSpeed": 91,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 93
       }
     ]
   },
   {
-    "id": "crpg_heavy_hunting_bow_h2",
-    "baseId": "crpg_heavy_hunting_bow",
+    "id": "crpg_heavy_hunting_bow_v1_h2",
+    "baseId": "crpg_heavy_hunting_bow_v1",
     "name": "Heavy Hunting Bow +2",
     "culture": "Neutral",
     "type": "Bow",
-    "price": 15544,
-    "weight": 1.250126,
+    "price": 8914,
+    "weight": 1.144155,
     "rank": 2,
-    "tier": 10.5955515,
+    "tier": 7.76244736,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -68852,13 +68852,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 123,
-        "missileSpeed": 81,
+        "itemUsage": "long_bow",
+        "accuracy": 129,
+        "missileSpeed": 79,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -68870,20 +68870,20 @@
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 94
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 123,
-        "missileSpeed": 81,
+        "itemUsage": "long_bow",
+        "accuracy": 129,
+        "missileSpeed": 79,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -68896,23 +68896,23 @@
         ],
         "thrustDamage": 15,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 94
       }
     ]
   },
   {
-    "id": "crpg_heavy_hunting_bow_h3",
-    "baseId": "crpg_heavy_hunting_bow",
+    "id": "crpg_heavy_hunting_bow_v1_h3",
+    "baseId": "crpg_heavy_hunting_bow_v1",
     "name": "Heavy Hunting Bow +3",
     "culture": "Neutral",
     "type": "Bow",
-    "price": 15067,
-    "weight": 1.153963,
+    "price": 11895,
+    "weight": 1.056143,
     "rank": 3,
-    "tier": 10.414854,
+    "tier": 9.133099,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -68920,13 +68920,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
+        "itemUsage": "long_bow",
         "accuracy": 129,
-        "missileSpeed": 81,
+        "missileSpeed": 79,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -68936,22 +68936,22 @@
           "UnloadWhenSheathed",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 94
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
+        "itemUsage": "long_bow",
         "accuracy": 129,
-        "missileSpeed": 81,
+        "missileSpeed": 79,
         "stackAmount": 1,
         "length": 110,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -68962,12 +68962,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 15,
+        "thrustDamage": 16,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 83
+        "swingSpeed": 94
       }
     ]
   },
@@ -94564,15 +94564,15 @@
     ]
   },
   {
-    "id": "crpg_light_hunting_bow_h0",
-    "baseId": "crpg_light_hunting_bow",
+    "id": "crpg_light_hunting_bow_v1_h0",
+    "baseId": "crpg_light_hunting_bow_v1",
     "name": "Light Hunting Bow",
     "culture": "Battania",
     "type": "Bow",
-    "price": 7874,
-    "weight": 1.105518,
+    "price": 4055,
+    "weight": 0.9097453,
     "rank": 0,
-    "tier": 7.23178,
+    "tier": 4.89725733,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -94580,13 +94580,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
+        "itemUsage": "long_bow",
         "accuracy": 130,
-        "missileSpeed": 70,
+        "missileSpeed": 73,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 94,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94598,20 +94598,20 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 92
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
+        "itemUsage": "long_bow",
         "accuracy": 130,
-        "missileSpeed": 70,
+        "missileSpeed": 73,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 94,
+        "handling": 92,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94624,23 +94624,23 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 94,
+        "thrustSpeed": 92,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 84
+        "swingSpeed": 92
       }
     ]
   },
   {
-    "id": "crpg_light_hunting_bow_h1",
-    "baseId": "crpg_light_hunting_bow",
+    "id": "crpg_light_hunting_bow_v1_h1",
+    "baseId": "crpg_light_hunting_bow_v1",
     "name": "Light Hunting Bow +1",
     "culture": "Battania",
     "type": "Bow",
-    "price": 8277,
-    "weight": 1.005017,
+    "price": 3713,
+    "weight": 0.8270411,
     "rank": 1,
-    "tier": 7.441476,
+    "tier": 4.64321566,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -94648,13 +94648,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 130,
-        "missileSpeed": 79,
+        "itemUsage": "long_bow",
+        "accuracy": 132,
+        "missileSpeed": 75,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94666,20 +94666,20 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 95
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 130,
-        "missileSpeed": 79,
+        "itemUsage": "long_bow",
+        "accuracy": 132,
+        "missileSpeed": 75,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 96,
+        "handling": 93,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94692,23 +94692,23 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 96,
+        "thrustSpeed": 93,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 95
       }
     ]
   },
   {
-    "id": "crpg_light_hunting_bow_h2",
-    "baseId": "crpg_light_hunting_bow",
+    "id": "crpg_light_hunting_bow_v1_h2",
+    "baseId": "crpg_light_hunting_bow_v1",
     "name": "Light Hunting Bow +2",
     "culture": "Battania",
     "type": "Bow",
-    "price": 8525,
-    "weight": 0.9212652,
+    "price": 3545,
+    "weight": 0.758121,
     "rank": 2,
-    "tier": 7.56820965,
+    "tier": 4.513707,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -94716,13 +94716,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 133,
-        "missileSpeed": 79,
+        "itemUsage": "long_bow",
+        "accuracy": 134,
+        "missileSpeed": 77,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 100,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94734,20 +94734,20 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 96
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 133,
-        "missileSpeed": 79,
+        "itemUsage": "long_bow",
+        "accuracy": 134,
+        "missileSpeed": 77,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 100,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94760,23 +94760,23 @@
         ],
         "thrustDamage": 13,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 96
       }
     ]
   },
   {
-    "id": "crpg_light_hunting_bow_h3",
-    "baseId": "crpg_light_hunting_bow",
+    "id": "crpg_light_hunting_bow_v1_h3",
+    "baseId": "crpg_light_hunting_bow_v1",
     "name": "Light Hunting Bow +3",
     "culture": "Battania",
     "type": "Bow",
-    "price": 8122,
-    "weight": 0.8503988,
+    "price": 5030,
+    "weight": 0.6998041,
     "rank": 3,
-    "tier": 7.36136627,
+    "tier": 5.57099342,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandPrimaryItemBone"
@@ -94784,13 +94784,13 @@
     "weapons": [
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 139,
-        "missileSpeed": 79,
+        "itemUsage": "long_bow",
+        "accuracy": 134,
+        "missileSpeed": 77,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 100,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94800,22 +94800,22 @@
           "UnloadWhenSheathed",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 96
       },
       {
         "class": "Bow",
-        "itemUsage": "bow",
-        "accuracy": 139,
-        "missileSpeed": 79,
+        "itemUsage": "long_bow",
+        "accuracy": 134,
+        "missileSpeed": 77,
         "stackAmount": 1,
         "length": 108,
         "balance": 0.0,
-        "handling": 100,
+        "handling": 95,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -94826,12 +94826,12 @@
           "AutoReload",
           "TwoHandIdleOnMount"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 14,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 100,
+        "thrustSpeed": 95,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 87
+        "swingSpeed": 96
       }
     ]
   },
