@@ -1320,4 +1320,10 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
+  <Item id="crpg_hallow_boots_h0" name="{=DoNotTouchMe}Rusty Hallow Plate Boots" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor leg_armor="23" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
 </Items>

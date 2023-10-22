@@ -28236,81 +28236,81 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_blade_h0" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="60.7" weight="1.25">
+  <CraftingPiece id="crpg_broadshortsword_blade_h0" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="72.857" weight="1.25">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce" damage_factor="3.0" />
       <Swing damage_type="Cut" damage_factor="3.0" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_blade_h1" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="60.7" weight="1.25">
+  <CraftingPiece id="crpg_broadshortsword_blade_h1" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="72.857" weight="1.25">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce" damage_factor="3.1" />
       <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_blade_h2" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="60.7" weight="1.25">
+  <CraftingPiece id="crpg_broadshortsword_blade_h2" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="72.857" weight="1.25">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce" damage_factor="3.1" />
       <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_blade_h3" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="60.7" weight="1.25">
+  <CraftingPiece id="crpg_broadshortsword_blade_h3" name="{=}Broad Short Sword Blade" tier="4" piece_type="Blade" mesh="shortbroadsword_blade" culture="Culture.battania" length="72.857" weight="1.25">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce" damage_factor="3.2" />
       <Swing damage_type="Cut" damage_factor="3.3" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_pommel_h0" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="3.37" weight="0.05">
+  <CraftingPiece id="crpg_broadshortsword_pommel_h0" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="5.52" weight="0.05">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_pommel_h1" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="3.37" weight="0.05">
+  <CraftingPiece id="crpg_broadshortsword_pommel_h1" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="5.52" weight="0.05">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_pommel_h2" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="3.37" weight="0.05">
+  <CraftingPiece id="crpg_broadshortsword_pommel_h2" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="5.52" weight="0.05">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_pommel_h3" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="3.37" weight="0.05">
+  <CraftingPiece id="crpg_broadshortsword_pommel_h3" name="{=}Broad Short Sword Pommel" tier="4" piece_type="Pommel" mesh="shortbroadsword_pommel" culture="Culture.battania" length="5.52" weight="0.05">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_guard_h0" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.73" weight="0.097">
-    <BuildData next_piece_offset="2" />
+  <CraftingPiece id="crpg_broadshortsword_guard_h0" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="2.5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_guard_h1" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.73" weight="0.097">
-    <BuildData next_piece_offset="2" />
+  <CraftingPiece id="crpg_broadshortsword_guard_h1" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="2.5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_guard_h2" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.73" weight="0.097">
-    <BuildData next_piece_offset="2" />
+  <CraftingPiece id="crpg_broadshortsword_guard_h2" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="2.5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_guard_h3" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.73" weight="0.05">
-    <BuildData next_piece_offset="2" />
+  <CraftingPiece id="crpg_broadshortsword_guard_h3" name="{=}Broad Short Sword Guard" tier="5" piece_type="Guard" mesh="shortbroadsword_guard" culture="Culture.battania" length="2.69" weight="0.05">
+    <BuildData next_piece_offset="2.5" />
     <StatContributions armor_bonus="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_handle_h0" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="8.97" weight="0.05">
-    <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="1" />
+  <CraftingPiece id="crpg_broadshortsword_handle_h0" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="14" weight="0.05">
+    <BuildData piece_offset="-1" previous_piece_offset="0.4" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_handle_h1" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="8.97" weight="0.05">
-    <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="1" />
+  <CraftingPiece id="crpg_broadshortsword_handle_h1" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="14" weight="0.05">
+    <BuildData piece_offset="-1" previous_piece_offset="0.4" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_handle_h2" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="8.97" weight="0.05">
-    <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="1" />
+  <CraftingPiece id="crpg_broadshortsword_handle_h2" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="14" weight="0.05">
+    <BuildData piece_offset="-1" previous_piece_offset="0.4" next_piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_broadshortsword_handle_h3" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="8.97" weight="0.05">
-    <BuildData piece_offset="0" previous_piece_offset="1" next_piece_offset="1" />
+  <CraftingPiece id="crpg_broadshortsword_handle_h3" name="{=}Broad Short Sword Handle" tier="3" piece_type="Handle" mesh="shortbroadsword_handle" culture="Culture.khuzait" length="14" weight="0.05">
+    <BuildData piece_offset="-1" previous_piece_offset="0.4" next_piece_offset="0" />
   </CraftingPiece>
   <CraftingPiece id="crpg_rondel_guard_h0" name="{=}Rondel Guard" tier="1" piece_type="Guard" mesh="rondel_guard" culture="Culture.battania" full_scale="true" length="1.1" weight="0.2">
     <BuildData next_piece_offset="1.0" />
@@ -31835,5 +31835,74 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_jian_handle_h3" name="{=}Jian Handle" tier="3" piece_type="Handle" mesh="jian_handle" culture="Culture.khuzait" length="27.3" weight="0.1">
     <BuildData piece_offset="1" previous_piece_offset="0.0" next_piece_offset="0" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_longdagger_blade_h0" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3" >
+    <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="longdagger_scabbard" holster_mesh_length="43.3">
+      <Thrust damage_type="Pierce" damage_factor="3.8" />
+      <Swing damage_type="Cut" damage_factor="0.5" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_longdagger_handle_h0" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="longdagger_handle" culture="Culture.sturgia" full_scale="false" length="12.0" weight="0.2">
+    <BuildData piece_offset="-1" previous_piece_offset="0.0" next_piece_offset="0.0" />
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_longdagger_guard_h0" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="longdagger_guard" culture="Culture.battania" full_scale="false" length="4.75" weight="0.2">
+    <BuildData next_piece_offset="1.7" />
+    <StatContributions armor_bonus="0" />
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_longdagger_pommel_h0" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="longdagger_pommel" culture="Culture.battania" full_scale="false" length="5.28" weight="0.2">
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_german_halberd_blade_h0" name="German Halberd Blade" tier="3" piece_type="Blade" mesh="german_halberd_blade" culture="Culture.vlandia" length="68.8" weight="0.9">
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="2.2"/>
+      <Swing damage_type="Cut" damage_factor="3.5"/>
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags"/>
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="2"/>
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_german_halberd_handle_h0" name="German Halberd Handle" tier="2" piece_type="Handle" mesh="german_halberd_handle" length="169" weight="1.5" CraftingCost="120">
+    <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="30"/>
+    <Materials>
+      <Material id="Wood" count="1"/>
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_german_halberd_guard_h0" name="{=koX9okuG}None" tier="1" piece_type="Guard" mesh="" culture="Culture.empire" length="0" weight="0" is_default="true"></CraftingPiece>
+  <CraftingPiece id="crpg_german_halberd_pommel_h0" name="{=koX9okuG}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0" is_default="true"></CraftingPiece>
+  <CraftingPiece id="crpg_runic_axe_handle_h0" name="{=}Runic Axe Handle" tier="2" piece_type="Handle" mesh="runic_axe_handle" full_scale="true" length="75.8" weight="0.346">
+    <BuildData piece_offset="15" next_piece_offset="14" />
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_runic_axe_blade_h0" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.45">
+    <BuildData piece_offset="0.0" />
+    <BladeData stack_amount="2" blade_length="18.6" blade_width="17.3" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="2.5" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="4" />
+      <Material id="Iron3" count="1" />
+    </Materials>
   </CraftingPiece>
 </CraftingPieces>

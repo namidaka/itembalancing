@@ -7632,4 +7632,40 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
+  <Item id="crpg_cuir_bouilli_over_mail_h0" name="{=Norr}0Cuir Bouilli Over Mail" mesh="cuir_bouilli_over_mail" is_merchandise="true" subtype="body_armor"  culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="17" arm_armor="19" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_dark_cuir_bouilli_over_mail_h0" name="{=Norr}0Dark Cuir Bouilli Over Mail" mesh="cuir_bouilli_over_mail_dark" is_merchandise="true" subtype="body_armor"  culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="17" arm_armor="19" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aserai_cav_armor_h0" name="{=Norr}0Dessert Calvary Armor" mesh="faction_color_test" subtype="body_armor" culture="Culture.aserai" weight="10" difficulty="0" appearance="3" Type="BodyArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="45" leg_armor="12" arm_armor="10" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
+  <Item id="crpg_sturgia_cav_armor_h0" name="{=Norr}0Reinforced Cavalry Armor" mesh="sturgia_cavalry_armor_reinforced" subtype="body_armor" culture="Culture.sturgia" weight="10" difficulty="0" appearance="3" Type="BodyArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="49" leg_armor="18" arm_armor="19" covers_body="true" has_gender_variations="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
+  <Item id="crpg_hideous_kafa_body_h0" name="{=DoNotTouchMe}0Monster Body" mesh="hideous_armor" culture="Culture.battania" subtype="body_armor" weight="0.4" difficulty="0" appearance="1" Type="BodyArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="34" leg_armor="10" arm_armor="6" covers_body="true" modifier_group="leather" material_type="Leather"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true"/>
+  </Item>
+  <Item id="crpg_hallow_armor_h0" name="{=DoNotTouchMe}0Rusty Hallow Plate Armor" subtype="body_armor" mesh="hallow_armor" weight="10.0" difficulty="0" appearance="1.5" Type="BodyArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="62" leg_armor="15" arm_armor="25" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags UseTeamColor="true"/>
+  </Item>
 </Items>
