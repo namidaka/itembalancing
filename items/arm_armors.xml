@@ -1008,4 +1008,10 @@
     </ItemComponent>
     <Flags />
   </Item>
+  <Item id="crpg_hallow_gauntlets_h0" name="{=DoNotTouchMe}Rusty Hallow Plate Gauntlets" mesh="hallow_armor_gauntlets" weight="2.0" appearance="3" Type="HandArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
 </Items>
