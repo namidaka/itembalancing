@@ -11528,7 +11528,7 @@
       <Piece id="crpg_meowhammer_handle_h3" Type="Handle" scale_factor="109" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_broadshortsword_h0" name="{=BalanceMe}Broad Shortsword" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_broadshortsword_v1_h0" name="{=BalanceMe}Broad Shortsword" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_broadshortsword_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_broadshortsword_guard_h0" Type="Guard" scale_factor="100" />
@@ -11536,7 +11536,7 @@
       <Piece id="crpg_broadshortsword_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_broadshortsword_h1" name="{=BalanceMe}Broad Shortsword +1" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_broadshortsword_v1_h1" name="{=BalanceMe}Broad Shortsword +1" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_broadshortsword_blade_h1" Type="Blade" scale_factor="100" />
       <Piece id="crpg_broadshortsword_guard_h1" Type="Guard" scale_factor="100" />
@@ -11544,7 +11544,7 @@
       <Piece id="crpg_broadshortsword_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_broadshortsword_h2" name="{=BalanceMe}Broad Shortsword +2" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_broadshortsword_v1_h2" name="{=BalanceMe}Broad Shortsword +2" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_broadshortsword_blade_h2" Type="Blade" scale_factor="100" />
       <Piece id="crpg_broadshortsword_guard_h2" Type="Guard" scale_factor="100" />
@@ -11552,7 +11552,7 @@
       <Piece id="crpg_broadshortsword_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_broadshortsword_h3" name="{=BalanceMe}Broad Shortsword +3" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_broadshortsword_v1_h3" name="{=BalanceMe}Broad Shortsword +3" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_broadshortsword_blade_h3" Type="Blade" scale_factor="100" />
       <Piece id="crpg_broadshortsword_guard_h3" Type="Guard" scale_factor="100" />
