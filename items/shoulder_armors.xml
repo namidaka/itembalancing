@@ -2568,52 +2568,196 @@
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_cuir_bouilli_shoulders_h0" name="{=Norr}Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders" is_merchandise="true"  culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
+  <Item id="crpg_cuir_bouilli_shoulders_h0" name="{=Norr}Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders" is_merchandise="true" culture="Culture.vlandia" weight="2.541482" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags/>
+    <Flags />
   </Item>
-  <Item id="crpg_dark_cuir_bouilli_shoulders_h0" name="{=Norr}Dark Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders_dark" is_merchandise="true"  culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
+  <Item id="crpg_cuir_bouilli_shoulders_h1" name="{=Norr}Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags/>
+    <Flags />
   </Item>
-  <Item id="crpg_sturgia_cav_shoulders_h0" name="{=Norr}Reinforced Cavalry Shoulder Armor" mesh="sturgia_cavalry_shoulderguards" culture="Culture.sturgia" weight="3.0" appearance="3" Type="Cape" is_merchandise="true">
+  <Item id="crpg_cuir_bouilli_shoulders_h2" name="{=Norr}Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="16" arm_armor="7" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags/>
+    <Flags />
   </Item>
-  <Item id="crpg_hallow_pauldron_h0" name="{=DoNotTouchMe}Rusty Hallow Plate Pauldrons" mesh="hallow_armor_shoulder" weight="4.0" appearance="3" Type="Cape" is_merchandise="true">
+  <Item id="crpg_cuir_bouilli_shoulders_h3" name="{=Norr}Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="20" arm_armor="10" modifier_group="plate" material_type="Plate"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags/>
+    <Flags />
   </Item>
-  <Item id="crpg_gold_noble_cross_h0" name="{=BalanceMe}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_dark_cuir_bouilli_shoulders_h0" name="{=Norr}Dark Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders_dark" is_merchandise="true" culture="Culture.vlandia" weight="2.541482" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags UseTeamColor="true" Civilian="true"/>
+    <Flags />
   </Item>
-  <Item id="crpg_steel_noble_cross_h0" name="{=BalanceMe}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_dark_cuir_bouilli_shoulders_h1" name="{=Norr}Dark Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders_dark" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags UseTeamColor="true" Civilian="true"/>
+    <Flags />
   </Item>
-  <Item id="crpg_royal_necklace_lion_h0" name="{=BalanceMe}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_dark_cuir_bouilli_shoulders_h2" name="{=Norr}Dark Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders_dark" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags />
   </Item>
-  <Item id="crpg_royal_necklace_cross_h0" name="{=BalanceMe}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_dark_cuir_bouilli_shoulders_h3" name="{=Norr}Dark Cuir Bouilli Shoulders" mesh="cuir_bouilli_shoulders_dark" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+      <Armor body_armor="17" arm_armor="4" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
-    <Flags UseTeamColor="true"/>
+    <Flags />
+  </Item>
+  <Item id="crpg_sturgia_cav_shoulders_h0" name="{=Norr}Reinforced Cavalry Shoulder Armor" mesh="sturgia_cavalry_shoulderguards" culture="Culture.sturgia" weight="2.825316" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_sturgia_cav_shoulders_h1" name="{=Norr}Reinforced Cavalry Shoulder Armor" mesh="sturgia_cavalry_shoulderguards" culture="Culture.sturgia" weight="3.0" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_sturgia_cav_shoulders_h2" name="{=Norr}Reinforced Cavalry Shoulder Armor" mesh="sturgia_cavalry_shoulderguards" culture="Culture.sturgia" weight="3.0" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_sturgia_cav_shoulders_h3" name="{=Norr}Reinforced Cavalry Shoulder Armor" mesh="sturgia_cavalry_shoulderguards" culture="Culture.sturgia" weight="3.0" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="7" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_hallow_pauldron_h0" name="{=DoNotTouchMe}Rusty Hallow Plate Pauldrons" mesh="hallow_armor_shoulder" weight="4.075861" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="10" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_hallow_pauldron_h1" name="{=DoNotTouchMe}Rusty Hallow Plate Pauldrons" mesh="hallow_armor_shoulder" weight="4.0" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="10" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_hallow_pauldron_h2" name="{=DoNotTouchMe}Rusty Hallow Plate Pauldrons" mesh="hallow_armor_shoulder" weight="4.0" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="10" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_hallow_pauldron_h3" name="{=DoNotTouchMe}Rusty Hallow Plate Pauldrons" mesh="hallow_armor_shoulder" weight="4.0" appearance="3" Type="Cape" is_merchandise="true">
+    <ItemComponent>
+      <Armor body_armor="20" arm_armor="10" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_gold_noble_cross_h0" name="{=BalanceMe}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="0.0370917" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_gold_noble_cross_h1" name="{=BalanceMe}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_gold_noble_cross_h2" name="{=BalanceMe}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_gold_noble_cross_h3" name="{=BalanceMe}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_steel_noble_cross_h0" name="{=BalanceMe}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="0.0370917" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_steel_noble_cross_h1" name="{=BalanceMe}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_steel_noble_cross_h2" name="{=BalanceMe}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_steel_noble_cross_h3" name="{=BalanceMe}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_lion_h0" name="{=BalanceMe}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="0.0370917" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_lion_h1" name="{=BalanceMe}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_lion_h2" name="{=BalanceMe}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_lion_h3" name="{=BalanceMe}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_cross_h0" name="{=BalanceMe}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="0.0370917" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_cross_h1" name="{=BalanceMe}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_cross_h2" name="{=BalanceMe}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_royal_necklace_cross_h3" name="{=BalanceMe}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
   </Item>
 </Items>
