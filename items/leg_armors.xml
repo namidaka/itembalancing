@@ -1326,19 +1326,19 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_hallow_boots_h1" name="{=DoNotTouchMe}Rusty Hallow Plate Boots" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
+  <Item id="crpg_hallow_boots_h1" name="{=DoNotTouchMe}Rusty Hallow Plate Boots +1" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
     <ItemComponent>
       <Armor leg_armor="23" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_hallow_boots_h2" name="{=DoNotTouchMe}Rusty Hallow Plate Boots" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
+  <Item id="crpg_hallow_boots_h2" name="{=DoNotTouchMe}Rusty Hallow Plate Boots +2" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
     <ItemComponent>
       <Armor leg_armor="23" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_hallow_boots_h3" name="{=DoNotTouchMe}Rusty Hallow Plate Boots" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
+  <Item id="crpg_hallow_boots_h3" name="{=DoNotTouchMe}Rusty Hallow Plate Boots +3" mesh="hallow_armor_boots" weight="3.5" difficulty="0" appearance="3" Type="LegArmor" is_merchandise="true">
     <ItemComponent>
       <Armor leg_armor="23" covers_legs="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
