@@ -696,145 +696,145 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_ba_heraldictabard3_h0" name="Bahamut Tabard over Battered Full Plate Armor" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_heraldictabard3_h0" name="{=Norr}Tabard over Battered Full Plate Armor" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="61" leg_armor="27" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ba_heraldictabard3_h1" name="Bahamut Tabard over Battered Full Plate Armor +1" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_heraldictabard3_h1" name="{=Norr}Tabard over Battered Full Plate Armor +1" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="63" leg_armor="28" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ba_heraldictabard3_h2" name="Bahamut Tabard over Battered Full Plate Armor +2" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_heraldictabard3_h2" name="{=Norr}Tabard over Battered Full Plate Armor +2" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="65" leg_armor="29" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ba_heraldictabard3_h3" name="Bahamut Tabard over Battered Full Plate Armor +3" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_heraldictabard3_h3" name="{=Norr}Tabard over Battered Full Plate Armor +3" mesh="ba_heraldictabard3" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="67" leg_armor="30" arm_armor="28" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ba_platearmor_h0" name="Bahamut Full Plate Armor with Rondel" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor_h0" name="{=Norr}Full Plate Armor with Rondel" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="62" leg_armor="28" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor_h1" name="Bahamut Full Plate Armor with Rondel +1" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor_h1" name="{=Norr}Full Plate Armor with Rondel +1" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="64" leg_armor="29" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor_h2" name="Bahamut Full Plate Armor with Rondel +2" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor_h2" name="{=Norr}Full Plate Armor with Rondel +2" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="66" leg_armor="30" arm_armor="28" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor_h3" name="Bahamut Full Plate Armor with Rondel +3" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor_h3" name="{=Norr}Full Plate Armor with Rondel +3" mesh="ba_platearmor" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="31" arm_armor="29" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2_h0" name="Bahamut Full Plate Armor" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2_h0" name="{=Norr}Full Plate Armor" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="62" leg_armor="28" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2_h1" name="Bahamut Full Plate Armor +1" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2_h1" name="{=Norr}Full Plate Armor +1" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="64" leg_armor="29" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2_h2" name="Bahamut Full Plate Armor +2" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2_h2" name="{=Norr}Full Plate Armor +2" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="66" leg_armor="30" arm_armor="28" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2_h3" name="Bahamut Full Plate Armor +3" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2_h3" name="{=Norr}Full Plate Armor +3" mesh="ba_platearmor2" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="31" arm_armor="29" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2gold_h0" name="Bahamut Gold Full Plate Armor" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2gold_h0" name="{=Norr}Gold Full Plate Armor" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="62" leg_armor="28" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2gold_h1" name="Bahamut Gold Full Plate Armor +1" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2gold_h1" name="{=Norr}Gold Full Plate Armor +1" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="64" leg_armor="29" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2gold_h2" name="Bahamut Gold Full Plate Armor +2" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2gold_h2" name="{=Norr}Gold Full Plate Armor +2" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="66" leg_armor="30" arm_armor="28" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2gold_h3" name="Bahamut Gold Full Plate Armor +3" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2gold_h3" name="{=Norr}Gold Full Plate Armor +3" mesh="ba_platearmor2gold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="31" arm_armor="29" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2worn_h0" name="Bahamut Battered Full Plate Armor" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2worn_h0" name="{=Norr}Battered Full Plate Armor" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="61" leg_armor="27" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2worn_h1" name="Bahamut Battered Full Plate Armor +1" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2worn_h1" name="{=Norr}Battered Full Plate Armor +1" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="63" leg_armor="28" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2worn_h2" name="Bahamut Battered Full Plate Armor +2" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2worn_h2" name="{=Norr}Battered Full Plate Armor +2" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="65" leg_armor="29" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmor2worn_h3" name="Bahamut Battered Full Plate Armor +3" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmor2worn_h3" name="{=Norr}Battered Full Plate Armor +3" mesh="ba_platearmor2worn" culture="Culture.vlandia" weight="23.90339" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="67" leg_armor="30" arm_armor="28" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmorgold_h0" name="Bahamut Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmorgold_h0" name="{=Norr}Gold Full Plate Armor with Rondel" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="62" leg_armor="28" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmorgold_h1" name="Bahamut Gold Full Plate Armor with Rondel +1" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmorgold_h1" name="{=Norr}Gold Full Plate Armor with Rondel +1" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="64" leg_armor="29" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmorgold_h2" name="Bahamut Gold Full Plate Armor with Rondel +2" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmorgold_h2" name="{=Norr}Gold Full Plate Armor with Rondel +2" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="66" leg_armor="30" arm_armor="28" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_ba_platearmorgold_h3" name="Bahamut Gold Full Plate Armor with Rondel +3" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_ba_platearmorgold_h3" name="{=Norr}Gold Full Plate Armor with Rondel +3" mesh="ba_platearmorgold" culture="Culture.vlandia" weight="24.75321" appearance="1" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="68" leg_armor="31" arm_armor="29" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
