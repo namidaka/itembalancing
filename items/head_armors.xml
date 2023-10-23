@@ -8623,7 +8623,7 @@
     <Flags UseTeamColor="true"
     Civilian="true" />
   </Item>
-  <Item id="crpg_eba_el_brass_topnasal1" name="{=Norr}Eastern Brass Nasal, Maille" mesh="el_brass_topnasal1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+  <Item id="crpg_eba_el_brass_topnasal1_h0" name="{=Norr}Eastern Brass Nasal, Maille" mesh="el_brass_topnasal1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="43" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
@@ -8631,14 +8631,14 @@
     Civilian="true" />
   </Item>
 
-  <Item id="crpg_eba_el_painted_topnasal1" name="{=Norr}Eastern Painted Nasal, Maille" mesh="el_painted_topnasal1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+  <Item id="crpg_eba_el_painted_topnasal1_h0" name="{=Norr}Eastern Painted Nasal, Maille" mesh="el_painted_topnasal1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true"
     Civilian="true" />
   </Item>
-  <Item id="crpg_eba_es_ib_faceplate_1" name="{=Norr}Iberian Faceplate, Maille" mesh="es_ib_faceplate_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+  <Item id="crpg_eba_es_ib_faceplate_1_h0" name="{=Norr}Iberian Faceplate, Maille" mesh="es_ib_faceplate_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
@@ -8656,5 +8656,10 @@
       <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather"/>
     </ItemComponent>
     <Flags Civilian="true"/>
+  </Item>
+  <Item id="crpg_hallow_helmet_h0" name="{=DoNotTouchMe}Rusty Hallow Helmet" mesh="hallow_armor_helmet" weight="5.0" appearance="6" Type="HeadArmor" is_merchandise="true">
+    <ItemComponent>
+      <Armor head_armor="62" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
   </Item>
 </Items>

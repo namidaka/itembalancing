@@ -2592,25 +2592,25 @@
     </ItemComponent>
     <Flags/>
   </Item>
-  <Item id="crpg_gold_noble_cross_h0" name="{=BALANCEME}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_gold_noble_cross_h0" name="{=BalanceMe}Cross (Gold)" mesh="noble_cross_1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
     <ItemComponent>
       <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
-  <Item id="crpg_steel_noble_cross_ho" name="{=BALANCEME}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_steel_noble_cross_h0" name="{=BalanceMe}Cross (Steel)" mesh="steelcross1" culture="Culture.neutral_culture" subtype="body_armor" weight="1" difficulty="0" appearance="1.6" Type="Cape">
     <ItemComponent>
       <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
-  <Item id="crpg_royal_necklace_lion_h0" name="{=BALANCEME}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_royal_necklace_lion_h0" name="{=BalanceMe}Royal Necklace (Lion)" mesh="royal_necklace1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
     <ItemComponent>
       <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
     </ItemComponent>
     <Flags UseTeamColor="true"/>
   </Item>
-  <Item id="crpg_royal_necklace_cross_h0" name="{=BALANCEME}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
+  <Item id="crpg_royal_necklace_cross_h0" name="{=BalanceMe}Royal Necklace (Cross)" mesh="royal_necklace_c1" culture="Culture.neutral_culture" subtype="body_armor" weight="6" difficulty="0" appearance="1.6" Type="Cape">
     <ItemComponent>
       <Armor body_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth"/>
     </ItemComponent>
