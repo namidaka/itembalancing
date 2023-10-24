@@ -168013,10 +168013,10 @@
     "name": "Militia Throwing Club",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 792,
-    "weight": 0.57,
+    "price": 238,
+    "weight": 0.8,
     "rank": 0,
-    "tier": 2.92557478,
+    "tier": 1.13019407,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -168024,11 +168024,188 @@
         "class": "ThrowingAxe",
         "itemUsage": "throwing_axe",
         "accuracy": 93,
-        "missileSpeed": 27,
-        "stackAmount": 4,
-        "length": 40,
+        "missileSpeed": 26,
+        "stackAmount": 3,
+        "length": 12,
         "balance": 1.0,
-        "handling": 106,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "Consumable",
+          "UnloadWhenSheathed",
+          "AutoReload",
+          "AmmoBreaksOnBounceBack"
+        ],
+        "thrustDamage": 15,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 98,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 98,
+        "swingDamage": 9,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      }
+    ]
+  },
+  {
+    "id": "crpg_throwing_club_v1_h1",
+    "baseId": "crpg_throwing_club_v1",
+    "name": "Militia Throwing Club +1",
+    "culture": "Battania",
+    "type": "Thrown",
+    "price": 246,
+    "weight": 0.8,
+    "rank": 1,
+    "tier": 1.16454482,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "ThrowingAxe",
+        "itemUsage": "throwing_axe",
+        "accuracy": 93,
+        "missileSpeed": 26,
+        "stackAmount": 3,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "Consumable",
+          "UnloadWhenSheathed",
+          "AutoReload",
+          "AmmoBreaksOnBounceBack"
+        ],
+        "thrustDamage": 16,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 98,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 98,
+        "swingDamage": 10,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      }
+    ]
+  },
+  {
+    "id": "crpg_throwing_club_v1_h2",
+    "baseId": "crpg_throwing_club_v1",
+    "name": "Militia Throwing Club +2",
+    "culture": "Battania",
+    "type": "Thrown",
+    "price": 320,
+    "weight": 0.8,
+    "rank": 2,
+    "tier": 1.47423816,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "ThrowingAxe",
+        "itemUsage": "throwing_axe",
+        "accuracy": 93,
+        "missileSpeed": 26,
+        "stackAmount": 3,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "Consumable",
+          "UnloadWhenSheathed",
+          "AutoReload",
+          "AmmoBreaksOnBounceBack"
+        ],
+        "thrustDamage": 17,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 98,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 98,
+        "swingDamage": 11,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 127
+      }
+    ]
+  },
+  {
+    "id": "crpg_throwing_club_v1_h3",
+    "baseId": "crpg_throwing_club_v1",
+    "name": "Militia Throwing Club +3",
+    "culture": "Battania",
+    "type": "Thrown",
+    "price": 332,
+    "weight": 0.8,
+    "rank": 3,
+    "tier": 1.52074265,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "ThrowingAxe",
+        "itemUsage": "throwing_axe",
+        "accuracy": 93,
+        "missileSpeed": 26,
+        "stackAmount": 3,
+        "length": 12,
+        "balance": 1.0,
+        "handling": 119,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -168039,10 +168216,10 @@
         ],
         "thrustDamage": 18,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
+        "thrustSpeed": 98,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 115
+        "swingSpeed": 127
       },
       {
         "class": "Mace",
@@ -168050,196 +168227,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 40,
+        "length": 12,
         "balance": 1.0,
-        "handling": 106,
+        "handling": 119,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
-        "thrustDamage": 13,
+        "thrustDamage": 0,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 9,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 115
-      }
-    ]
-  },
-  {
-    "id": "crpg_throwing_club_v1_h1",
-    "baseId": "crpg_throwing_club_v1",
-    "name": "Militia Throwing Club +1",
-    "culture": "Battania",
-    "type": "Thrown",
-    "price": 922,
-    "weight": 0.57,
-    "rank": 1,
-    "tier": 3.244122,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "ThrowingAxe",
-        "itemUsage": "throwing_axe",
-        "accuracy": 93,
-        "missileSpeed": 27,
-        "stackAmount": 4,
-        "length": 40,
-        "balance": 1.0,
-        "handling": 106,
-        "bodyArmor": 0,
-        "flags": [
-          "RangedWeapon",
-          "Consumable",
-          "UnloadWhenSheathed",
-          "AutoReload",
-          "AmmoBreaksOnBounceBack"
-        ],
-        "thrustDamage": 19,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 115
-      },
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 40,
-        "balance": 1.0,
-        "handling": 106,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 14,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 9,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 115
-      }
-    ]
-  },
-  {
-    "id": "crpg_throwing_club_v1_h2",
-    "baseId": "crpg_throwing_club_v1",
-    "name": "Militia Throwing Club +2",
-    "culture": "Battania",
-    "type": "Thrown",
-    "price": 1087,
-    "weight": 0.57,
-    "rank": 2,
-    "tier": 3.61510587,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "ThrowingAxe",
-        "itemUsage": "throwing_axe",
-        "accuracy": 93,
-        "missileSpeed": 27,
-        "stackAmount": 4,
-        "length": 40,
-        "balance": 1.0,
-        "handling": 106,
-        "bodyArmor": 0,
-        "flags": [
-          "RangedWeapon",
-          "Consumable",
-          "UnloadWhenSheathed",
-          "AutoReload",
-          "AmmoBreaksOnBounceBack"
-        ],
-        "thrustDamage": 20,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 115
-      },
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 40,
-        "balance": 1.0,
-        "handling": 106,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 15,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 10,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 115
-      }
-    ]
-  },
-  {
-    "id": "crpg_throwing_club_v1_h3",
-    "baseId": "crpg_throwing_club_v1",
-    "name": "Militia Throwing Club +3",
-    "culture": "Battania",
-    "type": "Thrown",
-    "price": 2224,
-    "weight": 0.57,
-    "rank": 3,
-    "tier": 5.647581,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "ThrowingAxe",
-        "itemUsage": "throwing_axe",
-        "accuracy": 93,
-        "missileSpeed": 27,
-        "stackAmount": 4,
-        "length": 40,
-        "balance": 1.0,
-        "handling": 106,
-        "bodyArmor": 0,
-        "flags": [
-          "RangedWeapon",
-          "Consumable",
-          "UnloadWhenSheathed",
-          "AutoReload",
-          "AmmoBreaksOnBounceBack"
-        ],
-        "thrustDamage": 22,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 115
-      },
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 40,
-        "balance": 1.0,
-        "handling": 106,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 16,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 101,
+        "thrustSpeed": 98,
         "swingDamage": 11,
         "swingDamageType": "Blunt",
-        "swingSpeed": 115
+        "swingSpeed": 127
       }
     ]
   },
@@ -168641,10 +168641,10 @@
     "name": "Throwing Mace",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 1961,
-    "weight": 0.76,
+    "price": 425,
+    "weight": 1.0,
     "rank": 0,
-    "tier": 5.234514,
+    "tier": 1.85729718,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -168652,11 +168652,129 @@
         "class": "ThrowingAxe",
         "itemUsage": "throwing_axe",
         "accuracy": 93,
-        "missileSpeed": 27,
+        "missileSpeed": 26,
         "stackAmount": 3,
-        "length": 36,
+        "length": 18,
         "balance": 1.0,
-        "handling": 105,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "Consumable",
+          "UnloadWhenSheathed",
+          "AutoReload",
+          "AmmoBreaksOnBounceBack"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 97,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 97,
+        "swingDamage": 9,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
+      }
+    ]
+  },
+  {
+    "id": "crpg_throwing_mace_v1_h1",
+    "baseId": "crpg_throwing_mace_v1",
+    "name": "Throwing Mace +1",
+    "culture": "Battania",
+    "type": "Thrown",
+    "price": 462,
+    "weight": 1.0,
+    "rank": 1,
+    "tier": 1.9827435,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "ThrowingAxe",
+        "itemUsage": "throwing_axe",
+        "accuracy": 93,
+        "missileSpeed": 26,
+        "stackAmount": 3,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "RangedWeapon",
+          "Consumable",
+          "UnloadWhenSheathed",
+          "AutoReload",
+          "AmmoBreaksOnBounceBack"
+        ],
+        "thrustDamage": 21,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 97,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
+      },
+      {
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 97,
+        "swingDamage": 10,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 121
+      }
+    ]
+  },
+  {
+    "id": "crpg_throwing_mace_v1_h2",
+    "baseId": "crpg_throwing_mace_v1",
+    "name": "Throwing Mace +2",
+    "culture": "Battania",
+    "type": "Thrown",
+    "price": 510,
+    "weight": 1.0,
+    "rank": 2,
+    "tier": 2.13483953,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "ThrowingAxe",
+        "itemUsage": "throwing_axe",
+        "accuracy": 93,
+        "missileSpeed": 26,
+        "stackAmount": 3,
+        "length": 18,
+        "balance": 1.0,
+        "handling": 117,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -168667,10 +168785,10 @@
         ],
         "thrustDamage": 22,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
+        "thrustSpeed": 97,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 111
+        "swingSpeed": 121
       },
       {
         "class": "Mace",
@@ -168678,32 +168796,32 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 36,
+        "length": 18,
         "balance": 1.0,
-        "handling": 105,
+        "handling": 117,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
-        "swingDamage": 9,
+        "thrustSpeed": 97,
+        "swingDamage": 10,
         "swingDamageType": "Blunt",
-        "swingSpeed": 111
+        "swingSpeed": 121
       }
     ]
   },
   {
-    "id": "crpg_throwing_mace_v1_h1",
+    "id": "crpg_throwing_mace_v1_h3",
     "baseId": "crpg_throwing_mace_v1",
-    "name": "Throwing Mace +1",
+    "name": "Throwing Mace +3",
     "culture": "Battania",
     "type": "Thrown",
-    "price": 2074,
-    "weight": 0.76,
-    "rank": 1,
-    "tier": 5.41620636,
+    "price": 568,
+    "weight": 1.0,
+    "rank": 3,
+    "tier": 2.31246972,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -168711,11 +168829,11 @@
         "class": "ThrowingAxe",
         "itemUsage": "throwing_axe",
         "accuracy": 93,
-        "missileSpeed": 27,
+        "missileSpeed": 26,
         "stackAmount": 3,
-        "length": 36,
+        "length": 18,
         "balance": 1.0,
-        "handling": 105,
+        "handling": 117,
         "bodyArmor": 0,
         "flags": [
           "RangedWeapon",
@@ -168726,10 +168844,10 @@
         ],
         "thrustDamage": 23,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
+        "thrustSpeed": 97,
         "swingDamage": 0,
         "swingDamageType": "Blunt",
-        "swingSpeed": 111
+        "swingSpeed": 121
       },
       {
         "class": "Mace",
@@ -168737,137 +168855,19 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 36,
+        "length": 18,
         "balance": 1.0,
-        "handling": 105,
+        "handling": 117,
         "bodyArmor": 0,
         "flags": [
           "MeleeWeapon"
         ],
         "thrustDamage": 0,
         "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
-        "swingDamage": 10,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 111
-      }
-    ]
-  },
-  {
-    "id": "crpg_throwing_mace_v1_h2",
-    "baseId": "crpg_throwing_mace_v1",
-    "name": "Throwing Mace +2",
-    "culture": "Battania",
-    "type": "Thrown",
-    "price": 2237,
-    "weight": 0.76,
-    "rank": 2,
-    "tier": 5.667742,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "ThrowingAxe",
-        "itemUsage": "throwing_axe",
-        "accuracy": 93,
-        "missileSpeed": 27,
-        "stackAmount": 3,
-        "length": 36,
-        "balance": 1.0,
-        "handling": 105,
-        "bodyArmor": 0,
-        "flags": [
-          "RangedWeapon",
-          "Consumable",
-          "UnloadWhenSheathed",
-          "AutoReload",
-          "AmmoBreaksOnBounceBack"
-        ],
-        "thrustDamage": 24,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 111
-      },
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 36,
-        "balance": 1.0,
-        "handling": 105,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
+        "thrustSpeed": 97,
         "swingDamage": 11,
         "swingDamageType": "Blunt",
-        "swingSpeed": 111
-      }
-    ]
-  },
-  {
-    "id": "crpg_throwing_mace_v1_h3",
-    "baseId": "crpg_throwing_mace_v1",
-    "name": "Throwing Mace +3",
-    "culture": "Battania",
-    "type": "Thrown",
-    "price": 3978,
-    "weight": 0.76,
-    "rank": 3,
-    "tier": 7.93251657,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "ThrowingAxe",
-        "itemUsage": "throwing_axe",
-        "accuracy": 93,
-        "missileSpeed": 27,
-        "stackAmount": 3,
-        "length": 36,
-        "balance": 1.0,
-        "handling": 105,
-        "bodyArmor": 0,
-        "flags": [
-          "RangedWeapon",
-          "Consumable",
-          "UnloadWhenSheathed",
-          "AutoReload",
-          "AmmoBreaksOnBounceBack"
-        ],
-        "thrustDamage": 26,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 111
-      },
-      {
-        "class": "Mace",
-        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 36,
-        "balance": 1.0,
-        "handling": 105,
-        "bodyArmor": 0,
-        "flags": [
-          "MeleeWeapon"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 99,
-        "swingDamage": 11,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 111
+        "swingSpeed": 121
       }
     ]
   },
