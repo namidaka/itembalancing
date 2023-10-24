@@ -32068,10 +32068,10 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_runic_axe_blade_h0" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.45">
+  <CraftingPiece id="crpg_runic_axe_blade_h0" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.425">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="2" blade_length="18.6" blade_width="17.3" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.5" />
+      <Swing damage_type="Cut" damage_factor="3.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32081,10 +32081,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_runic_axe_blade_h1" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.45">
+  <CraftingPiece id="crpg_runic_axe_blade_h1" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.41">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="2" blade_length="18.6" blade_width="17.3" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.5" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32094,10 +32094,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_runic_axe_blade_h2" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.45">
+  <CraftingPiece id="crpg_runic_axe_blade_h2" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.4">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="2" blade_length="18.6" blade_width="17.3" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.5" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32107,10 +32107,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_runic_axe_blade_h3" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.45">
+  <CraftingPiece id="crpg_runic_axe_blade_h3" name="{=}Runic Axe Blade" tier="2" piece_type="Blade" mesh="runic_axe_head" full_scale="true" length="18.6" weight="0.385">
     <BuildData piece_offset="0.0" />
     <BladeData stack_amount="2" blade_length="18.6" blade_width="17.3" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.5" />
+      <Swing damage_type="Cut" damage_factor="4.2" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

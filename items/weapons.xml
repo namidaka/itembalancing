@@ -12786,26 +12786,26 @@
   </CraftedItem>
   <CraftedItem id="crpg_runic_axe_h0" name="{=Diggles}Konungr Axe" crafting_template="crpg_OneHandedAxe" culture="Culture.sturgia" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_runic_axe_blade_h0" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_runic_axe_handle_h0" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_runic_axe_blade_h0" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_runic_axe_handle_h0" Type="Handle" scale_factor="138" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_runic_axe_h1" name="{=Diggles}Konungr Axe +1" crafting_template="crpg_OneHandedAxe" culture="Culture.sturgia" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_runic_axe_blade_h1" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_runic_axe_handle_h1" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_runic_axe_blade_h1" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_runic_axe_handle_h1" Type="Handle" scale_factor="138" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_runic_axe_h2" name="{=Diggles}Konungr Axe +2" crafting_template="crpg_OneHandedAxe" culture="Culture.sturgia" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_runic_axe_blade_h2" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_runic_axe_handle_h2" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_runic_axe_blade_h2" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_runic_axe_handle_h2" Type="Handle" scale_factor="138" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_runic_axe_h3" name="{=Diggles}Konungr Axe +3" crafting_template="crpg_OneHandedAxe" culture="Culture.sturgia" modifier_group="axe">
     <Pieces>
-      <Piece id="crpg_runic_axe_blade_h3" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_runic_axe_handle_h3" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_runic_axe_blade_h3" Type="Blade" scale_factor="110" />
+      <Piece id="crpg_runic_axe_handle_h3" Type="Handle" scale_factor="138" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_longdagger_h0" name="{=BalanceMe}Ancient Long Dagger" crafting_template="crpg_Dagger_Scabbard" culture="Culture.empire" modifier_group="sword">
