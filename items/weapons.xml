@@ -11362,26 +11362,26 @@
   </CraftedItem>
   <CraftedItem id="crpg_throwing_mace_v2_h0" name="{=Diggles}Throwing Mace" crafting_template="crpg_ThrowingAxe" culture="Culture.battania" modifier_group="axe_throwing">
     <Pieces>
-      <Piece id="crpg_throwingmace_head_h0" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_throwingmace_handle_h0" Type="Handle" scale_factor="225" />
+      <Piece id="crpg_throwingmace_head_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_throwingmace_handle_h0" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_throwing_mace_v2_h1" name="{=Diggles}Throwing Mace +1" crafting_template="crpg_ThrowingAxe" culture="Culture.battania" modifier_group="axe_throwing">
     <Pieces>
-      <Piece id="crpg_throwingmace_head_h1" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_throwingmace_handle_h1" Type="Handle" scale_factor="225" />
+      <Piece id="crpg_throwingmace_head_h1" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_throwingmace_handle_h1" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_throwing_mace_v2_h2" name="{=Diggles}Throwing Mace +2" crafting_template="crpg_ThrowingAxe" culture="Culture.battania" modifier_group="axe_throwing">
     <Pieces>
-      <Piece id="crpg_throwingmace_head_h2" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_throwingmace_handle_h2" Type="Handle" scale_factor="225" />
+      <Piece id="crpg_throwingmace_head_h2" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_throwingmace_handle_h2" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_throwing_mace_v2_h3" name="{=Diggles}Throwing Mace +3" crafting_template="crpg_ThrowingAxe" culture="Culture.battania" modifier_group="axe_throwing">
     <Pieces>
-      <Piece id="crpg_throwingmace_head_h3" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_throwingmace_handle_h3" Type="Handle" scale_factor="225" />
+      <Piece id="crpg_throwingmace_head_h3" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_throwingmace_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_throwing_club_v2_h0" name="{=Diggles}Militia Throwing Club" crafting_template="crpg_ThrowingAxe" culture="Culture.battania" modifier_group="axe_throwing">
