@@ -31838,8 +31838,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_longdagger_blade_h0" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="longdagger_scabbard" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="1.8" />
+      <Swing damage_type="Cut" damage_factor="1.7" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -31850,8 +31850,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_longdagger_blade_h1" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="longdagger_scabbard" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="1.9" />
+      <Swing damage_type="Cut" damage_factor="1.8" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -31862,8 +31862,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_longdagger_blade_h2" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="longdagger_scabbard" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.0" />
+      <Swing damage_type="Cut" damage_factor="1.9" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -31874,8 +31874,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_longdagger_blade_h3" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="longdagger_scabbard" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.1" />
+      <Swing damage_type="Cut" damage_factor="2.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
