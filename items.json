@@ -124200,166 +124200,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_pavise_h0",
-    "baseId": "crpg_pavise",
-    "name": "Pavise",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 6919,
-    "weight": 5.5696,
-    "rank": 0,
-    "tier": 9.935822,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 320,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 25,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_pavise_h1",
-    "baseId": "crpg_pavise",
-    "name": "Pavise +1",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 7095,
-    "weight": 5.5696,
-    "rank": 1,
-    "tier": 10.0757523,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 346,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 26,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_pavise_h2",
-    "baseId": "crpg_pavise",
-    "name": "Pavise +2",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 7338,
-    "weight": 5.5696,
-    "rank": 2,
-    "tier": 10.2655621,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 372,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 27,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
-    "id": "crpg_pavise_h3",
-    "baseId": "crpg_pavise",
-    "name": "Pavise +3",
-    "culture": "Vlandia",
-    "type": "Shield",
-    "price": 7569,
-    "weight": 5.5696,
-    "rank": 3,
-    "tier": 10.4437256,
-    "requirement": 0,
-    "flags": [
-      "ForceAttachOffHandSecondaryItemBone",
-      "WoodenParry",
-      "HeldInOffHand"
-    ],
-    "weapons": [
-      {
-        "class": "LargeShield",
-        "itemUsage": "shield",
-        "accuracy": 100,
-        "missileSpeed": 0,
-        "stackAmount": 397,
-        "length": 118,
-        "balance": 0.0,
-        "handling": 80,
-        "bodyArmor": 28,
-        "flags": [
-          "HasHitPoints",
-          "CanBlockRanged"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Blunt",
-        "thrustSpeed": 80,
-        "swingDamage": 0,
-        "swingDamageType": "Blunt",
-        "swingSpeed": 80
-      }
-    ]
-  },
-  {
     "id": "crpg_pavise_shield_v2_h0",
     "baseId": "crpg_pavise_shield_v2",
     "name": "Pavise Shield",
@@ -124506,6 +124346,166 @@
         "balance": 0.0,
         "handling": 80,
         "bodyArmor": 20,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_pavise_v1_h0",
+    "baseId": "crpg_pavise_v1",
+    "name": "Pavise",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 6919,
+    "weight": 5.5696,
+    "rank": 0,
+    "tier": 9.935822,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 320,
+        "length": 118,
+        "balance": 0.0,
+        "handling": 80,
+        "bodyArmor": 25,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_pavise_v1_h1",
+    "baseId": "crpg_pavise_v1",
+    "name": "Pavise +1",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 7095,
+    "weight": 5.5696,
+    "rank": 1,
+    "tier": 10.0757523,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 346,
+        "length": 118,
+        "balance": 0.0,
+        "handling": 80,
+        "bodyArmor": 26,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_pavise_v1_h2",
+    "baseId": "crpg_pavise_v1",
+    "name": "Pavise +2",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 7338,
+    "weight": 5.5696,
+    "rank": 2,
+    "tier": 10.2655621,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 372,
+        "length": 118,
+        "balance": 0.0,
+        "handling": 80,
+        "bodyArmor": 27,
+        "flags": [
+          "HasHitPoints",
+          "CanBlockRanged"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 80,
+        "swingDamage": 0,
+        "swingDamageType": "Blunt",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_pavise_v1_h3",
+    "baseId": "crpg_pavise_v1",
+    "name": "Pavise +3",
+    "culture": "Vlandia",
+    "type": "Shield",
+    "price": 7569,
+    "weight": 5.5696,
+    "rank": 3,
+    "tier": 10.4437256,
+    "requirement": 0,
+    "flags": [
+      "ForceAttachOffHandSecondaryItemBone",
+      "WoodenParry",
+      "HeldInOffHand"
+    ],
+    "weapons": [
+      {
+        "class": "LargeShield",
+        "itemUsage": "shield",
+        "accuracy": 100,
+        "missileSpeed": 0,
+        "stackAmount": 397,
+        "length": 118,
+        "balance": 0.0,
+        "handling": 80,
+        "bodyArmor": 28,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -132158,8 +132158,8 @@
     "weapons": []
   },
   {
-    "id": "crpg_reinforcedpavise_h0",
-    "baseId": "crpg_reinforcedpavise",
+    "id": "crpg_reinforcedpavise_v1_h0",
+    "baseId": "crpg_reinforcedpavise_v1",
     "name": "Reinforced Pavise",
     "culture": "Vlandia",
     "type": "Shield",
@@ -132198,8 +132198,8 @@
     ]
   },
   {
-    "id": "crpg_reinforcedpavise_h1",
-    "baseId": "crpg_reinforcedpavise",
+    "id": "crpg_reinforcedpavise_v1_h1",
+    "baseId": "crpg_reinforcedpavise_v1",
     "name": "Reinforced Pavise +1",
     "culture": "Vlandia",
     "type": "Shield",
@@ -132238,8 +132238,8 @@
     ]
   },
   {
-    "id": "crpg_reinforcedpavise_h2",
-    "baseId": "crpg_reinforcedpavise",
+    "id": "crpg_reinforcedpavise_v1_h2",
+    "baseId": "crpg_reinforcedpavise_v1",
     "name": "Reinforced Pavise +2",
     "culture": "Vlandia",
     "type": "Shield",
@@ -132278,8 +132278,8 @@
     ]
   },
   {
-    "id": "crpg_reinforcedpavise_h3",
-    "baseId": "crpg_reinforcedpavise",
+    "id": "crpg_reinforcedpavise_v1_h3",
+    "baseId": "crpg_reinforcedpavise_v1",
     "name": "Reinforced Pavise +3",
     "culture": "Vlandia",
     "type": "Shield",
