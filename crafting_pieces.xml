@@ -31912,7 +31912,7 @@
   <CraftingPiece id="crpg_jian_handle_h3" name="{=}Jian Handle" tier="3" piece_type="Handle" mesh="jian_handle" culture="Culture.khuzait" length="27.3" weight="0.1">
     <BuildData piece_offset="1" previous_piece_offset="0.0" next_piece_offset="0" />
   </CraftingPiece>
-    <CraftingPiece id="crpg_longdagger_blade_h0" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3">
+  <CraftingPiece id="crpg_longdagger_blade_h0" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="longdagger_blade" full_scale="false" length="40.4" weight="0.3">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="longdagger_scabbard" holster_mesh_length="43.3">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
       <Swing damage_type="Cut" damage_factor="1.7" />

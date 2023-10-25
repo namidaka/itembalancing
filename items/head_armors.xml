@@ -8814,21 +8814,21 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_ital_bascinet_h1" name="Italian Bascinet" mesh="ital_bascinet_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+  <Item id="crpg_eba_ital_bascinet_h1" name="Italian Bascinet +1" mesh="ital_bascinet_1" culture="Culture.neutral_culture" weight="4.914843" appearance="1.6" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="54" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="56" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_ital_bascinet_h2" name="Italian Bascinet" mesh="ital_bascinet_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+  <Item id="crpg_eba_ital_bascinet_h2" name="Italian Bascinet +2" mesh="ital_bascinet_1" culture="Culture.neutral_culture" weight="4.914843" appearance="1.6" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="54" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="58" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_eba_ital_bascinet_h3" name="Italian Bascinet" mesh="ital_bascinet_1" culture="Culture.neutral_culture" weight="1.8" appearance="1.6" Type="HeadArmor">
+  <Item id="crpg_eba_ital_bascinet_h3" name="Italian Bascinet +3" mesh="ital_bascinet_1" culture="Culture.neutral_culture" weight="4.914843" appearance="1.6" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="54" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="60" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
