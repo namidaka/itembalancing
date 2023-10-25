@@ -63545,10 +63545,10 @@
     "name": "Green Nodachi",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 11478,
-    "weight": 5.02,
+    "price": 12622,
+    "weight": 4.87,
     "rank": 0,
-    "tier": 8.952505,
+    "tier": 9.440838,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -63559,8 +63559,44 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 127,
-        "balance": 0.3,
-        "handling": 82,
+        "balance": 0.37,
+        "handling": 83,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 77,
+        "swingDamage": 44,
+        "swingDamageType": "Cut",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
+    "id": "crpg_green_nodachi_h1",
+    "baseId": "crpg_green_nodachi",
+    "name": "Green Nodachi +1",
+    "culture": "Aserai",
+    "type": "TwoHandedWeapon",
+    "price": 12634,
+    "weight": 4.87,
+    "rank": 1,
+    "tier": 9.445772,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 127,
+        "balance": 0.37,
+        "handling": 83,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
@@ -63571,43 +63607,7 @@
         "thrustSpeed": 77,
         "swingDamage": 46,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_green_nodachi_h1",
-    "baseId": "crpg_green_nodachi",
-    "name": "Green Nodachi +1",
-    "culture": "Aserai",
-    "type": "TwoHandedWeapon",
-    "price": 11323,
-    "weight": 5.02,
-    "rank": 1,
-    "tier": 8.8846,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedSword",
-        "itemUsage": "twohanded_block_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 127,
-        "balance": 0.3,
-        "handling": 82,
-        "bodyArmor": 4,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 77,
-        "swingDamage": 48,
-        "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -124205,10 +124205,10 @@
     "name": "Pavise",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 4956,
-    "weight": 10.443,
+    "price": 6919,
+    "weight": 5.5696,
     "rank": 0,
-    "tier": 8.236979,
+    "tier": 9.935822,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -124221,11 +124221,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 600,
+        "stackAmount": 320,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 1,
+        "bodyArmor": 25,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -124245,10 +124245,10 @@
     "name": "Pavise +1",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 5321,
-    "weight": 10.443,
+    "price": 7095,
+    "weight": 5.5696,
     "rank": 1,
-    "tier": 8.57521248,
+    "tier": 10.0757523,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -124261,11 +124261,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 648,
+        "stackAmount": 346,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 26,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -124285,10 +124285,10 @@
     "name": "Pavise +2",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 5036,
-    "weight": 10.443,
+    "price": 7338,
+    "weight": 5.5696,
     "rank": 2,
-    "tier": 8.312587,
+    "tier": 10.2655621,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -124301,11 +124301,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 696,
+        "stackAmount": 372,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 27,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -124325,10 +124325,10 @@
     "name": "Pavise +3",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 4805,
-    "weight": 10.443,
+    "price": 7569,
+    "weight": 5.5696,
     "rank": 3,
-    "tier": 8.093557,
+    "tier": 10.4437256,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -124341,11 +124341,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 744,
+        "stackAmount": 397,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 28,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -130763,10 +130763,10 @@
     "name": "Red Nodachi",
     "culture": "Aserai",
     "type": "TwoHandedWeapon",
-    "price": 11478,
-    "weight": 5.02,
+    "price": 12622,
+    "weight": 4.87,
     "rank": 0,
-    "tier": 8.952505,
+    "tier": 9.440838,
     "requirement": 0,
     "flags": [],
     "weapons": [
@@ -130777,8 +130777,44 @@
         "missileSpeed": 0,
         "stackAmount": 0,
         "length": 127,
-        "balance": 0.3,
-        "handling": 82,
+        "balance": 0.37,
+        "handling": 83,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 77,
+        "swingDamage": 44,
+        "swingDamageType": "Cut",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
+    "id": "crpg_red_nodachi_h1",
+    "baseId": "crpg_red_nodachi",
+    "name": "Red Nodachi +1",
+    "culture": "Aserai",
+    "type": "TwoHandedWeapon",
+    "price": 12634,
+    "weight": 4.87,
+    "rank": 1,
+    "tier": 9.445772,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 127,
+        "balance": 0.37,
+        "handling": 83,
         "bodyArmor": 4,
         "flags": [
           "MeleeWeapon",
@@ -130789,43 +130825,7 @@
         "thrustSpeed": 77,
         "swingDamage": 46,
         "swingDamageType": "Cut",
-        "swingSpeed": 79
-      }
-    ]
-  },
-  {
-    "id": "crpg_red_nodachi_h1",
-    "baseId": "crpg_red_nodachi",
-    "name": "Red Nodachi +1",
-    "culture": "Aserai",
-    "type": "TwoHandedWeapon",
-    "price": 11323,
-    "weight": 5.02,
-    "rank": 1,
-    "tier": 8.8846,
-    "requirement": 0,
-    "flags": [],
-    "weapons": [
-      {
-        "class": "TwoHandedSword",
-        "itemUsage": "twohanded_block_swing",
-        "accuracy": 0,
-        "missileSpeed": 0,
-        "stackAmount": 0,
-        "length": 127,
-        "balance": 0.3,
-        "handling": 82,
-        "bodyArmor": 4,
-        "flags": [
-          "MeleeWeapon",
-          "NotUsableWithOneHand"
-        ],
-        "thrustDamage": 0,
-        "thrustDamageType": "Undefined",
-        "thrustSpeed": 77,
-        "swingDamage": 48,
-        "swingDamageType": "Cut",
-        "swingSpeed": 79
+        "swingSpeed": 81
       }
     ]
   },
@@ -132163,10 +132163,10 @@
     "name": "Reinforced Pavise",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 109,
-    "weight": 2.26265,
+    "price": 6984,
+    "weight": 9.92085,
     "rank": 0,
-    "tier": 0.386680454,
+    "tier": 9.98756,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -132179,11 +132179,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 130,
+        "stackAmount": 570,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 1,
+        "bodyArmor": 5,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -132203,10 +132203,10 @@
     "name": "Reinforced Pavise +1",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 112,
-    "weight": 2.26265,
+    "price": 7420,
+    "weight": 9.92085,
     "rank": 1,
-    "tier": 0.4060065,
+    "tier": 10.32958,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -132219,11 +132219,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 141,
+        "stackAmount": 616,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 6,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -132243,10 +132243,10 @@
     "name": "Reinforced Pavise +2",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 110,
-    "weight": 2.26265,
+    "price": 7030,
+    "weight": 9.92085,
     "rank": 2,
-    "tier": 0.391265571,
+    "tier": 10.0244389,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -132259,11 +132259,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 151,
+        "stackAmount": 662,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 6,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
@@ -132283,10 +132283,10 @@
     "name": "Reinforced Pavise +3",
     "culture": "Vlandia",
     "type": "Shield",
-    "price": 108,
-    "weight": 2.26265,
+    "price": 6679,
+    "weight": 9.92085,
     "rank": 3,
-    "tier": 0.383728117,
+    "tier": 9.742239,
     "requirement": 0,
     "flags": [
       "ForceAttachOffHandSecondaryItemBone",
@@ -132299,11 +132299,11 @@
         "itemUsage": "shield",
         "accuracy": 100,
         "missileSpeed": 0,
-        "stackAmount": 162,
+        "stackAmount": 707,
         "length": 118,
         "balance": 0.0,
         "handling": 80,
-        "bodyArmor": 2,
+        "bodyArmor": 6,
         "flags": [
           "HasHitPoints",
           "CanBlockRanged"
