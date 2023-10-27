@@ -47566,8 +47566,8 @@
     "weapons": []
   },
   {
-    "id": "crpg_eba_Hussar_armor_h0",
-    "baseId": "crpg_eba_Hussar_armor",
+    "id": "crpg_eba_Hussar_armor__v1_h0",
+    "baseId": "crpg_eba_Hussar_armor__v1",
     "name": "Decorated Hussar Armor",
     "culture": "Neutral",
     "type": "BodyArmor",
@@ -47666,31 +47666,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_eba_Hussar_armor_prime_h0",
-    "baseId": "crpg_eba_Hussar_armor_prime",
-    "name": "Hussar Armor Primary Color",
-    "culture": "Neutral",
-    "type": "BodyArmor",
-    "price": 14890,
-    "weight": 17.75254,
-    "rank": 0,
-    "tier": 9.23263,
-    "requirement": 0,
-    "flags": [
-      "UseTeamColor",
-      "Civilian"
-    ],
-    "armor": {
-      "headArmor": 0,
-      "bodyArmor": 56,
-      "armArmor": 18,
-      "legArmor": 15,
-      "materialType": "Plate",
-      "familyType": 3
-    },
-    "weapons": []
-  },
-  {
     "id": "crpg_eba_Hussar_armor_prime_h1",
     "baseId": "crpg_eba_Hussar_armor_prime",
     "name": "Hussar Armor Primary Color +1",
@@ -47766,9 +47741,9 @@
     "weapons": []
   },
   {
-    "id": "crpg_eba_Hussar_armor_sec_h0",
-    "baseId": "crpg_eba_Hussar_armor_sec",
-    "name": "Hussar Armor, Secondary Color",
+    "id": "crpg_eba_Hussar_armor_prime_v1_h0",
+    "baseId": "crpg_eba_Hussar_armor_prime_v1",
+    "name": "Hussar Armor Primary Color",
     "culture": "Neutral",
     "type": "BodyArmor",
     "price": 14890,
@@ -47866,9 +47841,9 @@
     "weapons": []
   },
   {
-    "id": "crpg_eba_WHussar_armor_h0",
-    "baseId": "crpg_eba_WHussar_armor",
-    "name": "Winged Decorated Hussar Armor",
+    "id": "crpg_eba_Hussar_armor_sec_v1_h0",
+    "baseId": "crpg_eba_Hussar_armor_sec_v1",
+    "name": "Hussar Armor, Secondary Color",
     "culture": "Neutral",
     "type": "BodyArmor",
     "price": 14890,
@@ -47960,6 +47935,31 @@
       "bodyArmor": 62,
       "armArmor": 21,
       "legArmor": 18,
+      "materialType": "Plate",
+      "familyType": 3
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_eba_WHussar_armor_v1_h0",
+    "baseId": "crpg_eba_WHussar_armor_v1",
+    "name": "Winged Decorated Hussar Armor",
+    "culture": "Neutral",
+    "type": "BodyArmor",
+    "price": 14890,
+    "weight": 17.75254,
+    "rank": 0,
+    "tier": 9.23263,
+    "requirement": 0,
+    "flags": [
+      "UseTeamColor",
+      "Civilian"
+    ],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 56,
+      "armArmor": 18,
+      "legArmor": 15,
       "materialType": "Plate",
       "familyType": 3
     },
@@ -139282,30 +139282,6 @@
     "weapons": []
   },
   {
-    "id": "crpg_sa_coat1_v1_h0",
-    "baseId": "crpg_sa_coat1_v1",
-    "name": "Tabard over Coat of Plate Checkers",
-    "culture": "Vlandia",
-    "type": "BodyArmor",
-    "price": 13635,
-    "weight": 16.52758,
-    "rank": 0,
-    "tier": 9.014513,
-    "requirement": 0,
-    "flags": [
-      "UseTeamColor"
-    ],
-    "armor": {
-      "headArmor": 0,
-      "bodyArmor": 50,
-      "armArmor": 21,
-      "legArmor": 14,
-      "materialType": "Plate",
-      "familyType": 0
-    },
-    "weapons": []
-  },
-  {
     "id": "crpg_sa_coat1_v1_h1",
     "baseId": "crpg_sa_coat1_v1",
     "name": "Tabard over Coat of Plate Checkers +1",
@@ -139378,9 +139354,9 @@
     "weapons": []
   },
   {
-    "id": "crpg_sa_coat2_v1_h0",
-    "baseId": "crpg_sa_coat2_v1",
-    "name": "Tabard over Coat of Plate Rim and Cross",
+    "id": "crpg_sa_coat1_v2_h0",
+    "baseId": "crpg_sa_coat1_v2",
+    "name": "Tabard over Coat of Plate Checkers",
     "culture": "Vlandia",
     "type": "BodyArmor",
     "price": 13635,
@@ -139474,9 +139450,9 @@
     "weapons": []
   },
   {
-    "id": "crpg_sa_coat3_v1_h0",
-    "baseId": "crpg_sa_coat3_v1",
-    "name": "Tabard over Coat of Plate Stripes",
+    "id": "crpg_sa_coat2_v2_h0",
+    "baseId": "crpg_sa_coat2_v2",
+    "name": "Tabard over Coat of Plate Rim and Cross",
     "culture": "Vlandia",
     "type": "BodyArmor",
     "price": 13635,
@@ -139564,6 +139540,30 @@
       "bodyArmor": 56,
       "armArmor": 24,
       "legArmor": 17,
+      "materialType": "Plate",
+      "familyType": 0
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_sa_coat3_v2_h0",
+    "baseId": "crpg_sa_coat3_v2",
+    "name": "Tabard over Coat of Plate Stripes",
+    "culture": "Vlandia",
+    "type": "BodyArmor",
+    "price": 13635,
+    "weight": 16.52758,
+    "rank": 0,
+    "tier": 9.014513,
+    "requirement": 0,
+    "flags": [
+      "UseTeamColor"
+    ],
+    "armor": {
+      "headArmor": 0,
+      "bodyArmor": 50,
+      "armArmor": 21,
+      "legArmor": 14,
       "materialType": "Plate",
       "familyType": 0
     },
