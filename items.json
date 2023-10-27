@@ -87328,15 +87328,15 @@
     ]
   },
   {
-    "id": "crpg_knightly_spiked_battle_axe_h0",
-    "baseId": "crpg_knightly_spiked_battle_axe",
+    "id": "crpg_knightly_spiked_battle_axe_v1_h0",
+    "baseId": "crpg_knightly_spiked_battle_axe_v1",
     "name": "Knightly Spiked Battle Axe",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5070,
-    "weight": 0.91,
+    "price": 6710,
+    "weight": 1.45,
     "rank": 0,
-    "tier": 8.343891,
+    "tier": 9.767649,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -87348,16 +87348,17 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.63,
-        "handling": 85,
+        "length": 89,
+        "balance": 0.62,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 21,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 97,
+        "thrustSpeed": 91,
         "swingDamage": 34,
         "swingDamageType": "Cut",
         "swingSpeed": 88
@@ -87365,15 +87366,15 @@
     ]
   },
   {
-    "id": "crpg_knightly_spiked_battle_axe_h1",
-    "baseId": "crpg_knightly_spiked_battle_axe",
+    "id": "crpg_knightly_spiked_battle_axe_v1_h1",
+    "baseId": "crpg_knightly_spiked_battle_axe_v1",
     "name": "Knightly Spiked Battle Axe +1",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5665,
-    "weight": 0.87,
+    "price": 5927,
+    "weight": 1.45,
     "rank": 1,
-    "tier": 8.884193,
+    "tier": 9.112844,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -87385,32 +87386,33 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.69,
-        "handling": 87,
+        "length": 89,
+        "balance": 0.62,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 22,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 97,
-        "swingDamage": 34,
+        "thrustSpeed": 91,
+        "swingDamage": 35,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 88
       }
     ]
   },
   {
-    "id": "crpg_knightly_spiked_battle_axe_h2",
-    "baseId": "crpg_knightly_spiked_battle_axe",
+    "id": "crpg_knightly_spiked_battle_axe_v1_h2",
+    "baseId": "crpg_knightly_spiked_battle_axe_v1",
     "name": "Knightly Spiked Battle Axe +2",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 5311,
-    "weight": 0.87,
+    "price": 5366,
+    "weight": 1.45,
     "rank": 2,
-    "tier": 8.566359,
+    "tier": 8.616418,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -87422,32 +87424,33 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.69,
-        "handling": 87,
+        "length": 89,
+        "balance": 0.62,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 23,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 97,
-        "swingDamage": 35,
+        "thrustSpeed": 91,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 88
       }
     ]
   },
   {
-    "id": "crpg_knightly_spiked_battle_axe_h3",
-    "baseId": "crpg_knightly_spiked_battle_axe",
+    "id": "crpg_knightly_spiked_battle_axe_v1_h3",
+    "baseId": "crpg_knightly_spiked_battle_axe_v1",
     "name": "Knightly Spiked Battle Axe +3",
     "culture": "Vlandia",
     "type": "OneHandedWeapon",
-    "price": 6186,
-    "weight": 0.87,
+    "price": 6043,
+    "weight": 1.45,
     "rank": 3,
-    "tier": 9.333597,
+    "tier": 9.212533,
     "requirement": 0,
     "flags": [
       "CanBePickedUpFromCorpse"
@@ -87459,19 +87462,20 @@
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
-        "length": 93,
-        "balance": 0.69,
-        "handling": 87,
+        "length": 89,
+        "balance": 0.62,
+        "handling": 89,
         "bodyArmor": 0,
         "flags": [
-          "MeleeWeapon"
+          "MeleeWeapon",
+          "BonusAgainstShield"
         ],
-        "thrustDamage": 24,
+        "thrustDamage": 20,
         "thrustDamageType": "Pierce",
-        "thrustSpeed": 97,
-        "swingDamage": 37,
+        "thrustSpeed": 91,
+        "swingDamage": 38,
         "swingDamageType": "Cut",
-        "swingSpeed": 90
+        "swingSpeed": 88
       }
     ]
   },
@@ -153831,8 +153835,8 @@
     ],
     "weapons": [
       {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -153869,8 +153873,8 @@
     ],
     "weapons": [
       {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -153907,8 +153911,8 @@
     ],
     "weapons": [
       {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
@@ -153945,8 +153949,8 @@
     ],
     "weapons": [
       {
-        "class": "OneHandedAxe",
-        "itemUsage": "onehanded_shield_axe",
+        "class": "Mace",
+        "itemUsage": "onehanded_block_shield_tipdraw_swing_thrust",
         "accuracy": 0,
         "missileSpeed": 0,
         "stackAmount": 0,
