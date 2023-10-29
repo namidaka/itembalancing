@@ -107102,7 +107102,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 81,
       "speed": 38,
@@ -107124,7 +107124,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 82,
       "speed": 38,
@@ -107146,7 +107146,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 83,
       "speed": 38,
@@ -107278,7 +107278,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 82,
       "speed": 39,
@@ -107300,7 +107300,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 83,
       "speed": 39,
@@ -107322,7 +107322,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 84,
       "speed": 39,
@@ -107432,7 +107432,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 6,
       "maneuver": 83,
       "speed": 39,
@@ -107476,7 +107476,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 6,
       "maneuver": 84,
       "speed": 40,
@@ -107498,7 +107498,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 6,
       "maneuver": 85,
       "speed": 40,
@@ -107542,7 +107542,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 7,
       "maneuver": 85,
       "speed": 40,
@@ -107564,7 +107564,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 7,
       "maneuver": 86,
       "speed": 40,
@@ -107586,7 +107586,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 7,
       "maneuver": 87,
       "speed": 40,
@@ -107630,7 +107630,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 7,
       "maneuver": 86,
       "speed": 41,
@@ -107652,7 +107652,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 7,
       "maneuver": 87,
       "speed": 41,
@@ -107674,11 +107674,187 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 7,
       "maneuver": 88,
       "speed": 41,
       "hitPoints": 302,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_18_v1_h0",
+    "baseId": "crpg_mount1_camel_18_v1",
+    "name": "Sayidat al-Sahra",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 10108,
+    "weight": 520.0,
+    "rank": 0,
+    "tier": 10.6639576,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 84,
+      "speed": 42,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_18_v1_h1",
+    "baseId": "crpg_mount1_camel_18_v1",
+    "name": "Sayidat al-Sahra",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 7579,
+    "weight": 520.0,
+    "rank": 1,
+    "tier": 9.086449,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 84,
+      "speed": 42,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_18_v1_h2",
+    "baseId": "crpg_mount1_camel_18_v1",
+    "name": "Sayidat al-Sahra",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 5831,
+    "weight": 520.0,
+    "rank": 2,
+    "tier": 7.834745,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 84,
+      "speed": 42,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_18_v1_h3",
+    "baseId": "crpg_mount1_camel_18_v1",
+    "name": "Sayidat al-Sahra",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 4585,
+    "weight": 520.0,
+    "rank": 3,
+    "tier": 6.824933,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 84,
+      "speed": 42,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_19_v1_h0",
+    "baseId": "crpg_mount1_camel_19_v1",
+    "name": "Naqa al-Fahia",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 12620,
+    "weight": 520.0,
+    "rank": 0,
+    "tier": 12.0463753,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 85,
+      "speed": 43,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_19_v1_h1",
+    "baseId": "crpg_mount1_camel_19_v1",
+    "name": "Naqa al-Fahia",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 9433,
+    "weight": 520.0,
+    "rank": 1,
+    "tier": 10.2643661,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 85,
+      "speed": 43,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_19_v1_h2",
+    "baseId": "crpg_mount1_camel_19_v1",
+    "name": "Naqa al-Fahia",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 7232,
+    "weight": 520.0,
+    "rank": 2,
+    "tier": 8.850399,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 85,
+      "speed": 43,
+      "hitPoints": 234,
+      "familyType": 2
+    },
+    "weapons": []
+  },
+  {
+    "id": "crpg_mount1_camel_19_v1_h3",
+    "baseId": "crpg_mount1_camel_19_v1",
+    "name": "Naqa al-Fahia",
+    "culture": "Neutral",
+    "type": "Mount",
+    "price": 5668,
+    "weight": 520.0,
+    "rank": 3,
+    "tier": 7.709679,
+    "requirement": 0,
+    "flags": [],
+    "mount": {
+      "bodyLength": 105,
+      "chargeDamage": 6,
+      "maneuver": 85,
+      "speed": 43,
+      "hitPoints": 234,
       "familyType": 2
     },
     "weapons": []
@@ -107718,7 +107894,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 105,
       "chargeDamage": 2,
       "maneuver": 72,
       "speed": 32,
@@ -107740,7 +107916,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 105,
       "chargeDamage": 2,
       "maneuver": 73,
       "speed": 32,
@@ -107762,7 +107938,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 105,
       "chargeDamage": 2,
       "maneuver": 74,
       "speed": 32,
@@ -107806,7 +107982,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 2,
       "maneuver": 76,
       "speed": 33,
@@ -107828,7 +108004,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 2,
       "maneuver": 77,
       "speed": 33,
@@ -107850,7 +108026,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 2,
       "maneuver": 78,
       "speed": 33,
@@ -107894,7 +108070,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 3,
       "maneuver": 77,
       "speed": 34,
@@ -107916,7 +108092,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 3,
       "maneuver": 78,
       "speed": 34,
@@ -107938,7 +108114,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 3,
       "maneuver": 79,
       "speed": 34,
@@ -107982,7 +108158,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 4,
       "maneuver": 78,
       "speed": 35,
@@ -108004,7 +108180,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 4,
       "maneuver": 79,
       "speed": 35,
@@ -108026,7 +108202,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 4,
       "maneuver": 80,
       "speed": 35,
@@ -108158,7 +108334,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 79,
       "speed": 36,
@@ -108180,7 +108356,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 80,
       "speed": 36,
@@ -108202,7 +108378,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 81,
       "speed": 36,
@@ -108334,7 +108510,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 80,
       "speed": 37,
@@ -108356,7 +108532,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 81,
       "speed": 37,
@@ -108378,7 +108554,7 @@
     "requirement": 0,
     "flags": [],
     "mount": {
-      "bodyLength": 110,
+      "bodyLength": 109,
       "chargeDamage": 5,
       "maneuver": 82,
       "speed": 37,
