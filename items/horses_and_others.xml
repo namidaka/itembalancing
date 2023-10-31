@@ -20,24 +20,24 @@
       <Armor body_armor="15" mane_cover_type="none" family_type="2" material_type="Leather" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_camel_saddle_v1_h0" name="{=q1z4FQub}Camel Saddle" mesh="camel_saddle1" culture="Culture.aserai" weight="6" appearance="1" Type="HorseHarness">
+  <Item id="crpg_camel_saddle_v1_h0" name="{=q1z4FQub}Camel Saddle" mesh="camel_saddle1" culture="Culture.aserai" weight="10" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="6" mane_cover_type="none" family_type="2" material_type="Leather" />
+      <Armor body_armor="10" mane_cover_type="none" family_type="2" material_type="Leather" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_camel_saddle_v1_h1" name="{=q1z4FQub}Camel Saddle +1" mesh="camel_saddle1" culture="Culture.aserai" weight="6" appearance="1" Type="HorseHarness">
+  <Item id="crpg_camel_saddle_v1_h1" name="{=q1z4FQub}Camel Saddle +1" mesh="camel_saddle1" culture="Culture.aserai" weight="10" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="9" mane_cover_type="none" family_type="2" material_type="Leather" />
+      <Armor body_armor="13" mane_cover_type="none" family_type="2" material_type="Leather" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_camel_saddle_v1_h2" name="{=q1z4FQub}Camel Saddle +2" mesh="camel_saddle1" culture="Culture.aserai" weight="6" appearance="1" Type="HorseHarness">
+  <Item id="crpg_camel_saddle_v1_h2" name="{=q1z4FQub}Camel Saddle +2" mesh="camel_saddle1" culture="Culture.aserai" weight="10" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="12" mane_cover_type="none" family_type="2" material_type="Leather" />
+      <Armor body_armor="16" mane_cover_type="none" family_type="2" material_type="Leather" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_camel_saddle_v1_h3" name="{=q1z4FQub}Camel Saddle +3" mesh="camel_saddle1" culture="Culture.aserai" weight="6" appearance="1" Type="HorseHarness">
+  <Item id="crpg_camel_saddle_v1_h3" name="{=q1z4FQub}Camel Saddle +3" mesh="camel_saddle1" culture="Culture.aserai" weight="10" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="15" mane_cover_type="none" family_type="2" material_type="Leather" />
+      <Armor body_armor="19" mane_cover_type="none" family_type="2" material_type="Leather" />
     </ItemComponent>
   </Item>
   <Item id="crpg_mule_load_c_v1_h0" name="{=JHef9oad}Mule Harness with Bags" mesh="mule_load_c" is_merchandise="false" weight="6" appearance="1" Type="HorseHarness">
@@ -925,19 +925,19 @@
       <Horse monster="Monster.camel_109" maneuver="84" speed="42" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_camel_18_v1_h1" name="Sayidat al-Sahra" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
+  <Item id="crpg_mount1_camel_18_v1_h1" name="Sayidat al-Sahra +1" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel_109" maneuver="84" speed="42" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel_109" maneuver="84" speed="43" charge_damage="6" body_length="105" extra_health="49" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_camel_18_v1_h2" name="Sayidat al-Sahra" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
+  <Item id="crpg_mount1_camel_18_v1_h2" name="Sayidat al-Sahra +2" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel_109" maneuver="84" speed="42" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel_109" maneuver="85" speed="43" charge_damage="6" body_length="105" extra_health="65" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_camel_18_v1_h3" name="Sayidat al-Sahra" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
+  <Item id="crpg_mount1_camel_18_v1_h3" name="Sayidat al-Sahra +3" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel_109" maneuver="84" speed="42" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel_109" maneuver="86" speed="43" charge_damage="6" body_length="105" extra_health="81" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
   <Item id="crpg_mount1_camel_19_v1_h0" name="Naqa al-Fahia" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
@@ -945,19 +945,19 @@
       <Horse monster="Monster.camel_109" maneuver="85" speed="43" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_camel_19_v1_h1" name="Naqa al-Fahia" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
+  <Item id="crpg_mount1_camel_19_v1_h1" name="Naqa al-Fahia +1" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel_109" maneuver="85" speed="43" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel_109" maneuver="85" speed="44" charge_damage="6" body_length="105" extra_health="49" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_camel_19_v1_h2" name="Naqa al-Fahia" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
+  <Item id="crpg_mount1_camel_19_v1_h2" name="Naqa al-Fahia +2" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel_109" maneuver="85" speed="43" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel_109" maneuver="86" speed="44" charge_damage="6" body_length="105" extra_health="65" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_camel_19_v1_h3" name="Naqa al-Fahia" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
+  <Item id="crpg_mount1_camel_19_v1_h3" name="Naqa al-Fahia +3" mesh="camel_mesh" item_category="sumpter_horse" weight="520" Type="Horse">
     <ItemComponent>
-      <Horse monster="Monster.camel_109" maneuver="85" speed="43" charge_damage="6" body_length="105" extra_health="34" is_pack_animal="true" is_mountable="true" />
+      <Horse monster="Monster.camel_109" maneuver="87" speed="44" charge_damage="6" body_length="105" extra_health="81" is_pack_animal="true" is_mountable="true" />
     </ItemComponent>
   </Item>
   <Item id="crpg_mule1_2_v1_h0" name="Chadz" mesh="mule_mesh" item_category="sumpter_horse" weight="300" Type="Horse">
