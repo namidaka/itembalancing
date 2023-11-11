@@ -2816,22 +2816,22 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_lowland_javelin_handle_h0" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.866" excluded_item_usage_features="long" CraftingCost="80">
+  <CraftingPiece id="crpg_lowland_javelin_handle_h0" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.1" excluded_item_usage_features="long" CraftingCost="80">
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_lowland_javelin_handle_h1" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.866" excluded_item_usage_features="long" CraftingCost="80">
+  <CraftingPiece id="crpg_lowland_javelin_handle_h1" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.1" excluded_item_usage_features="long" CraftingCost="80">
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_lowland_javelin_handle_h2" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.866" excluded_item_usage_features="long" CraftingCost="80">
+  <CraftingPiece id="crpg_lowland_javelin_handle_h2" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.1" excluded_item_usage_features="long" CraftingCost="80">
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_lowland_javelin_handle_h3" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.866" excluded_item_usage_features="long" CraftingCost="80">
+  <CraftingPiece id="crpg_lowland_javelin_handle_h3" name="{=gIm5Lnh8}Mahogany Javelin Shaft" tier="3" piece_type="Handle" mesh="spear_handle_11" length="90" weight="0.1" excluded_item_usage_features="long" CraftingCost="80">
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
@@ -7622,7 +7622,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_lowland_javelin_blade_h0" name="{=Oxew9WCe}Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="48" weight="0.3384" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.58" />
+      <Thrust damage_type="Pierce" damage_factor="1.375" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -7633,7 +7633,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_lowland_javelin_blade_h1" name="{=Oxew9WCe}Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="48" weight="0.3384" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.61" />
+      <Thrust damage_type="Pierce" damage_factor="1.4" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -7644,7 +7644,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_lowland_javelin_blade_h2" name="{=Oxew9WCe}Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="48" weight="0.3384" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.66" />
+      <Thrust damage_type="Pierce" damage_factor="1.45" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -7655,7 +7655,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_lowland_javelin_blade_h3" name="{=Oxew9WCe}Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="48" weight="0.3384" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.7" />
+      <Thrust damage_type="Pierce" damage_factor="1.5" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
