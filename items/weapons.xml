@@ -2144,7 +2144,7 @@
       <Piece id="crpg_horseman_javelin_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_woodland_javelin_v2_h0" name="{=ObGN145P}Woodland Javelin" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_woodland_javelin_v2_h0" name="{=Diggles}Woodland Javelin" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_woodland_javelin_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_woodland_javelin_guard_h0" Type="Guard" scale_factor="100" />
@@ -2152,7 +2152,7 @@
       <Piece id="crpg_woodland_javelin_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_woodland_javelin_v2_h1" name="{=ObGN145P}Woodland Javelin +1" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_woodland_javelin_v2_h1" name="{=Diggles}Woodland Javelin +1" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_woodland_javelin_blade_h1" Type="Blade" scale_factor="100" />
       <Piece id="crpg_woodland_javelin_guard_h1" Type="Guard" scale_factor="100" />
@@ -2160,7 +2160,7 @@
       <Piece id="crpg_woodland_javelin_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_woodland_javelin_v2_h2" name="{=ObGN145P}Woodland Javelin +2" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_woodland_javelin_v2_h2" name="{=Diggles}Woodland Javelin +2" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_woodland_javelin_blade_h2" Type="Blade" scale_factor="100" />
       <Piece id="crpg_woodland_javelin_guard_h2" Type="Guard" scale_factor="100" />
@@ -2168,7 +2168,7 @@
       <Piece id="crpg_woodland_javelin_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_woodland_javelin_v2_h3" name="{=ObGN145P}Woodland Javelin +3" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_woodland_javelin_v2_h3" name="{=Diggles}Woodland Javelin +3" crafting_template="crpg_Javelin" culture="Culture.battania" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_woodland_javelin_blade_h3" Type="Blade" scale_factor="100" />
       <Piece id="crpg_woodland_javelin_guard_h3" Type="Guard" scale_factor="100" />
@@ -2208,7 +2208,7 @@
       <Piece id="crpg_harpoon_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_lowland_javelin_v2_h0" name="{=oV5AhcDl}Lowland Javelin" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_lowland_javelin_v2_h0" name="{=Diggles}Lowland Javelin" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_lowland_javelin_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_lowland_javelin_guard_h0" Type="Guard" scale_factor="100" />
@@ -2216,7 +2216,7 @@
       <Piece id="crpg_lowland_javelin_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_lowland_javelin_v2_h1" name="{=oV5AhcDl}Lowland Javelin +1" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_lowland_javelin_v2_h1" name="{=DigglesLowland Javelin +1" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_lowland_javelin_blade_h1" Type="Blade" scale_factor="100" />
       <Piece id="crpg_lowland_javelin_guard_h1" Type="Guard" scale_factor="100" />
@@ -2224,7 +2224,7 @@
       <Piece id="crpg_lowland_javelin_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_lowland_javelin_v2_h2" name="{=oV5AhcDl}Lowland Javelin +2" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_lowland_javelin_v2_h2" name="{=Diggles}Lowland Javelin +2" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_lowland_javelin_blade_h2" Type="Blade" scale_factor="100" />
       <Piece id="crpg_lowland_javelin_guard_h2" Type="Guard" scale_factor="100" />
@@ -2232,7 +2232,7 @@
       <Piece id="crpg_lowland_javelin_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_lowland_javelin_v2_h3" name="{=oV5AhcDl}Lowland Javelin +3" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
+  <CraftedItem id="crpg_lowland_javelin_v2_h3" name="{=Diggles}Lowland Javelin +3" crafting_template="crpg_Javelin" culture="Culture.vlandia" modifier_group="spear_dart_throwing">
     <Pieces>
       <Piece id="crpg_lowland_javelin_blade_h3" Type="Blade" scale_factor="100" />
       <Piece id="crpg_lowland_javelin_guard_h3" Type="Guard" scale_factor="100" />
