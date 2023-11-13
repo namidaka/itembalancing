@@ -32374,32 +32374,44 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_joustinglance_striped_ry_blade_h0" name="{=}Jousting Lance Head" tier="4" piece_type="Blade" mesh="joustinglance_blade" length="26.3" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.0" />
+      <Thrust damage_type="Pierce" damage_factor="2.0" />
     </BladeData>
+    <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_joustinglance_striped_ry_blade_h1" name="{=}Jousting Lance Head" tier="4" piece_type="Blade" mesh="joustinglance_blade" length="26.3" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.0" />
+      <Thrust damage_type="Pierce" damage_factor="2.1" />
     </BladeData>
+    <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_joustinglance_striped_ry_blade_h2" name="{=}Jousting Lance Head" tier="4" piece_type="Blade" mesh="joustinglance_blade" length="26.3" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.0" />
+      <Thrust damage_type="Pierce" damage_factor="2.2" />
     </BladeData>
+    <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_joustinglance_striped_ry_blade_h3" name="{=}Jousting Lance Head" tier="4" piece_type="Blade" mesh="joustinglance_blade" length="26.3" weight="0.1" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.0" />
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
     </BladeData>
+    <Flags>
+      <Flag name="DropOnWeaponChange" type="ItemFlags" />
+    </Flags>
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
