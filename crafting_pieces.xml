@@ -6441,8 +6441,8 @@
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h0" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.65" />
+    <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="0.785" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -6452,8 +6452,8 @@
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h1" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.66" />
+    <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="0.8" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -6463,8 +6463,8 @@
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h2" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.67" />
+    <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="0.825" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -6474,8 +6474,8 @@
     </Flags>
   </CraftingPiece>
   <CraftingPiece id="crpg_pilum_blade_h3" name="{=Y4tIQnS4}Short Simple Spear Head" tier="2" piece_type="Blade" mesh="pilum_blade" length="69.8" weight="0.2136" excluded_item_usage_features="swing">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="0.71" />
+    <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="0.855" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
