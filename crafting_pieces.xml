@@ -2960,25 +2960,25 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_woodland_javelin_handle_h0" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.7" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
+  <CraftingPiece id="crpg_woodland_javelin_handle_h0" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.22" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
     <BuildData piece_offset="0.0" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_woodland_javelin_handle_h1" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.7" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
+  <CraftingPiece id="crpg_woodland_javelin_handle_h1" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.22" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
     <BuildData piece_offset="0.0" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_woodland_javelin_handle_h2" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.7" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
+  <CraftingPiece id="crpg_woodland_javelin_handle_h2" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.22" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
     <BuildData piece_offset="0.0" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_woodland_javelin_handle_h3" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.7" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
+  <CraftingPiece id="crpg_woodland_javelin_handle_h3" name="{=MCRppfbZ}Pine Javelin Shaft" tier="2" piece_type="Handle" mesh="spear_handle_2" length="85.1" weight="0.22" excluded_item_usage_features="long" CraftingCost="80" is_default="true">
     <BuildData piece_offset="0.0" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -6946,7 +6946,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_woodland_javelin_blade_h0" name="{=T1aiDuOp}Narrow Menavlon Head" tier="3" piece_type="Blade" mesh="spear_blade_14" length="46.28" weight="0.3768" excluded_item_usage_features="swing:TwoHandedPolearm_Bracing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.73" />
+      <Thrust damage_type="Pierce" damage_factor="1.17" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="1" />
@@ -6957,7 +6957,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_woodland_javelin_blade_h1" name="{=T1aiDuOp}Narrow Menavlon Head" tier="3" piece_type="Blade" mesh="spear_blade_14" length="46.28" weight="0.3768" excluded_item_usage_features="swing:TwoHandedPolearm_Bracing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.76" />
+      <Thrust damage_type="Pierce" damage_factor="1.19" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="1" />
@@ -6968,7 +6968,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_woodland_javelin_blade_h2" name="{=T1aiDuOp}Narrow Menavlon Head" tier="3" piece_type="Blade" mesh="spear_blade_14" length="46.28" weight="0.3768" excluded_item_usage_features="swing:TwoHandedPolearm_Bracing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.8" />
+      <Thrust damage_type="Pierce" damage_factor="1.22" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="1" />
@@ -6979,7 +6979,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_woodland_javelin_blade_h3" name="{=T1aiDuOp}Narrow Menavlon Head" tier="3" piece_type="Blade" mesh="spear_blade_14" length="46.28" weight="0.3768" excluded_item_usage_features="swing:TwoHandedPolearm_Bracing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
-      <Thrust damage_type="Pierce" damage_factor="0.85" />
+      <Thrust damage_type="Pierce" damage_factor="1.3" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="1" />
