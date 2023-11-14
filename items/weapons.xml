@@ -9024,32 +9024,32 @@
       <Piece id="crpg_triangular_headed_spear_handle_h3" Type="Handle" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_jagged_throwing_spear_v2_h0" name="{=EgrNdBct}Jagged Throwing Spear" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_jagged_throwing_spear_v3_h0" name="{=Diggles}Skirmisher Throwing Spear" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_jagged_throwing_spear_blade_h0" Type="Blade" scale_factor="350" />
+      <Piece id="crpg_jagged_throwing_spear_blade_h0" Type="Blade" scale_factor="250" />
       <Piece id="crpg_jagged_throwing_spear_guard_h0" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_jagged_throwing_spear_handle_h0" Type="Handle" scale_factor="175" />
+      <Piece id="crpg_jagged_throwing_spear_handle_h0" Type="Handle" scale_factor="150" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_jagged_throwing_spear_v2_h1" name="{=EgrNdBct}Jagged Throwing Spear +1" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_jagged_throwing_spear_v3_h1" name="{=Diggles}Skirmisher Throwing Spear +1" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_jagged_throwing_spear_blade_h1" Type="Blade" scale_factor="350" />
+      <Piece id="crpg_jagged_throwing_spear_blade_h1" Type="Blade" scale_factor="250" />
       <Piece id="crpg_jagged_throwing_spear_guard_h1" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_jagged_throwing_spear_handle_h1" Type="Handle" scale_factor="175" />
+      <Piece id="crpg_jagged_throwing_spear_handle_h1" Type="Handle" scale_factor="150" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_jagged_throwing_spear_v2_h2" name="{=EgrNdBct}Jagged Throwing Spear +2" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_jagged_throwing_spear_v3_h2" name="{=Diggles}Skirmisher Throwing Spear +2" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_jagged_throwing_spear_blade_h2" Type="Blade" scale_factor="350" />
+      <Piece id="crpg_jagged_throwing_spear_blade_h2" Type="Blade" scale_factor="250" />
       <Piece id="crpg_jagged_throwing_spear_guard_h2" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_jagged_throwing_spear_handle_h2" Type="Handle" scale_factor="175" />
+      <Piece id="crpg_jagged_throwing_spear_handle_h2" Type="Handle" scale_factor="150" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_jagged_throwing_spear_v2_h3" name="{=EgrNdBct}Jagged Throwing Spear +3" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_jagged_throwing_spear_v3_h3" name="{=Diggles}Skirmisher Throwing Spear +3" crafting_template="crpg_Javelin" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_jagged_throwing_spear_blade_h3" Type="Blade" scale_factor="350" />
+      <Piece id="crpg_jagged_throwing_spear_blade_h3" Type="Blade" scale_factor="250" />
       <Piece id="crpg_jagged_throwing_spear_guard_h3" Type="Guard" scale_factor="100" />
-      <Piece id="crpg_jagged_throwing_spear_handle_h3" Type="Handle" scale_factor="175" />
+      <Piece id="crpg_jagged_throwing_spear_handle_h3" Type="Handle" scale_factor="150" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_short_leaf_shaped_spear_v1_h0" name="{=xTyib5ms}Short Leaf Shaped Spear" crafting_template="crpg_Spear4DMode" culture="Culture.battania" modifier_group="polearm">
