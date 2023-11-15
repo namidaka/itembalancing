@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="solution">
+  <outputDirectory>../MBModule/MBModule/</outputDirectory>
+  <XMLDirectory>../WOTS/Modules/cRPG/</XMLDirectory>
+  <ModuleAssemblyDirectory>../WOTS/bin/</ModuleAssemblyDirectory>
+  <file id="soln_item_usage_sets" name="ModuleData/item_usage_sets.xml" type="item_usage_set" />
+  <file id="soln_item_holsters" name="ModuleData/item_holsters.xml" type="item_holster" />
+</base>
