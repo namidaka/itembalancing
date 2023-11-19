@@ -11021,7 +11021,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_steel_pillager_axe_blade_h1" name="{=1NSafswc}Gallogaich Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_11_head" distance_to_next_piece="2.124" distance_to_previous_piece="3.279" weight="0.69">
+  <CraftingPiece id="crpg_steel_pillager_axe_blade_h1" name="{=1NSafswc}Gallogaich Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_11_head" distance_to_next_piece="2.124" distance_to_previous_piece="3.279" weight="0.70">
     <BuildData piece_offset="-6.558" />
     <BladeData stack_amount="2" blade_length="9.79" blade_width="28.335" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.5" />
@@ -11037,7 +11037,7 @@
   <CraftingPiece id="crpg_steel_pillager_axe_blade_h2" name="{=1NSafswc}Gallogaich Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_11_head" distance_to_next_piece="2.124" distance_to_previous_piece="3.279" weight="0.66">
     <BuildData piece_offset="-6.558" />
     <BladeData stack_amount="2" blade_length="9.79" blade_width="28.335" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.6" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -11050,7 +11050,7 @@
   <CraftingPiece id="crpg_steel_pillager_axe_blade_h3" name="{=1NSafswc}Gallogaich Axe Head" tier="4" piece_type="Blade" mesh="axe_craft_11_head" distance_to_next_piece="2.124" distance_to_previous_piece="3.279" weight="0.66">
     <BuildData piece_offset="-6.558" />
     <BladeData stack_amount="2" blade_length="9.79" blade_width="28.335" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.8" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
