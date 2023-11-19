@@ -10100,7 +10100,7 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wood_splitter_axe_blade_h1" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.62">
+  <CraftingPiece id="crpg_wood_splitter_axe_blade_h1" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.655">
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="2" blade_length="12.564" blade_width="15.1" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.7" />
@@ -10112,10 +10112,10 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wood_splitter_axe_blade_h2" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.6">
+  <CraftingPiece id="crpg_wood_splitter_axe_blade_h2" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.655">
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="2" blade_length="12.564" blade_width="15.1" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.8" />
+      <Swing damage_type="Cut" damage_factor="3.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10124,10 +10124,10 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wood_splitter_axe_blade_h3" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.6">
+  <CraftingPiece id="crpg_wood_splitter_axe_blade_h3" name="{=SR7a3qlO}Round Bit Battle Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_33_head" distance_to_next_piece="7.2" distance_to_previous_piece="3" weight="0.655">
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="2" blade_length="12.564" blade_width="15.1" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="4.0" />
+      <Swing damage_type="Cut" damage_factor="4.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
