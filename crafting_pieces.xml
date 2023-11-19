@@ -10812,7 +10812,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_forester_axe_blade_h1" name="{=NS83CCvb}Common Iron Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_21_head" distance_to_next_piece="2.6" distance_to_previous_piece="2" weight="0.78">
+  <CraftingPiece id="crpg_forester_axe_blade_h1" name="{=NS83CCvb}Common Iron Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_21_head" distance_to_next_piece="2.6" distance_to_previous_piece="2" weight="0.83">
     <BuildData piece_offset="-4" />
     <BladeData stack_amount="2" blade_length="9.382" blade_width="18.004" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="2.7" />
@@ -10824,10 +10824,10 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_forester_axe_blade_h2" name="{=NS83CCvb}Common Iron Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_21_head" distance_to_next_piece="2.6" distance_to_previous_piece="2" weight="0.76">
+  <CraftingPiece id="crpg_forester_axe_blade_h2" name="{=NS83CCvb}Common Iron Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_21_head" distance_to_next_piece="2.6" distance_to_previous_piece="2" weight="0.83">
     <BuildData piece_offset="-4" />
     <BladeData stack_amount="2" blade_length="9.382" blade_width="18.004" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.8" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10836,10 +10836,10 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_forester_axe_blade_h3" name="{=NS83CCvb}Common Iron Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_21_head" distance_to_next_piece="2.6" distance_to_previous_piece="2" weight="0.74">
+  <CraftingPiece id="crpg_forester_axe_blade_h3" name="{=NS83CCvb}Common Iron Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_21_head" distance_to_next_piece="2.6" distance_to_previous_piece="2" weight="0.83">
     <BuildData piece_offset="-4" />
     <BladeData stack_amount="2" blade_length="9.382" blade_width="18.004" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.0" />
+      <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
