@@ -10451,22 +10451,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_steel_round_axe_blade_h1" name="{=8S6ZYPFD}Round Bitted Fine Steel Hatchet Head" tier="5" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.57">
-    <BuildData piece_offset="-4.208" />
-    <BladeData stack_amount="2" blade_length="11.538" blade_width="26.876" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.0" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="BonusAgainstShield" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="3" />
-      <Material id="Iron5" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_steel_round_axe_blade_h2" name="{=8S6ZYPFD}Round Bitted Fine Steel Hatchet Head" tier="5" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.55">
+  <CraftingPiece id="crpg_steel_round_axe_blade_h1" name="{=8S6ZYPFD}Round Bitted Fine Steel Hatchet Head" tier="5" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.625">
     <BuildData piece_offset="-4.208" />
     <BladeData stack_amount="2" blade_length="11.538" blade_width="26.876" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
@@ -10481,11 +10466,26 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_steel_round_axe_blade_h3" name="{=8S6ZYPFD}Round Bitted Fine Steel Hatchet Head" tier="5" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.55">
+  <CraftingPiece id="crpg_steel_round_axe_blade_h2" name="{=8S6ZYPFD}Round Bitted Fine Steel Hatchet Head" tier="5" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.625">
     <BuildData piece_offset="-4.208" />
     <BladeData stack_amount="2" blade_length="11.538" blade_width="26.876" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Thrust damage_type="Pierce" damage_factor="1.8" />
+      <Thrust damage_type="Pierce" damage_factor="1.9" />
       <Swing damage_type="Cut" damage_factor="3.3" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="3" />
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_steel_round_axe_blade_h3" name="{=8S6ZYPFD}Round Bitted Fine Steel Hatchet Head" tier="5" piece_type="Blade" mesh="axe_craft_9_head" distance_to_next_piece="4.642" distance_to_previous_piece="2.104" weight="0.625">
+    <BuildData piece_offset="-4.208" />
+    <BladeData stack_amount="2" blade_length="11.538" blade_width="26.876" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Thrust damage_type="Pierce" damage_factor="2.0" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
