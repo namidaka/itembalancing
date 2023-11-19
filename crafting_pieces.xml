@@ -11120,19 +11120,7 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_desert_crescent_axe_blade_h1" name="{=g2r3QKOB}Southern Small Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_27_head" distance_to_next_piece="8.3" distance_to_previous_piece="3.1" weight="0.52">
-    <BuildData piece_offset="-6.2" />
-    <BladeData stack_amount="2" blade_length="16.562" blade_width="13.626" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.7" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="4" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_desert_crescent_axe_blade_h2" name="{=g2r3QKOB}Southern Small Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_27_head" distance_to_next_piece="8.3" distance_to_previous_piece="3.1" weight="0.5">
+  <CraftingPiece id="crpg_desert_crescent_axe_blade_h1" name="{=g2r3QKOB}Southern Small Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_27_head" distance_to_next_piece="8.3" distance_to_previous_piece="3.1" weight="0.575">
     <BuildData piece_offset="-6.2" />
     <BladeData stack_amount="2" blade_length="16.562" blade_width="13.626" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="2.8" />
@@ -11144,10 +11132,22 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_desert_crescent_axe_blade_h3" name="{=g2r3QKOB}Southern Small Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_27_head" distance_to_next_piece="8.3" distance_to_previous_piece="3.1" weight="0.5">
+  <CraftingPiece id="crpg_desert_crescent_axe_blade_h2" name="{=g2r3QKOB}Southern Small Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_27_head" distance_to_next_piece="8.3" distance_to_previous_piece="3.1" weight="0.575">
     <BuildData piece_offset="-6.2" />
     <BladeData stack_amount="2" blade_length="16.562" blade_width="13.626" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.0" />
+      <Swing damage_type="Cut" damage_factor="2.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_desert_crescent_axe_blade_h3" name="{=g2r3QKOB}Southern Small Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_27_head" distance_to_next_piece="8.3" distance_to_previous_piece="3.1" weight="0.575">
+    <BuildData piece_offset="-6.2" />
+    <BladeData stack_amount="2" blade_length="16.562" blade_width="13.626" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
