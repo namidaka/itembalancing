@@ -10397,7 +10397,7 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wood_chopper_axe_blade_h1" name="{=WkTkxQfw}Rectangular Bit Blade" tier="5" piece_type="Blade" mesh="axe_craft_8_head" distance_to_next_piece="11.156" distance_to_previous_piece="1.96" weight="0.8">
+  <CraftingPiece id="crpg_wood_chopper_axe_blade_h1" name="{=WkTkxQfw}Rectangular Bit Blade" tier="5" piece_type="Blade" mesh="axe_craft_8_head" distance_to_next_piece="11.156" distance_to_previous_piece="1.96" weight="0.85">
     <BuildData piece_offset="-3.92" />
     <BladeData stack_amount="2" blade_length="22.332" blade_width="23.205" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.3" />
@@ -10410,10 +10410,10 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wood_chopper_axe_blade_h2" name="{=WkTkxQfw}Rectangular Bit Blade" tier="5" piece_type="Blade" mesh="axe_craft_8_head" distance_to_next_piece="11.156" distance_to_previous_piece="1.96" weight="0.78">
+  <CraftingPiece id="crpg_wood_chopper_axe_blade_h2" name="{=WkTkxQfw}Rectangular Bit Blade" tier="5" piece_type="Blade" mesh="axe_craft_8_head" distance_to_next_piece="11.156" distance_to_previous_piece="1.96" weight="0.85">
     <BuildData piece_offset="-3.92" />
     <BladeData stack_amount="2" blade_length="22.332" blade_width="23.205" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10423,10 +10423,10 @@
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_wood_chopper_axe_blade_h3" name="{=WkTkxQfw}Rectangular Bit Blade" tier="5" piece_type="Blade" mesh="axe_craft_8_head" distance_to_next_piece="11.156" distance_to_previous_piece="1.96" weight="0.78">
+  <CraftingPiece id="crpg_wood_chopper_axe_blade_h3" name="{=WkTkxQfw}Rectangular Bit Blade" tier="5" piece_type="Blade" mesh="axe_craft_8_head" distance_to_next_piece="11.156" distance_to_previous_piece="1.96" weight="0.85">
     <BuildData piece_offset="-3.92" />
     <BladeData stack_amount="2" blade_length="22.332" blade_width="23.205" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.6" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
