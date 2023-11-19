@@ -10300,19 +10300,7 @@
       <Material id="Iron3" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_tzikourion_axe_blade_h1" name="{=iFhr5nGq}Imperial Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.58">
-    <BuildData piece_offset="-9.6" />
-    <BladeData stack_amount="2" blade_length="9.105" blade_width="23.082" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.6" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron3" count="4" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_tzikourion_axe_blade_h2" name="{=iFhr5nGq}Imperial Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.56">
+  <CraftingPiece id="crpg_tzikourion_axe_blade_h1" name="{=iFhr5nGq}Imperial Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.635">
     <BuildData piece_offset="-9.6" />
     <BladeData stack_amount="2" blade_length="9.105" blade_width="23.082" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="2.7" />
@@ -10324,7 +10312,19 @@
       <Material id="Iron3" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_tzikourion_axe_blade_h3" name="{=iFhr5nGq}Imperial Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.56">
+  <CraftingPiece id="crpg_tzikourion_axe_blade_h2" name="{=iFhr5nGq}Imperial Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.58">
+    <BuildData piece_offset="-9.6" />
+    <BladeData stack_amount="2" blade_length="9.105" blade_width="23.082" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="2.7" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron3" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_tzikourion_axe_blade_h3" name="{=iFhr5nGq}Imperial Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_29_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.58">
     <BuildData piece_offset="-9.6" />
     <BladeData stack_amount="2" blade_length="9.105" blade_width="23.082" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="2.9" />
