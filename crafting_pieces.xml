@@ -10149,7 +10149,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_desert_battle_axe_blade_h1" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.73">
+  <CraftingPiece id="crpg_desert_battle_axe_blade_h1" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.75">
     <BuildData piece_offset="-20.4" />
     <BladeData stack_amount="2" blade_length="22.539" blade_width="16.706" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.6" />
@@ -10162,10 +10162,10 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_desert_battle_axe_blade_h2" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.7">
+  <CraftingPiece id="crpg_desert_battle_axe_blade_h2" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.75">
     <BuildData piece_offset="-20.4" />
     <BladeData stack_amount="2" blade_length="22.539" blade_width="16.706" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.7" />
+      <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10175,10 +10175,10 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_desert_battle_axe_blade_h3" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.69">
+  <CraftingPiece id="crpg_desert_battle_axe_blade_h3" name="{=ZxZ7AJ1r}Southern Battle Axe Blade" tier="4" piece_type="Blade" mesh="axe_craft_19_head" distance_to_next_piece="11.1" distance_to_previous_piece="10.2" weight="0.75">
     <BuildData piece_offset="-20.4" />
     <BladeData stack_amount="2" blade_length="22.539" blade_width="16.706" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.9" />
+      <Swing damage_type="Cut" damage_factor="4.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
