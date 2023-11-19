@@ -11120,25 +11120,25 @@
       <Piece id="crpg_sickle_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_hatchet_h0" name="{=GghHAbIT}Hatchet" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_hatchet_v2_h0" name="{=Diggles}Hatchet" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_hatchet_blade_h0" Type="Blade" scale_factor="105" />
       <Piece id="crpg_hatchet_handle_h0" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_hatchet_h1" name="{=GghHAbIT}Hatchet +1" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_hatchet_v2_h1" name="{=Diggles}Hatchet +1" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_hatchet_blade_h1" Type="Blade" scale_factor="105" />
       <Piece id="crpg_hatchet_handle_h1" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_hatchet_h2" name="{=GghHAbIT}Hatchet +2" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_hatchet_v2_h2" name="{=Diggles}Hatchet +2" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_hatchet_blade_h2" Type="Blade" scale_factor="105" />
       <Piece id="crpg_hatchet_handle_h2" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_hatchet_h3" name="{=GghHAbIT}Hatchet +3" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
+  <CraftedItem id="crpg_hatchet_v2_h3" name="{=Diggles}Hatchet +3" crafting_template="crpg_OneHandedAxe" modifier_group="cheap_weapon">
     <Pieces>
       <Piece id="crpg_hatchet_blade_h3" Type="Blade" scale_factor="105" />
       <Piece id="crpg_hatchet_handle_h3" Type="Handle" scale_factor="147" />
