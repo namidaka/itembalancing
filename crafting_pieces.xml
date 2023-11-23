@@ -15000,25 +15000,25 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_handle_h0" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.60">
+  <CraftingPiece id="crpg_iron_spatha_handle_h0" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.50">
     <BuildData piece_offset="-0.07" next_piece_offset="0.1" previous_piece_offset="0.3" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_handle_h1" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.60">
+  <CraftingPiece id="crpg_iron_spatha_handle_h1" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.50">
     <BuildData piece_offset="-0.07" next_piece_offset="0.1" previous_piece_offset="0.3" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_handle_h2" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.60">
+  <CraftingPiece id="crpg_iron_spatha_handle_h2" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.50">
     <BuildData piece_offset="-0.07" next_piece_offset="0.1" previous_piece_offset="0.3" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_handle_h3" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.60">
+  <CraftingPiece id="crpg_iron_spatha_handle_h3" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.50">
     <BuildData piece_offset="-0.07" next_piece_offset="0.1" previous_piece_offset="0.3" />
     <Materials>
       <Material id="Iron2" count="1" />
@@ -21764,10 +21764,36 @@
       <Material id="Iron3" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_blade_h0" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.10">
+  <CraftingPiece id="crpg_iron_spatha_blade_h0" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.275">
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.6" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="2.7" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_iron_spatha_blade_h1" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.275">
+    <BuildData previous_piece_offset="-0.4" />
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
+      <Swing damage_type="Cut" damage_factor="2.8" />
+    </BladeData>
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_iron_spatha_blade_h2" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.275">
+    <BuildData previous_piece_offset="-0.4" />
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
       <Swing damage_type="Cut" damage_factor="2.9" />
     </BladeData>
     <Flags>
@@ -21777,36 +21803,10 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_blade_h1" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.01">
+  <CraftingPiece id="crpg_iron_spatha_blade_h3" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.275">
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.7" />
-      <Swing damage_type="Cut" damage_factor="2.9" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_blade_h2" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="1.01">
-    <BuildData previous_piece_offset="-0.4" />
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.0" />
-    </BladeData>
-    <Flags>
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_iron_spatha_blade_h3" name="{=c1YI2Nxt}Iron Spatha Blade" tier="2" piece_type="Blade" mesh="empire_blade_2" culture="Culture.empire" length="91.3" weight="0.97">
-    <BuildData previous_piece_offset="-0.4" />
-    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="1.9" />
+      <Thrust damage_type="Pierce" damage_factor="3.1" />
       <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
     <Flags>
