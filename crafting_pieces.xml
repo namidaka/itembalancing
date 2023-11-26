@@ -3206,13 +3206,13 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_noble_cavalry_lance_handle_h1" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.8">
+  <CraftingPiece id="crpg_noble_cavalry_lance_handle_h1" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.7">
     <BuildData piece_offset="25.4" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_noble_cavalry_lance_handle_h2" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.55">
+  <CraftingPiece id="crpg_noble_cavalry_lance_handle_h2" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.7">
     <BuildData piece_offset="25.4" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -3230,13 +3230,13 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_heavy_cavalry_lance_handle_h1" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="2.15">
+  <CraftingPiece id="crpg_heavy_cavalry_lance_handle_h1" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="2.05">
     <BuildData piece_offset="25.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_heavy_cavalry_lance_handle_h2" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="1.9">
+  <CraftingPiece id="crpg_heavy_cavalry_lance_handle_h2" name="{=Telford}Oaken Long Spear Staff" tier="4" piece_type="Handle" mesh="spear_handle_20" length="220" weight="2.05">
     <BuildData piece_offset="25.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -4226,13 +4226,13 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_mamluke_lance_handle_h1" name="{=Telford}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="2.2">
+  <CraftingPiece id="crpg_mamluke_lance_handle_h1" name="{=Telford}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="2.0">
     <BuildData piece_offset="32.9" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_mamluke_lance_handle_h2" name="{=Telford}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="1.9">
+  <CraftingPiece id="crpg_mamluke_lance_handle_h2" name="{=Telford}Long Mahogany Shaft" tier="3" piece_type="Handle" mesh="spear_handle_25" length="270" weight="2.0">
     <BuildData piece_offset="32.9" />
     <Materials>
       <Material id="Wood" count="1" />
@@ -5756,7 +5756,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_noble_cavalry_lance_blade_h2" name="{=Telford}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.39" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Flags>
       <Flag name="NotStackable" type="ItemFlags" />
@@ -5767,7 +5767,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_noble_cavalry_lance_blade_h3" name="{=Telford}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.39" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Flags>
       <Flag name="NotStackable" type="ItemFlags" />
@@ -6658,7 +6658,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_heavy_cavalry_lance_blade_h2" name="{=Telford}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.268" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -6666,7 +6666,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_heavy_cavalry_lance_blade_h3" name="{=Telford}Jagged Fine Steel Spear Head" tier="4" piece_type="Blade" mesh="spear_blade_36" length="42.5" weight="0.268" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -6882,7 +6882,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_mamluke_lance_blade_h2" name="{=Telford}Thin Fine Steel Hewing Spear Head" tier="5" piece_type="Blade" mesh="spear_blade_27" length="69.5" weight="0.5" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_2" holster_body_name="bo_throwing_spear_quiver_2" holster_mesh_length="94.6">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="2" />
@@ -6890,7 +6890,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_mamluke_lance_blade_h3" name="{=Telford}Thin Fine Steel Hewing Spear Head" tier="5" piece_type="Blade" mesh="spear_blade_27" length="69.5" weight="0.5" excluded_item_usage_features="swing">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_2" holster_body_name="bo_throwing_spear_quiver_2" holster_mesh_length="94.6">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="2" />
