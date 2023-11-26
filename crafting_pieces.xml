@@ -3475,14 +3475,14 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_long_cavalry_lance_handle_h1" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.85">
+  <CraftingPiece id="crpg_long_cavalry_lance_handle_h1" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.8">
     <BuildData piece_offset="37.4" />
     <Materials>
       <Material id="Iron3" count="1" />
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_long_cavalry_lance_handle_h2" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.6">
+  <CraftingPiece id="crpg_long_cavalry_lance_handle_h2" name="{=Telford}Reinforced Long Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_23" length="250" weight="1.8">
     <BuildData piece_offset="37.4" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -3650,13 +3650,13 @@
       <Material id="Wood" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knightly_lance_handle_h1" name="{=Telford}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="2.35">
+  <CraftingPiece id="crpg_knightly_lance_handle_h1" name="{=Telford}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="2.2">
     <BuildData piece_offset="39.9" />
     <Materials>
       <Material id="Wood" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knightly_lance_handle_h2" name="{=Telford}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="2.1">
+  <CraftingPiece id="crpg_knightly_lance_handle_h2" name="{=Telford}Cured Oaken Pike Shaft" tier="5" piece_type="Handle" mesh="spear_handle_26" length="280" weight="2.2">
     <BuildData piece_offset="39.9" />
     <Materials>
       <Material id="Wood" count="3" />
@@ -7574,7 +7574,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knightly_lance_blade_h2" name="{=Telford}Knightly Lance Head" tier="5" piece_type="Blade" mesh="spear_blade_5" length="52.242" weight="0.3056" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="1" />
@@ -7582,7 +7582,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knightly_lance_blade_h3" name="{=Telford}Knightly Lance Head" tier="5" piece_type="Blade" mesh="spear_blade_5" length="52.242" weight="0.3056" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="1" />
@@ -7914,7 +7914,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_long_cavalry_lance_blade_h2" name="{=Telford}Long Grassland Spear" tier="3" piece_type="Blade" mesh="spear_blade_20" length="46" weight="0.3492" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
@@ -7922,7 +7922,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_long_cavalry_lance_blade_h3" name="{=Telford}Long Grassland Spear" tier="3" piece_type="Blade" mesh="spear_blade_20" length="46" weight="0.3492" excluded_item_usage_features="swing">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="1" />
