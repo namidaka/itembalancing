@@ -10713,20 +10713,7 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_hatchet_blade_h1" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.61" is_default="true">
-    <BuildData piece_offset="-5.4" />
-    <BladeData stack_amount="2" blade_length="9.664" blade_width="17.21" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.1" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="Civilian" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_hatchet_blade_h2" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.58" is_default="true">
+  <CraftingPiece id="crpg_hatchet_blade_h1" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.632" is_default="true">
     <BuildData piece_offset="-5.4" />
     <BladeData stack_amount="2" blade_length="9.664" blade_width="17.21" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="2.2" />
@@ -10739,10 +10726,23 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_hatchet_blade_h3" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.55" is_default="true">
+  <CraftingPiece id="crpg_hatchet_blade_h2" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.632" is_default="true">
     <BuildData piece_offset="-5.4" />
     <BladeData stack_amount="2" blade_length="9.664" blade_width="17.21" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="2.4" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_hatchet_blade_h3" name="{=KhHXgQJb}Common Wrought Iron Axe Head" tier="1" piece_type="Blade" mesh="axe_craft_32_head" distance_to_next_piece="4.3" distance_to_previous_piece="2.7" weight="0.632" is_default="true">
+    <BuildData piece_offset="-5.4" />
+    <BladeData stack_amount="2" blade_length="9.664" blade_width="17.21" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="2.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
