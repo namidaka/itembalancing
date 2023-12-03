@@ -11217,10 +11217,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_raider_battle_axe_blade_h1" name="{=cEU66ABf}Northern Battle Axe Blade" tier="3" piece_type="Blade" mesh="axe_craft_36_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.5">
+  <CraftingPiece id="crpg_raider_battle_axe_blade_h1" name="{=cEU66ABf}Northern Battle Axe Blade" tier="3" piece_type="Blade" mesh="axe_craft_36_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.55">
     <BuildData piece_offset="-6.8" />
     <BladeData stack_amount="2" blade_length="15.764" blade_width="16" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -11230,23 +11230,23 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_raider_battle_axe_blade_h2" name="{=cEU66ABf}Northern Battle Axe Blade" tier="3" piece_type="Blade" mesh="axe_craft_36_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.5">
-    <BuildData piece_offset="-6.8" />
-    <BladeData stack_amount="2" blade_length="15.764" blade_width="16" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.5" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="3" />
-      <Material id="Iron3" count="1" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_raider_battle_axe_blade_h3" name="{=cEU66ABf}Northern Battle Axe Blade" tier="3" piece_type="Blade" mesh="axe_craft_36_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.5">
+  <CraftingPiece id="crpg_raider_battle_axe_blade_h2" name="{=cEU66ABf}Northern Battle Axe Blade" tier="3" piece_type="Blade" mesh="axe_craft_36_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.55">
     <BuildData piece_offset="-6.8" />
     <BladeData stack_amount="2" blade_length="15.764" blade_width="16" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.7" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="3" />
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_raider_battle_axe_blade_h3" name="{=cEU66ABf}Northern Battle Axe Blade" tier="3" piece_type="Blade" mesh="axe_craft_36_head" distance_to_next_piece="10.4" distance_to_previous_piece="3.4" weight="0.55">
+    <BuildData piece_offset="-6.8" />
+    <BladeData stack_amount="2" blade_length="15.764" blade_width="16" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
