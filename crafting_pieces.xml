@@ -10767,18 +10767,6 @@
   <CraftingPiece id="crpg_desert_ascia_axe_blade_h1" name="{=IZw8FnwW}Large Ascia Head" tier="2" piece_type="Blade" mesh="axe_craft_30_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.512">
     <BuildData piece_offset="-4.6" />
     <BladeData stack_amount="2" blade_length="8.442" blade_width="19.527" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.0" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="4" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_desert_ascia_axe_blade_h2" name="{=IZw8FnwW}Large Ascia Head" tier="2" piece_type="Blade" mesh="axe_craft_30_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.5">
-    <BuildData piece_offset="-4.6" />
-    <BladeData stack_amount="2" blade_length="8.442" blade_width="19.527" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
     <Flags>
@@ -10788,10 +10776,22 @@
       <Material id="Iron2" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_desert_ascia_axe_blade_h3" name="{=IZw8FnwW}Large Ascia Head" tier="2" piece_type="Blade" mesh="axe_craft_30_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.5">
+  <CraftingPiece id="crpg_desert_ascia_axe_blade_h2" name="{=IZw8FnwW}Large Ascia Head" tier="2" piece_type="Blade" mesh="axe_craft_30_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.512">
     <BuildData piece_offset="-4.6" />
     <BladeData stack_amount="2" blade_length="8.442" blade_width="19.527" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.3" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_desert_ascia_axe_blade_h3" name="{=IZw8FnwW}Large Ascia Head" tier="2" piece_type="Blade" mesh="axe_craft_30_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.3" weight="0.512">
+    <BuildData piece_offset="-4.6" />
+    <BladeData stack_amount="2" blade_length="8.442" blade_width="19.527" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
