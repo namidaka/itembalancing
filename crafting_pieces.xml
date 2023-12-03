@@ -10249,10 +10249,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_saxon_hooked_axe_blade_h1" name="{=ajVcY9v6}Small Hammer Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_28_head" distance_to_next_piece="2.8" distance_to_previous_piece="3.1" weight="0.8">
+  <CraftingPiece id="crpg_saxon_hooked_axe_blade_h1" name="{=ajVcY9v6}Small Hammer Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_28_head" distance_to_next_piece="2.8" distance_to_previous_piece="3.1" weight="0.855">
     <BuildData piece_offset="-6.2" />
     <BladeData stack_amount="2" blade_length="12.961" blade_width="19.393" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="2.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -10275,10 +10275,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_saxon_hooked_axe_blade_h3" name="{=ajVcY9v6}Small Hammer Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_28_head" distance_to_next_piece="2.8" distance_to_previous_piece="3.1" weight="0.74">
+  <CraftingPiece id="crpg_saxon_hooked_axe_blade_h3" name="{=ajVcY9v6}Small Hammer Axe Head" tier="3" piece_type="Blade" mesh="axe_craft_28_head" distance_to_next_piece="2.8" distance_to_previous_piece="3.1" weight="0.78">
     <BuildData piece_offset="-6.2" />
     <BladeData stack_amount="2" blade_length="12.961" blade_width="19.393" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.0" />
+      <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
