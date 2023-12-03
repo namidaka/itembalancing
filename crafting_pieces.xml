@@ -10348,19 +10348,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_boarding_axe_blade_h1" name="{=fOrRdtNK}Small Spurred Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_24_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.1" weight="0.75">
-    <BuildData piece_offset="-4.2" />
-    <BladeData stack_amount="2" blade_length="9.46" blade_width="21.987" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.1" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_boarding_axe_blade_h2" name="{=fOrRdtNK}Small Spurred Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_24_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.1" weight="0.72">
+  <CraftingPiece id="crpg_boarding_axe_blade_h1" name="{=fOrRdtNK}Small Spurred Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_24_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.1" weight="0.79">
     <BuildData piece_offset="-4.2" />
     <BladeData stack_amount="2" blade_length="9.46" blade_width="21.987" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.2" />
@@ -10372,10 +10360,22 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_boarding_axe_blade_h3" name="{=fOrRdtNK}Small Spurred Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_24_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.1" weight="0.72">
+  <CraftingPiece id="crpg_boarding_axe_blade_h2" name="{=fOrRdtNK}Small Spurred Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_24_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.1" weight="0.75">
     <BuildData piece_offset="-4.2" />
     <BladeData stack_amount="2" blade_length="9.46" blade_width="21.987" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="3.3" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_boarding_axe_blade_h3" name="{=fOrRdtNK}Small Spurred Axe Head" tier="2" piece_type="Blade" mesh="axe_craft_24_head" distance_to_next_piece="2.6" distance_to_previous_piece="2.1" weight="0.75">
+    <BuildData piece_offset="-4.2" />
+    <BladeData stack_amount="2" blade_length="9.46" blade_width="21.987" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
