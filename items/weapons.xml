@@ -9156,28 +9156,28 @@
       <Piece id="crpg_reinforced_highland_spear_handle_h3" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_narrow_long_headed_spear_v1_h0" name="{=G7EbBKuA}Narrow Long Headed Spear" crafting_template="crpg_Spear4DMode" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_narrow_long_headed_spear_v2_h0" name="{=Diggles}Narrow Headed Long Spear" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_narrow_long_headed_spear_blade_h0" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_narrow_long_headed_spear_handle_h0" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_narrow_long_headed_spear_handle_h0" Type="Handle" scale_factor="104" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_narrow_long_headed_spear_v1_h1" name="{=G7EbBKuA}Narrow Long Headed Spear +1" crafting_template="crpg_Spear4DMode" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_narrow_long_headed_spear_v2_h1" name="{=Diggles}Narrow Headed Long Spear +1" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_narrow_long_headed_spear_blade_h1" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_narrow_long_headed_spear_handle_h1" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_narrow_long_headed_spear_handle_h1" Type="Handle" scale_factor="104" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_narrow_long_headed_spear_v1_h2" name="{=G7EbBKuA}Narrow Long Headed Spear +2" crafting_template="crpg_Spear4DMode" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_narrow_long_headed_spear_v2_h2" name="{=Diggles}Narrow Headed Long Spear +2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_narrow_long_headed_spear_blade_h2" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_narrow_long_headed_spear_handle_h2" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_narrow_long_headed_spear_handle_h2" Type="Handle" scale_factor="104" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_narrow_long_headed_spear_v1_h3" name="{=G7EbBKuA}Narrow Long Headed Spear +3" crafting_template="crpg_Spear4DMode" culture="Culture.khuzait" modifier_group="polearm">
+  <CraftedItem id="crpg_narrow_long_headed_spear_v2_h3" name="{=Diggles}Narrow Headed Long Spear +3" crafting_template="crpg_TwoHandedPolearm" culture="Culture.khuzait" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_narrow_long_headed_spear_blade_h3" Type="Blade" scale_factor="110" />
-      <Piece id="crpg_narrow_long_headed_spear_handle_h3" Type="Handle" scale_factor="110" />
+      <Piece id="crpg_narrow_long_headed_spear_handle_h3" Type="Handle" scale_factor="104" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_tall_tipped_long_spear_v1_h0" name="{=NFT4sLva}Tall Tipped Long Spear" crafting_template="crpg_Spear4DMode" culture="Culture.vlandia" modifier_group="polearm">
