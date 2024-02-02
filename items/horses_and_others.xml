@@ -4320,7 +4320,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_saddlehorse_14_v1_h0" name="Shadowfax Saddle Horse" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_v1_h0" name="Shadowfax" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse_100" maneuver="69" speed="68" charge_damage="2" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-50" modifier_group="horse">
         <AdditionalMeshes>
@@ -4336,7 +4336,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_saddlehorse_14_v1_h1" name="Shadowfax Saddle Horse +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_v1_h1" name="Shadowfax +1" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse_100" maneuver="69" speed="69" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-40" modifier_group="horse">
         <AdditionalMeshes>
@@ -4352,7 +4352,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_saddlehorse_14_v1_h2" name="Shadowfax Saddle Horse +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_v1_h2" name="Shadowfax +2" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse_100" maneuver="70" speed="69" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-30" modifier_group="horse">
         <AdditionalMeshes>
@@ -4368,7 +4368,7 @@
       </Horse>
     </ItemComponent>
   </Item>
-  <Item id="crpg_mount1_saddlehorse_14_v1_h3" name="Shadowfax Saddle Horse +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
+  <Item id="crpg_mount1_saddlehorse_14_v1_h3" name="Shadowfax +3" mesh="horse_brown" item_category="noble_horse" difficulty="0" weight="420" Type="Horse">
     <ItemComponent>
       <Horse monster="Monster.horse_100" maneuver="71" speed="69" charge_damage="3" body_length="100" is_mountable="true" is_pack_animal="true" extra_health="-20" modifier_group="horse">
         <AdditionalMeshes>
