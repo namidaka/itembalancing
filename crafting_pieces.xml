@@ -26500,7 +26500,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h0" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.89">
+  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h0" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.59">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.4" />
       <Swing damage_type="Cut" damage_factor="4.6" />
@@ -26513,7 +26513,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h1" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.89">
+  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h1" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.59">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.4" />
       <Swing damage_type="Cut" damage_factor="4.8" />
@@ -26526,7 +26526,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h2" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.89">
+  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h2" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.59">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.7" />
       <Swing damage_type="Cut" damage_factor="4.9" />
@@ -26539,7 +26539,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h3" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.89">
+  <CraftingPiece id="crpg_burgundian_poleaxe_blade_h3" name="{=kaikaikai}Burgundian Axe Blade" tier="3" piece_type="Blade" mesh="burgundian_poleaxe_head" culture="Culture.vlandia" length="37.8" weight="0.59">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.7" />
       <Swing damage_type="Cut" damage_factor="5.2" />
@@ -26552,25 +26552,25 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h0" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="0.25" CraftingCost="120">
+  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h0" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="1.17" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="9.05" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h1" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="0.25" CraftingCost="120">
+  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h1" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="1.17" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="9.05" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h2" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="0.25" CraftingCost="120">
+  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h2" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="1.17" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="9.05" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h3" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="0.25" CraftingCost="120">
+  <CraftingPiece id="crpg_burgundian_poleaxe_handle_h3" name="Decorated Axe Shaft" tier="2" piece_type="Handle" mesh="burgundian_poleaxe_shaft" length="138" weight="1.17" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="9.05" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
