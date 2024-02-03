@@ -26678,7 +26678,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_bec_de_corbin_blade_h2" name="{=kaikaikai}Bec De Corbin Blade" tier="3" piece_type="Blade" mesh="bec_head" culture="Culture.vlandia" length="104" weight="0.35">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
       <Swing damage_type="Pierce" damage_factor="3.2" />
     </BladeData>
     <Flags>
@@ -26691,7 +26691,7 @@
   <CraftingPiece id="crpg_bec_de_corbin_blade_h3" name="{=kaikaikai}Bec De Corbin Blade" tier="3" piece_type="Blade" mesh="bec_head" culture="Culture.vlandia" length="104" weight="0.35">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Pierce" damage_factor="3.3" />
+      <Swing damage_type="Pierce" damage_factor="3.4" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
