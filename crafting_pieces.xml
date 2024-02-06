@@ -33128,10 +33128,10 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_blade_h0" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="0.3">
+  <CraftingPiece id="crpg_longseax_blade_h0" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="2.2">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="3.1" />
+      <Swing damage_type="Cut" damage_factor="2.6" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -33140,10 +33140,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_blade_h1" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="0.3">
+  <CraftingPiece id="crpg_longseax_blade_h1" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="2.2">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="2.7" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -33152,10 +33152,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_blade_h2" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="0.3">
+  <CraftingPiece id="crpg_longseax_blade_h2" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="2.2">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="3.3" />
+      <Swing damage_type="Cut" damage_factor="2.8" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -33164,10 +33164,10 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_blade_h3" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="0.3">
+  <CraftingPiece id="crpg_longseax_blade_h3" name="{=}Long Dagger Blade" tier="2" piece_type="Blade" mesh="seax_blade" full_scale="false" length="49.1" weight="2.2">
     <BladeData stack_amount="9" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="" holster_mesh_length="43.3">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
-      <Swing damage_type="Cut" damage_factor="0.5" />
+      <Thrust damage_type="Pierce" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="3.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -33176,74 +33176,74 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_handle_h0" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.2">
+  <CraftingPiece id="crpg_longseax_handle_h0" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.01">
     <BuildData piece_offset="-1" previous_piece_offset="1.0" next_piece_offset="1.0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_handle_h1" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.2">
+  <CraftingPiece id="crpg_longseax_handle_h1" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.01">
     <BuildData piece_offset="-1" previous_piece_offset="1.0" next_piece_offset="1.0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_handle_h2" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.2">
+  <CraftingPiece id="crpg_longseax_handle_h2" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.01">
     <BuildData piece_offset="-1" previous_piece_offset="1.0" next_piece_offset="1.0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_handle_h3" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.2">
+  <CraftingPiece id="crpg_longseax_handle_h3" name="{=}Long Dagger Grip" tier="2" piece_type="Handle" mesh="seax_handle" culture="Culture.sturgia" full_scale="false" length="16.0" weight="0.01">
     <BuildData piece_offset="-1" previous_piece_offset="1.0" next_piece_offset="1.0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_guard_h0" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.2">
+  <CraftingPiece id="crpg_longseax_guard_h0" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.01">
     <BuildData next_piece_offset="0.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_guard_h1" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.2">
+  <CraftingPiece id="crpg_longseax_guard_h1" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.01">
     <BuildData next_piece_offset="0.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_guard_h2" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.2">
+  <CraftingPiece id="crpg_longseax_guard_h2" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.01">
     <BuildData next_piece_offset="0.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_guard_h3" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.2">
+  <CraftingPiece id="crpg_longseax_guard_h3" name="{=}Long Dagger Guard" tier="1" piece_type="Guard" mesh="seax_guard" culture="Culture.battania" full_scale="false" length="2.41" weight="0.01">
     <BuildData next_piece_offset="0.0" />
     <StatContributions armor_bonus="0" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_pommel_h0" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.2">
+  <CraftingPiece id="crpg_longseax_pommel_h0" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.01">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_pommel_h1" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.2">
+  <CraftingPiece id="crpg_longseax_pommel_h1" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.01">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_pommel_h2" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.2">
+  <CraftingPiece id="crpg_longseax_pommel_h2" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.01">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_longseax_pommel_h3" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.2">
+  <CraftingPiece id="crpg_longseax_pommel_h3" name="{=}Long Dagger Pommel" tier="4" piece_type="Pommel" mesh="seax_pommel" culture="Culture.battania" full_scale="false" length="3.55" weight="0.01">
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
