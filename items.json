@@ -2320,6 +2320,286 @@
     "weapons": []
   },
   {
+    "id": "crpg_arabian_cavalry_sword_h0",
+    "baseId": "crpg_arabian_cavalry_sword",
+    "name": "Arabian Cavalry Sword",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5285,
+    "weight": 2.05,
+    "tier": 8.54223,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 120,
+        "balance": 0.25,
+        "handling": 78,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 77
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_cavalry_sword_h1",
+    "baseId": "crpg_arabian_cavalry_sword",
+    "name": "Arabian Cavalry Sword +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4814,
+    "weight": 2.0,
+    "tier": 8.102003,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 120,
+        "balance": 0.29,
+        "handling": 79,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_cavalry_sword_h2",
+    "baseId": "crpg_arabian_cavalry_sword",
+    "name": "Arabian Cavalry Sword +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5153,
+    "weight": 2.0,
+    "tier": 8.421003,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 120,
+        "balance": 0.29,
+        "handling": 79,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 39,
+        "swingDamageType": "Cut",
+        "swingSpeed": 78
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_cavalry_sword_h3",
+    "baseId": "crpg_arabian_cavalry_sword",
+    "name": "Arabian Cavalry Sword +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5875,
+    "weight": 1.95,
+    "tier": 9.06764,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 120,
+        "balance": 0.33,
+        "handling": 80,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 79
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_straight_sword_h0",
+    "baseId": "crpg_arabian_straight_sword",
+    "name": "Arabian Straight Sword",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4948,
+    "weight": 1.95,
+    "tier": 8.230019,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.56,
+        "handling": 86,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 23,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_straight_sword_h1",
+    "baseId": "crpg_arabian_straight_sword",
+    "name": "Arabian Straight Sword +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5346,
+    "weight": 1.87,
+    "tier": 8.597888,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.62,
+        "handling": 87,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 88
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_straight_sword_h2",
+    "baseId": "crpg_arabian_straight_sword",
+    "name": "Arabian Straight Sword +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5255,
+    "weight": 1.83,
+    "tier": 8.515554,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.66,
+        "handling": 88,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
+    "id": "crpg_arabian_straight_sword_h3",
+    "baseId": "crpg_arabian_straight_sword",
+    "name": "Arabian Straight Sword +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5411,
+    "weight": 1.78,
+    "tier": 8.657368,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 94,
+        "balance": 0.69,
+        "handling": 88,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 29,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 90
+      }
+    ]
+  },
+  {
     "id": "crpg_archers_flag_t1",
     "baseId": "crpg_archers_flag_t1",
     "name": "Archer's Flag",
@@ -40584,6 +40864,154 @@
     ]
   },
   {
+    "id": "crpg_decorated_short_sword_h0",
+    "baseId": "crpg_decorated_short_sword",
+    "name": "Decorated Thegn Blade",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5188,
+    "weight": 2.35,
+    "tier": 8.453925,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 91,
+        "balance": 0.63,
+        "handling": 87,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 31,
+        "swingDamageType": "Cut",
+        "swingSpeed": 88
+      }
+    ]
+  },
+  {
+    "id": "crpg_decorated_short_sword_h1",
+    "baseId": "crpg_decorated_short_sword",
+    "name": "Decorated Thegn Blade +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5497,
+    "weight": 2.32,
+    "tier": 8.734506,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 91,
+        "balance": 0.66,
+        "handling": 87,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
+    "id": "crpg_decorated_short_sword_h2",
+    "baseId": "crpg_decorated_short_sword",
+    "name": "Decorated Thegn Blade +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5212,
+    "weight": 2.32,
+    "tier": 8.475249,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 91,
+        "balance": 0.66,
+        "handling": 87,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 25,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
+    "id": "crpg_decorated_short_sword_h3",
+    "baseId": "crpg_decorated_short_sword",
+    "name": "Decorated Thegn Blade +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5231,
+    "weight": 2.32,
+    "tier": 8.49282551,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 91,
+        "balance": 0.66,
+        "handling": 87,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 27,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
+      }
+    ]
+  },
+  {
     "id": "crpg_decorated_short_tunic_v2_h0",
     "baseId": "crpg_decorated_short_tunic_v2",
     "name": "Decorated Thick Tunic",
@@ -61640,6 +62068,170 @@
     "weapons": []
   },
   {
+    "id": "crpg_greatlongaxe_h0",
+    "baseId": "crpg_greatlongaxe",
+    "name": "Great Long Axe",
+    "culture": "Neutral",
+    "type": "Polearm",
+    "price": 13587,
+    "weight": 3.5,
+    "tier": 9.835309,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 153,
+        "balance": 0.15,
+        "handling": 71,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 84,
+        "swingDamage": 53,
+        "swingDamageType": "Cut",
+        "swingSpeed": 74
+      }
+    ]
+  },
+  {
+    "id": "crpg_greatlongaxe_h1",
+    "baseId": "crpg_greatlongaxe",
+    "name": "Great Long Axe +1",
+    "culture": "Neutral",
+    "type": "Polearm",
+    "price": 12644,
+    "weight": 3.5,
+    "tier": 9.449958,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 153,
+        "balance": 0.15,
+        "handling": 71,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 84,
+        "swingDamage": 55,
+        "swingDamageType": "Cut",
+        "swingSpeed": 74
+      }
+    ]
+  },
+  {
+    "id": "crpg_greatlongaxe_h2",
+    "baseId": "crpg_greatlongaxe",
+    "name": "Great Long Axe +2",
+    "culture": "Neutral",
+    "type": "Polearm",
+    "price": 13638,
+    "weight": 3.34,
+    "tier": 9.856163,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 153,
+        "balance": 0.19,
+        "handling": 72,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 85,
+        "swingDamage": 56,
+        "swingDamageType": "Cut",
+        "swingSpeed": 75
+      }
+    ]
+  },
+  {
+    "id": "crpg_greatlongaxe_h3",
+    "baseId": "crpg_greatlongaxe",
+    "name": "Great Long Axe +3",
+    "culture": "Neutral",
+    "type": "Polearm",
+    "price": 14287,
+    "weight": 3.17,
+    "tier": 10.113081,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [
+      "CanBePickedUpFromCorpse"
+    ],
+    "weapons": [
+      {
+        "class": "TwoHandedPolearm",
+        "itemUsage": "polearm_block_long_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 153,
+        "balance": 0.21,
+        "handling": 72,
+        "bodyArmor": 0,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand",
+          "WideGrip",
+          "BonusAgainstShield",
+          "TwoHandIdleOnMount"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Blunt",
+        "thrustSpeed": 86,
+        "swingDamage": 57,
+        "swingDamageType": "Cut",
+        "swingSpeed": 76
+      }
+    ]
+  },
+  {
     "id": "crpg_green_hood_v2_h0",
     "baseId": "crpg_green_hood_v2",
     "name": "Green Hood",
@@ -65124,6 +65716,154 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_arming_sword_h0",
+    "baseId": "crpg_heavy_arming_sword",
+    "name": "Heavy Arming Sword",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5434,
+    "weight": 2.46,
+    "tier": 8.677774,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 97,
+        "balance": 0.41,
+        "handling": 84,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 83,
+        "swingDamage": 36,
+        "swingDamageType": "Cut",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_arming_sword_h1",
+    "baseId": "crpg_heavy_arming_sword",
+    "name": "Heavy Arming Sword +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5971,
+    "weight": 2.41,
+    "tier": 9.150481,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 97,
+        "balance": 0.43,
+        "handling": 85,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_arming_sword_h2",
+    "baseId": "crpg_heavy_arming_sword",
+    "name": "Heavy Arming Sword +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5348,
+    "weight": 2.41,
+    "tier": 8.599824,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 97,
+        "balance": 0.43,
+        "handling": 85,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 38,
+        "swingDamageType": "Cut",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_heavy_arming_sword_h3",
+    "baseId": "crpg_heavy_arming_sword",
+    "name": "Heavy Arming Sword +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5513,
+    "weight": 2.32,
+    "tier": 8.749165,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 97,
+        "balance": 0.48,
+        "handling": 86,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 24,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 84,
+        "swingDamage": 38,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
       }
     ]
   },
@@ -80712,6 +81452,154 @@
     ]
   },
   {
+    "id": "crpg_karabela_h0",
+    "baseId": "crpg_karabela",
+    "name": "Karabela",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 3933,
+    "weight": 1.65,
+    "tier": 7.216694,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 111,
+        "balance": 0.4,
+        "handling": 86,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
+    "id": "crpg_karabela_h1",
+    "baseId": "crpg_karabela",
+    "name": "Karabela +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4384,
+    "weight": 1.65,
+    "tier": 7.68131256,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 111,
+        "balance": 0.4,
+        "handling": 86,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 35,
+        "swingDamageType": "Cut",
+        "swingSpeed": 81
+      }
+    ]
+  },
+  {
+    "id": "crpg_karabela_h2",
+    "baseId": "crpg_karabela",
+    "name": "Karabela +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4068,
+    "weight": 1.62,
+    "tier": 7.358575,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 111,
+        "balance": 0.42,
+        "handling": 87,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 35,
+        "swingDamageType": "Cut",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_karabela_h3",
+    "baseId": "crpg_karabela",
+    "name": "Karabela +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4669,
+    "weight": 1.62,
+    "tier": 7.962407,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 111,
+        "balance": 0.42,
+        "handling": 87,
+        "bodyArmor": 4,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 90,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 82
+      }
+    ]
+  },
+  {
     "id": "crpg_kettle_hat_over_mail_coif_v2_h0",
     "baseId": "crpg_kettle_hat_over_mail_coif_v2",
     "name": "Kettle Hat over Mail Coif",
@@ -83468,6 +84356,146 @@
     "weapons": []
   },
   {
+    "id": "crpg_kilij_h0",
+    "baseId": "crpg_kilij",
+    "name": "Kilij",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4374,
+    "weight": 2.03,
+    "tier": 7.67110348,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 114,
+        "balance": 0.3,
+        "handling": 82,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 19,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 86,
+        "swingDamage": 35,
+        "swingDamageType": "Cut",
+        "swingSpeed": 79
+      }
+    ]
+  },
+  {
+    "id": "crpg_kilij_h1",
+    "baseId": "crpg_kilij",
+    "name": "Kilij +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4056,
+    "weight": 1.98,
+    "tier": 7.34539175,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 114,
+        "balance": 0.34,
+        "handling": 83,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 35,
+        "swingDamageType": "Cut",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_kilij_h2",
+    "baseId": "crpg_kilij",
+    "name": "Kilij +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4478,
+    "weight": 1.98,
+    "tier": 7.774755,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 114,
+        "balance": 0.34,
+        "handling": 83,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 20,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
+    "id": "crpg_kilij_h3",
+    "baseId": "crpg_kilij",
+    "name": "Kilij +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4213,
+    "weight": 1.93,
+    "tier": 7.507421,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 114,
+        "balance": 0.36,
+        "handling": 83,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 21,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 38,
+        "swingDamageType": "Cut",
+        "swingSpeed": 80
+      }
+    ]
+  },
+  {
     "id": "crpg_kilt_over_plated_leather_v2_h0",
     "baseId": "crpg_kilt_over_plated_leather_v2",
     "name": "Kilt over Plated Leather",
@@ -85992,6 +87020,150 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 82
+      }
+    ]
+  },
+  {
+    "id": "crpg_large_falchion_h0",
+    "baseId": "crpg_large_falchion",
+    "name": "Large Falchion",
+    "culture": "Vlandia",
+    "type": "TwoHandedWeapon",
+    "price": 9623,
+    "weight": 2.7,
+    "tier": 8.10688,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 116,
+        "balance": 0.6,
+        "handling": 79,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 88,
+        "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 87
+      }
+    ]
+  },
+  {
+    "id": "crpg_large_falchion_h1",
+    "baseId": "crpg_large_falchion",
+    "name": "Large Falchion +1",
+    "culture": "Vlandia",
+    "type": "TwoHandedWeapon",
+    "price": 9901,
+    "weight": 2.67,
+    "tier": 8.238706,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 116,
+        "balance": 0.61,
+        "handling": 79,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 41,
+        "swingDamageType": "Cut",
+        "swingSpeed": 88
+      }
+    ]
+  },
+  {
+    "id": "crpg_large_falchion_h2",
+    "baseId": "crpg_large_falchion",
+    "name": "Large Falchion +2",
+    "culture": "Vlandia",
+    "type": "TwoHandedWeapon",
+    "price": 10457,
+    "weight": 2.67,
+    "tier": 8.49622,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 116,
+        "balance": 0.61,
+        "handling": 79,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 43,
+        "swingDamageType": "Cut",
+        "swingSpeed": 88
+      }
+    ]
+  },
+  {
+    "id": "crpg_large_falchion_h3",
+    "baseId": "crpg_large_falchion",
+    "name": "Large Falchion +3",
+    "culture": "Vlandia",
+    "type": "TwoHandedWeapon",
+    "price": 9819,
+    "weight": 2.6,
+    "tier": 8.199965,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "TwoHandedSword",
+        "itemUsage": "twohanded_block_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 116,
+        "balance": 0.65,
+        "handling": 80,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon",
+          "NotUsableWithOneHand"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 89,
+        "swingDamage": 43,
+        "swingDamageType": "Cut",
+        "swingSpeed": 89
       }
     ]
   },
@@ -91682,6 +92854,154 @@
         "swingDamage": 6,
         "swingDamageType": "Blunt",
         "swingSpeed": 97
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_arming_sword_h0",
+    "baseId": "crpg_long_arming_sword",
+    "name": "Long Arming Sword",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6666,
+    "weight": 2.11,
+    "tier": 9.731638,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 109,
+        "balance": 0.46,
+        "handling": 82,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 83
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_arming_sword_h1",
+    "baseId": "crpg_long_arming_sword",
+    "name": "Long Arming Sword +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 7028,
+    "weight": 2.08,
+    "tier": 10.0228386,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 109,
+        "balance": 0.48,
+        "handling": 82,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 35,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_arming_sword_h2",
+    "baseId": "crpg_long_arming_sword",
+    "name": "Long Arming Sword +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6337,
+    "weight": 2.08,
+    "tier": 9.460943,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 109,
+        "balance": 0.48,
+        "handling": 82,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 36,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_long_arming_sword_h3",
+    "baseId": "crpg_long_arming_sword",
+    "name": "Long Arming Sword +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 7108,
+    "weight": 2.08,
+    "tier": 10.0855093,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 109,
+        "balance": 0.48,
+        "handling": 82,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 22,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 85,
+        "swingDamage": 38,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
       }
     ]
   },
@@ -110764,6 +112084,154 @@
         "swingDamage": 0,
         "swingDamageType": "Blunt",
         "swingSpeed": 101
+      }
+    ]
+  },
+  {
+    "id": "crpg_noble_steel_scimitar_h0",
+    "baseId": "crpg_noble_steel_scimitar",
+    "name": "Noble Steel Scimitar",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5790,
+    "weight": 2.0,
+    "tier": 8.993237,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 98,
+        "balance": 0.48,
+        "handling": 83,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 35,
+        "swingDamageType": "Cut",
+        "swingSpeed": 84
+      }
+    ]
+  },
+  {
+    "id": "crpg_noble_steel_scimitar_h1",
+    "baseId": "crpg_noble_steel_scimitar",
+    "name": "Noble Steel Scimitar +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6158,
+    "weight": 1.95,
+    "tier": 9.310387,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 98,
+        "balance": 0.51,
+        "handling": 83,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 36,
+        "swingDamageType": "Cut",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_noble_steel_scimitar_h2",
+    "baseId": "crpg_noble_steel_scimitar",
+    "name": "Noble Steel Scimitar +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5814,
+    "weight": 1.93,
+    "tier": 9.014871,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 98,
+        "balance": 0.53,
+        "handling": 84,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 37,
+        "swingDamageType": "Cut",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_noble_steel_scimitar_h3",
+    "baseId": "crpg_noble_steel_scimitar",
+    "name": "Noble Steel Scimitar +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6443,
+    "weight": 1.9,
+    "tier": 9.548547,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [
+      "Civilian"
+    ],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 98,
+        "balance": 0.54,
+        "handling": 84,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 38,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
       }
     ]
   },
@@ -135428,6 +136896,146 @@
     "weapons": []
   },
   {
+    "id": "crpg_shamshir_h0",
+    "baseId": "crpg_shamshir",
+    "name": "Shamshir",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 4877,
+    "weight": 2.14,
+    "tier": 8.162702,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 95,
+        "balance": 0.6,
+        "handling": 85,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 87
+      }
+    ]
+  },
+  {
+    "id": "crpg_shamshir_h1",
+    "baseId": "crpg_shamshir",
+    "name": "Shamshir +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5255,
+    "weight": 2.08,
+    "tier": 8.515139,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 95,
+        "balance": 0.61,
+        "handling": 85,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 85,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 88
+      }
+    ]
+  },
+  {
+    "id": "crpg_shamshir_h2",
+    "baseId": "crpg_shamshir",
+    "name": "Shamshir +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5052,
+    "weight": 2.03,
+    "tier": 8.327662,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 95,
+        "balance": 0.63,
+        "handling": 86,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 88
+      }
+    ]
+  },
+  {
+    "id": "crpg_shamshir_h3",
+    "baseId": "crpg_shamshir",
+    "name": "Shamshir +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5400,
+    "weight": 1.99,
+    "tier": 8.647395,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 95,
+        "balance": 0.67,
+        "handling": 86,
+        "bodyArmor": 5,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 0,
+        "thrustDamageType": "Undefined",
+        "thrustSpeed": 87,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 90
+      }
+    ]
+  },
+  {
     "id": "crpg_shepherd_axe_v2_h0",
     "baseId": "crpg_shepherd_axe_v2",
     "name": "Shepherd's Axe",
@@ -140976,6 +142584,146 @@
         "thrustDamageType": "Undefined",
         "thrustSpeed": 85,
         "swingDamage": 40,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_solingen_sword_h0",
+    "baseId": "crpg_solingen_sword",
+    "name": "Solingen Sword",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5822,
+    "weight": 1.85,
+    "tier": 9.021147,
+    "rank": 0,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 102,
+        "balance": 0.51,
+        "handling": 83,
+        "bodyArmor": 2,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 87,
+        "swingDamage": 32,
+        "swingDamageType": "Cut",
+        "swingSpeed": 85
+      }
+    ]
+  },
+  {
+    "id": "crpg_solingen_sword_h1",
+    "baseId": "crpg_solingen_sword",
+    "name": "Solingen Sword +1",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6116,
+    "weight": 1.81,
+    "tier": 9.274721,
+    "rank": 1,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 102,
+        "balance": 0.53,
+        "handling": 83,
+        "bodyArmor": 2,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 33,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_solingen_sword_h2",
+    "baseId": "crpg_solingen_sword",
+    "name": "Solingen Sword +2",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 5533,
+    "weight": 1.75,
+    "tier": 8.766989,
+    "rank": 2,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 102,
+        "balance": 0.55,
+        "handling": 83,
+        "bodyArmor": 2,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 34,
+        "swingDamageType": "Cut",
+        "swingSpeed": 86
+      }
+    ]
+  },
+  {
+    "id": "crpg_solingen_sword_h3",
+    "baseId": "crpg_solingen_sword",
+    "name": "Solingen Sword +3",
+    "culture": "Aserai",
+    "type": "OneHandedWeapon",
+    "price": 6234,
+    "weight": 1.75,
+    "tier": 9.374415,
+    "rank": 3,
+    "requirement": 0,
+    "flags": [],
+    "weapons": [
+      {
+        "class": "OneHandedSword",
+        "itemUsage": "onehanded_block_shield_swing_thrust",
+        "accuracy": 0,
+        "missileSpeed": 0,
+        "stackAmount": 0,
+        "length": 102,
+        "balance": 0.55,
+        "handling": 83,
+        "bodyArmor": 2,
+        "flags": [
+          "MeleeWeapon"
+        ],
+        "thrustDamage": 26,
+        "thrustDamageType": "Pierce",
+        "thrustSpeed": 88,
+        "swingDamage": 36,
         "swingDamageType": "Cut",
         "swingSpeed": 86
       }
