@@ -976,15 +976,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_round_mace_blade_h0" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.94" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.0" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_round_mace_blade_h1" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.94" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_decorated_round_mace_blade_h0" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="1.08" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.1" />
     </BladeData>
@@ -992,7 +984,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_round_mace_blade_h2" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.94" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_decorated_round_mace_blade_h1" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="1.08" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -1000,9 +992,17 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_round_mace_blade_h3" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="0.94" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_decorated_round_mace_blade_h2" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="1.08" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_decorated_round_mace_blade_h3" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="1.04" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -1480,7 +1480,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_ball_club_blade_h0" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.25" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h0" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.31" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
@@ -1488,15 +1488,7 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_ball_club_blade_h1" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.15" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.3" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_ball_club_blade_h2" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.15" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h1" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.31" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
@@ -1504,9 +1496,17 @@
       <Material id="Iron2" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_ball_club_blade_h3" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.15" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h2" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.31" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_ball_club_blade_h3" name="{=knobbedclubcraftingpiece}Knobbed Club" tier="2" piece_type="Blade" mesh="mace_head_6" length="11.4" weight="1.29" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
@@ -1708,7 +1708,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rus_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.15" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_rus_mace_blade_h0" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.2" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
@@ -1716,7 +1716,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rus_mace_blade_h1" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.15" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_rus_mace_blade_h1" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.2" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
@@ -1724,7 +1724,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rus_mace_blade_h2" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.15" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_rus_mace_blade_h2" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.2" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
@@ -1732,7 +1732,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_rus_mace_blade_h3" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.1" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_rus_mace_blade_h3" name="{=b9bboB3v}Southern Infantry Mace Head" tier="2" piece_type="Blade" mesh="mace_head_17" length="8.1" weight="1.18" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
@@ -26148,7 +26148,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_goedendag_blade_h0" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="0.98" full_scale="true">
+  <CraftingPiece id="crpg_light_goedendag_blade_h0" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="1.12" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
@@ -26158,7 +26158,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_goedendag_blade_h1" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="0.98" full_scale="true">
+  <CraftingPiece id="crpg_light_goedendag_blade_h1" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="1.12" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
@@ -26168,7 +26168,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_goedendag_blade_h2" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="0.98" full_scale="true">
+  <CraftingPiece id="crpg_light_goedendag_blade_h2" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="1.12" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
@@ -26178,7 +26178,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_goedendag_blade_h3" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="0.95" full_scale="true">
+  <CraftingPiece id="crpg_light_goedendag_blade_h3" name="{=}Light Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_1h_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="13.3" weight="1.08" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
