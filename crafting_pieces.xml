@@ -1000,7 +1000,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_decorated_round_mace_blade_h3" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="1.04" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_decorated_round_mace_blade_h3" name="{=ntIEIQ0N}Light Shishpar Head" tier="4" piece_type="Blade" mesh="mace_head_21" length="6.5" weight="1.08" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
@@ -1868,7 +1868,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_star_pointed_mace_blade_h0" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h0" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="1.01" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
@@ -1876,15 +1876,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_star_pointed_mace_blade_h1" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.81" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_star_pointed_mace_blade_h2" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.81" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h1" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="1.01" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
@@ -1892,9 +1884,17 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_star_pointed_mace_blade_h3" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.81" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h2" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="1.01" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_star_pointed_mace_blade_h3" name="{=hRtzRR6C}Imperial Light Mace Head" tier="3" piece_type="Blade" mesh="mace_head_20" length="6.1" weight="0.99" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -29068,7 +29068,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_mace_blade_h0" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_mace_blade_h0" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="1.05" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -29076,7 +29076,15 @@
       <Material id="Iron3" count="5" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_mace_blade_h1" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_mace_blade_h1" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.2" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="5" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_knobbed_mace_blade_h2" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
@@ -29084,17 +29092,9 @@
       <Material id="Iron3" count="5" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_mace_blade_h2" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_mace_blade_h3" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="5" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_mace_blade_h3" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.88" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="5" />
@@ -29124,7 +29124,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_western_mace_blade_h0" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.5" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_short_western_mace_blade_h0" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -29132,7 +29132,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_western_mace_blade_h1" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.5" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_short_western_mace_blade_h1" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
@@ -29140,7 +29140,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_western_mace_blade_h2" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.5" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_short_western_mace_blade_h2" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
@@ -29148,7 +29148,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_short_western_mace_blade_h3" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.5" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_short_western_mace_blade_h3" name="{=YFy0t1NY}Fullered Western Mace Head" tier="4" piece_type="Blade" mesh="mace_head_16" length="16.5" weight="1.55" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
