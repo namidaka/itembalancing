@@ -1740,7 +1740,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_winged_mace_blade_h0" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.59" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
+  <CraftingPiece id="crpg_light_winged_mace_blade_h0" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.57" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.1" />
     </BladeData>
@@ -1748,15 +1748,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_winged_mace_blade_h1" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.56" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.1" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron2" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_winged_mace_blade_h2" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.56" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
+  <CraftingPiece id="crpg_light_winged_mace_blade_h1" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.57" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -1764,9 +1756,17 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_winged_mace_blade_h3" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.56" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
+  <CraftingPiece id="crpg_light_winged_mace_blade_h2" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.57" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_winged_mace_blade_h3" name="{=sw5rAz73}Light Southern Mace Head" tier="2" piece_type="Blade" mesh="mace_head_1" length="11.5" weight="0.57" full_scale="true" excluded_item_usage_features="thrust" is_default="true">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="3" />
@@ -29068,7 +29068,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_knobbed_mace_blade_h0" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="1.05" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_knobbed_mace_blade_h0" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -29078,7 +29078,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knobbed_mace_blade_h1" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.2" />
+      <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="5" />
@@ -29086,7 +29086,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knobbed_mace_blade_h2" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.3" />
+      <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="5" />
@@ -29094,7 +29094,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_knobbed_mace_blade_h3" name="{=fhbGCsdC}Eastern Heavy Mace Head" tier="4" piece_type="Blade" mesh="mace_head_11" length="18.3" weight="0.96" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="5" />
