@@ -6269,6 +6269,7 @@
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Cut" damage_factor="4.6" />
+      <Swing damage_type="Cut" damage_factor="4.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -6283,6 +6284,7 @@
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
       <Swing damage_type="Cut" damage_factor="4.6" />
+      <Swing damage_type="Cut" damage_factor="4.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -6296,6 +6298,7 @@
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="2" blade_length="23.118" blade_width="18.371" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Cut" damage_factor="4.8" />
       <Swing damage_type="Cut" damage_factor="4.8" />
     </BladeData>
     <Flags>
@@ -7822,6 +7825,7 @@
   <CraftingPiece id="crpg_billhook_blade_h1" name="{=kaikaikai}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.52" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Swing damage_type="Cut" damage_factor="4.9" />
+      <Swing damage_type="Cut" damage_factor="4.9" />
     </BladeData>
     <Flags>
       <Flag name="CanHook" />
@@ -7833,6 +7837,7 @@
   <CraftingPiece id="crpg_billhook_blade_h2" name="{=kaikaikai}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.48" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Swing damage_type="Cut" damage_factor="5" />
+      <Swing damage_type="Cut" damage_factor="5" />
     </BladeData>
     <Flags>
       <Flag name="CanHook" />
@@ -7843,6 +7848,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_billhook_blade_h3" name="{=kaikaikai}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.45" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Swing damage_type="Cut" damage_factor="5" />
       <Swing damage_type="Cut" damage_factor="5" />
     </BladeData>
     <Flags>
@@ -9828,6 +9834,7 @@
     <BuildData piece_offset="-12" />
     <BladeData stack_amount="2" blade_length="57.435" blade_width="23.337" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Thrust damage_type="Cut" damage_factor="2.6" />
+      <Swing damage_type="Cut" damage_factor="5.1" />
       <Swing damage_type="Cut" damage_factor="5.1" />
     </BladeData>
     <Flags>
@@ -25149,6 +25156,7 @@
     <BladeData stack_amount="0" physics_material="wood_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Blunt" damage_factor="1.7" />
       <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -25323,7 +25331,7 @@
   <CraftingPiece id="crpg_iklwa_blade_h0" name="{=kaikaikai}Iklwa Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.7">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="3" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -25332,7 +25340,7 @@
   <CraftingPiece id="crpg_iklwa_blade_h1" name="{=kaikaikai}Iklwa Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.70">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -25341,7 +25349,7 @@
   <CraftingPiece id="crpg_iklwa_blade_h2" name="{=kaikaikai}Iklwa Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.67">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="1.9" />
-      <Swing damage_type="Cut" damage_factor="3.6" />
+      <Swing damage_type="Cut" damage_factor="3.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -25350,7 +25358,7 @@
   <CraftingPiece id="crpg_iklwa_blade_h3" name="{=kaikaikai}Iklwa Head" tier="3" piece_type="Blade" mesh="spear_blade_8" length="60.153" weight="0.67">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
-      <Swing damage_type="Cut" damage_factor="3.7" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
@@ -26580,6 +26588,7 @@
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
       <Swing damage_type="Cut" damage_factor="4.1" />
+      <Swing damage_type="Cut" damage_factor="4.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -26592,6 +26601,7 @@
   <CraftingPiece id="crpg_simple_poleaxe_blade_h1" name="{=kaikaikai}Simple Poleaxe Blade" tier="3" piece_type="Blade" mesh="simple_poleaxe_head" culture="Culture.vlandia" length="46.6" weight="0.37">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Cut" damage_factor="4.2" />
       <Swing damage_type="Cut" damage_factor="4.2" />
     </BladeData>
     <Flags>
@@ -26606,6 +26616,7 @@
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
       <Swing damage_type="Cut" damage_factor="4.3" />
+      <Swing damage_type="Cut" damage_factor="4.3" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -26618,6 +26629,7 @@
   <CraftingPiece id="crpg_simple_poleaxe_blade_h3" name="{=kaikaikai}Simple Poleaxe Blade" tier="3" piece_type="Blade" mesh="simple_poleaxe_head" culture="Culture.vlandia" length="46.6" weight="0.37">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Cut" damage_factor="4.5" />
       <Swing damage_type="Cut" damage_factor="4.5" />
     </BladeData>
     <Flags>
@@ -26692,6 +26704,7 @@
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.6" />
       <Swing damage_type="Pierce" damage_factor="3.2" />
+      <Swing damage_type="Pierce" damage_factor="3.2" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -26728,6 +26741,7 @@
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Blunt" damage_factor="3.2" />
+      <Swing damage_type="Blunt" damage_factor="3.2" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -26739,6 +26753,7 @@
   <CraftingPiece id="crpg_spiked_polehammer_blade_h1" name="{=kaikaikai}Spiked Polehammer Blade" tier="3" piece_type="Blade" mesh="spiked_polehammer_head" culture="Culture.vlandia" length="98.3" weight="0.575">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
+      <Swing damage_type="Blunt" damage_factor="3.3" />
       <Swing damage_type="Blunt" damage_factor="3.3" />
     </BladeData>
     <Flags>
@@ -26752,6 +26767,7 @@
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
       <Swing damage_type="Blunt" damage_factor="3.3" />
+      <Swing damage_type="Blunt" damage_factor="3.3" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -26763,6 +26779,7 @@
   <CraftingPiece id="crpg_spiked_polehammer_blade_h3" name="{=kaikaikai}Spiked Polehammer Blade" tier="3" piece_type="Blade" mesh="spiked_polehammer_head" culture="Culture.vlandia" length="98.3" weight="0.525">
     <BladeData stack_amount="1" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Blunt" damage_factor="3.4" />
       <Swing damage_type="Blunt" damage_factor="3.4" />
     </BladeData>
     <Flags>
@@ -30936,6 +30953,7 @@
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Cut" damage_factor="4.8" />
+      <Swing damage_type="Cut" damage_factor="4.8" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="1" />
@@ -30944,6 +30962,7 @@
   <CraftingPiece id="crpg_pudao_blade_h1" name="{=}Pudao Blade" tier="2" piece_type="Blade" mesh="pudao_blade" length="71.1" weight="0.9">
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Cut" damage_factor="4.8" />
       <Swing damage_type="Cut" damage_factor="4.8" />
     </BladeData>
     <Materials>
@@ -31800,6 +31819,7 @@
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Blunt" damage_factor="2.5" />
       <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="2" />
@@ -32412,6 +32432,7 @@
     <BladeData stack_amount="3" blade_length="109.0" blade_width="13.5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Blunt" damage_factor="2.2" />
       <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32424,6 +32445,7 @@
   <CraftingPiece id="crpg_candycane_pole_blade_h1" name="Candycane Pole Blade" tier="3" piece_type="Blade" mesh="candycane_pole_head" culture="Culture.vlandia" length="16.8" weight="0.9">
     <BladeData stack_amount="3" blade_length="109.0" blade_width="13.5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Blunt" damage_factor="2.2" />
+      <Swing damage_type="Blunt" damage_factor="2.7" />
       <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
     <Flags>
@@ -32438,6 +32460,7 @@
     <BladeData stack_amount="3" blade_length="109.0" blade_width="13.5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Blunt" damage_factor="2.2" />
       <Swing damage_type="Blunt" damage_factor="2.8" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32450,6 +32473,7 @@
   <CraftingPiece id="crpg_candycane_pole_blade_h3" name="Candycane Pole Blade" tier="3" piece_type="Blade" mesh="candycane_pole_head" culture="Culture.vlandia" length="16.8" weight="0.9">
     <BladeData stack_amount="3" blade_length="109.0" blade_width="13.5" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Blunt" damage_factor="2.2" />
+      <Swing damage_type="Blunt" damage_factor="3" />
       <Swing damage_type="Blunt" damage_factor="3" />
     </BladeData>
     <Flags>
@@ -32768,6 +32792,7 @@
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.7" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32780,6 +32805,7 @@
   <CraftingPiece id="crpg_bill_blade_h1" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.505">
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="3.8" />
       <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
     <Flags>
@@ -32794,6 +32820,7 @@
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="4" />
+      <Swing damage_type="Cut" damage_factor="4" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -32806,6 +32833,7 @@
   <CraftingPiece id="crpg_bill_blade_h3" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.505">
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
+      <Swing damage_type="Cut" damage_factor="4.1" />
       <Swing damage_type="Cut" damage_factor="4.1" />
     </BladeData>
     <Flags>
