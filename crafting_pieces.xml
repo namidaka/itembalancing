@@ -1216,7 +1216,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.85" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.94" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -1224,7 +1224,15 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.85" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.86" full_scale="true" excluded_item_usage_features="thrust">
+    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="2.2" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="3" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.86" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
@@ -1232,17 +1240,9 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.85" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.86" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="3" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.85" full_scale="true" excluded_item_usage_features="thrust">
-    <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="3" />
@@ -26212,7 +26212,7 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h0" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.78" full_scale="true">
+  <CraftingPiece id="crpg_medium_goedendag_blade_h0" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.8" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
@@ -26222,31 +26222,31 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h1" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.78" full_scale="true">
+  <CraftingPiece id="crpg_medium_goedendag_blade_h1" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.72" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_medium_goedendag_blade_h2" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.72" full_scale="true">
+    <BuildData piece_offset="-10.0" />
+    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
+      <Thrust damage_type="Pierce" damage_factor="2.5" />
       <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h2" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.78" full_scale="true">
-    <BuildData piece_offset="-10.0" />
-    <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
-      <Swing damage_type="Blunt" damage_factor="2.6" />
-    </BladeData>
-    <Materials>
-      <Material id="Iron3" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_medium_goedendag_blade_h3" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.78" full_scale="true">
+  <CraftingPiece id="crpg_medium_goedendag_blade_h3" name="{=}Medium Goedendag Head" tier="4" piece_type="Blade" mesh="goedendag_2h_short_head" distance_to_next_piece="0.0" distance_to_previous_piece="0.0" length="20.9" weight="0.72" full_scale="true">
     <BuildData piece_offset="-10.0" />
     <BladeData stack_amount="1" physics_material="metal_weapon" body_name="bo_mace_a">
       <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Blunt" damage_factor="2.7" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Materials>
       <Material id="Iron3" count="2" />
