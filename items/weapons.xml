@@ -5472,7 +5472,7 @@
       <Piece id="crpg_simple_short_warsword_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-   <CraftedItem id="crpg_iron_broadsword_v2_h0" name="{=DQaV0i5W}Iron Broadsword" crafting_template="crpg_SideTwoHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_iron_broadsword_v2_h0" name="{=DQaV0i5W}Iron Broadsword" crafting_template="crpg_SideTwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_iron_broadsword_blade_h0" Type="Blade" scale_factor="120" />
       <Piece id="crpg_iron_broadsword_guard_h0" Type="Guard" scale_factor="100" />
@@ -13643,5 +13643,5 @@
       <Piece id="crpg_decorated_short_sword_handle_h3" Type="Handle" scale_factor="100" />
       <Piece id="crpg_decorated_short_sword_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
-  </CraftedItem>  
+  </CraftedItem>
 </Items>
