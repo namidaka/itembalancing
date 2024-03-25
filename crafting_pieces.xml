@@ -34684,9 +34684,8 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h0" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5">
+  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h0" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
       <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
@@ -34694,9 +34693,8 @@
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h1" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5">
+  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h1" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
       <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
@@ -34704,9 +34702,8 @@
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h2" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5">
+  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h2" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
       <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
@@ -34714,9 +34711,8 @@
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h3" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5">
+  <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h3" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.8" />
       <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
