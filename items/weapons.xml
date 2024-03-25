@@ -12492,7 +12492,7 @@
       <Piece id="crpg_meowaxe_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_zweihander_v1_h0" name="{=kaikaikai}Zweihander" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_zweihander_v2_h0" name="{=kaikaikai}Zweihander" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_zweihander_blade_h0" Type="Blade" scale_factor="122" />
       <Piece id="crpg_zweihander_guard_h0" Type="Guard" scale_factor="100" />
@@ -12500,7 +12500,7 @@
       <Piece id="crpg_zweihander_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_zweihander_v1_h1" name="{=kaikaikai}Zweihander +1" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_zweihander_v2_h1" name="{=kaikaikai}Zweihander +1" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_zweihander_blade_h1" Type="Blade" scale_factor="122" />
       <Piece id="crpg_zweihander_guard_h1" Type="Guard" scale_factor="100" />
@@ -12508,7 +12508,7 @@
       <Piece id="crpg_zweihander_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_zweihander_v1_h2" name="{=kaikaikai}Zweihander +2" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_zweihander_v2_h2" name="{=kaikaikai}Zweihander +2" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_zweihander_blade_h2" Type="Blade" scale_factor="122" />
       <Piece id="crpg_zweihander_guard_h2" Type="Guard" scale_factor="100" />
@@ -12516,12 +12516,44 @@
       <Piece id="crpg_zweihander_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_zweihander_v1_h3" name="{=kaikaikai}Zweihander +3" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_zweihander_v2_h3" name="{=kaikaikai}Zweihander +3" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_zweihander_blade_h3" Type="Blade" scale_factor="122" />
       <Piece id="crpg_zweihander_guard_h3" Type="Guard" scale_factor="100" />
       <Piece id="crpg_zweihander_handle_h3" Type="Handle" scale_factor="100" />
       <Piece id="crpg_zweihander_pommel_h3" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_zweihander_v2_h0" name="{=kaikaikai}Zweihander" crafting_template="crpg_TwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="crpg_pole_zweihander_blade_h0" Type="Blade" scale_factor="122" />
+      <Piece id="crpg_pole_zweihander_guard_h0" Type="Guard" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_handle_h0" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_pommel_h0" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_zweihander_v2_h1" name="{=kaikaikai}Zweihander +1" crafting_template="crpg_TwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="crpg_pole_zweihander_blade_h1" Type="Blade" scale_factor="122" />
+      <Piece id="crpg_pole_zweihander_guard_h1" Type="Guard" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_handle_h1" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_pommel_h1" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_zweihander_v2_h2" name="{=kaikaikai}Zweihander +2" crafting_template="crpg_TwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="crpg_pole_zweihander_blade_h2" Type="Blade" scale_factor="122" />
+      <Piece id="crpg_pole_zweihander_guard_h2" Type="Guard" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_handle_h2" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_pommel_h2" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_zweihander_v2_h3" name="{=kaikaikai}Zweihander +3" crafting_template="crpg_TwoHandedPolearm" is_merchandise="false">
+    <Pieces>
+      <Piece id="crpg_pole_zweihander_blade_h3" Type="Blade" scale_factor="122" />
+      <Piece id="crpg_pole_zweihander_guard_h3" Type="Guard" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_handle_h3" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_pole_zweihander_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_onehanded_gada_v1_h0" name="{=}Steel Ball Mace" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">

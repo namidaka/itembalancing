@@ -30712,6 +30712,118 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_blade_h0" name="{=}Zweihander Blade" tier="4" piece_type="Blade" mesh="zweihander_blade" culture="Culture.battania" length="100" weight="2.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="2.6" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_blade_h1" name="{=}Zweihander Blade" tier="4" piece_type="Blade" mesh="zweihander_blade" culture="Culture.battania" length="100" weight="2.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="4.1" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_blade_h2" name="{=}Zweihander Blade" tier="4" piece_type="Blade" mesh="zweihander_blade" culture="Culture.battania" length="100" weight="2.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="2.8" />
+      <Swing damage_type="Cut" damage_factor="4.2" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_blade_h3" name="{=}Zweihander Blade" tier="4" piece_type="Blade" mesh="zweihander_blade" culture="Culture.battania" length="100" weight="2.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Thrust damage_type="Pierce" damage_factor="2.9" />
+      <Swing damage_type="Cut" damage_factor="4.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_pommel_h0" name="{=}Zweihander Pommel" tier="4" piece_type="Pommel" mesh="zweihander_pommel" culture="Culture.battania" length="8.56" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_pommel_h1" name="{=}Zweihander Pommel" tier="4" piece_type="Pommel" mesh="zweihander_pommel" culture="Culture.battania" length="8.56" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_pommel_h2" name="{=}Zweihander Pommel" tier="4" piece_type="Pommel" mesh="zweihander_pommel" culture="Culture.battania" length="8.56" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_pommel_h3" name="{=}Zweihander Pommel" tier="4" piece_type="Pommel" mesh="zweihander_pommel" culture="Culture.battania" length="8.56" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_guard_h0" name="{=}Zweihander Guard" tier="5" piece_type="Guard" mesh="zweihander_guard" culture="Culture.battania" length="4.8" weight="0.1">
+    <BuildData next_piece_offset="-15" />
+    <StatContributions armor_bonus="3" />
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_guard_h1" name="{=}Zweihander Guard" tier="5" piece_type="Guard" mesh="zweihander_guard" culture="Culture.battania" length="4.8" weight="0.1">
+    <BuildData next_piece_offset="-15" />
+    <StatContributions armor_bonus="3" />
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_guard_h2" name="{=}Zweihander Guard" tier="5" piece_type="Guard" mesh="zweihander_guard" culture="Culture.battania" length="4.8" weight="0.1">
+    <BuildData next_piece_offset="-15" />
+    <StatContributions armor_bonus="3" />
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_guard_h3" name="{=}Zweihander Guard" tier="5" piece_type="Guard" mesh="zweihander_guard" culture="Culture.battania" length="4.8" weight="0.1">
+    <BuildData next_piece_offset="-15" />
+    <StatContributions armor_bonus="3" />
+    <Materials>
+      <Material id="Iron5" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_handle_h0" name="{=}Zweihander Handle" tier="3" piece_type="Handle" mesh="zweihander_handle" culture="Culture.khuzait" length="36" weight="0.1">
+    <BuildData piece_offset="-8" previous_piece_offset="-9.0" next_piece_offset="-8.0" />
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_handle_h1" name="{=}Zweihander Handle" tier="3" piece_type="Handle" mesh="zweihander_handle" culture="Culture.khuzait" length="36" weight="0.1">
+    <BuildData piece_offset="-8" previous_piece_offset="-9.0" next_piece_offset="-8.0" />
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_handle_h2" name="{=}Zweihander Handle" tier="3" piece_type="Handle" mesh="zweihander_handle" culture="Culture.khuzait" length="36" weight="0.1">
+    <BuildData piece_offset="-8" previous_piece_offset="-9.0" next_piece_offset="-8.0" />
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_pole_zweihander_handle_h3" name="{=}Zweihander Handle" tier="3" piece_type="Handle" mesh="zweihander_handle" culture="Culture.khuzait" length="36" weight="0.1">
+    <BuildData piece_offset="-8" previous_piece_offset="-9.0" next_piece_offset="-8.0" />
+    <Materials>
+      <Material id="Iron3" count="1" />
+    </Materials>
+  </CraftingPiece>
   <CraftingPiece id="crpg_executionerssword_blade_h0" name="{=}Executioners Blade" tier="4" piece_type="Blade" mesh="executionerssword_blade" culture="Culture.battania" length="95.5" weight="2.5" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="blunt" damage_factor="2.9" />
