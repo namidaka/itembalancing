@@ -7824,4 +7824,28 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
+  <Item id="crpg_cb_samurai_body_h0" name="{=BalanceMe}Samurai Armor" mesh="samurai_41" culture="Culture.empire" weight="33.47471" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="70" leg_armor="40" has_gender_variations="true" arm_armor="36" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_body_h1" name="{=BalanceMe}Samurai Armor" mesh="samurai_41" culture="Culture.empire" weight="33.47471" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="70" leg_armor="40" has_gender_variations="true" arm_armor="36" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_body_h2" name="{=BalanceMe}Samurai Armor" mesh="samurai_41" culture="Culture.empire" weight="33.47471" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="70" leg_armor="40" has_gender_variations="true" arm_armor="36" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_body_h3" name="{=BalanceMe}Samurai Armor" mesh="samurai_41" culture="Culture.empire" weight="33.47471" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="70" leg_armor="40" has_gender_variations="true" arm_armor="36" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
 </Items>

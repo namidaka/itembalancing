@@ -2808,4 +2808,76 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
+  <Item id="crpg_cb_samurai_shoulders_one_h0" name="{=BalanceMe}Samurai Shoulders One" mesh="sam_shldr_20" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_one_h1" name="{=BalanceMe}Samurai Shoulders One" mesh="sam_shldr_20" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_one_h2" name="{=BalanceMe}Samurai Shoulders One" mesh="sam_shldr_20" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_one_h3" name="{=BalanceMe}Samurai Shoulders One" mesh="sam_shldr_20" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_two_h0" name="{=BalanceMe}Samurai Shoulders Two" mesh="sam_shldr_21" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_two_h1" name="{=BalanceMe}Samurai Shoulders Two" mesh="sam_shldr_21" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_two_h2" name="{=BalanceMe}Samurai Shoulders Two" mesh="sam_shldr_21" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_two_h3" name="{=BalanceMe}Samurai Shoulders Two" mesh="sam_shldr_21" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_three_h0" name="{=BalanceMe}Samurai Shoulders Three" mesh="sam_shldr_22" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_three_h1" name="{=BalanceMe}Samurai Shoulders Three" mesh="sam_shldr_22" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_three_h2" name="{=BalanceMe}Samurai Shoulders Three" mesh="sam_shldr_22" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_shoulders_three_h3" name="{=BalanceMe}Samurai Shoulders Three" mesh="sam_shldr_22" culture="Culture.sturgia" weight="2.369447" appearance="4" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="16" arm_armor="4" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
 </Items>
