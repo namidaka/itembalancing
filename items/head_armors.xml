@@ -8976,27 +8976,27 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h0" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h0" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="3.689709" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
     <ItemComponent>
-      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h1" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h1" name="{=BalanceMe}Nasal Helmet over Closed Coif +1" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="3.689709" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
     <ItemComponent>
-      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h2" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h2" name="{=BalanceMe}Nasal Helmet over Closed Coif +2" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="3.689709" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
     <ItemComponent>
-      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+      <Armor head_armor="48" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h3" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h3" name="{=BalanceMe}Nasal Helmet over Closed Coif +3" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="3.689709" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
     <ItemComponent>
-      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+      <Armor head_armor="50" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
