@@ -1344,4 +1344,28 @@
     </ItemComponent>
     <Flags />
   </Item>
+  <Item id="crpg_cb_samurai_boots_h0" name="{=BalanceMe}Samurai Boots" mesh="sam_bts_20" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="30" covers_legs="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_boots_h1" name="{=BalanceMe}Samurai Boots +1" mesh="sam_bts_20" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="31" covers_legs="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_boots_h2" name="{=BalanceMe}Samurai Boots +2" mesh="sam_bts_20" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="33" covers_legs="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  <Item id="crpg_cb_samurai_boots_h3" name="{=BalanceMe}Samurai Boots +3" mesh="sam_bts_20" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="35" covers_legs="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
 </Items>
