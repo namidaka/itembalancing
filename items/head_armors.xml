@@ -8976,4 +8976,28 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h0" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+    <ItemComponent>
+      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h1" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+    <ItemComponent>
+      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h2" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+    <ItemComponent>
+      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_tcj_nasal_helmet_over_closed_coif_h3" name="{=BalanceMe}Nasal Helmet over Closed Coif" mesh="nasal_helmet_closed_coif" culture="Culture.vlandia" weight="2.362481" appearance="2" Type="HeadArmor" subtype="head_armor" difficulty="0">
+    <ItemComponent>
+      <Armor head_armor="32" has_gender_variations="false" hair_cover_type="type3" modifier_group="plate" material_type="Plate" beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
 </Items>
