@@ -7578,6 +7578,22 @@
       <UsablePiece piece_id="crpg_swiss_halberd_pommel_h1" />
       <UsablePiece piece_id="crpg_swiss_halberd_pommel_h2" />
       <UsablePiece piece_id="crpg_swiss_halberd_pommel_h3" />
+      <UsablePiece piece_id="crpg_pole_zweihander_blade_h0" />
+      <UsablePiece piece_id="crpg_pole_zweihander_blade_h1" />
+      <UsablePiece piece_id="crpg_pole_zweihander_blade_h2" />
+      <UsablePiece piece_id="crpg_pole_zweihander_blade_h3" />
+      <UsablePiece piece_id="crpg_pole_zweihander_handle_h0" />
+      <UsablePiece piece_id="crpg_pole_zweihander_handle_h1" />
+      <UsablePiece piece_id="crpg_pole_zweihander_handle_h2" />
+      <UsablePiece piece_id="crpg_pole_zweihander_handle_h3" />
+      <UsablePiece piece_id="crpg_pole_zweihander_guard_h0" />
+      <UsablePiece piece_id="crpg_pole_zweihander_guard_h1" />
+      <UsablePiece piece_id="crpg_pole_zweihander_guard_h2" />
+      <UsablePiece piece_id="crpg_pole_zweihander_guard_h3" />
+      <UsablePiece piece_id="crpg_pole_zweihander_pommel_h0" />
+      <UsablePiece piece_id="crpg_pole_zweihander_pommel_h1" />
+      <UsablePiece piece_id="crpg_pole_zweihander_pommel_h2" />
+      <UsablePiece piece_id="crpg_pole_zweihander_pommel_h3" />
     </UsablePieces>
   </CraftingTemplate>
   <CraftingTemplate id="crpg_Spear4DMode" item_type="Polearm" modifier_group="polearm" item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4" default_item_holster_position_offset="0,0,-0.30" use_weapon_as_holster_mesh="true">
