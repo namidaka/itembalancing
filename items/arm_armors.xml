@@ -1032,27 +1032,27 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_cb_samurai_gloves_h0" name="{=BalanceMe}Samurai Gloves" mesh="sam_glv_20" culture="Culture.empire" weight="3.566725" appearance="3" Type="HandArmor">
+  <Item id="crpg_cb_samurai_gloves_h0" name="{=Yeldur}Strange Gloves" mesh="sam_glv_20" culture="Culture.empire" weight="2.763222" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="30" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="25" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_cb_samurai_gloves_h1" name="{=BalanceMe}Samurai Gloves" mesh="sam_glv_20" culture="Culture.empire" weight="1.8" appearance="3" Type="HandArmor">
+  <Item id="crpg_cb_samurai_gloves_h1" name="{=Yeldur}Strange Gloves +1" mesh="sam_glv_20" culture="Culture.empire" weight="2.763222" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="30" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="26" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_cb_samurai_gloves_h2" name="{=BalanceMe}Samurai Gloves" mesh="sam_glv_20" culture="Culture.empire" weight="1.8" appearance="3" Type="HandArmor">
+  <Item id="crpg_cb_samurai_gloves_h2" name="{=Yeldur}Strange Gloves +2" mesh="sam_glv_20" culture="Culture.empire" weight="2.763222" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="30" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="27" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_cb_samurai_gloves_h3" name="{=BalanceMe}Samurai Gloves" mesh="sam_glv_20" culture="Culture.empire" weight="1.8" appearance="3" Type="HandArmor">
+  <Item id="crpg_cb_samurai_gloves_h3" name="{=Yeldur}Strange Gloves +3" mesh="sam_glv_20" culture="Culture.empire" weight="2.763222" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="30" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="29" covers_hands="true" has_gender_variations="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
