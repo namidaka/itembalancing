@@ -34684,7 +34684,6 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-<<<<<<< HEAD
   <CraftingPiece id="crpg_ringduva_fightingaxe_blade_h0" name="Ancient Fighting Axe Blade" tier="3" piece_type="Blade" mesh="fighting_axe" culture="Culture.vlandia" length="21" weight="0.5">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="3.8" />
@@ -34736,7 +34735,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_ringduva_fightingaxe_handle_h3" name="Ancient Fighting Axe Handle" tier="2" piece_type="Handle" mesh="fighting_axe_handle" length="101" weight="1.3" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="3.5" piece_offset="27" />
-=======
+  </CraftingPiece>
   <CraftingPiece id="crpg_strangearmingsword_blade_h0" name="{=}Strange Armingsword Blade" tier="4" piece_type="Blade" mesh="armingsword_blade" culture="Culture.battania" length="96.4" weight="1.0">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="armingsword_scabbard" holster_mesh_length="101">
       <Thrust damage_type="Pierce" damage_factor="2.4" />
@@ -34800,6 +34799,5 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_strangearmingsword_handle_h3" name="{=}Strange Armingsword Handle" tier="3" piece_type="Handle" mesh="armingsword_handle" full_scale="true" culture="Culture.khuzait" length="15.6" weight="0.3">
     <BuildData piece_offset="0" previous_piece_offset="0" next_piece_offset="1" />
->>>>>>> meow-strange-armingsword
   </CraftingPiece>
 </CraftingPieces>
