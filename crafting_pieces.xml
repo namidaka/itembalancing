@@ -28840,7 +28840,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_flanged_ball_mace_blade_h0" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.32" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h0" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.46" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.0" />
     </BladeData>
@@ -28848,7 +28848,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_flanged_ball_mace_blade_h1" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h1" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.41" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.0" />
     </BladeData>
@@ -28856,7 +28856,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_flanged_ball_mace_blade_h2" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h2" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.41" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.1" />
     </BladeData>
@@ -28864,7 +28864,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_flanged_ball_mace_blade_h3" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.3" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_flanged_ball_mace_blade_h3" name="{=trGnmFsh}Calradic Mace Head" tier="4" piece_type="Blade" mesh="mace_head_8" length="7" weight="0.4" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
