@@ -1216,7 +1216,7 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.94" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h0" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.97" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -1224,7 +1224,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.86" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h1" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.2" />
     </BladeData>
@@ -1232,7 +1232,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.86" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h2" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.3" />
     </BladeData>
@@ -1240,7 +1240,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_light_shishpar_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.86" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_light_shishpar_mace_blade_h3" name="{=1yEQNTG1}Long Shestopyor Head" tier="4" piece_type="Blade" mesh="mace_head_3" length="18.181" weight="0.9" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.4" />
     </BladeData>
@@ -31684,7 +31684,7 @@
       <Material id="Iron4" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_onehanded_gada_blade_h0" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.5" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_onehanded_gada_blade_h0" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.57" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
@@ -31692,7 +31692,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_onehanded_gada_blade_h1" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.2" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_onehanded_gada_blade_h1" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.45" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.5" />
     </BladeData>
@@ -31700,7 +31700,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_onehanded_gada_blade_h2" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.2" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_onehanded_gada_blade_h2" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.45" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
@@ -31708,7 +31708,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_onehanded_gada_blade_h3" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.2" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_onehanded_gada_blade_h3" name="{=}Steel Ball Mace Head" tier="2" piece_type="Blade" mesh="gada_blade" length="27.9" weight="3.45" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
       <Swing damage_type="Blunt" damage_factor="2.7" />
     </BladeData>
