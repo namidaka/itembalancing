@@ -13751,4 +13751,25 @@
       <Piece id="crpg_round_shishpar_mace_pommel_h0" Type="Pommel" scale_factor="70" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_round_shishpar_mace_h1" name="{=}Rounded Shishpar Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_round_shishpar_mace_blade_h1" Type="Blade" scale_factor="120" />
+      <Piece id="crpg_round_shishpar_mace_handle_h1" Type="Handle" scale_factor="80" />
+      <Piece id="crpg_round_shishpar_mace_pommel_h1" Type="Pommel" scale_factor="70" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_round_shishpar_mace_h2" name="{=}Rounded Shishpar Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_round_shishpar_mace_blade_h2" Type="Blade" scale_factor="120" />
+      <Piece id="crpg_round_shishpar_mace_handle_h2" Type="Handle" scale_factor="80" />
+      <Piece id="crpg_round_shishpar_mace_pommel_h2" Type="Pommel" scale_factor="70" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_round_shishpar_mace_h3" name="{=}Rounded Shishpar Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_round_shishpar_mace_blade_h3" Type="Blade" scale_factor="120" />
+      <Piece id="crpg_round_shishpar_mace_handle_h3" Type="Handle" scale_factor="80" />
+      <Piece id="crpg_round_shishpar_mace_pommel_h3" Type="Pommel" scale_factor="70" />
+    </Pieces>
+  </CraftedItem>
 </Items>
