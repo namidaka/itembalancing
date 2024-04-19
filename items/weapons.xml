@@ -4324,32 +4324,32 @@
       <Piece id="crpg_eastern_heavy_mace_handle_h3" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_spiralled_mace_v2_h0" name="{=JM8Mjfa0}Spiralled Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+  <CraftedItem id="crpg_spiralled_ball_mace_v2_h0" name="{=JM8Mjfa0}Spiralled Ball Mace" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_spiralled_mace_blade_h0" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_spiralled_mace_handle_h0" Type="Handle" scale_factor="130" />
-      <Piece id="crpg_spiralled_mace_pommel_h0" Type="Pommel" scale_factor="100" />
+      <Piece id="crpg_spiralled_ball_mace_blade_h0" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_spiralled_ball_mace_handle_h0" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_ball_mace_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_spiralled_mace_v2_h1" name="{=JM8Mjfa0}Spiralled Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+  <CraftedItem id="crpg_spiralled_ball_mace_v2_h1" name="{=JM8Mjfa0}Spiralled Ball Mace +1" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_spiralled_mace_blade_h1" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_spiralled_mace_handle_h1" Type="Handle" scale_factor="130" />
-      <Piece id="crpg_spiralled_mace_pommel_h1" Type="Pommel" scale_factor="100" />
+      <Piece id="crpg_spiralled_ball_mace_blade_h1" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_spiralled_ball_mace_handle_h1" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_ball_mace_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_spiralled_mace_v2_h2" name="{=JM8Mjfa0}Spiralled Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+  <CraftedItem id="crpg_spiralled_ball_mace_v2_h2" name="{=JM8Mjfa0}Spiralled Ball Mace +2" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_spiralled_mace_blade_h2" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_spiralled_mace_handle_h2" Type="Handle" scale_factor="130" />
-      <Piece id="crpg_spiralled_mace_pommel_h2" Type="Pommel" scale_factor="100" />
+      <Piece id="crpg_spiralled_ball_mace_blade_h2" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_spiralled_ball_mace_handle_h2" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_ball_mace_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_spiralled_mace_v2_h3" name="{=JM8Mjfa0}Spiralled Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
+  <CraftedItem id="crpg_spiralled_ball_mace_v2_h3" name="{=JM8Mjfa0}Spiralled Ball Mace +3" crafting_template="crpg_Mace" culture="Culture.aserai" modifier_group="mace">
     <Pieces>
-      <Piece id="crpg_spiralled_mace_blade_h3" Type="Blade" scale_factor="125" />
-      <Piece id="crpg_spiralled_mace_handle_h3" Type="Handle" scale_factor="130" />
-      <Piece id="crpg_spiralled_mace_pommel_h3" Type="Pommel" scale_factor="100" />
+      <Piece id="crpg_spiralled_ball_mace_blade_h3" Type="Blade" scale_factor="125" />
+      <Piece id="crpg_spiralled_ball_mace_handle_h3" Type="Handle" scale_factor="130" />
+      <Piece id="crpg_spiralled_ball_mace_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_calradic_mace_v2_h0" name="{=YLplNGxb}Calradic Mace" crafting_template="crpg_Mace" culture="Culture.empire" modifier_group="mace">
