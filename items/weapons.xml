@@ -8372,7 +8372,7 @@
       <Piece id="crpg_early_halberd_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_rhomphaia_v3_h0" name="{=kaikaikai}Rhomphaia" crafting_template="crpg_TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+  <CraftedItem id="crpg_rhomphaia_v3_h0" name="{=kaikaikai}Rhomphaia" crafting_template="crpg_Polearm_2dswing" culture="Culture.battania" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_rhomphaia_blade_h0" Type="Blade" scale_factor="110" />
       <Piece id="crpg_rhomphaia_guard_h0" Type="Guard" scale_factor="90" />
@@ -8380,7 +8380,7 @@
       <Piece id="crpg_rhomphaia_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_rhomphaia_v3_h1" name="{=kaikaikai}Rhomphaia +1" crafting_template="crpg_TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+  <CraftedItem id="crpg_rhomphaia_v3_h1" name="{=kaikaikai}Rhomphaia +1" crafting_template="crpg_Polearm_2dswing" culture="Culture.battania" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_rhomphaia_blade_h1" Type="Blade" scale_factor="110" />
       <Piece id="crpg_rhomphaia_guard_h1" Type="Guard" scale_factor="90" />
@@ -8388,7 +8388,7 @@
       <Piece id="crpg_rhomphaia_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_rhomphaia_v3_h2" name="{=kaikaikai}Rhomphaia +2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+  <CraftedItem id="crpg_rhomphaia_v3_h2" name="{=kaikaikai}Rhomphaia +2" crafting_template="crpg_Polearm_2dswing" culture="Culture.battania" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_rhomphaia_blade_h2" Type="Blade" scale_factor="110" />
       <Piece id="crpg_rhomphaia_guard_h2" Type="Guard" scale_factor="90" />
@@ -8396,7 +8396,7 @@
       <Piece id="crpg_rhomphaia_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_rhomphaia_v3_h3" name="{=kaikaikai}Rhomphaia +3" crafting_template="crpg_TwoHandedPolearm" culture="Culture.battania" modifier_group="polearm">
+  <CraftedItem id="crpg_rhomphaia_v3_h3" name="{=kaikaikai}Rhomphaia +3" crafting_template="crpg_Polearm_2dswing" culture="Culture.battania" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_rhomphaia_blade_h3" Type="Blade" scale_factor="110" />
       <Piece id="crpg_rhomphaia_guard_h3" Type="Guard" scale_factor="90" />
