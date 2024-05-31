@@ -32228,37 +32228,37 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bamboospear_blade_h0" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05" excluded_item_usage_features="swing">
+  <CraftingPiece id="crpg_bamboospear_blade_h0" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
-      <Swing damage_type="Blunt" damage_factor="0" />
+      <Swing damage_type="Blunt" damage_factor="1.5" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bamboospear_blade_h1" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05" excluded_item_usage_features="swing">
+  <CraftingPiece id="crpg_bamboospear_blade_h1" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.3" />
-      <Swing damage_type="Blunt" damage_factor="0" />
+      <Swing damage_type="Blunt" damage_factor="1.5" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bamboospear_blade_h2" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05" excluded_item_usage_features="swing">
+  <CraftingPiece id="crpg_bamboospear_blade_h2" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.4" />
-      <Swing damage_type="Blunt" damage_factor="0" />
+      <Swing damage_type="Blunt" damage_factor="1.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bamboospear_blade_h3" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05" excluded_item_usage_features="swing">
+  <CraftingPiece id="crpg_bamboospear_blade_h3" name="{=Meow}Bamboo Spear Blade" tier="4" piece_type="Blade" mesh="bamboospear_blade" length="47.6" weight="0.05">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.5" />
-      <Swing damage_type="Blunt" damage_factor="0" />
+      <Swing damage_type="Blunt" damage_factor="1.6" />
     </BladeData>
     <Materials>
       <Material id="Iron4" count="2" />
