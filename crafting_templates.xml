@@ -10633,6 +10633,7 @@
     </PieceDatas>
     <WeaponDescriptions>
       <WeaponDescription id="crpg_TwoHandedPolearm_2dswing" />
+      <WeaponDescription id="crpg_TwoHandedPolearm_Bracing" />
     </WeaponDescriptions>
     <StatsData>
       <StatData stat_type="Weight" max_value="7.0" />
@@ -10644,6 +10645,22 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
+      <UsablePiece piece_id="crpg_polesword_blade_h0" />
+      <UsablePiece piece_id="crpg_polesword_blade_h1" />
+      <UsablePiece piece_id="crpg_polesword_blade_h2" />
+      <UsablePiece piece_id="crpg_polesword_blade_h3" />
+      <UsablePiece piece_id="crpg_polesword_guard_h0" />
+      <UsablePiece piece_id="crpg_polesword_guard_h1" />
+      <UsablePiece piece_id="crpg_polesword_guard_h2" />
+      <UsablePiece piece_id="crpg_polesword_guard_h3" />
+      <UsablePiece piece_id="crpg_polesword_pommel_h0" />
+      <UsablePiece piece_id="crpg_polesword_pommel_h1" />
+      <UsablePiece piece_id="crpg_polesword_pommel_h2" />
+      <UsablePiece piece_id="crpg_polesword_pommel_h3" />
+      <UsablePiece piece_id="crpg_polesword_handle_h0" />
+      <UsablePiece piece_id="crpg_polesword_handle_h1" />
+      <UsablePiece piece_id="crpg_polesword_handle_h2" />
+      <UsablePiece piece_id="crpg_polesword_handle_h3" />
       <UsablePiece piece_id="crpg_english_bill_blade_h0" />
       <UsablePiece piece_id="crpg_english_bill_blade_h1" />
       <UsablePiece piece_id="crpg_english_bill_blade_h2" />
