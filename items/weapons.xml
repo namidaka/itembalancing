@@ -2,7 +2,7 @@
 <Items>
   <CraftedItem id="crpg_french_voulge_v2_h0" name="{=kaikaikai}French Voulge" crafting_template="crpg_TwoHandedPolearm">
     <Pieces>
-      <Piece id="crpg_french_voulge_blade_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_french_voulge_blade_h0" Type="Blade" scale_factor="101" />
       <Piece id="crpg_french_voulge_handle_h0" Type="Handle" scale_factor="110" />
     </Pieces>
   </CraftedItem>
