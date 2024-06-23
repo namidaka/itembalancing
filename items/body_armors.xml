@@ -5808,147 +5808,147 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_sa_brigandine1_v3_h0" name="Red Brigandine with Armpads" mesh="sa_brigandine1" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine1_v3_h0" name="{=AppleTruce}Red Brigandine with Armpads" mesh="sa_brigandine1" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="9" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="40" leg_armor="9" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine1_v3_h1" name="Red Brigandine with Armpads +1" mesh="sa_brigandine1" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine1_v3_h1" name="{=AppleTruce}Red Brigandine with Armpads +1" mesh="sa_brigandine1" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="54" leg_armor="10" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="42" leg_armor="10" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine1_v3_h2" name="Red Brigandine with Armpads +2" mesh="sa_brigandine1" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine1_v3_h2" name="{=AppleTruce}Red Brigandine with Armpads +2" mesh="sa_brigandine1" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="11" arm_armor="22" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="44" leg_armor="11" arm_armor="22" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine1_v3_h3" name="Red Brigandine with Armpads +3" mesh="sa_brigandine1" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine1_v3_h3" name="{=AppleTruce}Red Brigandine with Armpads +3" mesh="sa_brigandine1" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="12" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="46" leg_armor="12" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine2_v3_h0" name="Blue Brigandine with Armpads" mesh="sa_brigandine2" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine2_v3_h0" name="{=AppleTruce}Blue Brigandine with Armpads" mesh="sa_brigandine2" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="9" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="40" leg_armor="9" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine2_v3_h1" name="Blue Brigandine with Armpads +1" mesh="sa_brigandine2" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine2_v3_h1" name="{=AppleTruce}Blue Brigandine with Armpads +1" mesh="sa_brigandine2" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="54" leg_armor="10" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="42" leg_armor="10" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine2_v3_h2" name="Blue Brigandine with Armpads +2" mesh="sa_brigandine2" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine2_v3_h2" name="{=AppleTruce}Blue Brigandine with Armpads +2" mesh="sa_brigandine2" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="11" arm_armor="22" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="44" leg_armor="11" arm_armor="22" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine2_v3_h3" name="Blue Brigandine with Armpads +3" mesh="sa_brigandine2" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine2_v3_h3" name="{=AppleTruce}Blue Brigandine with Armpads +3" mesh="sa_brigandine2" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="12" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="46" leg_armor="12" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine3_v2_h0" name="Blue Brigandine" mesh="sa_brigandine3" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine3_v2_h0" name="{=AppleTruce}Blue Brigandine" mesh="sa_brigandine3" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="9" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="40" leg_armor="9" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine3_v2_h1" name="Blue Brigandine +1" mesh="sa_brigandine3" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine3_v2_h1" name="{=AppleTruce}Blue Brigandine +1" mesh="sa_brigandine3" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="54" leg_armor="10" arm_armor="19" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="42" leg_armor="10" arm_armor="19" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine3_v2_h2" name="Blue Brigandine +2" mesh="sa_brigandine3" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine3_v2_h2" name="{=AppleTruce}Blue Brigandine +2" mesh="sa_brigandine3" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="11" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="44" leg_armor="11" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine3_v2_h3" name="Blue Brigandine +3" mesh="sa_brigandine3" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine3_v2_h3" name="{=AppleTruce}Blue Brigandine +3" mesh="sa_brigandine3" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="12" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="46" leg_armor="12" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine4_v2_h0" name="Bed Brigandine" mesh="sa_brigandine4" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine4_v2_h0" name="{=AppleTruce}Red Brigandine" mesh="sa_brigandine4" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="9" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="40" leg_armor="9" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine4_v2_h1" name="Bed Brigandine +1" mesh="sa_brigandine4" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine4_v2_h1" name="{=AppleTruce}Red Brigandine +1" mesh="sa_brigandine4" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="54" leg_armor="10" arm_armor="19" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="42" leg_armor="10" arm_armor="19" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine4_v2_h2" name="Bed Brigandine +2" mesh="sa_brigandine4" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine4_v2_h2" name="{=AppleTruce}Red Brigandine +2" mesh="sa_brigandine4" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="11" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="44" leg_armor="11" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine4_v2_h3" name="Bed Brigandine +3" mesh="sa_brigandine4" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine4_v2_h3" name="{=AppleTruce}Red Brigandine +3" mesh="sa_brigandine4" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="12" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="46" leg_armor="12" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine5_v3_h0" name="Black Brigandine with Armpads" mesh="sa_brigandine5" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine5_v3_h0" name="{=AppleTruce}Black Brigandine with Armpads" mesh="sa_brigandine5" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="9" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="40" leg_armor="9" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine5_v3_h1" name="Black Brigandine with Armpads +1" mesh="sa_brigandine5" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine5_v3_h1" name="{=AppleTruce}Black Brigandine with Armpads +1" mesh="sa_brigandine5" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="54" leg_armor="10" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="42" leg_armor="10" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine5_v3_h2" name="Black Brigandine with Armpads +2" mesh="sa_brigandine5" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine5_v3_h2" name="{=AppleTruce}Black Brigandine with Armpads +2" mesh="sa_brigandine5" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="11" arm_armor="22" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="44" leg_armor="11" arm_armor="22" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine5_v3_h3" name="Black Brigandine with Armpads +3" mesh="sa_brigandine5" culture="Culture.vlandia" weight="15.83531" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine5_v3_h3" name="{=AppleTruce}Black Brigandine with Armpads +3" mesh="sa_brigandine5" culture="Culture.vlandia" weight="12.43413" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="12" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="46" leg_armor="12" arm_armor="23" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine6_v2_h0" name="Black Brigandine" mesh="sa_brigandine6" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine6_v2_h0" name="{=AppleTruce}Black Brigandine" mesh="sa_brigandine6" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="52" leg_armor="9" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="40" leg_armor="9" arm_armor="18" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine6_v2_h1" name="Black Brigandine +1" mesh="sa_brigandine6" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine6_v2_h1" name="{=AppleTruce}Black Brigandine +1" mesh="sa_brigandine6" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="54" leg_armor="10" arm_armor="19" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="42" leg_armor="10" arm_armor="19" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine6_v2_h2" name="Black Brigandine +2" mesh="sa_brigandine6" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine6_v2_h2" name="{=AppleTruce}Black Brigandine +2" mesh="sa_brigandine6" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="56" leg_armor="11" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="44" leg_armor="11" arm_armor="20" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_sa_brigandine6_v2_h3" name="Black Brigandine +3" mesh="sa_brigandine6" culture="Culture.vlandia" weight="15.32803" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_sa_brigandine6_v2_h3" name="{=AppleTruce}Black Brigandine +3" mesh="sa_brigandine6" culture="Culture.vlandia" weight="11.96112" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
-      <Armor body_armor="58" leg_armor="12" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="46" leg_armor="12" arm_armor="21" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
