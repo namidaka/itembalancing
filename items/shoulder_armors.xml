@@ -2880,4 +2880,10 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
+  <Item id="crpg_cts_saxon_cape" name="{=BalanceMe}Sutton Cape" mesh="cts_saxon_cape" is_merchandise="true" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="12" modifier_group="cloth_unarmoured" material_type="Cloth"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
 </Items>
