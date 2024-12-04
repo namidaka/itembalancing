@@ -1392,7 +1392,7 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_cts_saxon_boots" name="{=BalanceMe}Sutton Boots" mesh="saxon_boot" culture="Culture.battania" weight="0.2741811" appearance="1" Type="LegArmor" difficulty="0">
+  <Item id="crpg_cts_saxon_boots_h0" name="{=BalanceMe}Sutton Boots" mesh="saxon_boot" culture="Culture.battania" weight="0.2741811" appearance="1" Type="LegArmor" difficulty="0">
     <ItemComponent>
       <Armor leg_armor="5" covers_legs="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
