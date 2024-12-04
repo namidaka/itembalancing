@@ -35163,28 +35163,28 @@
   <CraftingPiece id="crpg_cts_saxon_sword_blade_h0" name="{=}Saxon Sword Blade" tier="4" piece_type="Blade" mesh="cts_saxon_sword_blade" culture="Culture.battania" length="74" weight="0.75">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cts_saxon_sword_scabard" holster_mesh_length="101">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="3.6" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_cts_saxon_sword_blade_h1" name="{=}Saxon Sword Blade" tier="4" piece_type="Blade" mesh="cts_saxon_sword_blade" culture="Culture.battania" length="74" weight="0.75">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cts_saxon_sword_scabard" holster_mesh_length="101">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.2" />
+      <Swing damage_type="Cut" damage_factor="3.7" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_cts_saxon_sword_blade_h2" name="{=}Saxon Sword Blade" tier="4" piece_type="Blade" mesh="cts_saxon_sword_blade" culture="Culture.battania" length="74" weight="0.75">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cts_saxon_sword_scabard" holster_mesh_length="101">
       <Thrust damage_type="Pierce" damage_factor="1.8" />
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_cts_saxon_sword_blade_h3" name="{=}Saxon Sword Blade" tier="4" piece_type="Blade" mesh="cts_saxon_sword_blade" culture="Culture.battania" length="74" weight="0.75">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cts_saxon_sword_scabard" holster_mesh_length="101">
       <Thrust damage_type="Pierce" damage_factor="1.9" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_cts_saxon_sword_pommel_h0" name="{=}Saxon Sword Pommel" tier="4" piece_type="Pommel" mesh="cts_saxon_sword_pommel" full_scale="false" culture="Culture.battania" length="5.4" weight="0.6">
+  <CraftingPiece id="crpg_cts_saxon_sword_pommel_h0" name="{=}Saxon Sword Pommel" tier="4" piece_type="Pommel" mesh="cts_saxon_sword_pommel" full_scale="false" culture="Culture.battania" length="5.4" weight="0.5">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
@@ -35202,7 +35202,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_cts_saxon_sword_pommel_h3" name="{=}Saxon Sword Pommel" tier="4" piece_type="Pommel" mesh="cts_saxon_sword_pommel" full_scale="false" culture="Culture.battania" length="5.4" weight="0.5">
+  <CraftingPiece id="crpg_cts_saxon_sword_pommel_h3" name="{=}Saxon Sword Pommel" tier="4" piece_type="Pommel" mesh="cts_saxon_sword_pommel" full_scale="false" culture="Culture.battania" length="5.4" weight="0.4">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
