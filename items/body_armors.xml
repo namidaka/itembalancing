@@ -7872,9 +7872,9 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_cts_saxon_tunic_h0" name="{=BalanceMe}Sutton Tunic" mesh="cts_saxon_tunic" culture="Culture.looters" weight="2.958563" appearance="0.1" Type="BodyArmor" difficulty="0">
+  <Item id="crpg_cts_saxon_tunic_h0" name="{=Salt}Sutton Tunic" mesh="cts_saxon_tunic" culture="Culture.looters" weight="2.958563" appearance="0.1" Type="BodyArmor" difficulty="0">
     <ItemComponent>
-      <Armor body_armor="15" leg_armor="5" arm_armor="5" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+      <Armor body_armor="30" leg_armor="10" arm_armor="15" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
