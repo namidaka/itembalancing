@@ -5952,25 +5952,25 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
-  <Item id="crpg_aa_platebrigandinehalfplatelegs_h0" name="{=AppleTruce}AABrigandine with Gilded Plate Split Color" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_aa_platebrigandinehalfplatelegs_h0" name="{=AppleTruce}Brigandine with Gilded Plate Split Color" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="55" leg_armor="23" arm_armor="24" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_aa_platebrigandinehalfplatelegs_h1" name="{=AppleTruce}AABrigandine with Gilded Plate Split Color +1" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_aa_platebrigandinehalfplatelegs_h1" name="{=AppleTruce}Brigandine with Gilded Plate Split Color +1" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="57" leg_armor="24" arm_armor="25" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_aa_platebrigandinehalfplatelegs_h2" name="{=AppleTruce}AABrigandine with Gilded Plate Split Color +2" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_aa_platebrigandinehalfplatelegs_h2" name="{=AppleTruce}Brigandine with Gilded Plate Split Color +2" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="59" leg_armor="25" arm_armor="26" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_aa_platebrigandinehalfplatelegs_h3" name="{=AppleTruce}AABrigandine with Gilded Plate Split Color +3" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
+  <Item id="crpg_aa_platebrigandinehalfplatelegs_h3" name="{=AppleTruce}Brigandine with Gilded Plate Split Color +3" mesh="aa_platebrigandinehalfplatelegs" culture="Culture.vlandia" weight="20.78342" appearance="3" Type="BodyArmor" subtype="body_armor" difficulty="0" is_merchandise="true">
     <ItemComponent>
       <Armor body_armor="61" leg_armor="26" arm_armor="27" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
