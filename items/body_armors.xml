@@ -8400,7 +8400,25 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_light_kuyak_h0" name="{=BalanceMe}Light Kuyak" mesh="light_kuyak" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_light_kuyak_h0" name="{=BalanceMe}Light Kuyak" mesh="light_kuyak" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="12.48171" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="36" leg_armor="15" arm_armor="20" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_light_kuyak_h1" name="{=BalanceMe}Light Kuyak" mesh="light_kuyak" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="36" leg_armor="15" arm_armor="20" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_light_kuyak_h2" name="{=BalanceMe}Light Kuyak" mesh="light_kuyak" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="36" leg_armor="15" arm_armor="20" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_light_kuyak_h3" name="{=BalanceMe}Light Kuyak" mesh="light_kuyak" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="36" leg_armor="15" arm_armor="20" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
     </ItemComponent>
