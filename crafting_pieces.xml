@@ -34934,6 +34934,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
@@ -34943,6 +34944,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
@@ -34952,6 +34954,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
@@ -34961,6 +34964,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
     <BuildData previous_piece_offset="9" next_piece_offset="0" piece_offset="0" />
   </CraftingPiece>
