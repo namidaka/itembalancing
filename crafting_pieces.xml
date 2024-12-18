@@ -35812,6 +35812,78 @@
   <CraftingPiece id="crpg_ibelinsword_handle_h3" name="{=}Ibelin Sword Handle" tier="3" piece_type="Handle" mesh="ibelinsword_handle" full_scale="true" culture="Culture.khuzait" length="20.2" weight="0.1">
     <BuildData piece_offset="-5" previous_piece_offset="0" next_piece_offset="0" />
   </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_blade_h0" name="{=}Ibelin Sword Blade" tier="4" piece_type="Blade" mesh="ibelinsword_blade" culture="Culture.battania" length="113" weight="1.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="" holster_mesh_length="101">
+      <Thrust damage_type="Pierce" damage_factor="1.015" />
+      <Swing damage_type="Cut" damage_factor="1.33" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_blade_h1" name="{=}Ibelin Sword Blade" tier="4" piece_type="Blade" mesh="ibelinsword_blade" culture="Culture.battania" length="113" weight="1.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="" holster_mesh_length="101">
+      <Thrust damage_type="Pierce" damage_factor="1.015" />
+      <Swing damage_type="Cut" damage_factor="1.33" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_blade_h2" name="{=}Ibelin Sword Blade" tier="4" piece_type="Blade" mesh="ibelinsword_blade" culture="Culture.battania" length="113" weight="1.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="" holster_mesh_length="101">
+      <Thrust damage_type="Pierce" damage_factor="1.015" />
+      <Swing damage_type="Cut" damage_factor="1.33" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_blade_h3" name="{=}Ibelin Sword Blade" tier="4" piece_type="Blade" mesh="ibelinsword_blade" culture="Culture.battania" length="113" weight="1.0">
+    <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="" holster_mesh_length="101">
+      <Thrust damage_type="Pierce" damage_factor="1.015" />
+      <Swing damage_type="Cut" damage_factor="1.33" />
+    </BladeData>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_pommel_h0" name="{=}Ibelin Sword Pommel" tier="4" piece_type="Pommel" mesh="ibelinsword_pommel" full_scale="true" culture="Culture.battania" length="7.88" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_pommel_h1" name="{=}Ibelin Sword Pommel" tier="4" piece_type="Pommel" mesh="ibelinsword_pommel" full_scale="true" culture="Culture.battania" length="7.88" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_pommel_h2" name="{=}Ibelin Sword Pommel" tier="4" piece_type="Pommel" mesh="ibelinsword_pommel" full_scale="true" culture="Culture.battania" length="7.88" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_pommel_h3" name="{=}Ibelin Sword Pommel" tier="4" piece_type="Pommel" mesh="ibelinsword_pommel" full_scale="true" culture="Culture.battania" length="7.88" weight="0.12">
+    <BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron4" count="1" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_guard_h0" name="{=}Ibelin Sword Guard" tier="5" piece_type="Guard" mesh="ibelinsword_guard" full_scale="true" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="1" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_guard_h1" name="{=}Ibelin Sword Guard" tier="5" piece_type="Guard" mesh="ibelinsword_guard" full_scale="true" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="1" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_guard_h2" name="{=}Ibelin Sword Guard" tier="5" piece_type="Guard" mesh="ibelinsword_guard" full_scale="true" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="1" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_guard_h3" name="{=}Ibelin Sword Guard" tier="5" piece_type="Guard" mesh="ibelinsword_guard" full_scale="true" culture="Culture.battania" length="2.69" weight="0.097">
+    <BuildData next_piece_offset="1" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_handle_h0" name="{=}Ibelin Sword Handle" tier="3" piece_type="Handle" mesh="ibelinsword_handle" full_scale="true" culture="Culture.khuzait" length="20.2" weight="0.1">
+    <BuildData piece_offset="-5" previous_piece_offset="0" next_piece_offset="0" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_handle_h1" name="{=}Ibelin Sword Handle" tier="3" piece_type="Handle" mesh="ibelinsword_handle" full_scale="true" culture="Culture.khuzait" length="20.2" weight="0.1">
+    <BuildData piece_offset="-5" previous_piece_offset="0" next_piece_offset="0" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_handle_h2" name="{=}Ibelin Sword Handle" tier="3" piece_type="Handle" mesh="ibelinsword_handle" full_scale="true" culture="Culture.khuzait" length="20.2" weight="0.1">
+    <BuildData piece_offset="-5" previous_piece_offset="0" next_piece_offset="0" />
+  </CraftingPiece>
+  <CraftingPiece id="crpg_ibelinsword_2h_handle_h3" name="{=}Ibelin Sword Handle" tier="3" piece_type="Handle" mesh="ibelinsword_handle" full_scale="true" culture="Culture.khuzait" length="20.2" weight="0.1">
+    <BuildData piece_offset="-5" previous_piece_offset="0" next_piece_offset="0" />
+  </CraftingPiece>
   <CraftingPiece id="crpg_dragonslayer_blade_h0" name="{=}Dragonslayer Blade" tier="4" piece_type="Blade" mesh="dragonslayer_blade" culture="Culture.battania" length="104.0" weight="1.0">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce" damage_factor="10.015" />
