@@ -35668,76 +35668,72 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_splittingmaul_pommel_h3" name="{=BalanceMe}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.75" is_default="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h0" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="1.0">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h0" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.45" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h1" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="1.0">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h1" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.35" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h2" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="1.0">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h2" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.35" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h3" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="1.0">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h3" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.3" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Thrust damage_type="Pierce" damage_factor="1.015" />
-      <Swing damage_type="Cut" damage_factor="1.33" />
+      <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_pommel_h0" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.12">
+  <CraftingPiece id="crpg_dragonscimitar_pommel_h0" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.38">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_pommel_h1" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.12">
+  <CraftingPiece id="crpg_dragonscimitar_pommel_h1" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.38">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_pommel_h2" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.12">
+  <CraftingPiece id="crpg_dragonscimitar_pommel_h2" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.38">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_pommel_h3" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.12">
+  <CraftingPiece id="crpg_dragonscimitar_pommel_h3" name="{=}Dragon Scimitar Pommel" tier="4" piece_type="Pommel" mesh="dragonscimitar_pommel" full_scale="true" culture="Culture.battania" length="4.35" weight="0.38">
     <BuildData next_piece_offset="0" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_guard_h0" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.097">
+  <CraftingPiece id="crpg_dragonscimitar_guard_h0" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.219">
     <BuildData next_piece_offset="6" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_guard_h1" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.097">
+  <CraftingPiece id="crpg_dragonscimitar_guard_h1" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.219">
     <BuildData next_piece_offset="6" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_guard_h2" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.097">
+  <CraftingPiece id="crpg_dragonscimitar_guard_h2" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.219">
     <BuildData next_piece_offset="6" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_guard_h3" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.097">
+  <CraftingPiece id="crpg_dragonscimitar_guard_h3" name="{=}Dragon Scimitar Guard" tier="5" piece_type="Guard" mesh="dragonscimitar_guard" full_scale="true" culture="Culture.battania" length="11.5" weight="0.219">
     <BuildData next_piece_offset="6" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_handle_h0" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="0.1">
+  <CraftingPiece id="crpg_dragonscimitar_handle_h0" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="1.2">
     <BuildData piece_offset="-3" previous_piece_offset="0" next_piece_offset="1.1" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_handle_h1" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="0.1">
+  <CraftingPiece id="crpg_dragonscimitar_handle_h1" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="1.2">
     <BuildData piece_offset="-3" previous_piece_offset="0" next_piece_offset="1.1" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_handle_h2" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="0.1">
+  <CraftingPiece id="crpg_dragonscimitar_handle_h2" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="1.2">
     <BuildData piece_offset="-3" previous_piece_offset="0" next_piece_offset="1.1" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_handle_h3" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="0.1">
+  <CraftingPiece id="crpg_dragonscimitar_handle_h3" name="{=}Dragon Scimitar Handle" tier="3" piece_type="Handle" mesh="dragonscimitar_handle" full_scale="true" culture="Culture.khuzait" length="13.2" weight="1.2">
     <BuildData piece_offset="-3" previous_piece_offset="0" next_piece_offset="1.1" />
   </CraftingPiece>
   <CraftingPiece id="crpg_ibelinsword_blade_h0" name="{=}Ibelin Sword Blade" tier="4" piece_type="Blade" mesh="ibelinsword_blade" culture="Culture.battania" length="113" weight="1.0">
