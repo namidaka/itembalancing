@@ -35604,86 +35604,86 @@
       <Material id="Iron4" count="4" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_blade_h0" name="{=BalanceMe}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_blade_h0" name="{=}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.9" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" blade_length="10.1" blade_width="23.6" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.2" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Swing damage_type="Cut" damage_factor="4.4" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_blade_h1" name="{=BalanceMe}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_blade_h1" name="{=}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.9" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" blade_length="10.1" blade_width="23.6" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.2" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Swing damage_type="Cut" damage_factor="4.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_blade_h2" name="{=BalanceMe}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_blade_h2" name="{=}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.85" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" blade_length="10.1" blade_width="23.6" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.2" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Swing damage_type="Cut" damage_factor="4.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_blade_h3" name="{=BalanceMe}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_blade_h3" name="{=}Splitting Maul Blade" tier="3" piece_type="Blade" mesh="splittingmaul_blade" culture="Culture.vlandia" length="11.2" weight="0.85" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" blade_length="10.1" blade_width="23.6" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.2" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Swing damage_type="Cut" damage_factor="4.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+      <Flag name="BonusAgainstShield" />
     </Flags>
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_handle_h0" name="{=BalanceMe}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_handle_h0" name="{=}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.7">
     <BuildData previous_piece_offset="0" next_piece_offset="10" piece_offset="25" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_handle_h1" name="{=BalanceMe}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_handle_h1" name="{=}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.7">
     <BuildData previous_piece_offset="0" next_piece_offset="10" piece_offset="25" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_handle_h2" name="{=BalanceMe}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_handle_h2" name="{=}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.7">
     <BuildData previous_piece_offset="0" next_piece_offset="10" piece_offset="25" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_handle_h3" name="{=BalanceMe}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.75">
+  <CraftingPiece id="crpg_splittingmaul_handle_h3" name="{=}Splitting Maul Handle" tier="2" piece_type="Handle" mesh="splittingmaul_handle" length="103" weight="0.7">
     <BuildData previous_piece_offset="0" next_piece_offset="10" piece_offset="25" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_guard_h0" name="{=BalanceMe}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.75" full_scale="true">
+  <CraftingPiece id="crpg_splittingmaul_guard_h0" name="{=}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.01" full_scale="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_guard_h1" name="{=BalanceMe}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.75" full_scale="true">
+  <CraftingPiece id="crpg_splittingmaul_guard_h1" name="{=}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.01" full_scale="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_guard_h2" name="{=BalanceMe}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.75" full_scale="true">
+  <CraftingPiece id="crpg_splittingmaul_guard_h2" name="{=}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.01" full_scale="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_guard_h3" name="{=BalanceMe}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.75" full_scale="true">
+  <CraftingPiece id="crpg_splittingmaul_guard_h3" name="{=}None" tier="3" piece_type="Guard" mesh="" culture="Culture.neutral_culture" length="0" weight="0.01" full_scale="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_pommel_h0" name="{=BalanceMe}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.75" is_default="true">
+  <CraftingPiece id="crpg_splittingmaul_pommel_h0" name="{=}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.01" is_default="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_pommel_h1" name="{=BalanceMe}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.75" is_default="true">
+  <CraftingPiece id="crpg_splittingmaul_pommel_h1" name="{=}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.01" is_default="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_pommel_h2" name="{=BalanceMe}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.75" is_default="true">
+  <CraftingPiece id="crpg_splittingmaul_pommel_h2" name="{=}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.01" is_default="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_splittingmaul_pommel_h3" name="{=BalanceMe}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.75" is_default="true">
+  <CraftingPiece id="crpg_splittingmaul_pommel_h3" name="{=}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0.01" is_default="true">
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h0" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.45" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h0" name="{=}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.45" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h1" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.35" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h1" name="{=}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.35" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.1" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h2" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.35" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h2" name="{=}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.35" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
   </CraftingPiece>
-  <CraftingPiece id="crpg_dragonscimitar_blade_h3" name="{==BalanceMe}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.3" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_dragonscimitar_blade_h3" name="{=}Dragon Scimitar Blade" tier="4" piece_type="Blade" mesh="dragonscimitar_blade" culture="Culture.battania" length="71.9" weight="0.3" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed">
       <Swing damage_type="Cut" damage_factor="3.2" />
     </BladeData>
