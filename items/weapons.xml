@@ -14300,4 +14300,18 @@
       <Piece id="crpg_jamescross_2h_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
+  <CraftedItem id="crpg_jamescross_h0" name="{=BalanceMe}Cross on a Stick" crafting_template="crpg_Mace" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_jamescross_1h_blade_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_jamescross_1h_handle_h0" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_jamescross_1h_pommel_h0" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="crpg_jamescross_h0" name="{=BalanceMe}Cross on a Stick" crafting_template="crpg_TwoHandedMace" modifier_group="mace">
+    <Pieces>
+      <Piece id="crpg_jamescross_2h_blade_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_jamescross_2h_handle_h0" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_jamescross_2h_pommel_h0" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
 </Items>
