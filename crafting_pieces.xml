@@ -36016,7 +36016,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_jamescross_2h_blade_h2" name="{=Yeldur}Cross Head" tier="3" piece_type="Blade" mesh="acrecross_blade" length="33" weight="0.85" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.6" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -36025,7 +36025,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_jamescross_2h_blade_h3" name="{=Yeldur}Cross Head" tier="3" piece_type="Blade" mesh="acrecross_blade" length="33" weight="0.85" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="2.4" />
+      <Swing damage_type="Blunt" damage_factor="2.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -36043,13 +36043,13 @@
   <CraftingPiece id="crpg_jamescross_1h_handle_h0" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.34" CraftingCost="75">
     <BuildData piece_offset="23" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_jamescross_1h_handle_h1" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.30" CraftingCost="75">
+  <CraftingPiece id="crpg_jamescross_1h_handle_h1" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.25" CraftingCost="75">
     <BuildData piece_offset="23" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_jamescross_1h_handle_h2" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.30" CraftingCost="75">
+  <CraftingPiece id="crpg_jamescross_1h_handle_h2" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.25" CraftingCost="75">
     <BuildData piece_offset="23" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_jamescross_1h_handle_h3" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.30" CraftingCost="75">
+  <CraftingPiece id="crpg_jamescross_1h_handle_h3" name="{=Yeldur}Iron Rod for Cross" tier="3" piece_type="Handle" mesh="acrecross_handle" full_scale="true" length="91.9" weight="0.25" CraftingCost="75">
     <BuildData piece_offset="23" />
   </CraftingPiece>
   <CraftingPiece id="crpg_jamescross_1h_blade_h0" name="{=Yeldur}Cross Head" tier="3" piece_type="Blade" mesh="acrecross_blade" length="33" weight="0.75" full_scale="true" excluded_item_usage_features="thrust">
@@ -36072,16 +36072,16 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_jamescross_1h_blade_h2" name="{=Yeldur}Cross Head" tier="3" piece_type="Blade" mesh="acrecross_blade" length="33" weight="0.75" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.7" />
+      <Swing damage_type="Blunt" damage_factor="1.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
       <Flag name="CanKnockDown" />
     </Flags>
   </CraftingPiece>
-  <CraftingPiece id="crpg_jamescross_1h_blade_h3" name="{=Yeldur}Cross Head" tier="3" piece_type="Blade" mesh="acrecross_blade" length="33" weight="0.75" full_scale="true" excluded_item_usage_features="thrust">
+  <CraftingPiece id="crpg_jamescross_1h_blade_h3" name="{=Yeldur}Cross Head" tier="3" piece_type="Blade" mesh="acrecross_blade" length="33" weight="0.72" full_scale="true" excluded_item_usage_features="thrust">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_mace_a">
-      <Swing damage_type="Blunt" damage_factor="1.7" />
+      <Swing damage_type="Blunt" damage_factor="1.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
