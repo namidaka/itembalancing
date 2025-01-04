@@ -14222,7 +14222,7 @@
   </Item>
   <Item id="crpg_disabled_handgonne_h1" name="{=Meow}Handgonne +1" body_name="bo_composite_crossbows" culture="Culture.vlandia" mesh="handcannon" weight="7.0" appearance="0.7" difficulty="40" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="cla_firearms:cla_firearms2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
-      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="112" accuracy="96" thrust_damage="54" thrust_speed="81" speed_rating="57" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="cla_musket" reload_phase_count="1" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
+      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="113" accuracy="97" thrust_damage="53" thrust_speed="83" speed_rating="58" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="cla_musket" reload_phase_count="1" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="false" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" FirearmAmmo="true" CantReloadOnHorseback="true" CanPenetrateShield="true" />
       </Weapon>
     </ItemComponent>
@@ -14230,7 +14230,7 @@
   </Item>
   <Item id="crpg_disabled_handgonne_h2" name="{=Meow}Handgonne +2" body_name="bo_composite_crossbows" culture="Culture.vlandia" mesh="handcannon" weight="7.0" appearance="0.7" difficulty="40" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="cla_firearms:cla_firearms2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
-      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="113" accuracy="97" thrust_damage="55" thrust_speed="82" speed_rating="59" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="cla_musket" reload_phase_count="1" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
+      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="113" accuracy="97" thrust_damage="54" thrust_speed="85" speed_rating="59" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="cla_musket" reload_phase_count="1" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="false" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" FirearmAmmo="true" CantReloadOnHorseback="true" CanPenetrateShield="true" />
       </Weapon>
     </ItemComponent>
@@ -14238,7 +14238,7 @@
   </Item>
   <Item id="crpg_disabled_handgonne_h3" name="{=Meow}Handgonne +3" body_name="bo_composite_crossbows" culture="Culture.vlandia" mesh="handcannon" weight="7.0" appearance="0.7" difficulty="40" Type="Crossbow" AmmoOffset="0.0, 0.02131, 0.22975" item_holsters="cla_firearms:cla_firearms2" holster_position_shift="0.02,0,-0.4">
     <ItemComponent>
-      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="114" accuracy="98" thrust_damage="56" thrust_speed="83" speed_rating="60" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="cla_musket" reload_phase_count="1" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
+      <Weapon weapon_class="Crossbow" ammo_class="Bolt" missile_speed="114" accuracy="97" thrust_damage="55" thrust_speed="85" speed_rating="59" weapon_length="100" ammo_limit="1" thrust_damage_type="Pierce" item_usage="cla_musket" reload_phase_count="1" physics_material="wood_weapon" center_of_mass="0,0,0.4" modifier_group="crossbow">
         <WeaponFlags RangedWeapon="true" HasString="false" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" FirearmAmmo="true" CantReloadOnHorseback="true" CanPenetrateShield="true" />
       </Weapon>
     </ItemComponent>
