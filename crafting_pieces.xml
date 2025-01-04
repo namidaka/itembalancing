@@ -36283,7 +36283,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="CanBlockRanged" />
+      <Flag name="CanDismount" />
     </Flags>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -36296,7 +36296,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="CanBlockRanged" />
+      <Flag name="CanDismount" />
     </Flags>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -36309,7 +36309,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="CanBlockRanged" />
+      <Flag name="CanDismount" />
     </Flags>
     <Materials>
       <Material id="Iron4" count="2" />
@@ -36322,7 +36322,7 @@
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-      <Flag name="CanBlockRanged" />
+      <Flag name="CanDismount" />
     </Flags>
     <Materials>
       <Material id="Iron4" count="2" />
