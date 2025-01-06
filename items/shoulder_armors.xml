@@ -2952,4 +2952,16 @@
     </ItemComponent>
     <Flags />
   </Item>
+  <Item id="crpg_mh_empireplatesh" name="{=BalanceMe}Decorated Imperial Pauldrons" mesh="mh_empireplatesh" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+        <ItemComponent>
+            <Armor body_armor="18" arm_armor="5" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
+    <Item id="crpg_mh_ornatepauldron" name="{=BalanceMe}Ornate Imperial Pauldrons" mesh="mh_ornatepauldron" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+        <ItemComponent>
+            <Armor body_armor="18" arm_armor="8" modifier_group="plate" material_type="Plate"/>
+        </ItemComponent>
+        <Flags UseTeamColor="true"/>
+    </Item>
 </Items>

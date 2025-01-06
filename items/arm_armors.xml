@@ -1056,4 +1056,10 @@
     </ItemComponent>
     <Flags UseTeamColor="false" />
   </Item>
+  <Item id="crpg_mh_ornategauntlets" name="{=BalanceMe}Ornate Imperial Gauntlets" mesh="mh_ornategauntlet" culture="Culture.empire" weight="1.5" appearance="3" Type="HandArmor">
+    <ItemComponent>
+        <Armor arm_armor="24" covers_hands="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
 </Items>

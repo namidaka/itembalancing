@@ -1416,4 +1416,10 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
+  <Item id="crpg_mh_ornateboots" name="{=BalanceMe}Ornate Imperial Boots" mesh="mh_ornateboots" culture="Culture.empire" weight="2.7" appearance="2" Type="LegArmor">
+    <ItemComponent>
+        <Armor leg_armor="24" covers_legs="true" modifier_group="plate" material_type="Plate"/>
+    </ItemComponent>
+    <Flags/>
+  </Item>
 </Items>
