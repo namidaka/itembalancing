@@ -2958,21 +2958,21 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_mh_empireplatesh_h1" name="{=BalanceMe}Decorated Imperial Pauldrons" mesh="mh_empireplatesh" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+  <Item id="crpg_mh_empireplatesh_h1" name="{=BalanceMe}Decorated Imperial Pauldrons +1" mesh="mh_empireplatesh" culture="Culture.empire" weight="2.872144" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="18" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="20" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_mh_empireplatesh_h2" name="{=BalanceMe}Decorated Imperial Pauldrons" mesh="mh_empireplatesh" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+  <Item id="crpg_mh_empireplatesh_h2" name="{=BalanceMe}Decorated Imperial Pauldrons +2" mesh="mh_empireplatesh" culture="Culture.empire" weight="2.872144" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="18" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="21" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_mh_empireplatesh_h3" name="{=BalanceMe}Decorated Imperial Pauldrons" mesh="mh_empireplatesh" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+  <Item id="crpg_mh_empireplatesh_h3" name="{=BalanceMe}Decorated Imperial Pauldrons +3" mesh="mh_empireplatesh" culture="Culture.empire" weight="2.872144" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="18" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="22" arm_armor="6" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
@@ -2982,21 +2982,21 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_mh_ornatepauldron_h1" name="{=BalanceMe}Ornate Imperial Pauldrons" mesh="mh_ornatepauldron" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+  <Item id="crpg_mh_ornatepauldron_h1" name="{=BalanceMe}Ornate Imperial Pauldrons +1" mesh="mh_ornatepauldron" culture="Culture.empire" weight="3.352235" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="18" arm_armor="8" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="20" arm_armor="8" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_mh_ornatepauldron_h2" name="{=BalanceMe}Ornate Imperial Pauldrons" mesh="mh_ornatepauldron" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+  <Item id="crpg_mh_ornatepauldron_h2" name="{=BalanceMe}Ornate Imperial Pauldrons +2" mesh="mh_ornatepauldron" culture="Culture.empire" weight="3.352235" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="18" arm_armor="8" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="21" arm_armor="8" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_mh_ornatepauldron_h3" name="{=BalanceMe}Ornate Imperial Pauldrons" mesh="mh_ornatepauldron" culture="Culture.empire" weight="6.9" appearance="1" Type="Cape">
+  <Item id="crpg_mh_ornatepauldron_h3" name="{=BalanceMe}Ornate Imperial Pauldrons +3" mesh="mh_ornatepauldron" culture="Culture.empire" weight="3.352235" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="18" arm_armor="8" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="22" arm_armor="9" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>

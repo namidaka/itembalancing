@@ -1062,21 +1062,21 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_mh_ornategauntlets_h1" name="{=BalanceMe}Ornate Imperial Gauntlets" mesh="mh_ornategauntlet" culture="Culture.empire" weight="1.5" appearance="3" Type="HandArmor">
+  <Item id="crpg_mh_ornategauntlets_h1" name="{=BalanceMe}Ornate Imperial Gauntlets +1" mesh="mh_ornategauntlet" culture="Culture.empire" weight="2.60973" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="24" covers_hands="true" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="25" covers_hands="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_mh_ornategauntlets_h2" name="{=BalanceMe}Ornate Imperial Gauntlets" mesh="mh_ornategauntlet" culture="Culture.empire" weight="1.5" appearance="3" Type="HandArmor">
+  <Item id="crpg_mh_ornategauntlets_h2" name="{=BalanceMe}Ornate Imperial Gauntlets +2" mesh="mh_ornategauntlet" culture="Culture.empire" weight="2.60973" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="24" covers_hands="true" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="26" covers_hands="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_mh_ornategauntlets_h3" name="{=BalanceMe}Ornate Imperial Gauntlets" mesh="mh_ornategauntlet" culture="Culture.empire" weight="1.5" appearance="3" Type="HandArmor">
+  <Item id="crpg_mh_ornategauntlets_h3" name="{=BalanceMe}Ornate Imperial Gauntlets +3" mesh="mh_ornategauntlet" culture="Culture.empire" weight="2.60973" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="24" covers_hands="true" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="28" covers_hands="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
