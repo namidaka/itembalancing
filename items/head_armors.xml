@@ -9582,21 +9582,21 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_mb_berserkr_helm_h1" name="{=BalanceMe}Berserker's Bear Helmet" mesh="berserkr_helm_a" culture="Culture.sturgia" weight="5.0" appearance="3" Type="HeadArmor" subtype="head_armor">
+  <Item id="crpg_mb_berserkr_helm_h1" name="{=BalanceMe}Berserker's Bear Helmet +1" mesh="berserkr_helm_a" culture="Culture.sturgia" weight="4.914843" appearance="3" Type="HeadArmor" subtype="head_armor">
     <ItemComponent>
-      <Armor head_armor="54" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="56" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_mb_berserkr_helm_h2" name="{=BalanceMe}Berserker's Bear Helmet" mesh="berserkr_helm_a" culture="Culture.sturgia" weight="5.0" appearance="3" Type="HeadArmor" subtype="head_armor">
+  <Item id="crpg_mb_berserkr_helm_h2" name="{=BalanceMe}Berserker's Bear Helmet +2" mesh="berserkr_helm_a" culture="Culture.sturgia" weight="4.914843" appearance="3" Type="HeadArmor" subtype="head_armor">
     <ItemComponent>
-      <Armor head_armor="54" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="58" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_mb_berserkr_helm_h3" name="{=BalanceMe}Berserker's Bear Helmet" mesh="berserkr_helm_a" culture="Culture.sturgia" weight="5.0" appearance="3" Type="HeadArmor" subtype="head_armor">
+  <Item id="crpg_mb_berserkr_helm_h3" name="{=BalanceMe}Berserker's Bear Helmet +3" mesh="berserkr_helm_a" culture="Culture.sturgia" weight="4.914843" appearance="3" Type="HeadArmor" subtype="head_armor">
     <ItemComponent>
-      <Armor head_armor="54" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="60" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
