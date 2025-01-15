@@ -14052,7 +14052,7 @@
       <Piece id="crpg_ashwood_pike_guard_h3" Type="Guard" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_splittingmaul_v1_h0" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedMace">
+  <CraftedItem id="crpg_splittingmaul_v1_h0" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedAxe">
     <Pieces>
       <Piece id="crpg_splittingmaul_blade_h0" Type="Blade" scale_factor="100" />
       <Piece id="crpg_splittingmaul_handle_h0" Type="Handle" scale_factor="120" />
@@ -14060,7 +14060,7 @@
       <Piece id="crpg_splittingmaul_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_splittingmaul_v1_h1" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedMace">
+  <CraftedItem id="crpg_splittingmaul_v1_h1" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedAxe">
     <Pieces>
       <Piece id="crpg_splittingmaul_blade_h1" Type="Blade" scale_factor="100" />
       <Piece id="crpg_splittingmaul_handle_h1" Type="Handle" scale_factor="120" />
@@ -14068,7 +14068,7 @@
       <Piece id="crpg_splittingmaul_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_splittingmaul_v1_h2" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedMace">
+  <CraftedItem id="crpg_splittingmaul_v1_h2" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedAxe">
     <Pieces>
       <Piece id="crpg_splittingmaul_blade_h2" Type="Blade" scale_factor="100" />
       <Piece id="crpg_splittingmaul_handle_h2" Type="Handle" scale_factor="120" />
@@ -14076,7 +14076,7 @@
       <Piece id="crpg_splittingmaul_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_splittingmaul_v1_h3" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedMace">
+  <CraftedItem id="crpg_splittingmaul_v1_h3" name="{=Salt}Splittingmaul" crafting_template="crpg_TwoHandedAxe">
     <Pieces>
       <Piece id="crpg_splittingmaul_blade_h3" Type="Blade" scale_factor="100" />
       <Piece id="crpg_splittingmaul_handle_h3" Type="Handle" scale_factor="120" />
