@@ -11520,7 +11520,7 @@
       <Piece id="crpg_onehand_langes_messer_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_langes_messer_v4_h3" name="{=Kadse}Langes Messer +3" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_langes_messer_v3_h3" name="{=Kadse}Langes Messer +3" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_onehand_langes_messer_blade_h3" Type="Blade" scale_factor="108" />
       <Piece id="crpg_onehand_langes_messer_guard_h3" Type="Guard" scale_factor="100" />
