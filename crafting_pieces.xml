@@ -7796,7 +7796,7 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_billhook_blade_h1" name="{=Yeldur}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.52" excluded_item_usage_features="shield:thrust">
+  <CraftingPiece id="crpg_billhook_blade_h1" name="{=Yeldur}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.50" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
       <Swing damage_type="Cut" damage_factor="4.7" />
     </BladeData>
@@ -7811,7 +7811,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_billhook_blade_h2" name="{=Yeldur}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.48" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Cut" damage_factor="5" />
+      <Swing damage_type="Cut" damage_factor="4.8" />
     </BladeData>
     <Flags>
       <Flag name="CanHook" />
@@ -7821,9 +7821,9 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_billhook_blade_h3" name="{=Yeldur}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.45" excluded_item_usage_features="shield:thrust">
+  <CraftingPiece id="crpg_billhook_blade_h3" name="{=Yeldur}Bill Head" tier="2" piece_type="Blade" mesh="spear_blade_33" length="35.5" weight="0.48" excluded_item_usage_features="shield:thrust">
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Cut" damage_factor="5" />
+      <Swing damage_type="Cut" damage_factor="5.0" />
     </BladeData>
     <Flags>
       <Flag name="CanHook" />
