@@ -1440,4 +1440,148 @@
     </ItemComponent>
     <Flags />
   </Item>
+  <Item id="crpg_aciv_cts_roman_long_pants_graves_a_h0" name="{=BalanceMe}[cts_roman_long_pants_graves_a] Leg Long Pants Greaves A" mesh="cts_roman_long_pants_graves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="30" covers_legs="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_long_pants_graves_a_h1" name="{=BalanceMe}[cts_roman_long_pants_graves_a] Leg Long Pants Greaves A +1" mesh="cts_roman_long_pants_graves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="31" covers_legs="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_long_pants_graves_a_h2" name="{=BalanceMe}[cts_roman_long_pants_graves_a] Leg Long Pants Greaves A +2" mesh="cts_roman_long_pants_graves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="33" covers_legs="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_long_pants_graves_a_h3" name="{=BalanceMe}[cts_roman_long_pants_graves_a] Leg Long Pants Greaves A +3" mesh="cts_roman_long_pants_graves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="35" covers_legs="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_bronze_greaves_dual_2_h0" name="{=BalanceMe}[cts_Hellenic] Sandals with Decorated Bronze Greaves 2" mesh="cts_greek_greaves_b" is_merchandise="true" subtype="leg_armor" culture="Culture.neutral_culture" weight="4.46128" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="44" covers_legs="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_bronze_greaves_dual_2_h1" name="{=BalanceMe}[cts_Hellenic] Sandals with Decorated Bronze Greaves 2 +1" mesh="cts_greek_greaves_b" is_merchandise="true" subtype="leg_armor" culture="Culture.neutral_culture" weight="4.46128" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="45" covers_legs="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_bronze_greaves_dual_2_h2" name="{=BalanceMe}[cts_Hellenic] Sandals with Decorated Bronze Greaves 2 +2" mesh="cts_greek_greaves_b" is_merchandise="true" subtype="leg_armor" culture="Culture.neutral_culture" weight="4.46128" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="47" covers_legs="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_bronze_greaves_dual_2_h3" name="{=BalanceMe}[cts_Hellenic] Sandals with Decorated Bronze Greaves 2 +3" mesh="cts_greek_greaves_b" is_merchandise="true" subtype="leg_armor" culture="Culture.neutral_culture" weight="4.46128" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="49" covers_legs="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_greaves_a_h0" name="{=BalanceMe}[cts_Roman] Gladiator Greaves A" mesh="cts_roman_gladiator_greaves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="30" covers_legs="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_greaves_a_h1" name="{=BalanceMe}[cts_Roman] Gladiator Greaves A +1" mesh="cts_roman_gladiator_greaves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="31" covers_legs="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_greaves_a_h2" name="{=BalanceMe}[cts_Roman] Gladiator Greaves A +2" mesh="cts_roman_gladiator_greaves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="33" covers_legs="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_greaves_a_h3" name="{=BalanceMe}[cts_Roman] Gladiator Greaves A +3" mesh="cts_roman_gladiator_greaves_a" culture="Culture.empire" weight="2.60973" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="35" covers_legs="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_a_h0" name="{=BalanceMe}[cts_Dacian]Dacian Greaves" mesh="cts_dacian_greave_a" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="35" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_a_h1" name="{=BalanceMe}[cts_Dacian]Dacian Greaves +1" mesh="cts_dacian_greave_a" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="36" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_a_h2" name="{=BalanceMe}[cts_Dacian]Dacian Greaves +2" mesh="cts_dacian_greave_a" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="38" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_a_h3" name="{=BalanceMe}[cts_Dacian]Dacian Greaves +3" mesh="cts_dacian_greave_a" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="40" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_b_h0" name="{=BalanceMe}[cts_Dacian]Dacian Greaves" mesh="cts_dacian_greave_b" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="35" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_b_h1" name="{=BalanceMe}[cts_Dacian]Dacian Greaves +1" mesh="cts_dacian_greave_b" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="36" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_b_h2" name="{=BalanceMe}[cts_Dacian]Dacian Greaves +2" mesh="cts_dacian_greave_b" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="38" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_greave_b_h3" name="{=BalanceMe}[cts_Dacian]Dacian Greaves +3" mesh="cts_dacian_greave_b" culture="Culture.empire" weight="3.23833" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="40" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_graves_pants_a_h0" name="{=BalanceMe}[cts_Celtic]Celtic Graves" mesh="cts_celtic_graves_pants_a" culture="Culture.battania" weight="0.2124143" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="5" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_graves_pants_a_h1" name="{=BalanceMe}[cts_Celtic]Celtic Graves +1" mesh="cts_celtic_graves_pants_a" culture="Culture.battania" weight="0.2124143" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="6" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_graves_pants_a_h2" name="{=BalanceMe}[cts_Celtic]Celtic Graves +2" mesh="cts_celtic_graves_pants_a" culture="Culture.battania" weight="0.2124143" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="8" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_graves_pants_a_h3" name="{=BalanceMe}[cts_Celtic]Celtic Graves +3" mesh="cts_celtic_graves_pants_a" culture="Culture.battania" weight="0.2124143" difficulty="0" appearance="1" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="10" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
 </Items>
