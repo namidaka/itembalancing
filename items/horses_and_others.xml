@@ -6508,97 +6508,97 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a_v1_h0" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a_v1_h0" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding, Red" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a_v1_h1" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding +1" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a_v1_h1" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding, Red +1" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a_v1_h2" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding +2" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a_v1_h2" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding, Red +2" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a_v1_h3" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding +3" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a_v1_h3" name="{=osa_ar_horse_armor_a}Imperial Decorated Half Mail Barding, Red +3" mesh="AR_horse_armor_a" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a2_v1_h0" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a2_v1_h0" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding, Blue" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a2_v1_h1" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding +1" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a2_v1_h1" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding, Blue +1" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a2_v1_h2" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding +2" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a2_v1_h2" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding, Blue +2" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_a2_v1_h3" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding +3" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_a2_v1_h3" name="{=osa_ar_horse_armor_a2}Imperial Decorated Half Mail Barding, Blue +3" mesh="AR_horse_armor_a2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b_v1_h0" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b_v1_h0" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding, Red" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b_v1_h1" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding +1" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b_v1_h1" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding, Red +1" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b_v1_h2" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding +2" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b_v1_h2" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding, Red +2" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b_v1_h3" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding +3" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b_v1_h3" name="{=osa_ar_horse_armor_b}Imperial Half Mail Barding, Red +3" mesh="AR_horse_armor_b" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_imperial_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b2_v1_h0" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b2_v1_h0" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding, Blue" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b2_v1_h1" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding +1" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b2_v1_h1" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding, Blue +1" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b2_v1_h2" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding +2" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b2_v1_h2" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding, Blue +2" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_b2_v1_h3" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding +3" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_b2_v1_h3" name="{=osa_ar_horse_armor_b2}Imperial Half Mail Barding, Blue +3" mesh="AR_horse_armor_b2" culture="Culture.empire" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_roman_b_new_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
@@ -7012,49 +7012,49 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n_v1_h0" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n_v1_h0" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding, Blue" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n_v1_h1" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding +1" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n_v1_h1" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding, Blue +1" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n_v1_h2" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding +2" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n_v1_h2" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding, Blue +2" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n_v1_h3" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding +3" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n_v1_h3" name="{=osa_ar_horse_armor_n}Imperial Half Padded Barding, Blue +3" mesh="AR_horse_armor_n" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="23" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n2_v1_h0" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n2_v1_h0" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding, White" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n2_v1_h1" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding +1" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n2_v1_h1" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding, White +1" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n2_v1_h2" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding +2" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n2_v1_h2" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding, White +2" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_n2_v1_h3" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding +3" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_n2_v1_h3" name="{=osa_ar_horse_armor_n2}Imperial Half Padded Barding, White +3" mesh="AR_horse_armor_n2" culture="Culture.empire" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="23" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_b_rein" material_type="Leather" />
     </ItemComponent>
@@ -7084,73 +7084,73 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_o_v1_h0" name="{=osa_ar_horse_armor_o}Western Half Padded Barding" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_o_v1_h0" name="{=osa_ar_horse_armor_o}Western Half Padded Barding, Stripes" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="12" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_o_v1_h1" name="{=osa_ar_horse_armor_o}Western Half Padded Barding +1" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_o_v1_h1" name="{=osa_ar_horse_armor_o}Western Half Padded Barding, Stripes +1" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="15" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_o_v1_h2" name="{=osa_ar_horse_armor_o}Western Half Padded Barding +2" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_o_v1_h2" name="{=osa_ar_horse_armor_o}Western Half Padded Barding, Stripes +2" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_o_v1_h3" name="{=osa_ar_horse_armor_o}Western Half Padded Barding +3" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_o_v1_h3" name="{=osa_ar_horse_armor_o}Western Half Padded Barding, Stripes +3" mesh="AR_horse_armor_o" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p_v1_h0" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p_v1_h0" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding, Blue" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p_v1_h1" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding +1" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p_v1_h1" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding, Blue +1" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p_v1_h2" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding +2" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p_v1_h2" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding, Blue +2" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="24" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p_v1_h3" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding +3" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p_v1_h3" name="{=osa_ar_horse_armor_p}Western Heavy Padded Barding, Blue +3" mesh="AR_horse_armor_p" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="27" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p2_v1_h0" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p2_v1_h0" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding, Red" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p2_v1_h1" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding +1" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p2_v1_h1" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding, Red +1" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p2_v1_h2" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding +2" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p2_v1_h2" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding, Red +2" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="24" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_p2_v1_h3" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding +3" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_p2_v1_h3" name="{=osa_ar_horse_armor_p2}Western Heavy Padded Barding, Red +3" mesh="AR_horse_armor_p2" culture="Culture.vlandia" subtype="body_armor" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="27" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
@@ -7180,49 +7180,49 @@
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q2_v1_h0" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q2_v1_h0" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding, Hexagonal" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q2_v1_h1" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding +1" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q2_v1_h1" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding, Hexagonal +1" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q2_v1_h2" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding +2" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q2_v1_h2" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding, Hexagonal +2" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q2_v1_h3" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding +3" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q2_v1_h3" name="{=osa_ar_horse_armor_q2}Southern Half Decorated Padded Barding, Hexagonal +3" mesh="AR_horse_armor_q2" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="23" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q3_v1_h0" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q3_v1_h0" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding, Squared" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q3_v1_h1" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding +1" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q3_v1_h1" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding, Squared +1" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q3_v1_h2" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding +2" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q3_v1_h2" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding, Squared +2" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_q3_v1_h3" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding +3" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_q3_v1_h3" name="{=osa_ar_horse_armor_q3}Southern Half Decorated Padded Barding, Squared +3" mesh="AR_horse_armor_q3" culture="Culture.aserai" subtype="body_armor" weight="14" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="23" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
@@ -7252,169 +7252,169 @@
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r2_v1_h0" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r2_v1_h0" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding, Hexagonal" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r2_v1_h1" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding +1" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r2_v1_h1" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding, Hexagonal +1" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r2_v1_h2" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding +2" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r2_v1_h2" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding, Hexagonal +2" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="24" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r2_v1_h3" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding +3" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r2_v1_h3" name="{=osa_ar_horse_armor_r2}Southern Decorated Padded Barding, Hexagonal +3" mesh="AR_horse_armor_r2" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="27" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r3_v1_h0" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r3_v1_h0" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding, Squared" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r3_v1_h1" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding +1" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r3_v1_h1" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding, Squared +1" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r3_v1_h2" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding +2" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r3_v1_h2" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding, Squared +2" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="24" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_r3_v1_h3" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding +3" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_r3_v1_h3" name="{=osa_ar_horse_armor_r3}Southern Decorated Padded Barding, Squared +3" mesh="AR_horse_armor_r3" subtype="body_armor" culture="Culture.aserai" weight="18" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="27" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_aserai_c_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_s_v1_h0" name="{=osa_ar_horse_armor_s}Western Heavy Harness" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_s_v1_h0" name="{=osa_ar_horse_armor_s}Western Heavy Harness, Red" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="12" mane_cover_type="none" family_type="8" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_s_v1_h1" name="{=osa_ar_horse_armor_s}Western Heavy Harness +1" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_s_v1_h1" name="{=osa_ar_horse_armor_s}Western Heavy Harness, Red +1" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="15" mane_cover_type="none" family_type="8" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_s_v1_h2" name="{=osa_ar_horse_armor_s}Western Heavy Harness +2" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_s_v1_h2" name="{=osa_ar_horse_armor_s}Western Heavy Harness, Red +2" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="none" family_type="8" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_s_v1_h3" name="{=osa_ar_horse_armor_s}Western Heavy Harness +3" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_s_v1_h3" name="{=osa_ar_horse_armor_s}Western Heavy Harness, Red +3" mesh="AR_horse_armor_s" subtype="body_armor" weight="12" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="none" family_type="8" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t_v1_h0" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t_v1_h0" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding, Diamonds" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t_v1_h1" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding +1" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t_v1_h1" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding, Diamonds +1" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t_v1_h2" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding +2" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t_v1_h2" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding, Diamonds +2" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t_v1_h3" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding +3" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t_v1_h3" name="{=osa_ar_horse_armor_t}Southern Decorated Half Mail Barding, Diamonds +3" mesh="AR_horse_armor_t" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t2_v1_h0" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t2_v1_h0" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding, Stripes" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t2_v1_h1" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding +1" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t2_v1_h1" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding, Stripes +1" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t2_v1_h2" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding +2" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t2_v1_h2" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding, Stripes +2" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_t2_v1_h3" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding +3" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_t2_v1_h3" name="{=osa_ar_horse_armor_t2}Southern Decorated Half Mail Barding, Stripes +3" mesh="AR_horse_armor_t2" culture="Culture.aserai" weight="30" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_aserai_c_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u_v1_h0" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u_v1_h0" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding, Diamonds" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="29" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u_v1_h1" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding +1" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u_v1_h1" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding, Diamonds +1" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="32" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u_v1_h2" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding +2" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u_v1_h2" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding, Diamonds +2" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="35" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u_v1_h3" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding +3" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u_v1_h3" name="{=osa_ar_horse_armor_u}Southern Half Mail Barding, Diamonds +3" mesh="AR_horse_armor_u" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="38" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u2_v1_h0" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u2_v1_h0" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding, Stripes" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="29" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u2_v1_h1" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding +1" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u2_v1_h1" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding, Stripes +1" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="32" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u2_v1_h2" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding +2" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u2_v1_h2" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding, Stripes +2" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="35" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_u2_v1_h3" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding +3" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_u2_v1_h3" name="{=osa_ar_horse_armor_u2}Southern Half Mail Barding, Stripes +3" mesh="AR_horse_armor_u2" culture="Culture.aserai" weight="29" appearance="0.6" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="38" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_b_rein" charge_bonus="0" family_type="1" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
@@ -7828,121 +7828,121 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zah_v1_h0" name="{=osa_ar_horse_armor_zah}Western Light Harness" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zah_v1_h0" name="{=osa_ar_horse_armor_zah}Western Harness" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="7" reins_mesh="horse_harness_imperial_a_rein" mane_cover_type="none" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zah_v1_h1" name="{=osa_ar_horse_armor_zah}Western Light Harness +1" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zah_v1_h1" name="{=osa_ar_horse_armor_zah}Western Harness +1" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="10" reins_mesh="horse_harness_imperial_a_rein" mane_cover_type="none" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zah_v1_h2" name="{=osa_ar_horse_armor_zah}Western Light Harness +2" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zah_v1_h2" name="{=osa_ar_horse_armor_zah}Western Harness +2" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="13" reins_mesh="horse_harness_imperial_a_rein" mane_cover_type="none" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zah_v1_h3" name="{=osa_ar_horse_armor_zah}Western Light Harness +3" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zah_v1_h3" name="{=osa_ar_horse_armor_zah}Western Harness +3" mesh="AR_horse_armor_zah" weight="7" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="16" reins_mesh="horse_harness_imperial_a_rein" mane_cover_type="none" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zai_v1_h0" name="{=osa_ar_horse_armor_zai}Western Heavy Harness" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zai_v1_h0" name="{=osa_ar_horse_armor_zai}Western Heavy Harness, Blue" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="8" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zai_v1_h1" name="{=osa_ar_horse_armor_zai}Western Heavy Harness +1" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zai_v1_h1" name="{=osa_ar_horse_armor_zai}Western Heavy Harness, Blue +1" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="11" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zai_v1_h2" name="{=osa_ar_horse_armor_zai}Western Heavy Harness +2" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zai_v1_h2" name="{=osa_ar_horse_armor_zai}Western Heavy Harness, Blue +2" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zai_v1_h3" name="{=osa_ar_horse_armor_zai}Western Heavy Harness +3" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
+  <Item id="crpg_ar_horse_armor_zai_v1_h3" name="{=osa_ar_horse_armor_zai}Western Heavy Harness, Blue +3" mesh="AR_horse_armor_zah" subtype="body_armor" weight="8" appearance="1" Type="HorseHarness" culture="Culture.vlandia">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_vlandia_b_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zaj_v1_h0" name="{=osa_ar_horse_armor_zaj}Western Padded Barding" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zaj_v1_h0" name="{=osa_ar_horse_armor_zaj}Western Half Padded Barding, Stripes" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_e_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zaj_v1_h1" name="{=osa_ar_horse_armor_zaj}Western Padded Barding +1" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zaj_v1_h1" name="{=osa_ar_horse_armor_zaj}Western Half Padded Barding, Stripes +1" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_e_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zaj_v1_h2" name="{=osa_ar_horse_armor_zaj}Western Padded Barding +2" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zaj_v1_h2" name="{=osa_ar_horse_armor_zaj}Western Half Padded Barding, Stripes +2" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="23" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_e_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zaj_v1_h3" name="{=osa_ar_horse_armor_zaj}Western Padded Barding +3" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zaj_v1_h3" name="{=osa_ar_horse_armor_zaj}Western Half Padded Barding, Stripes +3" mesh="AR_horse_armor_zaj" culture="Culture.vlandia" subtype="body_armor" weight="17" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="26" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_e_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zak_v1_h0" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zak_v1_h0" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding, Stripes" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="15" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zak_v1_h1" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding +1" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zak_v1_h1" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding, Stripes +1" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zak_v1_h2" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding +2" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zak_v1_h2" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding, Stripes +2" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zak_v1_h3" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding +3" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zak_v1_h3" name="{=osa_ar_horse_armor_zak}Western 3/4 Padded Barding, Stripes +3" mesh="AR_horse_armor_zak" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="24" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zal_v1_h0" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zal_v1_h0" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding, Stripes" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="11" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zal_v1_h1" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding +1" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zal_v1_h1" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding, Stripes +1" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zal_v1_h2" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding +2" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zal_v1_h2" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding, Stripes +2" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_ar_horse_armor_zal_v1_h3" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding +3" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_ar_horse_armor_zal_v1_h3" name="{=osa_ar_horse_armor_zal}Western Quarter Padded Barding, Stripes +3" mesh="AR_horse_armor_zal" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
@@ -8740,25 +8740,25 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_b3_v1_h0" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_b3_v1_h0" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding, Diamonds" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="15" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_b3_v1_h1" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding +1" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_b3_v1_h1" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding, Diamonds +1" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_b3_v1_h2" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding +2" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_b3_v1_h2" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding, Diamonds +2" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_b3_v1_h3" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding +3" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_b3_v1_h3" name="{=osa_tv_horse_armor_b3}Western 3/4 Padded Barding, Diamonds +3" mesh="TV_horse_armor_b3" culture="Culture.vlandia" subtype="body_armor" weight="15" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="24" mane_cover_type="none" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
@@ -8812,25 +8812,25 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_c3_v1_h0" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_c3_v1_h0" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding, Diamonds" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="11" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_c3_v1_h1" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding +1" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_c3_v1_h1" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding, Diamonds +1" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="14" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_c3_v1_h2" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding +2" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_c3_v1_h2" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding, Diamonds +2" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="17" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_c3_v1_h3" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding +3" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_c3_v1_h3" name="{=osa_tv_horse_armor_c3}Western Quarter Padded Barding, Diamonds +3" mesh="TV_horse_armor_c3" culture="Culture.vlandia" subtype="body_armor" weight="11" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="20" mane_cover_type="all" family_type="1" reins_mesh="horse_harness_vlandia_b_rein" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
@@ -8860,49 +8860,49 @@
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d2_v1_h0" name="{=osa_tv_horse_armor_d2}Western Quarter Lamellar Barding" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d2_v1_h0" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="30" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d2_v1_h1" name="{=osa_tv_horse_armor_d2}Western Quarter Lamellar Barding +1" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d2_v1_h1" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding +1" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="33" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d2_v1_h2" name="{=osa_tv_horse_armor_d2}Western Quarter Lamellar Barding +2" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d2_v1_h2" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding +2" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="36" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d2_v1_h3" name="{=osa_tv_horse_armor_d2}Western Quarter Lamellar Barding +3" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d2_v1_h3" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding +3" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="39" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d3_v1_h0" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d3_v1_h0" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding, Diamonds" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="12" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d3_v1_h1" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding +1" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d3_v1_h1" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding, Diamonds +1" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="15" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d3_v1_h2" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding +2" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d3_v1_h2" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding, Diamonds +2" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="18" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_tv_horse_armor_d3_v1_h3" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding +3" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
+  <Item id="crpg_tv_horse_armor_d3_v1_h3" name="{=osa_tv_horse_armor_d3}Western Half Padded Barding, Diamonds +3" mesh="TV_horse_armor_d3" culture="Culture.vlandia" subtype="body_armor" weight="12" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
       <Armor body_armor="21" mane_cover_type="all" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
