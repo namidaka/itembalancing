@@ -1368,27 +1368,27 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <Item id="crpg_brass_aserai_helmet_leather_v2_h0" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="2.786005" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
-    <ItemComponent>
-      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
-    </ItemComponent>
-    <Flags UseTeamColor="true" />
-  </Item>
-  <Item id="crpg_brass_aserai_helmet_leather_v2_h1" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps +1" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="2.786005" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
+  <Item id="crpg_brass_aserai_helmet_leather_v2_h0" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="3.005075" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
     <ItemComponent>
       <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_brass_aserai_helmet_leather_v2_h2" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps +2" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="2.786005" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
+  <Item id="crpg_brass_aserai_helmet_leather_v2_h1" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps +1" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="3.005075" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
     <ItemComponent>
       <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_brass_aserai_helmet_leather_v2_h3" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps +3" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="2.786005" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
+  <Item id="crpg_brass_aserai_helmet_leather_v2_h2" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps +2" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="3.005075" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
     <ItemComponent>
       <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_brass_aserai_helmet_leather_v2_h3" name="{=dHv9Dbkp}Brass Southern Helmet with Leather Flaps +3" mesh="brass_aserai_helmet_leather" culture="Culture.aserai" weight="3.005075" appearance="6" Type="HeadArmor" subtype="head_armor" difficulty="0" is_merchandise="false">
+    <ItemComponent>
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="none" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
