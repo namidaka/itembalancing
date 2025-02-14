@@ -36160,8 +36160,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_ibelinsword_2h_blade_h3" name="{=}Ibelin Sword Blade" tier="4" piece_type="Blade" mesh="ibelinsword_blade" culture="Culture.battania" length="113" weight="0.7">
     <BladeData stack_amount="2" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="ibelinsword_scabbard" holster_mesh_length="115">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
-      <Swing damage_type="Cut" damage_factor="4.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.7" />
+      <Swing damage_type="Cut" damage_factor="4.4" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="crpg_ibelinsword_2h_pommel_h0" name="{=}Ibelin Sword Pommel" tier="4" piece_type="Pommel" mesh="ibelinsword_pommel" full_scale="true" culture="Culture.battania" length="7.88" weight="0.8">
