@@ -8862,25 +8862,25 @@
   </Item>
   <Item id="crpg_tv_horse_armor_d2_v1_h0" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="30" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
+      <Armor body_armor="30" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="crpg_tv_horse_armor_d2_v1_h1" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding +1" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="33" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
+      <Armor body_armor="33" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="crpg_tv_horse_armor_d2_v1_h2" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding +2" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="36" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
+      <Armor body_armor="36" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="crpg_tv_horse_armor_d2_v1_h3" name="{=osa_tv_horse_armor_d2}Western Half Lamellar Barding +3" mesh="TV_horse_armor_d2" subtype="body_armor" culture="Culture.vlandia" weight="30" difficulty="0" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="39" head_armor="90" arm_armor="60" leg_armor="5" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
+      <Armor body_armor="39" mane_cover_type="all" family_type="1" modifier_group="chain" reins_mesh="horse_harness_imperial_a_rein" material_type="Chainmail" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
