@@ -14532,4 +14532,36 @@
       <Piece id="crpg_at_partisan_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
+  <Item id="crpg_yumi_h0" name="{=}Yumi" body_name="bo_composite_shotbow_a" mesh="yumi" culture="Culture.vlandia" subtype="bow" weight="0.6639552" difficulty="30" appearance="1.4" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="93" speed_rating="82" missile_speed="86" weapon_length="120" accuracy="130" thrust_damage="11" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.15,15,15" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="crpg_yumi_h1" name="{=}Yumi +1" body_name="bo_composite_shotbow_a" mesh="yumi" culture="Culture.vlandia" subtype="bow" weight="0.6035957" difficulty="30" appearance="1.4" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="95" speed_rating="85" missile_speed="95" weapon_length="120" accuracy="130" thrust_damage="11" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.15,15,15" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="crpg_yumi_h2" name="{=}Yumi +2" body_name="bo_composite_shotbow_a" mesh="yumi" culture="Culture.vlandia" subtype="bow" weight="0.553296" difficulty="30" appearance="1.4" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="99" speed_rating="85" missile_speed="95" weapon_length="120" accuracy="133" thrust_damage="11" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.15,15,15" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="crpg_yumi_h3" name="{=}Yumi +3" body_name="bo_composite_shotbow_a" mesh="yumi" culture="Culture.vlandia" subtype="bow" weight="0.5107348" difficulty="30" appearance="1.4" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="99" speed_rating="85" missile_speed="95" weapon_length="120" accuracy="139" thrust_damage="11" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.15,15,15" modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
 </Items>
