@@ -8712,25 +8712,25 @@
     </ItemComponent>
     <Flags Civilian="false" DoesNotHideChest="false" UseTeamColor="true" />
   </Item>
-  <Item id="crpg_aciv_cts_dacian_noble_armor_b_h0" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail" mesh="cts_dacian_noble_armor_b" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_aciv_cts_dacian_noble_armor_a_h0" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail" mesh="cts_dacian_noble_armor_a" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="55" leg_armor="20" arm_armor="16" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" Civilian="true" />
   </Item>
-  <Item id="crpg_aciv_cts_dacian_noble_armor_b_h1" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail +1" mesh="cts_dacian_noble_armor_b" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_aciv_cts_dacian_noble_armor_a_h1" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail +1" mesh="cts_dacian_noble_armor_a" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="57" leg_armor="21" arm_armor="17" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" Civilian="true" />
   </Item>
-  <Item id="crpg_aciv_cts_dacian_noble_armor_b_h2" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail +2" mesh="cts_dacian_noble_armor_b" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_aciv_cts_dacian_noble_armor_a_h2" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail +2" mesh="cts_dacian_noble_armor_a" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="59" leg_armor="22" arm_armor="18" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="false" Civilian="true" />
   </Item>
-  <Item id="crpg_aciv_cts_dacian_noble_armor_b_h3" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail +3" mesh="cts_dacian_noble_armor_b" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
+  <Item id="crpg_aciv_cts_dacian_noble_armor_a_h3" name="{=BalanceMe}[cts_Dacian]Noble Scale Mail +3" mesh="cts_dacian_noble_armor_a" subtype="body_armor" culture="Culture.empire" weight="17.97673" difficulty="0" appearance="3" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="61" leg_armor="23" arm_armor="19" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
