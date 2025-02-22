@@ -9600,6 +9600,558 @@
     </ItemComponent>
     <Flags />
   </Item>
+  <Item id="crpg_aciv_cts_roman_feathers_a_h0" name="{=BalanceMe}[cts_Roman] Feather Helmet" mesh="cts_roman_feathers_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_feathers_a_h1" name="{=BalanceMe}[cts_Roman] Feather Helmet +1" mesh="cts_roman_feathers_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_feathers_a_h2" name="{=BalanceMe}[cts_Roman] Feather Helmet +2" mesh="cts_roman_feathers_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_feathers_a_h3" name="{=BalanceMe}[cts_Roman] Feather Helmet +3" mesh="cts_roman_feathers_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_syrian_helmet_a_h0" name="{=BalanceMe}[cts_Roman] Syrian Helmet A" mesh="cts_roman_syrian_helmet_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_syrian_helmet_a_h1" name="{=BalanceMe}[cts_Roman] Syrian Helmet A +1" mesh="cts_roman_syrian_helmet_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_syrian_helmet_a_h2" name="{=BalanceMe}[cts_Roman] Syrian Helmet A +2" mesh="cts_roman_syrian_helmet_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_syrian_helmet_a_h3" name="{=BalanceMe}[cts_Roman] Syrian Helmet A +3" mesh="cts_roman_syrian_helmet_a" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_scordisci_b_h0" name="{=BalanceMe}[cts_Celtic]Celtic Scordisci Helm" mesh="cts_celtic_scordisci_b" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_scordisci_b_h1" name="{=BalanceMe}[cts_Celtic]Celtic Scordisci Helm +1" mesh="cts_celtic_scordisci_b" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_scordisci_b_h2" name="{=BalanceMe}[cts_Celtic]Celtic Scordisci Helm +2" mesh="cts_celtic_scordisci_b" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_celtic_scordisci_b_h3" name="{=BalanceMe}[cts_Celtic]Celtic Scordisci Helm +3" mesh="cts_celtic_scordisci_b" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_phrygian_9_h0" name="{=BalanceMe}[cts_Hellenic] Crested Masked Phrygian helm" mesh="cts_greek_phrygian_mask_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_9_h1" name="{=BalanceMe}[cts_Hellenic] Crested Masked Phrygian helm +1" mesh="cts_greek_phrygian_mask_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_9_h2" name="{=BalanceMe}[cts_Hellenic] Crested Masked Phrygian helm +2" mesh="cts_greek_phrygian_mask_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_9_h3" name="{=BalanceMe}[cts_Hellenic] Crested Masked Phrygian helm +3" mesh="cts_greek_phrygian_mask_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_10_h0" name="{=BalanceMe}[cts_Hellenic] Masked Phrygian helm" mesh="cts_greek_phrygian_mask_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_10_h1" name="{=BalanceMe}[cts_Hellenic] Masked Phrygian helm +1" mesh="cts_greek_phrygian_mask_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_10_h2" name="{=BalanceMe}[cts_Hellenic] Masked Phrygian helm +2" mesh="cts_greek_phrygian_mask_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_10_h3" name="{=BalanceMe}[cts_Hellenic] Masked Phrygian helm +3" mesh="cts_greek_phrygian_mask_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_11_h0" name="{=BalanceMe}[cts_Hellenic] Painted Masked Phrygian helm" mesh="cts_greek_phrygian_mask_a_painted" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_11_h1" name="{=BalanceMe}[cts_Hellenic] Painted Masked Phrygian helm +1" mesh="cts_greek_phrygian_mask_a_painted" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_11_h2" name="{=BalanceMe}[cts_Hellenic] Painted Masked Phrygian helm +2" mesh="cts_greek_phrygian_mask_a_painted" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_11_h3" name="{=BalanceMe}[cts_Hellenic] Painted Masked Phrygian helm +3" mesh="cts_greek_phrygian_mask_a_painted" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_12_h0" name="{=BalanceMe}[cts_Hellenic] PLumed Painted Masked Phrygian helm" mesh="cts_greek_phrygian_mask_a_painted_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_12_h1" name="{=BalanceMe}[cts_Hellenic] PLumed Painted Masked Phrygian helm +1" mesh="cts_greek_phrygian_mask_a_painted_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_12_h2" name="{=BalanceMe}[cts_Hellenic] PLumed Painted Masked Phrygian helm +2" mesh="cts_greek_phrygian_mask_a_painted_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_phrygian_12_h3" name="{=BalanceMe}[cts_Hellenic] PLumed Painted Masked Phrygian helm +3" mesh="cts_greek_phrygian_mask_a_painted_a1" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_1_h0" name="{=BalanceMe}[cts_Hellenic] Plumed Painted Chalcidian" mesh="cts_chalcidic_a" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="80" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_1_h1" name="{=BalanceMe}[cts_Hellenic] Plumed Painted Chalcidian +1" mesh="cts_chalcidic_a" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="82" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_1_h2" name="{=BalanceMe}[cts_Hellenic] Plumed Painted Chalcidian +2" mesh="cts_chalcidic_a" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="84" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_1_h3" name="{=BalanceMe}[cts_Hellenic] Plumed Painted Chalcidian +3" mesh="cts_chalcidic_a" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_2_h0" name="{=BalanceMe}[cts_Hellenic] Painted Chalcidian" mesh="cts_chalcidic_a1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="4500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="70" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_2_h1" name="{=BalanceMe}[cts_Hellenic] Painted Chalcidian +1" mesh="cts_chalcidic_a1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="4500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="72" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_2_h2" name="{=BalanceMe}[cts_Hellenic] Painted Chalcidian +2" mesh="cts_chalcidic_a1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="4500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="74" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_2_h3" name="{=BalanceMe}[cts_Hellenic] Painted Chalcidian +3" mesh="cts_chalcidic_a1" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="4500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="76" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_3_h0" name="{=BalanceMe}[cts_Hellenic] Bronze Chalcidian" mesh="cts_chalcidic_a2" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="3500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="70" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_3_h1" name="{=BalanceMe}[cts_Hellenic] Bronze Chalcidian +1" mesh="cts_chalcidic_a2" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="3500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="72" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_3_h2" name="{=BalanceMe}[cts_Hellenic] Bronze Chalcidian +2" mesh="cts_chalcidic_a2" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="3500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="74" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_3_h3" name="{=BalanceMe}[cts_Hellenic] Bronze Chalcidian +3" mesh="cts_chalcidic_a2" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" value="3500" weight="7.067984" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="76" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_4_h0" name="{=BalanceMe}[cts_Hellenic] Plumed Bronze Chalcidian" mesh="cts_chalcidic_a3" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="80" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_4_h1" name="{=BalanceMe}[cts_Hellenic] Plumed Bronze Chalcidian +1" mesh="cts_chalcidic_a3" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="82" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_4_h2" name="{=BalanceMe}[cts_Hellenic] Plumed Bronze Chalcidian +2" mesh="cts_chalcidic_a3" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="84" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_chalcidian_4_h3" name="{=BalanceMe}[cts_Hellenic] Plumed Bronze Chalcidian +3" mesh="cts_chalcidic_a3" is_merchandise="true" subtype="head_armor" culture="Culture.neutral_culture" weight="8.520877" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_colus_a_crossguard_h0" name="{=BalanceMe}[cts_Roman] Colus A Crossguard" mesh="cts_roman_colus_a_crossguard" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_colus_a_crossguard_h1" name="{=BalanceMe}[cts_Roman] Colus A Crossguard +1" mesh="cts_roman_colus_a_crossguard" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_colus_a_crossguard_h2" name="{=BalanceMe}[cts_Roman] Colus A Crossguard +2" mesh="cts_roman_colus_a_crossguard" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_colus_a_crossguard_h3" name="{=BalanceMe}[cts_Roman] Colus A Crossguard +3" mesh="cts_roman_colus_a_crossguard" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_celt_helmet_boar_h0" name="{=BalanceMe}[cts_Celtic]Boar Helmet" mesh="cts_celt_helmet_boar" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_celt_helmet_boar_h1" name="{=BalanceMe}[cts_Celtic]Boar Helmet +1" mesh="cts_celt_helmet_boar" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_celt_helmet_boar_h2" name="{=BalanceMe}[cts_Celtic]Boar Helmet +2" mesh="cts_celt_helmet_boar" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_celt_helmet_boar_h3" name="{=BalanceMe}[cts_Celtic]Boar Helmet +3" mesh="cts_celt_helmet_boar" culture="Culture.battania" subtype="head_armor" weight="3.228808" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_h0" name="{=BalanceMe}[cts_Hellenic] Epirus Plums" mesh="cts_greek_epirus_helmet" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_h1" name="{=BalanceMe}[cts_Hellenic] Epirus Plums +1" mesh="cts_greek_epirus_helmet" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_h2" name="{=BalanceMe}[cts_Hellenic] Epirus Plums +2" mesh="cts_greek_epirus_helmet" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_h3" name="{=BalanceMe}[cts_Hellenic] Epirus Plums +3" mesh="cts_greek_epirus_helmet" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_a_h0" name="{=BalanceMe}[cts_Hellenic] Epirus Laurea" mesh="cts_greek_epirus_helmet_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_a_h1" name="{=BalanceMe}[cts_Hellenic] Epirus Laurea +1" mesh="cts_greek_epirus_helmet_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_a_h2" name="{=BalanceMe}[cts_Hellenic] Epirus Laurea +2" mesh="cts_greek_epirus_helmet_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_epirus_helmet_a_h3" name="{=BalanceMe}[cts_Hellenic] Epirus Laurea +3" mesh="cts_greek_epirus_helmet_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g2_h0" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm" subtype="head_armor" mesh="cts_dacian_helmet_g2" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g2_h1" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +1" subtype="head_armor" mesh="cts_dacian_helmet_g2" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g2_h2" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +2" subtype="head_armor" mesh="cts_dacian_helmet_g2" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g2_h3" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +3" subtype="head_armor" mesh="cts_dacian_helmet_g2" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g1_h0" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm" subtype="head_armor" mesh="cts_dacian_helmet_g1" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g1_h1" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +1" subtype="head_armor" mesh="cts_dacian_helmet_g1" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g1_h2" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +2" subtype="head_armor" mesh="cts_dacian_helmet_g1" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g1_h3" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +3" subtype="head_armor" mesh="cts_dacian_helmet_g1" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g_h0" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm" subtype="head_armor" mesh="cts_dacian_helmet_g" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g_h1" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +1" subtype="head_armor" mesh="cts_dacian_helmet_g" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g_h2" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +2" subtype="head_armor" mesh="cts_dacian_helmet_g" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="44" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_dacian_helmet_g_h3" name="{=BalanceMe}[cts_Dacian]Griffon Embossed Domed Helm +3" subtype="head_armor" mesh="cts_dacian_helmet_g" culture="Culture.empire" weight="3.228808" difficulty="0" appearance="1.5" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="46" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c_h0" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Red Feathers" mesh="cts_roman_gladiator_provocatores_c" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c_h1" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Red Feathers +1" mesh="cts_roman_gladiator_provocatores_c" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c_h2" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Red Feathers +2" mesh="cts_roman_gladiator_provocatores_c" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c_h3" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Red Feathers +3" mesh="cts_roman_gladiator_provocatores_c" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c1_h0" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Blue Feathers" mesh="cts_roman_gladiator_provocatores_c1" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="36" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c1_h1" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Blue Feathers +1" mesh="cts_roman_gladiator_provocatores_c1" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="38" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c1_h2" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Blue Feathers +2" mesh="cts_roman_gladiator_provocatores_c1" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_roman_gladiator_provocatores_c1_h3" name="{=BalanceMe}[cts_Roman] Gladiator Provocatores Blue Feathers +3" mesh="cts_roman_gladiator_provocatores_c1" culture="Culture.empire" weight="2.786005" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_h0" name="{=BalanceMe}[cts_Hellenic] Corinthian" mesh="cts_greek_corinthian" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_h1" name="{=BalanceMe}[cts_Hellenic] Corinthian +1" mesh="cts_greek_corinthian" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_h2" name="{=BalanceMe}[cts_Hellenic] Corinthian +2" mesh="cts_greek_corinthian" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_h3" name="{=BalanceMe}[cts_Hellenic] Corinthian +3" mesh="cts_greek_corinthian" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_a_h0" name="{=BalanceMe}[cts_Hellenic] Corinthian Red Pegasus" mesh="cts_greek_corinthian_crest_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_a_h1" name="{=BalanceMe}[cts_Hellenic] Corinthian Red Pegasus +1" mesh="cts_greek_corinthian_crest_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_a_h2" name="{=BalanceMe}[cts_Hellenic] Corinthian Red Pegasus +2" mesh="cts_greek_corinthian_crest_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_a_h3" name="{=BalanceMe}[cts_Hellenic] Corinthian Red Pegasus +3" mesh="cts_greek_corinthian_crest_a" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_b_h0" name="{=BalanceMe}[cts_Hellenic] Corinthian Black Ram" mesh="cts_greek_corinthian_crest_b" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="86" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_b_h1" name="{=BalanceMe}[cts_Hellenic] Corinthian Black Ram +1" mesh="cts_greek_corinthian_crest_b" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="88" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_b_h2" name="{=BalanceMe}[cts_Hellenic] Corinthian Black Ram +2" mesh="cts_greek_corinthian_crest_b" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="90" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  <Item id="crpg_aciv_cts_greek_corinthian_crest_b_h3" name="{=BalanceMe}[cts_Hellenic] Corinthian Black Ram +3" mesh="cts_greek_corinthian_crest_b" is_merchandise="true" subtype="head_armor" culture="Culture.empire" weight="9.428795" difficulty="0" appearance="3" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="92" covers_head="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
   <Item id="crpg_aciv_cts_roman_feathers_a_h0" name="{=BalanceMe}[cts_Roman] Feather Helmet" mesh="cts_roman_feathers_a" culture="Culture.empire" weight="4.046647" appearance="1" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="47" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="chain" material_type="Chainmail" />
