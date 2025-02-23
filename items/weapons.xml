@@ -2024,30 +2024,6 @@
       <Piece id="crpg_raider_throwing_axe_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_tribesman_throwing_axe_v3_h0" name="{=X31qND4N}Tribesman Throwing Axe" crafting_template="crpg_OneHandedAxe" culture="Culture.aserai" modifier_group="axe_throwing">
-    <Pieces>
-      <Piece id="crpg_tribesman_throwing_axe_melee_blade_h0" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_tribesman_throwing_axe_melee_handle_h0" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_tribesman_throwing_axe_v3_h1" name="{=X31qND4N}Tribesman Throwing Axe +1" crafting_template="crpg_OneHandedAxe" culture="Culture.aserai" modifier_group="axe_throwing">
-    <Pieces>
-      <Piece id="crpg_tribesman_throwing_axe_melee_blade_h1" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_tribesman_throwing_axe_melee_handle_h1" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_tribesman_throwing_axe_v3_h2" name="{=X31qND4N}Tribesman Throwing Axe +2" crafting_template="crpg_OneHandedAxe" culture="Culture.aserai" modifier_group="axe_throwing">
-    <Pieces>
-      <Piece id="crpg_tribesman_throwing_axe_melee_blade_h2" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_tribesman_throwing_axe_melee_handle_h2" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
-  <CraftedItem id="crpg_tribesman_throwing_axe_v3_h3" name="{=X31qND4N}Tribesman Throwing Axe +3" crafting_template="crpg_OneHandedAxe" culture="Culture.aserai" modifier_group="axe_throwing">
-    <Pieces>
-      <Piece id="crpg_tribesman_throwing_axe_melee_blade_h3" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_tribesman_throwing_axe_melee_handle_h3" Type="Handle" scale_factor="115" />
-    </Pieces>
-  </CraftedItem>
   <CraftedItem id="crpg_tribesman_throwing_axe_v3_h0" name="{=X31qND4N}Tribesman Throwing Axe" crafting_template="crpg_ThrowingAxe" culture="Culture.aserai" modifier_group="axe_throwing">
     <Pieces>
       <Piece id="crpg_tribesman_throwing_axe_blade_h0" Type="Blade" scale_factor="100" />
@@ -14292,7 +14268,7 @@
       <Piece id="crpg_ibelinsword_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_disabled_ibelinsword_h1" name="{=STAFF}Ibelin Sword" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_disabled_ibelinsword_h1" name="{=STAFF}Ibelin Sword +1" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_ibelinsword_blade_h1" Type="Blade" scale_factor="95" />
       <Piece id="crpg_ibelinsword_guard_h1" Type="Guard" scale_factor="100" />
@@ -14300,7 +14276,7 @@
       <Piece id="crpg_ibelinsword_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_disabled_ibelinsword_h2" name="{=STAFF}Ibelin Sword" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_disabled_ibelinsword_h2" name="{=STAFF}Ibelin Sword +2" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_ibelinsword_blade_h2" Type="Blade" scale_factor="95" />
       <Piece id="crpg_ibelinsword_guard_h2" Type="Guard" scale_factor="100" />
@@ -14308,7 +14284,7 @@
       <Piece id="crpg_ibelinsword_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_disabled_ibelinsword_h3" name="{=STAFF}Ibelin Sword" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
+  <CraftedItem id="crpg_disabled_ibelinsword_h3" name="{=STAFF}Ibelin Sword +3" crafting_template="crpg_OneHandedSword" culture="Culture.aserai" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_ibelinsword_blade_h3" Type="Blade" scale_factor="95" />
       <Piece id="crpg_ibelinsword_guard_h3" Type="Guard" scale_factor="100" />
