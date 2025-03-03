@@ -33272,7 +33272,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bill_blade_h0" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5">
+  <CraftingPiece id="crpg_bill_blade_h0" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.8" />
@@ -33286,7 +33286,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bill_blade_h1" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5">
+  <CraftingPiece id="crpg_bill_blade_h1" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="3.8" />
@@ -33300,7 +33300,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bill_blade_h2" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5">
+  <CraftingPiece id="crpg_bill_blade_h2" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="4.0" />
@@ -33314,7 +33314,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_bill_blade_h3" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5">
+  <CraftingPiece id="crpg_bill_blade_h3" name="{=}Cheap Bill Head" tier="4" piece_type="Blade" mesh="axe_craft_17_head" distance_to_next_piece="21" distance_to_previous_piece="3.8" weight="0.5" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-7.6" />
     <BladeData stack_amount="2" blade_length="33.887" blade_width="22.47" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Cut" damage_factor="4.2" />
